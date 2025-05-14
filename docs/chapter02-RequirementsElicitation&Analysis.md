@@ -213,7 +213,7 @@ Hemos identificado diversas estrategias y tácticas para diferenciarse y competi
 - **Distrito:** San Martín de Porres
 
 
-- ![Interview-1-segment-1.png](assets/chapter02/Interview-1-segment-1.png)
+- ![Interview-1-segment-1.png](../assets/chapter02/Interview-1-segment-1.png)
 
 
 - **Inicio:** 0:02
@@ -229,7 +229,7 @@ Hemos identificado diversas estrategias y tácticas para diferenciarse y competi
 - **Edad:** 37
 - **Distrito:** Comas
 
-![Interview-2-segment-1.jpg](assets/chapter02/Interview-2-segment-1.jpg)
+![Interview-2-segment-1.jpg](../assets/chapter02/Interview-2-segment-1.jpg)
 - **Inicio:** 0:25
 - **Duración:** 9:03 min
 - **URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223286_upc_edu_pe/EZpUpn4-Z8lEi6EC5ARiL_IBd8r8a3gLXm2QQ0OMfL59dw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=o03M2P
@@ -251,7 +251,7 @@ Hemos identificado diversas estrategias y tácticas para diferenciarse y competi
 - **Distrito:** Los Olivos
 
 
-- ![Interview-1-segment-2.png](assets/chapter02/Interview-1-segment-2.png)
+- ![Interview-1-segment-2.png](../assets/chapter02/Interview-1-segment-2.png)
 
 
 - **Inicio:** 0:43
@@ -268,7 +268,7 @@ Hemos identificado diversas estrategias y tácticas para diferenciarse y competi
 - **Distrito:** Comas
 
 
-- ![Interview-2-segment-2.png](assets/chapter02/Interview-2-segment-2.png)
+- ![Interview-2-segment-2.png](../assets/chapter02/Interview-2-segment-2.png)
 
 
 - **Inicio:** 0:30
@@ -286,7 +286,7 @@ Hemos identificado diversas estrategias y tácticas para diferenciarse y competi
 - **Distrito:** San Martín de Porres
 
 
-- ![Interview-3-segment-2.png](assets/chapter02/Interview-3-segment-2.png)
+- ![Interview-3-segment-2.png](../assets/chapter02/Interview-3-segment-2.png)
 
 
 - **Inicio:** 0:11
@@ -320,29 +320,29 @@ Basándonos en las entrevistas, hemos llevado a cabo un análisis en el que dest
 
 **Análisis estadístico**
 
-![pie_chart-1-segment-2.png](assets/chapter02/pie_chart-1-segment-2.png)
+![pie_chart-1-segment-2.png](../assets/chapter02/pie_chart-1-segment-2.png)
 - Más del 50% de los empresarios tiene un número mayor a 10 años de experiencia en el rubro.
 
 ---
 
-![pie_chart-2-segment-2.png](assets/chapter02/pie_chart-2-segment-2.png)
+![pie_chart-2-segment-2.png](../assets/chapter02/pie_chart-2-segment-2.png)
 - Los empresarios tienen diferentes frecuencias de ciertas dificultades, a pesar de que tienen casi los mismos problemas.
 
 ---
-![pie_chart-3-segment-2.png](assets/chapter02/pie_chart-3-segment-2.png)
+![pie_chart-3-segment-2.png](../assets/chapter02/pie_chart-3-segment-2.png)
 - El 67% de los empresarios creen que el cliente es parcialmente causante de su problema de mayor frecuencia. Algunos de ellos han expresado su inconformidad respecto a los clientes que no explican bien las fallas de sus equipos.
 
 ---
 
-![pie_chart-4-segment-2.png](assets/chapter02/pie_chart-4-segment-2.png)
+![pie_chart-4-segment-2.png](../assets/chapter02/pie_chart-4-segment-2.png)
 - El 100% está interesado en recibir notificaciones sobre fallos que ocurren en equipos de refrigeración. Ellos creen que con dicha funcionalidad podrían hacer un mantenimiento preventivo más eficiente y lograr la satisfacción del cliente.
 
 ---
-![pie_chart-5-segment-2.png](assets/chapter02/pie_chart-5-segment-2.png)
+![pie_chart-5-segment-2.png](../assets/chapter02/pie_chart-5-segment-2.png)
 - Ni uno de los empresarios ha usado una plataforma digital que se asemeje a la que se muestran interesados. Ellos usaron aplicaciones para mejorar la eficiencia de su trabajo como WhatsApp y Maps o programas como Microsoft Excel. Sin embargo, estos no poseen todas las funcionalidades que necesitan.
 
 ---
-![pie_chart-6-segment-2.png](assets/chapter02/pie_chart-6-segment-2.png)
+![pie_chart-6-segment-2.png](../assets/chapter02/pie_chart-6-segment-2.png)
 - Cada empresario tiene una meta deseada de mayor prioridad diferente al resto a pesar de que todos ellos comparten los mismos deseos y esperan que una plataforma digital pueda ayudarles a obtenerlos.
 
 ---
@@ -353,9 +353,9 @@ Basándonos en las entrevistas, hemos llevado a cabo un análisis en el que dest
 En esta sección se presentan las fichas de User Personas construidas a partir de los datos recogidos del análisis de entrevistas al segmento #1: "Negocios que utilizan equipos de refrigeración" y al segmento #2: "Empresas proveedoras de servicios y equipos de refrigeración". Estas fichas permiten representar de forma clara y estratégica los perfiles del segmento objetivo, considerando sus metas, habilidades, motivaciones y dificultades. Al integrar tanto la perspectiva del usuario como las tendencias del sector, estas representaciones sirven como una herramienta clave para el diseño de soluciones digitales centradas en el usuario y alineadas con las oportunidades del mercado.
 
 ##### Segmento objetivo #1: Negocios que utilizan equipos de refrigeración
-![UserPersona-Carolina_Garcia.png](/assets/chapter02/UserPersona-Carolina_Garcia.png)
+![UserPersona-Carolina_Garcia.png](../assets/chapter02/UserPersona-Carolina_Garcia.png)
 ##### Segmento objetivo #2: Empresas proveedoras de servicios y equipos de refrigeración
-![UserPersona-Luis-Rojas.png](/assets/chapter02/UserPersona-Luis-Rojas.png)
+![UserPersona-Luis-Rojas.png](../assets/chapter02/UserPersona-Luis-Rojas.png)
 
 
 #### 2.3.2. User Task Matrix.
@@ -469,23 +469,23 @@ Las tareas fueron identificadas a partir del análisis cualitativo de entrevista
 Este User Journey Map representa el recorrido actual de Carolina García. El mapa ilustra su experiencia completa desde que maneja continuamente los datos registrados de la empresa hasta su seguimiento luego de la realización de la venta o servicio.
 Esta sección refleja la situación actual sin intervención de soluciones tecnológicas, mostrando los puntos de contacto, tareas clave, emociones y posibles fricciones que enfrenta en su día a día. Este recorrido permite entender los desafíos que enfrenta Carolina.
 
-![JourneyMap-segment-1.png](/assets/chapter02/JourneyMap-segment-1.png)
+![JourneyMap-segment-1.png](../assets/chapter02/JourneyMap-segment-1.png)
 
 **Segmento objetivo #2: EMPRESAS PROVEEDORAS DE SERVICIOS Y EQUIPOS DE REFRIGERACIÓN**
 
 Este User Journey Map representa el recorrido actual de Luis Rojas. El mapa ilustra su experiencia completa desde que maneja continuamente los datos registrados de la empresa hasta su seguimiento luego de la realización de la venta o servicio.
 Esta sección refleja la situación actual sin intervención de soluciones tecnológicas, mostrando los puntos de contacto, tareas clave, emociones y posibles fricciones que enfrenta en su día a día. Este recorrido permite entender los desafíos que enfrenta Luis.
-![JourneyMap-segment-2.png](/assets/chapter02/JourneyMap-segment-2.png)
+![JourneyMap-segment-2.png](../assets/chapter02/JourneyMap-segment-2.png)
 
 
 #### 2.3.4. Empathy Mapping.
 
 **Segmento objetivo #1: Negocios que utilizan equipos de refrigeración**
-![EmpathyMap-segment-1.png](/assets/chapter02/EmpathyMap-segment-1.png)
+![EmpathyMap-segment-1.png](../assets/chapter02/EmpathyMap-segment-1.png)
 
 
 **Segmento objetivo #2: EMPRESAS PROVEEDORAS DE SERVICIOS Y EQUIPOS DE REFRIGERACIÓN**
-![EmpathyMap-segment-2.png](/assets/chapter02/EmpathyMap-segment-2.png)
+![EmpathyMap-segment-2.png](../assets/chapter02/EmpathyMap-segment-2.png)
 
 #### 2.3.5. As-is Scenario Mapping.
 
@@ -495,7 +495,7 @@ Desde la perspectiva del usuario, este mapa nos permite visualizar su situación
 
 
 **Segmento objetivo #2: EMPRESAS PROVEEDORAS DE SERVICIOS Y EQUIPOS DE REFRIGERACIÓN**
-![As-is-Scenario-segment-2.jpg](/assets/chapter02/As-is-Scenario-segment-2.jpg)
+![As-is-Scenario-segment-2.jpg](../assets/chapter02/As-is-Scenario-segment-2.jpg)
 
 
 ### 2.4. Ubiquitous Language.
