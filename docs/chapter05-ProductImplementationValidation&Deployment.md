@@ -160,14 +160,14 @@ Para desplegar la landing page, es necesario cumplir con ciertos requisitos prev
 Adicionalmente, se implementó un archivo "languages.js" que contiene los textos en español e inglés. Este archivo es consumido por el script "main.js", el cual permite realizar el cambio de idioma dinámicamente en la landing page.ations Implementation
 
 ### Github Pages:
-![Github-Pages.png](assets/chapter-05/Github-Pages.png)
+![Github-Pages.png](../assets/chapter-05/Github-Pages.png)
 
 La URL que nos entrega Github Pages para acceder a la landing page es la siguiente: https://inteligencia-artesanal-aplicaciones-web.github.io/Landing-Page/
 
 
 ### 5.2. Landing Page, Services & Applications Implementation.
 
-![Landing-Page.png](assets/chapter-05/Landing-Page.png)
+![Landing-Page.png](../assets/chapter-05/Landing-Page.png)
 
 En el siguiente enlace se estará mostrando la landing page de la startup:
 [Video demostrativo de la landing page](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223286_upc_edu_pe/EWpS23aHI95KiF5rJXhOyHgBoHAL62jYwnz8m4zMqxkGwA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=bwYjby)
@@ -285,7 +285,7 @@ Con el fin de organizar de manera más eficiente el trabajo colaborativo, se ha 
 
 El objetivo principal de este Sprint es elaborar la Landing Page de nuestra plataforma OsitoPolar. Para ello, dividimos el desarrollo de esta según las User Stories pertenecientes a la Epic enfocada en Landing Page. La plataforma elegida para ser la herramienta de control de tareas fue Trello, el cuál se presenta una captura de pantalla de nuestro tablero y su enlace público.
 
-![Trello-SprintBacklog1.png](assets/chapter-05/Trello-SprintBacklog1.png)
+![Trello-SprintBacklog1.png](../assets/chapter-05/Trello-SprintBacklog1.png)
 
 Enlace: https://trello.com/b/xAOjqyPz/inteligenciaartesanal-ositopolar
 
@@ -600,27 +600,27 @@ En este primer Sprint hemos realizado la implementación de nuestra Landing Page
 Como equipo, lo que logramos en este primer Sprint fue la exitosa implementación de nuestra Landing Page y su posterior despliegue gracias a la herramienta GitHub Pages. A continuación, presentaremos lo logrado a través de imágenes mostrando las principales vistas.
 
 - Esta es la sección inicial, donde está el header y nuestra propuesta de valor.
-  ![Landing-Page.png](assets/chapter-05/Landing-Page.png)
+  ![Landing-Page.png](../assets/chapter-05/Landing-Page.png)
 
 - Aquí se puede observar la sección donde se presenta a los usuarios a los que está orientado nuestra plataforma.
-  ![LandingPage-Evidence2.png](assets/chapter-05/LandingPage-Evidence2.png)
+  ![LandingPage-Evidence2.png](../assets/chapter-05/LandingPage-Evidence2.png)
 
 
 - Esta sección describe las funcionalidades claves principales de nuestra plataforma OsitoPolar.
-  ![LandingPage-Evidence3.png](assets/chapter-05/LandingPage-Evidence3.png)
+  ![LandingPage-Evidence3.png](../assets/chapter-05/LandingPage-Evidence3.png)
 
 
 - Tenemos en esta sección la visualización de los beneficios que obtendrá cada uno de nuestros usuarios de cada segmento.
-  ![LandingPage-Evidence4Neg.png](assets/chapter-05/LandingPage-Evidence4Neg.png)
-  ![LandingPage-Evidence4Tec.png](assets/chapter-05/LandingPage-Evidence4Tec.png)
+  ![LandingPage-Evidence4Neg.png](../assets/chapter-05/LandingPage-Evidence4Neg.png)
+  ![LandingPage-Evidence4Tec.png](../assets/chapter-05/LandingPage-Evidence4Tec.png)
 
 
 - También se encuentra la sección de nuestra misión y visión.
-  ![LandingPage-Evidence5.png](assets/chapter-05/LandingPage-Evidence5.png)
+  ![LandingPage-Evidence5.png](../assets/chapter-05/LandingPage-Evidence5.png)
 
 
 - Por último, está la sección donde podemos solicitar una demo.
-  ![LandingPage-Evidence6.png](assets/chapter-05/LandingPage-Evidence6.png)
+  ![LandingPage-Evidence6.png](../assets/chapter-05/LandingPage-Evidence6.png)
 
 
 - Para más detalles, visualizar el video: [Video demostrativo de la landing page](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223286_upc_edu_pe/EWpS23aHI95KiF5rJXhOyHgBoHAL62jYwnz8m4zMqxkGwA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=bwYjby)
@@ -637,45 +637,45 @@ Durante el presente Sprint, se llevó a cabo el despliegue de la Landing Page de
 **Pasos realizados**
 
 1. Iniciamos sesión en GitHub. En caso de no tener cuenta o querer trabajar con una nueva, nos registramos.
-   ![Deployment-step1.png](assets/chapter-05/Deployment-step1.png)
+   ![Deployment-step1.png](../assets/chapter-05/Deployment-step1.png)
 
 
 2. Luego de iniciar sesión o registrarnos, seleccionamos a nuestro perfil de usuario y luego elegimos "Your organizations".
-   ![Deployment-step2-1.png](assets/chapter-05/Deployment-step2-1.png)
-   ![Deployment-step2-2.png](assets/chapter-05/Deployment-step2-2.png)
+   ![Deployment-step2-1.png](../assets/chapter-05/Deployment-step2-1.png)
+   ![Deployment-step2-2.png](../assets/chapter-05/Deployment-step2-2.png)
 
 
 3. En la nueva pestaña seleccionamos "New organization", luego seleccionamos el plan gratuito y finalmente rellenamos los datos para crear la organización
-   ![Deployment-step3-1.png](assets/chapter-05/Deployment-step3-1.png)
+   ![Deployment-step3-1.png](../assets/chapter-05/Deployment-step3-1.png)
 
 
 4. Dentro de la organización seleccionamos "People" para invitar a los miembros del equipo.
-   ![Deployment-step4-1.png](assets/chapter-05/Deployment-step4-1.png)
-   ![Deployment-step4-2.png](assets/chapter-05/Deployment-step4-2.png)
+   ![Deployment-step4-1.png](../assets/chapter-05/Deployment-step4-1.png)
+   ![Deployment-step4-2.png](../assets/chapter-05/Deployment-step4-2.png)
 
 
 5. Luego de tener al equipo completo en la organización, creamos un nuevo repositorio. En nuestro caso tenemos solo dos repositorios por el momento, uno para el informe y el otro para el Landing Page. Nos dirigimos a este último.
-   ![Deployment-step5-1.png](assets/chapter-05/Deployment-step5-1.png)
-   ![Deployment-step5-2.png](assets/chapter-05/Deployment-step5-2.png)
+   ![Deployment-step5-1.png](../assets/chapter-05/Deployment-step5-1.png)
+   ![Deployment-step5-2.png](../assets/chapter-05/Deployment-step5-2.png)
 
 
 6. Al estar en el repositorio "Landing Page", nos dirigimos a settings y seleccionamos "pages" (1). Luego seleccionamos la rama y ruta en la que está el código que deseamos desplegar (2). Guardamos (3) y finalmente tendremos que esperar unos minutos para que el enlace esté disponible (4).
-   ![Deployment-step6-1.png](assets/chapter-05/Deployment-step6-1.png)
-   ![Deployment-step6-2.png](assets/chapter-05/Deployment-step6-2.png)
+   ![Deployment-step6-1.png](../assets/chapter-05/Deployment-step6-1.png)
+   ![Deployment-step6-2.png](../assets/chapter-05/Deployment-step6-2.png)
 
 7. Podemos visualizar el resultado.
-   ![Deployment-step7.png](assets/chapter-05/Deployment-step7.png)
+   ![Deployment-step7.png](../assets/chapter-05/Deployment-step7.png)
 
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
 
 Durante este Sprint, el equipo ha colaborado activamente en el desarrollo de la Landing Page. Las actividades fueron gestionadas a través de GitHub, permitiendo una trazabilidad clara de los aportes de cada miembro del equipo. Se realizaron tareas de codificación, revisión, organización del repositorio y mejoras visuales y funcionales del producto.
 Cada miembro del equipo tuvo participación activa, realizando commits, revisando código, y apoyando en la estructura y documentación del proyecto.
 
-![Insights-LandingPage.png](assets/chapter-05/Insights-LandingPage.png)
+![Insights-LandingPage.png](../assets/chapter-05/Insights-LandingPage.png)
 
 Contributors:
 
-![Contributors-LandingPage.png](assets/chapter-05/Contributors-LandingPage.png)
+![Contributors-LandingPage.png](../assets/chapter-05/Contributors-LandingPage.png)
 
 
 ## Conclusiones
