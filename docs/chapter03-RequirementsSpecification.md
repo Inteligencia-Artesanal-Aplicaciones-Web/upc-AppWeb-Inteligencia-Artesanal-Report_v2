@@ -2,11 +2,11 @@
 
 ### 3.1. To-Be Scenario Mapping.
 **Segmento objetivo #1: CLIENTES (DUEÑOS DE EQUIPOS DE REFRIGERACIÓN)**
-![To-Be-Scenario-segment-1.png](assets/chapter03/To-Be-Scenario-segment-1.png)
+![To-Be-Scenario-segment-1.png](../assets/chapter03/To-Be-Scenario-segment-1.png)
 
 **Segmento objetivo #2: EMPRESAS PROVEEDORAS DE SERVICIOS Y EQUIPOS DE REFRIGERACIÓN**
 
-![To-Be-Scenario-segment-2.png](assets/chapter03/To-Be-Scenario-segment-2.png)
+![To-Be-Scenario-segment-2.png](../assets/chapter03/To-Be-Scenario-segment-2.png)
 
 ### 3.2. User Stories.
 
@@ -69,7 +69,7 @@ El trabajo fue realizado de manera colaborativa, priorizando la comprensión del
 El siguiente Impact Mapping fue desarrollado en UXPressia de manera colaborativa por el equipo de OsitoPolar para alinear los objetivos de negocio con los requerimientos funcionales de la plataforma.
 
 
-![Impact-Mapping.png](assets/chapter03/Impact-Mapping.png)
+![Impact-Mapping.png](../assets/chapter03/Impact-Mapping.png)
 
 ### 3.4. Product Backlog.
 
@@ -87,7 +87,7 @@ Escala de Story Points (Fibonacci):
 
 8: Tareas muy complejas o que afectan a múltiples áreas.
 
-![Product-Backlog.png](assets/chapter03/Product-Backlog.png)
+![Product-Backlog.png](../assets/chapter03/Product-Backlog.png)
 
 | Orden | User Story ID | Titulo                                         | Descripcion                                                                                                                                                                | Story Points |
 |-------|---------------|------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
