@@ -269,8 +269,7 @@ Sabremos que hemos tenido éxito cuando observemos una reducción en fallas impr
 
 ## ¿Quién será nuestro usuario?
 
-- **Negocios que dependen críticamente del uso de sistemas de refrigeración** como supermercados, minimarkets, restaurantes, laboratorios y empresas del rubro alimentario y farmacéutico.
-- **Técnicos especializados en refrigeración** que brindan mantenimiento a dichos sistemas.
+- **Negocios que dependen críticamente del uso de sistemas de refrigeración** como supermercados, minimarkets, restaurantes, laboratorios y empresas del rubro alimentario y farmacéutico
 - **Proveedores de equipos de refrigeración** que desean ofrecer un servicio posventa más eficiente.
 
 ## ¿Dónde encaja nuestro producto en su vida?
