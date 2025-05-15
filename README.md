@@ -185,9 +185,7 @@ del ABET – EAC - Student Outcome 5.
 
 OsitoPolar es una aplicación web orientada a mejorar la gestión y el mantenimiento de equipos de congelación en negocios que dependen críticamente del frío, como supermercados, minimarkets, laboratorios, restaurantes y empresas del sector alimentario o farmacéutico. La solución conecta a estos negocios con técnicos y proveedores especializados en refrigeración, permitiendo una gestión integral, preventiva y automatizada de sus sistemas de congelación.
 
-La plataforma ofrece funcionalidades clave como monitoreo en tiempo real de temperatura, consumo energético y tiempo de uso, generación de reportes técnicos, alertas automatizadas por fallas, historial de rendimiento, y programación inteligente de mantenimientos. Estas herramientas permiten a los usuarios optimizar sus operaciones, evitar pérdidas económicas por fallas inesperadas y mantener un registro completo del estado y uso de sus equipos.
-
-OsitoPolar no solo está diseñado para negocios que utilizan equipos de frío, sino también para empresas proveedoras de equipos y serviciós de refrigeración. A través de su módulo especializado, los técnicos pueden visualizar todos los equipos que atienden, gestionar sus visitas, acceder al historial técnico de cada unidad y generar reportes de forma automática.
+La plataforma ofrece funcionalidades clave como monitoreo en tiempo real de temperatura, consumo energético y tiempo de uso, generación de reportes técnicos, alertas automatizadas por fallas, historial de rendimiento y programación inteligente de mantenimientos. Estas herramientas están diseñadas para ayudar a negocios que dependen del uso de sistemas de refrigeración, técnicos especializados en refrigeración y proveedores de equipos a optimizar sus operaciones, evitar pérdidas económicas por fallas inesperadas y mantener un registro completo del estado y uso de sus equipos.
 
 Misión: Nuestra misión en OsitoPolar es proporcionar una solución tecnológica inteligente que permita a los negocios proteger su inventario y optimizar la gestión de sus equipos de refrigeración, ofreciendo al mismo tiempo herramientas especializadas para mejorar la eficiencia operativa de los técnicos y proveedores del sector.
 
@@ -248,21 +246,29 @@ Lo que las soluciones actuales no logran abordar es la necesidad de una platafor
 
 Nuestro enfoque inicial está en los negocios de Lima que necesitan asegurar el funcionamiento óptimo de sus sistemas de congelación, así como en los proveedores que buscan profesionalizar y escalar su servicio con herramientas digitales modernas.
 
-Sabremos que hemos tenido éxito cuando observemos una reducción en fallas imprevistas, optimización del consumo energético, mayor eficiencia operativa en técnicos y un incremento en la satisfacción de los clientes finales, evidenciado en la continuidad del servicio y en la fidelización de los usuarios de la plataforma.
+Sabremos que hemos tenido éxito cuando observemos una reducción en fallas imprevistas, una optimización del consumo energético, mayor eficiencia operativa por parte de los técnicos especializados y un incremento en la satisfacción de los clientes finales. Esto se evidenciará en la continuidad del servicio y en la fidelización de los negocios que dependen de sistemas de refrigeración, técnicos especializados y proveedores de equipos que utilizan la plataforma.
 
 
 #### 1.2.2.2 Lean UX Assumption
 
 # Business Outcomes
 
-- Aumentar en al menos un 15% la cantidad de usuarios activos dentro de la aplicación.
+- Aumentar en al menos un 15% la cantidad de negocios que dependen del uso de sistemas de refrigeración, técnicos especializados en refrigeración y proveedores de equipos activos dentro de la aplicación.
+
 - Lograr una mayor visibilidad de la plataforma OsitoPolar a través de redes sociales, especialmente entre negocios de alimentos y técnicos de refrigeración.
-- Generar confianza y seguridad en los usuarios respecto al monitoreo y mantenimiento automatizado de sus sistemas de refrigeración.
-- Mantener informado al usuario final sobre incidentes recientes como fallas térmicas, cortes de energía o uso irregular de los equipos.
-- Alcanzar una base sólida de usuarios dispuestos a pagar por una membresía premium que incluya mantenimiento predictivo, reportes personalizados y soporte técnico prioritario.
+
+- Generar confianza y seguridad en estos actores respecto al monitoreo y mantenimiento automatizado de sus sistemas de refrigeración.
+
+- Mantener informados a los usuarios finales —negocios, técnicos y proveedores— sobre incidentes recientes como fallas térmicas, cortes de energía o uso irregular de los equipos.
+
+- Alcanzar una base sólida de clientes dispuestos a pagar por una membresía premium que incluya mantenimiento predictivo, reportes personalizados y soporte técnico prioritario.
+
 - Establecer alianzas estratégicas con plataformas como Google Maps o servicios de geolocalización para ampliar el alcance de cobertura y optimizar la programación de visitas técnicas.
-- Fomentar la participación activa de los usuarios mediante encuestas, valoraciones de técnicos y comentarios sobre el desempeño de los equipos.
-- Diseñar una interfaz limpia, simple e intuitiva que garantice una experiencia fluida y atractiva para nuevos usuarios, evitando la sobrecarga visual o de funcionalidades.
+
+- Fomentar la participación activa de negocios, técnicos y proveedores mediante encuestas, valoraciones de técnicos y comentarios sobre el desempeño de los equipos.
+
+- Diseñar una interfaz limpia, simple e intuitiva que garantice una experiencia fluida y atractiva para nuevos usuarios del sector, evitando la sobrecarga visual o de funcionalidades.
+
 - Implementar inteligencia artificial que permita trazar estrategias de mantenimiento inteligente, rutas eficientes para los técnicos y recomendaciones proactivas ante posibles fallos.
 
 # User Outcomes
@@ -281,10 +287,12 @@ Sabremos que hemos tenido éxito cuando observemos una reducción en fallas impr
 
 ## ¿Qué problemas tiene nuestro producto y cómo se pueden resolver?
 
-- El principal desafío es asegurar que los datos de monitoreo (temperatura, consumo energético, fallas, etc.) sean precisos, actualizados y confiables.  
-  **Solución**: Se debe integrar sensores calibrados y sistemas de verificación automática que validen las lecturas antes de almacenarlas.
-- Otro problema puede ser la adopción inicial de la plataforma por parte de usuarios no tecnológicos.  
-  **Solución**: Esto se abordará con una interfaz sencilla, explicaciones paso a paso y soporte técnico accesible.
+- El principal desafío es asegurar que los datos de monitoreo (temperatura, consumo energético, fallas, etc.) sean precisos, actualizados y confiables.
+    -   Solución: Se debe integrar sensores calibrados y sistemas de verificación automática que validen las lecturas antes de almacenarlas.
+
+
+- Otro problema puede ser la adopción inicial de la plataforma por parte de negocios que dependen del uso de sistemas de refrigeración, técnicos especializados en refrigeración y proveedores de equipos que no están familiarizados con la tecnología.
+    - Solución: Esto se abordará con una interfaz sencilla, explicaciones paso a paso y soporte técnico accesible.
 
 ## ¿Cómo y Cuándo es usado nuestro producto?
 
@@ -295,7 +303,7 @@ Sabremos que hemos tenido éxito cuando observemos una reducción en fallas impr
 ## ¿Qué problemas tiene nuestro producto?
 
 - En sus etapas iniciales, puede carecer de ciertas integraciones con hardware de terceros.
-- Algunos usuarios pueden requerir capacitación para comprender todas las funcionalidades avanzadas.
+- Algunos negocios que dependen del uso de sistemas de refrigeración, técnicos especializados o proveedores de equipos pueden requerir capacitación para comprender todas las funcionalidades avanzadas.
 - También podría haber desafíos para que los técnicos adopten el uso digital en lugar del método tradicional.
 
 ## ¿Qué características son importantes para la app?
@@ -311,10 +319,10 @@ Sabremos que hemos tenido éxito cuando observemos una reducción en fallas impr
 
 ## ¿Cómo debe verse nuestro producto y cómo comportarse?
 
-- **Interfaz amigable y confiable**: Los usuarios deben sentirse seguros al usar la aplicación. La interfaz debe ser clara, ordenada y fácil de navegar, sin sobrecargar de información, con gráficos e indicadores intuitivos.
-- **Diseño centrado en tareas críticas**: Desde el primer acceso, los usuarios deben poder ver si hay fallas, cuándo es la próxima visita técnica, y acceder rápidamente a los reportes y al historial de sus equipos.
-- **Accesibilidad multiplataforma**: Disponible en web y móvil, adaptable para usuarios que están en oficina o en campo. Notificaciones inmediatas ante cualquier problema detectado.
-- **Simplicidad**: La app debe permitirles ver sus clientes, equipos en riesgo y visitas programadas, todo desde un panel centralizado. Pueden agendar visitas y generar reportes técnicos en segundos.
+- **Interfaz amigable y confiable**: Negocios que dependen del uso de sistemas de refrigeración, así como, técnicos especializados y proveedores de equipos deben sentirse seguros al usar la aplicación. La interfaz debe ser clara, ordenada y fácil de navegar, sin sobrecargar de información, con gráficos e indicadores intuitivos.
+- **Diseño centrado en tareas críticas**: Desde el primer acceso, negocios que dependen del uso de sistemas de refrigeración, técnicos especializados y proveedores de equipos deben poder ver si hay fallas, cuándo es la próxima visita técnica, y acceder rápidamente a los reportes y al historial de sus equipos.
+- **Accesibilidad multiplataforma**: Disponible en web y móvil, adaptable para quienes trabajan tanto en oficina como en campo. Notificaciones inmediatas ante cualquier problema detectado.
+- **Simplicidad**: La app debe permitirles gestionar sus negocios, equipos en riesgo y visitas programadas, todo desde un panel centralizado. También pueden agendar visitas y generar reportes técnicos en segundos.
 
 ## ¿Qué valor busca el cliente?
 
@@ -350,13 +358,13 @@ Sabremos que hemos tenido éxito cuando observemos una reducción en fallas impr
 ## ¿Cuál es nuestro mayor riesgo?
 
 - **Adopción lenta por parte del personal tradicional**: Algunos proveedores aún dependen de agendas físicas o Excel y podrían resistirse al cambio.
-- **Falta de adopción inicial**: La dificultad para convencer a los primeros usuarios de que la app es útil y confiable puede retrasar su adopción.
+- **Falta de adopción inicial**: La dificultad para convencer a los negocios que dependen del uso de sistemas de refrigeración, técnicos especializados y proveedores de equipos de que la app es útil y confiable puede retrasar su adopción.
 - **Desconfianza en la precisión de los sensores**: Si los datos no son confiables, la plataforma pierde valor
 
 ## ¿Cómo lo resolveremos?
 
 - **Algoritmos de validación**: Implementaremos algoritmos de IA que verifiquen la información y filtren los reportes ambiguos o antiguos, garantizando solo datos confiables y actuales.
-- **Capacitación y soporte**: Para resolver la falta de adopción, ofreceremos tutoriales interactivos, videos explicativos y soporte técnico accesible para que los usuarios se familiaricen con las funciones.
+- **Capacitación y soporte**: Para resolver la falta de adopción, ofreceremos tutoriales interactivos, videos explicativos y soporte técnico accesible para que negocios que dependen del uso de sistemas de refrigeración, técnicos especializados y proveedores de equipos se familiaricen con las funciones.
 - **Estrategia progresiva de integraciones**: Comenzaremos con los equipos más usados y luego ampliaremos compatibilidad mediante APIs y alianzas con fabricantes.
 - **Sensores certificados**: Solo se integrarán sensores probados.
 
@@ -371,7 +379,7 @@ Sabremos que estamos en lo correcto cuando veamos un aumento en la cantidad de n
 
 **Hipótesis 2: Control de pérdidas operativas y consumo energético**
 
-Creemos que el control de pérdidas operativas y el consumo energético es una prioridad para los usuarios, por lo tanto, cuando proporcionemos herramientas de análisis de rendimiento y alertas automatizadas, mejoraremos la capacidad de los negocios para actuar de manera preventiva y reducir costos innecesarios.  
+Creemos que el control de pérdidas operativas y el consumo energético es una prioridad para los negocios que dependen del uso de sistemas de refrigeración, técnicos especializados y proveedores de equipos; por lo tanto, al proporcionar herramientas de análisis de rendimiento y alertas automatizadas, mejoraremos su capacidad para actuar de manera preventiva y reducir costos innecesarios.  
 Sabremos que estamos en lo correcto cuando observemos una adopción creciente de nuestras funcionalidades de monitoreo en tiempo real y reportes técnicos, así como una disminución en las pérdidas económicas por interrupciones del sistema de refrigeración.
 
 ---
@@ -386,7 +394,7 @@ Sabremos que estamos en lo correcto cuando recibamos retroalimentación positiva
 **Hipótesis 4: Trazabilidad y protección de la información técnica**
 
 Creemos que al garantizar la trazabilidad de todas las acciones realizadas sobre cada unidad de refrigeración, así como la protección de la información técnica en la plataforma, construiremos confianza entre negocios y proveedores de servicios.  
-Sabremos que estamos en lo correcto cuando observemos una mayor fidelización de usuarios técnicos y empresariales, y una reducción en las incidencias relacionadas con pérdida de datos o errores administrativos.
+
 
 ---
 
@@ -973,46 +981,44 @@ Desde la perspectiva del usuario, este mapa nos permite visualizar su situación
 
 ### 2.4. Ubiquitous Language.
 
-1. **User (Usuario):** Negocios y técnicos del rubro de refrigeración que utilizan OsitoPolar para gestionar equipos de congelación, coordinar mantenimientos y optimizar sus operaciones.
 
-2. **User Profile (Perfil de Usuario):** Datos e información operativa que OsitoPolar recopila de cada usuario para personalizar su experiencia.
+1. **User Profile (Perfil de Usuario):** Datos e información operativa que OsitoPolar recopila de cada usuario para personalizar su experiencia.
 
-3. **Smart Dashboard (Panel Inteligente):** Interfaz central donde los usuarios monitorean el estado de sus equipos, reciben alertas y gestionan sus servicios.
+2. **Smart Dashboard (Panel Inteligente):** Interfaz central donde los usuarios monitorean el estado de sus equipos, reciben alertas y gestionan sus servicios.
 
-4. **Performance Report (Reporte de Rendimiento):** Informe técnico con historial de uso, consumo energético, temperatura y fallas de cada equipo.
+3. **Performance Report (Reporte de Rendimiento):** Informe técnico con historial de uso, consumo energético, temperatura y fallas de cada equipo.
 
-5. **Maintenance Schedule (Agenda de Mantenimientos):** Calendario inteligente para programar mantenimientos preventivos o correctivos.
+4. **Maintenance Schedule (Agenda de Mantenimientos):** Calendario inteligente para programar mantenimientos preventivos o correctivos.
 
-6. **Failure Alert (Alerta de Falla):** Notificación automática ante anomalías críticas como sobrecalentamiento o cortes de energía.
+5. **Failure Alert (Alerta de Falla):** Notificación automática ante anomalías críticas como sobrecalentamiento o cortes de energía.
 
-7. **Equipment Inventory (Inventario de Equipos):** Registro de todos los equipos de congelación con sus datos técnicos y ubicación.
+6. **Equipment Inventory (Inventario de Equipos):** Registro de todos los equipos de congelación con sus datos técnicos y ubicación.
 
-8. **Service Provider (Proveedor de Servicio):** Técnico o empresa que brinda mantenimiento, instalación o reparación de equipos de refrigeración.
+7. **Service Provider (Proveedor de Servicio):** Técnico o empresa que brinda mantenimiento, instalación o reparación de equipos de refrigeración.
 
-9. **Technical History (Historial Técnico):** Registro detallado de todas las intervenciones realizadas a un equipo.
+8. **Technical History (Historial Técnico):** Registro detallado de todas las intervenciones realizadas a un equipo.
 
-10. **Work Order (Orden de Trabajo):** Documento digital con las tareas asignadas a un técnico para una visita de servicio.
+9. **Work Order (Orden de Trabajo):** Documento digital con las tareas asignadas a un técnico para una visita de servicio.
 
-11. **Service Coordination (Coordinación de Servicio):** Proceso de conexión entre clientes y proveedores según disponibilidad, ubicación y necesidad.
+10. **Service Coordination (Coordinación de Servicio):** Proceso de conexión entre clientes y proveedores según disponibilidad, ubicación y necesidad.
 
-12. **Automatic Report Generation (Generación Automática de Reportes):** Función que crea informes técnicos sin intervención manual.
+11. **Automatic Report Generation (Generación Automática de Reportes):** Función que crea informes técnicos sin intervención manual.
 
-13. **Real-Time Monitoring (Monitoreo en Tiempo Real):** Supervisión constante del estado operativo del equipo (temperatura, consumo, uso).
+12. **Real-Time Monitoring (Monitoreo en Tiempo Real):** Supervisión constante del estado operativo del equipo (temperatura, consumo, uso).
 
-14. **Service Zone (Zona de Servicio):** Área donde un proveedor puede atender equipos con rapidez y eficiencia.
+13. **Service Zone (Zona de Servicio):** Área donde un proveedor puede atender equipos con rapidez y eficiencia.
 
-15. **Client Portfolio (Cartera de Clientes):** Lista de negocios atendidos por un proveedor, con sus datos y equipos registrados.
+14. **Client Portfolio (Cartera de Clientes):** Lista de negocios atendidos por un proveedor, con sus datos y equipos registrados.
 
-16. **Cold Equipment (Equipo de Congelación):** Unidad de refrigeración usada para conservar productos, como congeladoras, cámaras o vitrinas.
+15. **Cold Equipment (Equipo de Congelación):** Unidad de refrigeración usada para conservar productos, como congeladoras, cámaras o vitrinas.
 
-17. **Energy Consumption (Consumo Energético):** Registro del uso eléctrico de los equipos para detectar anomalías y optimizar recursos.
+16. **Energy Consumption (Consumo Energético):** Registro del uso eléctrico de los equipos para detectar anomalías y optimizar recursos.
 
-18. **Preventive Maintenance (Mantenimiento Preventivo):** Servicio planificado para evitar fallas y extender la vida útil del equipo.
+17. **Preventive Maintenance (Mantenimiento Preventivo):** Servicio planificado para evitar fallas y extender la vida útil del equipo.
 
-19. **Corrective Maintenance (Mantenimiento Correctivo):** Servicio realizado para solucionar una falla existente en un equipo.
+18. **Corrective Maintenance (Mantenimiento Correctivo):** Servicio realizado para solucionar una falla existente en un equipo.
 
-20. **Notification (Notificación):** Mensajes enviados automáticamente para informar sobre mantenimientos, fallas o cambios importantes.
-
+19. **Notification (Notificación):** Mensajes enviados automáticamente para informar sobre mantenimientos, fallas o cambios importantes.
 
 
 ## Capítulo III: Requirements Specification <a id="c3"></a>
