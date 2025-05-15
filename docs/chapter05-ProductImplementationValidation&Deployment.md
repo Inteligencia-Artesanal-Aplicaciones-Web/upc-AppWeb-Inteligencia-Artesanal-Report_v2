@@ -216,8 +216,7 @@ En la sección siguiente se detallará el proceso de implementación, documentac
 </tr>
 <tr>
     <td colspan="5">Sprint 1 Goal</td>
-       <td colspan="8">Nuestro enfoque está en rediseñar y optimizar la landing page de OsitoPolar, asegurando que sea adaptable a diferentes dispositivos, visualmente coherente y funcional para usuarios en distintos idiomas. 
-Creemos que esto ofrecerá una experiencia de navegación más clara, atractiva y accesible, lo cual generará mayor confianza e interés por parte de los usuarios potenciales en nuestra solución. Esto se confirmará cuando los usuarios puedan cambiar de idioma con un botón, navegar la página desde cualquier dispositivo sin errores visuales, y validemos que las imágenes y los textos estén correctamente integrados y espaciados.</td>
+       <td colspan="8">Nuestro enfoque está en implementar la landing page de OsitoPolar, asegurando su adaptabilidad a diferentes dispositivos, coherencia visual y funcionalidad multilingüe. Creemos que esto ofrece una experiencia de navegación más clara, atractiva y accesible a los usuarios potenciales de nuestra solución. Esto se confirmará cuando los usuarios puedan cambiar el idioma fácilmente desde la interfaz, navegar la página sin errores visuales desde cualquier dispositivo, y se valide que imágenes y textos estén correctamente integrados y espaciados. </td>
 
 </tr>
 <tr>
@@ -225,7 +224,7 @@ Creemos que esto ofrecerá una experiencia de navegación más clara, atractiva 
     <td colspan="8">15</td>
 <tr>
     <td colspan="5">Sum of Story Points</td>
-    <td colspan="8">29</td>
+    <td colspan="8">14</td>
 </tr>
 </table>
 
@@ -676,6 +675,7 @@ Cada miembro del equipo tuvo participación activa, realizando commits, revisand
 Contributors:
 
 ![Contributors-LandingPage.png](../assets/chapter-05/Contributors-LandingPage.png)
+
 
 
 ## Conclusiones
