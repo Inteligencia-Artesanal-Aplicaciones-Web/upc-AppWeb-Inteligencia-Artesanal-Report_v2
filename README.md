@@ -157,7 +157,7 @@ del ABET – EAC - Student Outcome 5.
   <tr>
     <td>Trabaja en equipo para proporcionar liderazgo en forma conjunta.</td>
     <td>
-<br>
+<br>Wilder Gonzalo Aliaga Urbina - TB1: 
 <br>
 <br>
 <br>
