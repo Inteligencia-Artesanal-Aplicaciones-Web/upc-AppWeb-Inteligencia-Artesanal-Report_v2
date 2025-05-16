@@ -682,7 +682,7 @@ Hemos identificado diversas estrategias y tácticas para diferenciarse y competi
 - **Navegador preferido:** Safari
 - **Marcas/influencias:** Tiendas de conveniencia Tambo, refrigeradores Samsung
 
-![Interview-1-segment-1.png](../assets/chapter02/Interview-1-segment-1.png)
+![Interview-1-segment-1.png]( assets/chapter02/Interview-1-segment-1.png)
 
 - **Inicio:** 0:02
 - **Duración:** 3:18 min
@@ -703,7 +703,7 @@ Hemos identificado diversas estrategias y tácticas para diferenciarse y competi
 - **Navegador preferido:** Chrome
 - **Marcas/influencias:** Locales gastronómicos con alta calificación, Sheraton, equipos de refrigeración industrial LG
 
-![Interview-2-segment-1.jpg](../assets/chapter02/Interview-2-segment-1.jpg)
+![Interview-2-segment-1.jpg]( assets/chapter02/Interview-2-segment-1.jpg)
 
 - **Inicio:** 0:25
 - **Duración:** 9:03 min
@@ -729,7 +729,7 @@ Hemos identificado diversas estrategias y tácticas para diferenciarse y competi
 - **Navegador preferido:** Chrome
 - **Marcas/influencias:** Empresas de refrigeración comercial, Coldex, Miray
 
-![Interview-1-segment-2.png](../assets/chapter02/Interview-1-segment-2.png)
+![Interview-1-segment-2.png]( assets/chapter02/Interview-1-segment-2.png)
 
 - **Inicio:** 0:43
 - **Duración:** 7:03 min
@@ -751,7 +751,7 @@ Hemos identificado diversas estrategias y tácticas para diferenciarse y competi
 - **Navegador preferido:** Safari
 - **Marcas/influencias:** Microsoft Office, empresas con software de gestión integrado, servicios de refrigeración premium
 
-![Interview-2-segment-2.png](../assets/chapter02/Interview-2-segment-2.png)
+![Interview-2-segment-2.png]( assets/chapter02/Interview-2-segment-2.png)
 
 - **Inicio:** 0:30
 - **Duración:** 5:48 min
@@ -775,7 +775,7 @@ Hemos identificado diversas estrategias y tácticas para diferenciarse y competi
 - **Navegador preferido:** Firefox
 - **Marcas/influencias:** Grupo Backus, Grupo Mambrino, sistemas de refrigeración industrial europeos
 
-![Interview-3-segment-2.png](../assets/chapter02/Interview-3-segment-2.png)
+![Interview-3-segment-2.png]( assets/chapter02/Interview-3-segment-2.png)
 
 - **Inicio:** 0:11
 - **Duración:** 7:09 min
@@ -821,29 +821,29 @@ Basándonos en las entrevistas, hemos llevado a cabo un análisis en el que dest
 
 **Análisis estadístico**
 
-![pie_chart-1-segment-2.png](../assets/chapter02/pie_chart-1-segment-2.png)
+![pie_chart-1-segment-2.png]( assets/chapter02/pie_chart-1-segment-2.png)
 - Más del 50% de los empresarios tiene un número mayor a 10 años de experiencia en el rubro.
 
 ---
 
-![pie_chart-2-segment-2.png](../assets/chapter02/pie_chart-2-segment-2.png)
+![pie_chart-2-segment-2.png]( assets/chapter02/pie_chart-2-segment-2.png)
 - Los empresarios tienen diferentes frecuencias de ciertas dificultades, a pesar de que tienen casi los mismos problemas.
 
 ---
-![pie_chart-3-segment-2.png](../assets/chapter02/pie_chart-3-segment-2.png)
+![pie_chart-3-segment-2.png]( assets/chapter02/pie_chart-3-segment-2.png)
 - El 67% de los empresarios creen que el cliente es parcialmente causante de su problema de mayor frecuencia. Algunos de ellos han expresado su inconformidad respecto a los clientes que no explican bien las fallas de sus equipos.
 
 ---
 
-![pie_chart-4-segment-2.png](../assets/chapter02/pie_chart-4-segment-2.png)
+![pie_chart-4-segment-2.png]( assets/chapter02/pie_chart-4-segment-2.png)
 - El 100% está interesado en recibir notificaciones sobre fallos que ocurren en equipos de refrigeración. Ellos creen que con dicha funcionalidad podrían hacer un mantenimiento preventivo más eficiente y lograr la satisfacción del cliente.
 
 ---
-![pie_chart-5-segment-2.png](../assets/chapter02/pie_chart-5-segment-2.png)
+![pie_chart-5-segment-2.png]( assets/chapter02/pie_chart-5-segment-2.png)
 - Ni uno de los empresarios ha usado una plataforma digital que se asemeje a la que se muestran interesados. Ellos usaron aplicaciones para mejorar la eficiencia de su trabajo como WhatsApp y Maps o programas como Microsoft Excel. Sin embargo, estos no poseen todas las funcionalidades que necesitan.
 
 ---
-![pie_chart-6-segment-2.png](../assets/chapter02/pie_chart-6-segment-2.png)
+![pie_chart-6-segment-2.png]( assets/chapter02/pie_chart-6-segment-2.png)
 - Cada empresario tiene una meta deseada de mayor prioridad diferente al resto a pesar de que todos ellos comparten los mismos deseos y esperan que una plataforma digital pueda ayudarles a obtenerlos.
 
 ---
@@ -854,9 +854,9 @@ Basándonos en las entrevistas, hemos llevado a cabo un análisis en el que dest
 En esta sección se presentan las fichas de User Personas construidas a partir de los datos recogidos del análisis de entrevistas al segmento #1: "Negocios que utilizan equipos de refrigeración" y al segmento #2: "Empresas proveedoras de servicios y equipos de refrigeración". Estas fichas permiten representar de forma clara y estratégica los perfiles del segmento objetivo, considerando sus metas, habilidades, motivaciones y dificultades. Al integrar tanto la perspectiva del usuario como las tendencias del sector, estas representaciones sirven como una herramienta clave para el diseño de soluciones digitales centradas en el usuario y alineadas con las oportunidades del mercado.
 
 ##### Segmento objetivo #1: Negocios que utilizan equipos de refrigeración
-![UserPersona-Carolina_Garcia.png](../assets/chapter02/UserPersona-Carolina_Garcia.png)
+![UserPersona-Carolina_Garcia.png]( assets/chapter02/UserPersona-Carolina_Garcia.png)
 ##### Segmento objetivo #2: Empresas proveedoras de servicios y equipos de refrigeración
-![UserPersona-Luis-Rojas.png](../assets/chapter02/UserPersona-Luis-Rojas.png)
+![UserPersona-Luis-Rojas.png]( assets/chapter02/UserPersona-Luis-Rojas.png)
 
 
 #### 2.3.2. User Task Matrix.
@@ -970,23 +970,23 @@ Las tareas fueron identificadas a partir del análisis cualitativo de entrevista
 Este User Journey Map representa el recorrido actual de Carolina García. El mapa ilustra su experiencia completa desde que maneja continuamente los datos registrados de la empresa hasta su seguimiento luego de la realización de la venta o servicio.
 Esta sección refleja la situación actual sin intervención de soluciones tecnológicas, mostrando los puntos de contacto, tareas clave, emociones y posibles fricciones que enfrenta en su día a día. Este recorrido permite entender los desafíos que enfrenta Carolina.
 
-![JourneyMap-segment-1.png](../assets/chapter02/JourneyMap-segment-1.png)
+![JourneyMap-segment-1.png]( assets/chapter02/JourneyMap-segment-1.png)
 
 **Segmento objetivo #2: EMPRESAS PROVEEDORAS DE SERVICIOS Y EQUIPOS DE REFRIGERACIÓN**
 
 Este User Journey Map representa el recorrido actual de Luis Rojas. El mapa ilustra su experiencia completa desde que maneja continuamente los datos registrados de la empresa hasta su seguimiento luego de la realización de la venta o servicio.
 Esta sección refleja la situación actual sin intervención de soluciones tecnológicas, mostrando los puntos de contacto, tareas clave, emociones y posibles fricciones que enfrenta en su día a día. Este recorrido permite entender los desafíos que enfrenta Luis.
-![JourneyMap-segment-2.png](../assets/chapter02/JourneyMap-segment-2.png)
+![JourneyMap-segment-2.png]( assets/chapter02/JourneyMap-segment-2.png)
 
 
 #### 2.3.4. Empathy Mapping.
 
 **Segmento objetivo #1: Negocios que utilizan equipos de refrigeración**
-![EmpathyMap-segment-1.png](../assets/chapter02/EmpathyMap-segment-1.png)
+![EmpathyMap-segment-1.png]( assets/chapter02/EmpathyMap-segment-1.png)
 
 
 **Segmento objetivo #2: EMPRESAS PROVEEDORAS DE SERVICIOS Y EQUIPOS DE REFRIGERACIÓN**
-![EmpathyMap-segment-2.png](../assets/chapter02/EmpathyMap-segment-2.png)
+![EmpathyMap-segment-2.png]( assets/chapter02/EmpathyMap-segment-2.png)
 
 #### 2.3.5. As-is Scenario Mapping.
 
@@ -996,7 +996,7 @@ Desde la perspectiva del usuario, este mapa nos permite visualizar su situación
 
 
 **Segmento objetivo #2: EMPRESAS PROVEEDORAS DE SERVICIOS Y EQUIPOS DE REFRIGERACIÓN**
-![As-is-Scenario-segment-2.jpg](../assets/chapter02/As-is-Scenario-segment-2.jpg)
+![As-is-Scenario-segment-2.jpg]( assets/chapter02/As-is-Scenario-segment-2.jpg)
 
 
 ### 2.4. Ubiquitous Language.
@@ -1046,11 +1046,11 @@ Desde la perspectiva del usuario, este mapa nos permite visualizar su situación
 
 ### 3.1. To-Be Scenario Mapping.
 **Segmento objetivo #1: CLIENTES (DUEÑOS DE EQUIPOS DE REFRIGERACIÓN)**
-![To-Be-Scenario-segment-1.png](../assets/chapter03/To-Be-Scenario-segment-1.png)
+![To-Be-Scenario-segment-1.png]( assets/chapter03/To-Be-Scenario-segment-1.png)
 
 **Segmento objetivo #2: EMPRESAS PROVEEDORAS DE SERVICIOS Y EQUIPOS DE REFRIGERACIÓN**
 
-![To-Be-Scenario-segment-2.png](../assets/chapter03/To-Be-Scenario-segment-2.png)
+![To-Be-Scenario-segment-2.png]( assets/chapter03/To-Be-Scenario-segment-2.png)
 
 ### 3.2. User Stories.
 
@@ -1124,7 +1124,7 @@ El trabajo fue realizado de manera colaborativa, priorizando la comprensión del
 El siguiente Impact Mapping fue desarrollado en UXPressia de manera colaborativa por el equipo de OsitoPolar para alinear los objetivos de negocio con los requerimientos funcionales de la plataforma.
 
 
-![Impact-Mapping.png](../assets/chapter03/Impact-Mapping.png)
+![Impact-Mapping.png]( assets/chapter03/Impact-Mapping.png)
 
 ### 3.4. Product Backlog.
 
@@ -1142,7 +1142,7 @@ Escala de Story Points (Fibonacci):
 
 8: Tareas muy complejas o que afectan a múltiples áreas.
 
-![Product-Backlog.png](../assets/chapter03/Product-Backlog.png)
+![Product-Backlog.png]( assets/chapter03/Product-Backlog.png)
 
 | Orden | User Story ID  | Título                                                             | Descripción                                                                                                                                                                                                | Story Points |
 |-------|----------------|--------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
@@ -1216,9 +1216,9 @@ La identidad visual de OsitoPolar busca transmitir seguridad, innovación y cerc
 
 Para mantener la formalidad y accesibilidad de la interfaz de usuario de OsitoPolar se establecerá las tipografías Helvetica y Open Sans por sus características funcionales, estéticas y por su alta compatibilidad en interfaces digitales, siendo Helvetica la primaria.
 
-![Helvetica-typography.png](../assets/chapter04/Helvetica-typography.png)
+![Helvetica-typography.png]( assets/chapter04/Helvetica-typography.png)
 
-![Open-sans-typography.png](../assets/chapter04/Open-sans-typography.png)
+![Open-sans-typography.png]( assets/chapter04/Open-sans-typography.png)
 
 
 **Colors**
@@ -1229,7 +1229,7 @@ El color principal elegido es el celeste, pues es el que más se acopla a las ca
 Se eligieron variantes de color verde, rojo, azul y amarillo para ciertos fondos y estados (alertas, servicio, calificaciones).
 
 
-![Colors-General Style Guidelines.png](../assets/chapter04/Colors-General%20Style%20Guidelines.png)
+![Colors-General Style Guidelines.png]( assets/chapter04/Colors-General%20Style%20Guidelines.png)
 
 
 **Spacing**
@@ -1262,12 +1262,12 @@ De acuerdo al rubro al que está orientado OsitoPolar, los colores deben refleja
 
 Sin embargo, la variación de botones y fondos que tendrá la plataforma hace que no siempre se elija la misma tonalidad, por lo que optamos por una paleta de celeste.
 
-![Sky_blue-color-Web Style Guidelines.png](../assets/chapter04/Web%20Apps%20Wireframes/Sky_blue-color-Web%20Style%20Guidelines.png)
+![Sky_blue-color-Web Style Guidelines.png]( assets/chapter04/Web%20Apps%20Wireframes/Sky_blue-color-Web%20Style%20Guidelines.png)
 
 De la misma forma se opta por una paleta de rojo claro para diferenciar ventanas, fondos o íconos que muestren algún tipo de error en el sistema, alertas o estados.
 
 
-![Red-color-Web Style Guidelines.png](../assets/chapter04/Red-color-Web%20Style%20Guidelines.png)
+![Red-color-Web Style Guidelines.png]( assets/chapter04/Red-color-Web%20Style%20Guidelines.png)
 
 ### 4.2. Information Architecture
 
@@ -1378,33 +1378,33 @@ La estructura de navegación y las opciones disponibles en **OsitoPolar** están
 
 El wireframe de la página de inicio de OsitoPolar organiza los elementos clave para ofrecer una navegación intuitiva. Incluye un encabezado con el logo y un menú de navegación, seguido de una propuesta de valor clara con botones de acción destacados como "Solicitar Demo" y "¿Cómo Funciona?". La página cuenta con secciones para describir a los usuarios objetivo, las funcionalidades clave del sistema, y los beneficios que ofrece OsitoPolar. Al final, se encuentra un formulario de contacto para que los usuarios soliciten una demo, junto con enlaces legales en el pie de página.
 
-![LandingPageWireframe.png](../assets/chapter04/LandingPageWireframe.png)
+![LandingPageWireframe.png]( assets/chapter04/LandingPageWireframe.png)
 
 #### 4.3.2. Landing Page Mockup
 
 El Landing Page Mock-up de OsitoPolar muestra un diseño limpio y organizado, con una estructura intuitiva que guía a los usuarios a través de la plataforma. Incluye una propuesta de valor destacada en la parte superior, seguida de secciones clave como las funcionalidades del sistema, los beneficios para empresas y proveedores, y una explicación clara de cómo funciona el servicio. También cuenta con testimonios de clientes, detalles sobre la empresa y un formulario para solicitar una demo, todo con un enfoque en facilitar la conversión de visitantes a usuarios activos.
 
-![mockup1.png](../assets/chapter04/Landing%20Page%20Mockups/mockup1.png)
+![mockup1.png]( assets/chapter04/Landing%20Page%20Mockups/mockup1.png)
 
-![mockup2.png](../assets/chapter04/Landing%20Page%20Mockups/mockup2.png)
+![mockup2.png]( assets/chapter04/Landing%20Page%20Mockups/mockup2.png)
 
-![mockup3.png](../assets/chapter04/Landing%20Page%20Mockups/mockup3.png)
+![mockup3.png]( assets/chapter04/Landing%20Page%20Mockups/mockup3.png)
 
-![mockup4.png](../assets/chapter04/Landing%20Page%20Mockups/mockup4.png)
+![mockup4.png]( assets/chapter04/Landing%20Page%20Mockups/mockup4.png)
 
-![mockup5.png](../assets/chapter04/Landing%20Page%20Mockups/mockup5.png)
+![mockup5.png]( assets/chapter04/Landing%20Page%20Mockups/mockup5.png)
 
-![mockup6.png](../assets/chapter04/Landing%20Page%20Mockups/mockup6.png)
+![mockup6.png]( assets/chapter04/Landing%20Page%20Mockups/mockup6.png)
 
-![mockup7.png](../assets/chapter04/Landing%20Page%20Mockups/mockup7.png)
+![mockup7.png]( assets/chapter04/Landing%20Page%20Mockups/mockup7.png)
 
-![mockup8.png](../assets/chapter04/Landing%20Page%20Mockups/mockup8.png)
+![mockup8.png]( assets/chapter04/Landing%20Page%20Mockups/mockup8.png)
 
-![mockup9.png](../assets/chapter04/Landing%20Page%20Mockups/mockup9.png)
+![mockup9.png]( assets/chapter04/Landing%20Page%20Mockups/mockup9.png)
 
-![mockup10.png](../assets/chapter04/Landing%20Page%20Mockups/mockup10.png)
+![mockup10.png]( assets/chapter04/Landing%20Page%20Mockups/mockup10.png)
 
-![mockup11.png](../assets/chapter04/Landing%20Page%20Mockups/mockup11.png)
+![mockup11.png]( assets/chapter04/Landing%20Page%20Mockups/mockup11.png)
 
 
 ## 4.4. Web Applications UX/UI Design
@@ -1413,31 +1413,31 @@ El Landing Page Mock-up de OsitoPolar muestra un diseño limpio y organizado, co
 
 Los wireframes de las aplicaciones web de OsitoPolar delinean la estructura y organización de las pantallas principales, especificando la ubicación de los elementos de la interfaz de usuario y la navegación. Estos esquemas visuales sirven como una guía precisa para el diseño final, asegurando una experiencia de usuario fluida e intuitiva. Los wireframes están enfocados en la funcionalidad y facilidad de uso, permitiendo que diseñadores y desarrolladores visualicen cómo los usuarios interactúan con la aplicación, optimizando la disposición de los elementos para crear una experiencia eficiente y atractiva.
 
-![AlquilarEquipos-Clientes.png](../assets/chapter04/Web%20Apps%20Wireframes/AlquilarEquipos-Clientes.png)
-![Contacto-Clientes.png](../assets/chapter04/Web%20Apps%20Wireframes/Contacto-Clientes.png)
-![Contacto-Empresa.png](../assets/chapter04/Web%20Apps%20Wireframes/Contacto-Empresa.png)
-![Control-Clientes.png](../assets/chapter04/Web%20Apps%20Wireframes/Control-Clientes.png)
-![EstadoCuenta-Clientes.png](../assets/chapter04/Web%20Apps%20Wireframes/EstadoCuenta-Clientes.png)
-![EstadoCuenta-Empresa.png](../assets/chapter04/Web%20Apps%20Wireframes/EstadoCuenta-Empresa.png)
-![Full Analiticas-Clientes.png](../assets/chapter04/Web%20Apps%20Wireframes/Full%20Analiticas-Clientes.png)
-![Inicio-Clientes.png](../assets/chapter04/Web%20Apps%20Wireframes/Inicio-Clientes.png)
-![Inicio-Empresa.png](../assets/chapter04/Web%20Apps%20Wireframes/Inicio-Empresa.png)
-![Inicio App.png](../assets/chapter04/Web%20Apps%20Wireframes/Inicio%20App.png)
-![Inicio Sesion - Clientes.png](../assets/chapter04/Web%20Apps%20Wireframes/Inicio%20Sesion%20-%20Clientes.png)
-![Inicio Sesion - Empresa.png](../assets/chapter04/Web%20Apps%20Wireframes/Inicio%20Sesion%20-%20Empresa.png)
-![MiCuenta-Clientes.png](../assets/chapter04/Web%20Apps%20Wireframes/MiCuenta-Clientes.png)
-![MiCuenta-Empresa.png](../assets/chapter04/Web%20Apps%20Wireframes/MiCuenta-Empresa.png)
-![MisClientes,Técnicos-Empresa.png](../assets/chapter04/Web%20Apps%20Wireframes/MisClientes%2CT%C3%A9cnicos-Empresa.png)
-![MisEquipos-Clientes.png](../assets/chapter04/Web%20Apps%20Wireframes/MisEquipos-Clientes.png)
-![MisEquipos-Clientes-1.png](../assets/chapter04/Web%20Apps%20Wireframes/MisEquipos-Clientes-1.png)
-![MisEquipos-Clientes-2.png](../assets/chapter04/Web%20Apps%20Wireframes/MisEquipos-Clientes-2.png)
-![MisEquipos-Empresa.png](../assets/chapter04/Web%20Apps%20Wireframes/MisEquipos-Empresa.png)
-![Notificaciones-Clientes.png](../assets/chapter04/Web%20Apps%20Wireframes/Notificaciones-Clientes.png)
-![Notificaciones-Empresa.png](../assets/chapter04/Web%20Apps%20Wireframes/Notificaciones-Empresa.png)
-![Registro-Clientes.png](../assets/chapter04/Web%20Apps%20Wireframes/Registro-Clientes.png)
-![Registro-Empresa.png](../assets/chapter04/Web%20Apps%20Wireframes/Registro-Empresa.png)
-![Solicitudes-Empresa.png](../assets/chapter04/Web%20Apps%20Wireframes/Solicitudes-Empresa.png)
-![ÓrdenesDeTrabajo-Empresa.png](../assets/chapter04/Web%20Apps%20Wireframes/%C3%93rdenesDeTrabajo-Empresa.png)
+![AlquilarEquipos-Clientes.png]( assets/chapter04/Web%20Apps%20Wireframes/AlquilarEquipos-Clientes.png)
+![Contacto-Clientes.png]( assets/chapter04/Web%20Apps%20Wireframes/Contacto-Clientes.png)
+![Contacto-Empresa.png]( assets/chapter04/Web%20Apps%20Wireframes/Contacto-Empresa.png)
+![Control-Clientes.png]( assets/chapter04/Web%20Apps%20Wireframes/Control-Clientes.png)
+![EstadoCuenta-Clientes.png]( assets/chapter04/Web%20Apps%20Wireframes/EstadoCuenta-Clientes.png)
+![EstadoCuenta-Empresa.png]( assets/chapter04/Web%20Apps%20Wireframes/EstadoCuenta-Empresa.png)
+![Full Analiticas-Clientes.png]( assets/chapter04/Web%20Apps%20Wireframes/Full%20Analiticas-Clientes.png)
+![Inicio-Clientes.png]( assets/chapter04/Web%20Apps%20Wireframes/Inicio-Clientes.png)
+![Inicio-Empresa.png]( assets/chapter04/Web%20Apps%20Wireframes/Inicio-Empresa.png)
+![Inicio App.png]( assets/chapter04/Web%20Apps%20Wireframes/Inicio%20App.png)
+![Inicio Sesion - Clientes.png]( assets/chapter04/Web%20Apps%20Wireframes/Inicio%20Sesion%20-%20Clientes.png)
+![Inicio Sesion - Empresa.png]( assets/chapter04/Web%20Apps%20Wireframes/Inicio%20Sesion%20-%20Empresa.png)
+![MiCuenta-Clientes.png]( assets/chapter04/Web%20Apps%20Wireframes/MiCuenta-Clientes.png)
+![MiCuenta-Empresa.png]( assets/chapter04/Web%20Apps%20Wireframes/MiCuenta-Empresa.png)
+![MisClientes,Técnicos-Empresa.png]( assets/chapter04/Web%20Apps%20Wireframes/MisClientes%2CT%C3%A9cnicos-Empresa.png)
+![MisEquipos-Clientes.png]( assets/chapter04/Web%20Apps%20Wireframes/MisEquipos-Clientes.png)
+![MisEquipos-Clientes-1.png]( assets/chapter04/Web%20Apps%20Wireframes/MisEquipos-Clientes-1.png)
+![MisEquipos-Clientes-2.png]( assets/chapter04/Web%20Apps%20Wireframes/MisEquipos-Clientes-2.png)
+![MisEquipos-Empresa.png]( assets/chapter04/Web%20Apps%20Wireframes/MisEquipos-Empresa.png)
+![Notificaciones-Clientes.png]( assets/chapter04/Web%20Apps%20Wireframes/Notificaciones-Clientes.png)
+![Notificaciones-Empresa.png]( assets/chapter04/Web%20Apps%20Wireframes/Notificaciones-Empresa.png)
+![Registro-Clientes.png]( assets/chapter04/Web%20Apps%20Wireframes/Registro-Clientes.png)
+![Registro-Empresa.png]( assets/chapter04/Web%20Apps%20Wireframes/Registro-Empresa.png)
+![Solicitudes-Empresa.png]( assets/chapter04/Web%20Apps%20Wireframes/Solicitudes-Empresa.png)
+![ÓrdenesDeTrabajo-Empresa.png]( assets/chapter04/Web%20Apps%20Wireframes/%C3%93rdenesDeTrabajo-Empresa.png)
 
 #### 4.4.2. Web Applications Wireflow Diagrams
 En esta sección se presentan los Wireflows para cada objetivo del usuario, teniendo en cuenta los User Personas relevantes. Cada diagrama ilustra el flujo de interacción del usuario y cómo las acciones realizadas afectan las pantallas dentro de la aplicación.
@@ -1447,93 +1447,93 @@ En esta sección se presentan los Wireflows para cada objetivo del usuario, teni
 Como dueño de un negocio que utiliza equipos de refrigeración quiero estar pendiente del estado de cada equipo registrado.
 
 **Task Flow**
-![taskflow1.png](../assets/chapter04/wireflows/taskflow1.png)
+![taskflow1.png]( assets/chapter04/wireflows/taskflow1.png)
 
 **Wireflow**
-![wireflow1.png](../assets/chapter04/wireflows/wireflow1.png)
+![wireflow1.png]( assets/chapter04/wireflows/wireflow1.png)
 
 ### **User Goal 2**:
 Como dueño de un negocio que utiliza equipos de refrigeración quiero lograr administrar los nuevos equipos que registre.
 
 **Task Flow**
-![taskflow2.png](../assets/chapter04/wireflows/taskflow2.png)
+![taskflow2.png]( assets/chapter04/wireflows/taskflow2.png)
 
 **Wireflow**
-![wireflow2.png](../assets/chapter04/wireflows/wireflow2.png)
+![wireflow2.png]( assets/chapter04/wireflows/wireflow2.png)
 
 ### **User Goal 3**:
 Como dueño de un negocio que utiliza equipos de refrigeración quiero revisar las estadísticas completas de mis equipos.
 
 **Task Flow**
-![taskflow3.png](../assets/chapter04/wireflows/taskflow3.png)
+![taskflow3.png]( assets/chapter04/wireflows/taskflow3.png)
 
 **Wireflow**
-![wireflow3.png](../assets/chapter04/wireflows/wireflow3.png)
+![wireflow3.png]( assets/chapter04/wireflows/wireflow3.png)
 
 ### **User Goal 4**:
 Como dueño de un negocio que utiliza equipos de refrigeración quiero pedir nuevos equipos a un proveedor de manera sencilla.
 
 **Task Flow**
-![taskflow4.png](../assets/chapter04/wireflows/taskflow4.png)
+![taskflow4.png]( assets/chapter04/wireflows/taskflow4.png)
 
 **Wireflow**
-![wireflow4.png](../assets/chapter04/wireflows/wireflow4.png)
+![wireflow4.png]( assets/chapter04/wireflows/wireflow4.png)
 
 ### **User Goal 5**:
 Como proveedor de equipos de refrigeración quiero estar pendiente de los ordenes de pedios de mis clientes.
 
 **Task Flow**
-![taskflow5.png](../assets/chapter04/wireflows/taskflow5.png)
+![taskflow5.png]( assets/chapter04/wireflows/taskflow5.png)
 
 **Wireflow**
-![wireflow5.png](../assets/chapter04/wireflows/wireflow5.png)
+![wireflow5.png]( assets/chapter04/wireflows/wireflow5.png)
 
 
 #### 4.4.3. Web Applications Mock-ups
 En esta sección se presentan y detallan los mock-ups de las aplicaciones de OsitoPolar. Se resalta la aplicación de los principios de diseño, la arquitectura de la información, el diseño inclusivo y el Design System implementado en los productos digitales. Cada mock-up muestra cómo estos conceptos se integran en la interfaz de usuario. A continuación, se mostrarán las maquetas de la aplicación web, que representan visualmente cómo se verá y funcionará la plataforma OsitoPolar. Estas maquetas son fundamentales para comunicar el diseño a los desarrolladores y clientes, asegurando que la experiencia del usuario se alinee con la visión del proyecto.
 
-![Inicio App.png](../assets/chapter04/Web%20Applications%20Mock-ups/Inicio%20App.png)
-![Registro-Clientes.png](../assets/chapter04/Web%20Applications%20Mock-ups/Registro-Clientes.png)
-![Inicio Sesion - Clientes.png](../assets/chapter04/Web%20Applications%20Mock-ups/Inicio%20Sesion%20-%20Clientes.png)
-![Inicio-Clientes.png](../assets/chapter04/Web%20Applications%20Mock-ups/Inicio-Clientes.png)
-![MisEquipos-Clientes.png](../assets/chapter04/Web%20Applications%20Mock-ups/MisEquipos-Clientes.png)
-![MisEquipos-Clientes-1.png](../assets/chapter04/Web%20Applications%20Mock-ups/MisEquipos-Clientes-1.png)
-![MisEquipos-Clientes-2.png](../assets/chapter04/Web%20Applications%20Mock-ups/MisEquipos-Clientes-2.png)
-![AlquilarEquipos-Clientes.png](../assets/chapter04/Web%20Applications%20Mock-ups/AlquilarEquipos-Clientes.png)
-![Contacto-Clientes.png](../assets/chapter04/Web%20Applications%20Mock-ups/Contacto-Clientes.png)
-![Notificaciones-Clientes.png](../assets/chapter04/Web%20Applications%20Mock-ups/Notificaciones-Clientes.png)
-![Control-Clientes.png](../assets/chapter04/Web%20Applications%20Mock-ups/Control-Clientes.png)
-![EstadoCuenta-Clientes.png](../assets/chapter04/Web%20Applications%20Mock-ups/EstadoCuenta-Clientes.png)
-![MiCuenta-Clientes.png](../assets/chapter04/Web%20Applications%20Mock-ups/MiCuenta-Clientes.png)
-![Full Analiticas-Clientes.png](../assets/chapter04/Web%20Applications%20Mock-ups/Full%20Analiticas-Clientes.png)
+![Inicio App.png]( assets/chapter04/Web%20Applications%20Mock-ups/Inicio%20App.png)
+![Registro-Clientes.png]( assets/chapter04/Web%20Applications%20Mock-ups/Registro-Clientes.png)
+![Inicio Sesion - Clientes.png]( assets/chapter04/Web%20Applications%20Mock-ups/Inicio%20Sesion%20-%20Clientes.png)
+![Inicio-Clientes.png]( assets/chapter04/Web%20Applications%20Mock-ups/Inicio-Clientes.png)
+![MisEquipos-Clientes.png]( assets/chapter04/Web%20Applications%20Mock-ups/MisEquipos-Clientes.png)
+![MisEquipos-Clientes-1.png]( assets/chapter04/Web%20Applications%20Mock-ups/MisEquipos-Clientes-1.png)
+![MisEquipos-Clientes-2.png]( assets/chapter04/Web%20Applications%20Mock-ups/MisEquipos-Clientes-2.png)
+![AlquilarEquipos-Clientes.png]( assets/chapter04/Web%20Applications%20Mock-ups/AlquilarEquipos-Clientes.png)
+![Contacto-Clientes.png]( assets/chapter04/Web%20Applications%20Mock-ups/Contacto-Clientes.png)
+![Notificaciones-Clientes.png]( assets/chapter04/Web%20Applications%20Mock-ups/Notificaciones-Clientes.png)
+![Control-Clientes.png]( assets/chapter04/Web%20Applications%20Mock-ups/Control-Clientes.png)
+![EstadoCuenta-Clientes.png]( assets/chapter04/Web%20Applications%20Mock-ups/EstadoCuenta-Clientes.png)
+![MiCuenta-Clientes.png]( assets/chapter04/Web%20Applications%20Mock-ups/MiCuenta-Clientes.png)
+![Full Analiticas-Clientes.png]( assets/chapter04/Web%20Applications%20Mock-ups/Full%20Analiticas-Clientes.png)
 
 
-![Inicio Sesion - Empresa.png](../assets/chapter04/Web%20Applications%20Mock-ups/Inicio%20Sesion%20-%20Empresa.png)
-![Registro-Empresa.png](../assets/chapter04/Web%20Applications%20Mock-ups/Registro-Empresa.png)
-![Inicio-Empresa.png](../assets/chapter04/Web%20Applications%20Mock-ups/Inicio-Empresa.png)
-![Contacto-Empresa.png](../assets/chapter04/Web%20Applications%20Mock-ups/Contacto-Empresa.png)
-![EstadoCuenta-Empresa.png](../assets/chapter04/Web%20Applications%20Mock-ups/EstadoCuenta-Empresa.png)
-![MiCuenta-Empresa.png](../assets/chapter04/Web%20Applications%20Mock-ups/MiCuenta-Empresa.png)
-![MisClientes,Técnicos-Empresa.png](../assets/chapter04/Web%20Applications%20Mock-ups/MisClientes%2CT%C3%A9cnicos-Empresa.png)
-![MisEquipos-Empresa.png](../assets/chapter04/Web%20Applications%20Mock-ups/MisEquipos-Empresa.png)
-![Notificaciones-Empresa.png](../assets/chapter04/Web%20Applications%20Mock-ups/Notificaciones-Empresa.png)
-![Solicitudes-Empresa.png](../assets/chapter04/Web%20Applications%20Mock-ups/Solicitudes-Empresa.png)
-![ÓrdenesDeTrabajo-Empresa.png](../assets/chapter04/Web%20Applications%20Mock-ups/%C3%93rdenesDeTrabajo-Empresa.png)
+![Inicio Sesion - Empresa.png]( assets/chapter04/Web%20Applications%20Mock-ups/Inicio%20Sesion%20-%20Empresa.png)
+![Registro-Empresa.png]( assets/chapter04/Web%20Applications%20Mock-ups/Registro-Empresa.png)
+![Inicio-Empresa.png]( assets/chapter04/Web%20Applications%20Mock-ups/Inicio-Empresa.png)
+![Contacto-Empresa.png]( assets/chapter04/Web%20Applications%20Mock-ups/Contacto-Empresa.png)
+![EstadoCuenta-Empresa.png]( assets/chapter04/Web%20Applications%20Mock-ups/EstadoCuenta-Empresa.png)
+![MiCuenta-Empresa.png]( assets/chapter04/Web%20Applications%20Mock-ups/MiCuenta-Empresa.png)
+![MisClientes,Técnicos-Empresa.png]( assets/chapter04/Web%20Applications%20Mock-ups/MisClientes%2CT%C3%A9cnicos-Empresa.png)
+![MisEquipos-Empresa.png]( assets/chapter04/Web%20Applications%20Mock-ups/MisEquipos-Empresa.png)
+![Notificaciones-Empresa.png]( assets/chapter04/Web%20Applications%20Mock-ups/Notificaciones-Empresa.png)
+![Solicitudes-Empresa.png]( assets/chapter04/Web%20Applications%20Mock-ups/Solicitudes-Empresa.png)
+![ÓrdenesDeTrabajo-Empresa.png]( assets/chapter04/Web%20Applications%20Mock-ups/%C3%93rdenesDeTrabajo-Empresa.png)
 
 Link de los mockups: https://shorturl.at/jMDBY
 
 #### 4.4.4. Web Applications User Flow Diagrams
 ### User Goal 1: 
 - Como dueño de un negocio que utiliza equipos de refrigeración quiero estar pendiente del estado de cada equipo registrado.
-![userflow1.png](../assets/chapter04/userflows/userflow1.png)
+![userflow1.png]( assets/chapter04/userflows/userflow1.png)
 
 ### User Goal 2:
 - Como dueño de un negocio que utiliza equipos de refrigeración quiero revisar las estadisticas completas de mis equipos.
-  ![userflow2.png](../assets/chapter04/userflows/userflow2.png)
+  ![userflow2.png]( assets/chapter04/userflows/userflow2.png)
 
 ### User Goal 3:
 - Como dueño de un negocio que utiliza equipos de refrigeración quiero lograr administrar los nuevos equipos que registre.
-  ![userflow3.png](../assets/chapter04/userflows/userflow3.png)
+  ![userflow3.png]( assets/chapter04/userflows/userflow3.png)
 
 
 
@@ -1547,12 +1547,12 @@ En esta sección se presenta la arquitectura de software basada en el dominio pa
 #### 4.6.1. Software Architecture Context Diagram
 Este diagrama muestra cómo interactúan los usuarios (Clientes y Empresas Proveedoras) con OsitoPolar. Los usuarios usan la plataforma para gestionar y monitorear equipos de refrigeración. Además, OsitoPolar se conecta con los servicios de correo para enviar notificaciones y con el servicio de pago para procesar transacciones.
 
-![OsitoPolar-SystemContext.png](../assets/chapter04/Domain-Driven%20Software%20Architecture/OsitoPolar-SystemContext.png)
+![OsitoPolar-SystemContext.png]( assets/chapter04/Domain-Driven%20Software%20Architecture/OsitoPolar-SystemContext.png)
 
 #### 4.6.2. Software Architecture Container Diagrams
 Este diagrama ilustra los diferentes contenedores dentro de OsitoPolar y cómo interactúan entre sí. Los contenedores representan las diferentes capas y servicios que componen la plataforma, como la interfaz de usuario (webapp), la API y la base de datos.
 
-![OsitoPolar-Container.png](../assets/chapter04/Domain-Driven%20Software%20Architecture/OsitoPolar-Container.png)
+![OsitoPolar-Container.png]( assets/chapter04/Domain-Driven%20Software%20Architecture/OsitoPolar-Container.png)
 
 #### 4.6.3. Software Architecture Components Diagrams
 
@@ -1560,19 +1560,19 @@ Este diagrama ilustra los diferentes contenedores dentro de OsitoPolar y cómo i
 
 Este diagrama representa los componentes encargados de la gestión de equipos. Los usuarios pueden agregar equipos, monitorearlos en tiempo real y ver el estado de los mismos.
 
-![OsitoPolar-Component-MiEquipo.png](../assets/chapter04/Domain-Driven%20Software%20Architecture/OsitoPolar-Component-MiEquipo.png)
+![OsitoPolar-Component-MiEquipo.png]( assets/chapter04/Domain-Driven%20Software%20Architecture/OsitoPolar-Component-MiEquipo.png)
 
 **Notificaciones Bounded Context**
 
 Este diagrama describe los componentes que gestionan las notificaciones, esenciales para mantener a los usuarios informados sobre el estado de los equipos y otros eventos importantes.
 
-![OsitoPolar-Component-Notificaciones.png](../assets/chapter04/Domain-Driven%20Software%20Architecture/OsitoPolar-Component-Notificaciones.png)
+![OsitoPolar-Component-Notificaciones.png]( assets/chapter04/Domain-Driven%20Software%20Architecture/OsitoPolar-Component-Notificaciones.png)
 
 **Ordenes de trabajo Bounded Context**
 
 Este diagrama se centra en la gestión de las órdenes de trabajo. Aquí se muestran los componentes involucrados en el proceso de crear, gestionar y completar órdenes de trabajo.
 
-![OsitoPolar-Component-OrdenesTrabajo.png](../assets/chapter04/Domain-Driven%20Software%20Architecture/OsitoPolar-Component-OrdenesTrabajo.png)
+![OsitoPolar-Component-OrdenesTrabajo.png]( assets/chapter04/Domain-Driven%20Software%20Architecture/OsitoPolar-Component-OrdenesTrabajo.png)
 
 ### 4.7. Software Object-Oriented Design
 En esta sección se presenta el diseño de software orientado a objetos para OsitoPolar. Se incluyen diagramas de clases y un diccionario de clases que detallan la estructura y los atributos de las principales entidades del sistema, ofreciendo una visión clara de cómo se organizan y gestionan los componentes clave dentro de la plataforma.
@@ -1581,7 +1581,7 @@ En esta sección se presenta el diseño de software orientado a objetos para Osi
 
 El diagrama de clases proporciona una representación visual de las clases del sistema, sus atributos y las relaciones entre ellas.
 
-![Class-UML.png](../assets/chapter04/Class-UML.png)
+![Class-UML.png]( assets/chapter04/Class-UML.png)
 
 #### 4.7.2. Class Dictionary
 
@@ -1661,7 +1661,7 @@ Esta sección presenta la estructura lógica del sistema desde el punto de vista
 
 El diagrama de base de datos ilustra gráficamente cómo se relacionan las tablas dentro del sistema, incluyendo sus claves primarias, claves foráneas y los tipos de relaciones existentes (uno a uno, uno a muchos o muchos a muchos).
 
-![diagram-class.png](../assets/chapter04/diagram-class.png)
+![diagram-class.png]( assets/chapter04/diagram-class.png)
 
 ## Capítulo V: Product Implementation, Validation & Deployment <a id="c5"></a>
 
@@ -1825,14 +1825,14 @@ Para desplegar la landing page, es necesario cumplir con ciertos requisitos prev
 Adicionalmente, se implementó un archivo "languages.js" que contiene los textos en español e inglés. Este archivo es consumido por el script "main.js", el cual permite realizar el cambio de idioma dinámicamente en la landing page.ations Implementation
 
 ### Github Pages:
-![Github-Pages.png](../assets/chapter-05/Github-Pages.png)
+![Github-Pages.png]( assets/chapter-05/Github-Pages.png)
 
 La URL que nos entrega Github Pages para acceder a la landing page es la siguiente: https://inteligencia-artesanal-aplicaciones-web.github.io/Landing-Page/
 
 
 ### 5.2. Landing Page, Services & Applications Implementation.
 
-![Landing-Page.png](../assets/chapter-05/Landing-Page.png)
+![Landing-Page.png]( assets/chapter-05/Landing-Page.png)
 
 En el siguiente enlace se estará mostrando la landing page de la startup:
 [Video demostrativo de la landing page](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223286_upc_edu_pe/EWpS23aHI95KiF5rJXhOyHgBoHAL62jYwnz8m4zMqxkGwA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=bwYjby)
@@ -1949,7 +1949,7 @@ Con el fin de organizar de manera más eficiente el trabajo colaborativo, se ha 
 
 El objetivo principal de este Sprint es elaborar la Landing Page de nuestra plataforma OsitoPolar. Para ello, dividimos el desarrollo de esta según las User Stories pertenecientes a la Epic enfocada en Landing Page. La plataforma elegida para ser la herramienta de control de tareas fue Trello, el cuál se presenta una captura de pantalla de nuestro tablero y su enlace público.
 
-![Trello-SprintBacklog1.png](../assets/chapter-05/Trello-SprintBacklog1.png)
+![Trello-SprintBacklog1.png]( assets/chapter-05/Trello-SprintBacklog1.png)
 
 Enlace: https://trello.com/b/xAOjqyPz/inteligenciaartesanal-ositopolar
 
@@ -2264,27 +2264,27 @@ En este primer Sprint hemos realizado la implementación de nuestra Landing Page
 Como equipo, lo que logramos en este primer Sprint fue la exitosa implementación de nuestra Landing Page y su posterior despliegue gracias a la herramienta GitHub Pages. A continuación, presentaremos lo logrado a través de imágenes mostrando las principales vistas.
 
 - Esta es la sección inicial, donde está el header y nuestra propuesta de valor.
-  ![Landing-Page.png](../assets/chapter-05/Landing-Page.png)
+  ![Landing-Page.png]( assets/chapter-05/Landing-Page.png)
 
 - Aquí se puede observar la sección donde se presenta a los usuarios a los que está orientado nuestra plataforma.
-  ![LandingPage-Evidence2.png](../assets/chapter-05/LandingPage-Evidence2.png)
+  ![LandingPage-Evidence2.png]( assets/chapter-05/LandingPage-Evidence2.png)
 
 
 - Esta sección describe las funcionalidades claves principales de nuestra plataforma OsitoPolar.
-  ![LandingPage-Evidence3.png](../assets/chapter-05/LandingPage-Evidence3.png)
+  ![LandingPage-Evidence3.png]( assets/chapter-05/LandingPage-Evidence3.png)
 
 
 - Tenemos en esta sección la visualización de los beneficios que obtendrá cada uno de nuestros usuarios de cada segmento.
-  ![LandingPage-Evidence4Neg.png](../assets/chapter-05/LandingPage-Evidence4Neg.png)
-  ![LandingPage-Evidence4Tec.png](../assets/chapter-05/LandingPage-Evidence4Tec.png)
+  ![LandingPage-Evidence4Neg.png]( assets/chapter-05/LandingPage-Evidence4Neg.png)
+  ![LandingPage-Evidence4Tec.png]( assets/chapter-05/LandingPage-Evidence4Tec.png)
 
 
 - También se encuentra la sección de nuestra misión y visión.
-  ![LandingPage-Evidence5.png](../assets/chapter-05/LandingPage-Evidence5.png)
+  ![LandingPage-Evidence5.png]( assets/chapter-05/LandingPage-Evidence5.png)
 
 
 - Por último, está la sección donde podemos solicitar una demo.
-  ![LandingPage-Evidence6.png](../assets/chapter-05/LandingPage-Evidence6.png)
+  ![LandingPage-Evidence6.png]( assets/chapter-05/LandingPage-Evidence6.png)
 
 
 - Para más detalles, visualizar el video: [Video demostrativo de la landing page](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223286_upc_edu_pe/EWpS23aHI95KiF5rJXhOyHgBoHAL62jYwnz8m4zMqxkGwA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=bwYjby)
@@ -2301,45 +2301,45 @@ Durante el presente Sprint, se llevó a cabo el despliegue de la Landing Page de
 **Pasos realizados**
 
 1. Iniciamos sesión en GitHub. En caso de no tener cuenta o querer trabajar con una nueva, nos registramos.
-   ![Deployment-step1.png](../assets/chapter-05/Deployment-step1.png)
+   ![Deployment-step1.png]( assets/chapter-05/Deployment-step1.png)
 
 
 2. Luego de iniciar sesión o registrarnos, seleccionamos a nuestro perfil de usuario y luego elegimos "Your organizations".
-   ![Deployment-step2-1.png](../assets/chapter-05/Deployment-step2-1.png)
-   ![Deployment-step2-2.png](../assets/chapter-05/Deployment-step2-2.png)
+   ![Deployment-step2-1.png]( assets/chapter-05/Deployment-step2-1.png)
+   ![Deployment-step2-2.png]( assets/chapter-05/Deployment-step2-2.png)
 
 
 3. En la nueva pestaña seleccionamos "New organization", luego seleccionamos el plan gratuito y finalmente rellenamos los datos para crear la organización
-   ![Deployment-step3-1.png](../assets/chapter-05/Deployment-step3-1.png)
+   ![Deployment-step3-1.png]( assets/chapter-05/Deployment-step3-1.png)
 
 
 4. Dentro de la organización seleccionamos "People" para invitar a los miembros del equipo.
-   ![Deployment-step4-1.png](../assets/chapter-05/Deployment-step4-1.png)
-   ![Deployment-step4-2.png](../assets/chapter-05/Deployment-step4-2.png)
+   ![Deployment-step4-1.png]( assets/chapter-05/Deployment-step4-1.png)
+   ![Deployment-step4-2.png]( assets/chapter-05/Deployment-step4-2.png)
 
 
 5. Luego de tener al equipo completo en la organización, creamos un nuevo repositorio. En nuestro caso tenemos solo dos repositorios por el momento, uno para el informe y el otro para el Landing Page. Nos dirigimos a este último.
-   ![Deployment-step5-1.png](../assets/chapter-05/Deployment-step5-1.png)
-   ![Deployment-step5-2.png](../assets/chapter-05/Deployment-step5-2.png)
+   ![Deployment-step5-1.png]( assets/chapter-05/Deployment-step5-1.png)
+   ![Deployment-step5-2.png]( assets/chapter-05/Deployment-step5-2.png)
 
 
 6. Al estar en el repositorio "Landing Page", nos dirigimos a settings y seleccionamos "pages" (1). Luego seleccionamos la rama y ruta en la que está el código que deseamos desplegar (2). Guardamos (3) y finalmente tendremos que esperar unos minutos para que el enlace esté disponible (4).
-   ![Deployment-step6-1.png](../assets/chapter-05/Deployment-step6-1.png)
-   ![Deployment-step6-2.png](../assets/chapter-05/Deployment-step6-2.png)
+   ![Deployment-step6-1.png]( assets/chapter-05/Deployment-step6-1.png)
+   ![Deployment-step6-2.png]( assets/chapter-05/Deployment-step6-2.png)
 
 7. Podemos visualizar el resultado.
-   ![Deployment-step7.png](../assets/chapter-05/Deployment-step7.png)
+   ![Deployment-step7.png]( assets/chapter-05/Deployment-step7.png)
 
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
 
 Durante este Sprint, el equipo ha colaborado activamente en el desarrollo de la Landing Page. Las actividades fueron gestionadas a través de GitHub, permitiendo una trazabilidad clara de los aportes de cada miembro del equipo. Se realizaron tareas de codificación, revisión, organización del repositorio y mejoras visuales y funcionales del producto.
 Cada miembro del equipo tuvo participación activa, realizando commits, revisando código, y apoyando en la estructura y documentación del proyecto.
 
-![Insights-LandingPage.png](../assets/chapter-05/Insights-LandingPage.png)
+![Insights-LandingPage.png]( assets/chapter-05/Insights-LandingPage.png)
 
 Contributors:
 
-![Contributors-LandingPage.png](../assets/chapter-05/Contributors-LandingPage.png)
+![Contributors-LandingPage.png]( assets/chapter-05/Contributors-LandingPage.png)
 
 
 #### 5.2.2. Sprint 2
@@ -2591,7 +2591,7 @@ El objetivo principal de este Sprint es elaborar la Single Page Aplication (fron
 
 </table>
 
-![sprintbacklog2.png](../assets/chapter-05/sprint2/sprintbacklog2.png)
+![sprintbacklog2.png]( assets/chapter-05/sprint2/sprintbacklog2.png)
 
 
 ##### 5.2.2.4. Development Evidence for Sprint Review
@@ -2607,40 +2607,40 @@ En este segundo Sprint realizamos mejoras y correcciones de idioma en la Landing
 **Landing Page**
 
 - Esta es la sección inicial, donde está el header y nuestra propuesta de valor.
-![LandingPage-Evidence-S2.png](../assets/chapter-05/sprint-2/LandingPage-Evidence-S2.png)
+![LandingPage-Evidence-S2.png]( assets/chapter-05/sprint-2/LandingPage-Evidence-S2.png)
 
 - Aquí se puede observar la sección donde se presenta a los usuarios a los que está orientado nuestra plataforma.
-![LandingPage-Evidence2-S2.png](../assets/chapter-05/sprint-2/LandingPage-Evidence2-S2.png)
+![LandingPage-Evidence2-S2.png]( assets/chapter-05/sprint-2/LandingPage-Evidence2-S2.png)
 
 - Esta sección describe las funcionalidades claves principales de nuestra plataforma OsitoPolar.
-![LandingPage-Evidence3-S2.png](../assets/chapter-05/sprint-2/LandingPage-Evidence3-S2.png)
+![LandingPage-Evidence3-S2.png]( assets/chapter-05/sprint-2/LandingPage-Evidence3-S2.png)
 
 - Tenemos en esta sección la visualización de los beneficios que obtendrá cada uno de nuestros usuarios de cada segmento.
-![LandingPage-Evidence4-S2.png](../assets/chapter-05/sprint-2/LandingPage-Evidence4-S2.png)
+![LandingPage-Evidence4-S2.png]( assets/chapter-05/sprint-2/LandingPage-Evidence4-S2.png)
 
 - También se encuentra la sección de nuestra misión y visión.
-![LandingPage-Evidence5-S2.png](../assets/chapter-05/sprint-2/LandingPage-Evidence5-S2.png)
+![LandingPage-Evidence5-S2.png]( assets/chapter-05/sprint-2/LandingPage-Evidence5-S2.png)
 
 - La sección donde podemos solicitar una demo.
-![LandingPage-Evidence6-S2.png](../assets/chapter-05/sprint-2/LandingPage-Evidence6-S2.png)
+![LandingPage-Evidence6-S2.png]( assets/chapter-05/sprint-2/LandingPage-Evidence6-S2.png)
 
 **Frontend**
 
 - Esta es la sección inicial llamada "Home", es lo primero que verá el usuario al ingresar a la aplicación.
-![SPA-Evidence-S2.png](../assets/chapter-05/sprint-2/SPA-Evidence-S2.png)
+![SPA-Evidence-S2.png]( assets/chapter-05/sprint-2/SPA-Evidence-S2.png)
 
 - En esta se pueden observar las máquinas que están siendo monitoreadas y donde también se pueden registrar, editar y eliminar.
-![SPA-Evidence2-S2.png](../assets/chapter-05/sprint-2/SPA-Evidence2-S2.png)
+![SPA-Evidence2-S2.png]( assets/chapter-05/sprint-2/SPA-Evidence2-S2.png)
 
 - En estas secciones se pueden visualizan los atributos, configuraciones y análisis de temperatura de los equipos de refrigeración.
-![SPA-Evidence3-S2.png](../assets/chapter-05/sprint-2/SPA-Evidence3-S2.png)
-![SPA-Evidence4-S2.png](../assets/chapter-05/sprint-2/SPA-Evidence4-S2.png)
+![SPA-Evidence3-S2.png]( assets/chapter-05/sprint-2/SPA-Evidence3-S2.png)
+![SPA-Evidence4-S2.png]( assets/chapter-05/sprint-2/SPA-Evidence4-S2.png)
 
 - Tenemos la sección donde se visualizan las notificaciones.
-![SPA-Evidence5-S2.png](../assets/chapter-05/sprint-2/SPA-Evidence5-S2.png)
+![SPA-Evidence5-S2.png]( assets/chapter-05/sprint-2/SPA-Evidence5-S2.png)
 
 - Por último, la sección por defecto que muestra el mensaje que nos indica que la página no ha sido encontrada.
-![SPA-Evidence6-S2.png](../assets/chapter-05/sprint-2/SPA-Evidence6-S2.png)
+![SPA-Evidence6-S2.png]( assets/chapter-05/sprint-2/SPA-Evidence6-S2.png)
 
 ##### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
@@ -2652,34 +2652,34 @@ Durante este Sprint hemos desplegado el frontend.
 
 - Usaremos Beeceptor es una herramienta en línea para probar y depurar APIs.
 
-![deployment0-s2.png](../assets/chapter-05/sprint-2/deployment0-s2.png)
+![deployment0-s2.png]( assets/chapter-05/sprint-2/deployment0-s2.png)
 
-![deployment01-s2.png](../assets/chapter-05/sprint-2/deployment01-s2.png)
+![deployment01-s2.png]( assets/chapter-05/sprint-2/deployment01-s2.png)
 
 
 - Usaremos Firebase, el cuál es una plataforma de desarrollo de Google que ofrece servicios backend listos para usar, como autenticación, bases de datos en tiempo real, notificaciones y, en este caso, hosting web estático.
-![deployment1-S2.png](../assets/chapter-05/sprint-2/deployment1-S2.png)
+![deployment1-S2.png]( assets/chapter-05/sprint-2/deployment1-S2.png)
 
-![deployment2-s2.png](../assets/chapter-05/sprint-2/deployment2-s2.png)
+![deployment2-s2.png]( assets/chapter-05/sprint-2/deployment2-s2.png)
 
-![deployment3-S2.png](../assets/chapter-05/sprint-2/deployment3-S2.png)
+![deployment3-S2.png]( assets/chapter-05/sprint-2/deployment3-S2.png)
 
-![deployment4-S2.png](../assets/chapter-05/sprint-2/deployment4-S2.png)
+![deployment4-S2.png]( assets/chapter-05/sprint-2/deployment4-S2.png)
 
-![deployment6-S2.png](../assets/chapter-05/sprint-2/deployment6-S2.png)
+![deployment6-S2.png]( assets/chapter-05/sprint-2/deployment6-S2.png)
 
-![deployment7-S2.png](../assets/chapter-05/sprint-2/deployment7-S2.png)
+![deployment7-S2.png]( assets/chapter-05/sprint-2/deployment7-S2.png)
 
-![deployment9-S2.png](../assets/chapter-05/sprint-2/deployment9-S2.png)
+![deployment9-S2.png]( assets/chapter-05/sprint-2/deployment9-S2.png)
 
-![deployment11-S2.png](../assets/chapter-05/sprint-2/deployment11-S2.png)
+![deployment11-S2.png]( assets/chapter-05/sprint-2/deployment11-S2.png)
 
-![deployment12-S2.png](../assets/chapter-05/sprint-2/deployment12-S2.png)
+![deployment12-S2.png]( assets/chapter-05/sprint-2/deployment12-S2.png)
 
 
 - Finalmente se puede visualizar nuestro proyecto desplegado.
 
-![deploymentfinalS2.png](../assets/chapter-05/sprint-2/deploymentfinalS2.png)
+![deploymentfinalS2.png]( assets/chapter-05/sprint-2/deploymentfinalS2.png)
 
 ##### 5.2.2.8. Team Collaboration Insights during Sprint
 
@@ -2687,16 +2687,16 @@ Durante este Sprint, el equipo ha colaborado en el desarrollo del frontend y cor
 
 **LandingPage**
 
-![Insights-LandingPage-S2.png](../assets/chapter-05/sprint-2/Insights-LandingPage-S2.png)
+![Insights-LandingPage-S2.png]( assets/chapter-05/sprint-2/Insights-LandingPage-S2.png)
 
-![Contributors-LandingPageS2.png](../assets/chapter-05/sprint-2/Contributors-LandingPageS2.png)
+![Contributors-LandingPageS2.png]( assets/chapter-05/sprint-2/Contributors-LandingPageS2.png)
 
 
 **Frontend**
 
-![Insights-Frontend-S2.png](../assets/chapter-05/sprint-2/Insights-Frontend-S2.png)
+![Insights-Frontend-S2.png]( assets/chapter-05/sprint-2/Insights-Frontend-S2.png)
 
-![Contributors-FrontendS2.png](../assets/chapter-05/sprint-2/Contributors-FrontendS2.png)
+![Contributors-FrontendS2.png]( assets/chapter-05/sprint-2/Contributors-FrontendS2.png)
 
 ## Conclusiones
 
