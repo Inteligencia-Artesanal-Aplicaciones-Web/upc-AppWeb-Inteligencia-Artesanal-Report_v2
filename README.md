@@ -157,7 +157,7 @@ del ABET – EAC - Student Outcome 5.
   <tr>
     <td>Trabaja en equipo para proporcionar liderazgo en forma conjunta.</td>
     <td>
-<br>
+<br>Wilder Gonzalo Aliaga Urbina - TB1: Realizó la identificación de los competidores. TP1: Elaboración y mejora de wireframes para optimizar la experiencia de usuario.
 <br>
 <br>
 <br>
@@ -167,7 +167,7 @@ del ABET – EAC - Student Outcome 5.
   <tr>
     <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
     <td>
-<br>
+<br>Wilder Gonzalo Aliaga Urbina - TB1: Realizó los mockups de la app web y DDD. TP1: Desarrollo de prototipos visuales y mockups interactivos para facilitar la comunicación con desarrollo de app frontend.
 <br>
 <br>
     </td>
