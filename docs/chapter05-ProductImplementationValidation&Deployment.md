@@ -751,6 +751,46 @@ En este segundo Sprint hemos realizado la implementación de nuestra Single Page
 
 ##### 5.2.2.5. Execution Evidence for Sprint Review
 
+En este segundo Sprint realizamos mejoras y correcciones de idioma en la Landing Page y la implementación de nuestro Frontend.
+
+**Landing Page**
+
+- Esta es la sección inicial, donde está el header y nuestra propuesta de valor.
+![LandingPage-Evidence-S2.png](../assets/chapter-05/sprint-2/LandingPage-Evidence-S2.png)
+
+- Aquí se puede observar la sección donde se presenta a los usuarios a los que está orientado nuestra plataforma.
+![LandingPage-Evidence2-S2.png](../assets/chapter-05/sprint-2/LandingPage-Evidence2-S2.png)
+
+- Esta sección describe las funcionalidades claves principales de nuestra plataforma OsitoPolar.
+![LandingPage-Evidence3-S2.png](../assets/chapter-05/sprint-2/LandingPage-Evidence3-S2.png)
+
+- Tenemos en esta sección la visualización de los beneficios que obtendrá cada uno de nuestros usuarios de cada segmento.
+![LandingPage-Evidence4-S2.png](../assets/chapter-05/sprint-2/LandingPage-Evidence4-S2.png)
+
+- También se encuentra la sección de nuestra misión y visión.
+![LandingPage-Evidence5-S2.png](../assets/chapter-05/sprint-2/LandingPage-Evidence5-S2.png)
+
+- La sección donde podemos solicitar una demo.
+![LandingPage-Evidence6-S2.png](../assets/chapter-05/sprint-2/LandingPage-Evidence6-S2.png)
+
+**Frontend**
+
+- Esta es la sección inicial llamada "Home", es lo primero que verá el usuario al ingresar a la aplicación.
+![SPA-Evidence-S2.png](../assets/chapter-05/sprint-2/SPA-Evidence-S2.png)
+
+- En esta se pueden observar las máquinas que están siendo monitoreadas y donde también se pueden registrar, editar y eliminar.
+![SPA-Evidence2-S2.png](../assets/chapter-05/sprint-2/SPA-Evidence2-S2.png)
+
+- En estas secciones se pueden visualizan los atributos, configuraciones y análisis de temperatura de los equipos de refrigeración.
+![SPA-Evidence3-S2.png](../assets/chapter-05/sprint-2/SPA-Evidence3-S2.png)
+![SPA-Evidence4-S2.png](../assets/chapter-05/sprint-2/SPA-Evidence4-S2.png)
+
+- Tenemos la sección donde se visualizan las notificaciones.
+![SPA-Evidence5-S2.png](../assets/chapter-05/sprint-2/SPA-Evidence5-S2.png)
+
+- Por último, la sección por defecto que muestra el mensaje que nos indica que la página no ha sido encontrada.
+![SPA-Evidence6-S2.png](../assets/chapter-05/sprint-2/SPA-Evidence6-S2.png)
+
 ##### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
 ##### 5.2.2.7. Software Deployment Evidence for Sprint Review
