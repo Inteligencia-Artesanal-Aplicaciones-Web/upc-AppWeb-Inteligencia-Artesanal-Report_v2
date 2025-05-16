@@ -1383,50 +1383,52 @@ Los wireframes de las aplicaciones web de OsitoPolar delinean la estructura y or
 #### 4.4.2. Web Applications Wireflow Diagrams
 En esta sección se presentan los Wireflows para cada objetivo del usuario, teniendo en cuenta los User Personas relevantes. Cada diagrama ilustra el flujo de interacción del usuario y cómo las acciones realizadas afectan las pantallas dentro de la aplicación.
 
-### **Registro y Perfil de Empresa**:
-Este flujo de usuario corresponde al proceso de registro de una nueva empresa. En este flujo, el usuario ingresa la información empresarial, como nombre de la empresa y datos de contacto. Al completar el registro, la empresa pasa a estar registrada en la plataforma, con acceso a todas las funcionalidades de gestión de equipos.
 
-![RegistroyPerfilEmpresa.png](assets/chapter04/Web%20Applications%20Wireflow%20Diagrams/RegistroyPerfilEmpresa.png)
+### **User Goal 1**:
+Como dueño de un negocio que utiliza equipos de refrigeración quiero estar pendiente del estado de cada equipo registrado.
 
-### **Gestión de Usuario**:
-Este flujo de usuario describe las acciones para que el usuario se registre, inicie sesión, vea su perfil y edite su información personal. El objetivo es mantener actualizados los datos del usuario y facilitar el acceso a sus funcionalidades.
+**Task Flow**
+![taskflow1.png]( assets/chapter04/wireflows/taskflow1.png)
 
-![Gestion de Usuario.png](assets/chapter04/Web%20Applications%20Wireflow%20Diagrams/Gestion%20de%20Usuario.png)
+**Wireflow**
+![wireflow1.png]( assets/chapter04/wireflows/wireflow1.png)
 
-### **Visualización de Equipos**:
-En este flujo, el usuario ve un resumen de todos los equipos registrados en su cuenta. Puede ver el estado de los equipos y obtener detalles de cada uno, como su mantenimiento.
+### **User Goal 2**:
+Como dueño de un negocio que utiliza equipos de refrigeración quiero lograr administrar los nuevos equipos que registre.
 
-![Visualización de Equipos.png](assets/chapter04/Web%20Applications%20Wireflow%20Diagrams/Visualizaci%C3%B3n%20de%20Equipos.png)
+**Task Flow**
+![taskflow2.png]( assets/chapter04/wireflows/taskflow2.png)
 
-### **Gestión de Solicitudes**:
-Este flujo permite a las empresas gestionar las solicitudes que realizan los clientes para obtener servicios o equipos adicionales. La empresa puede **aceptar** o **negar** solicitudes.
+**Wireflow**
+![wireflow2.png]( assets/chapter04/wireflows/wireflow2.png)
 
-![Gestión de Solicitudes.png](assets/chapter04/Web%20Applications%20Wireflow%20Diagrams/Gesti%C3%B3n%20de%20Solicitudes.png)
+### **User Goal 3**:
+Como dueño de un negocio que utiliza equipos de refrigeración quiero revisar las estadísticas completas de mis equipos.
 
-### **Visualización de Mantenimientos**:
-Este flujo permite al usuario ver los mantenimientos pendientes para los equipos. Las empresas pueden agendar o realizar un mantenimiento directamente desde esta vista.
+**Task Flow**
+![taskflow3.png]( assets/chapter04/wireflows/taskflow3.png)
 
-![Visualización de MantenimientosEmpr.png](assets/chapter04/Web%20Applications%20Wireflow%20Diagrams/Visualizaci%C3%B3n%20de%20MantenimientosEmpr.png)
+**Wireflow**
+![wireflow3.png]( assets/chapter04/wireflows/wireflow3.png)
 
-### **Notificaciones**:
-Este flujo gestiona las notificaciones que se muestran al usuario, como alertas de mantenimiento, solicitudes aceptadas o rechazadas, y otros eventos importantes.
+### **User Goal 4**:
+Como dueño de un negocio que utiliza equipos de refrigeración quiero pedir nuevos equipos a un proveedor de manera sencilla.
 
-![Notificaciones.png](assets/chapter04/Web%20Applications%20Wireflow%20Diagrams/Notificaciones.png)
+**Task Flow**
+![taskflow4.png]( assets/chapter04/wireflows/taskflow4.png)
 
-### **Cambio de Plan de Suscripción**:
-Este flujo permite a los usuarios cambiar el plan de suscripción para ajustarse a sus necesidades de equipos o servicios. Los usuarios pueden seleccionar entre diferentes planes según la cantidad de equipos o características que necesiten.
+**Wireflow**
+![wireflow4.png]( assets/chapter04/wireflows/wireflow4.png)
 
-![Cambio de Plan de Suscripción.png](assets/chapter04/Web%20Applications%20Wireflow%20Diagrams/Cambio%20de%20Plan%20de%20Suscripci%C3%B3n.png)
+### **User Goal 5**:
+Como proveedor de equipos de refrigeración quiero estar pendiente de los ordenes de pedios de mis clientes.
 
-### **Ordenes de trabajo**:
-Este flujo permite a las empresas gestionar las órdenes de trabajo generadas por los clientes, de igual manera se puede visualizar si el trabajo ha sido realizado.
+**Task Flow**
+![taskflow5.png]( assets/chapter04/wireflows/taskflow5.png)
 
-![Ordenes de trabajo Empresa.png](assets/chapter04/Web%20Applications%20Wireflow%20Diagrams/Ordenes%20de%20trabajo%20Empresa.png)
+**Wireflow**
+![wireflow5.png]( assets/chapter04/wireflows/wireflow5.png)
 
-### **Mi Equipo y Monitoreo en tiempo real**:
-Este flujo permite a los clientes visualizar el estado de su equipo en tiempo real, así como los mantenimientos realizados y las alertas generadas. Los usuarios pueden ver el historial de consumo energético y recibir notificaciones sobre el estado del equipo.
-
-![Mi Equipo y Monitoreo Clientes.png](assets/chapter04/Web%20Applications%20Wireflow%20Diagrams/Mi%20Equipo%20y%20Monitoreo%20Clientes.png)
 
 #### 4.4.3. Web Applications Mock-ups
 En esta sección se presentan y detallan los mock-ups de las aplicaciones de OsitoPolar. Se resalta la aplicación de los principios de diseño, la arquitectura de la información, el diseño inclusivo y el Design System implementado en los productos digitales. Cada mock-up muestra cómo estos conceptos se integran en la interfaz de usuario. A continuación, se mostrarán las maquetas de la aplicación web, que representan visualmente cómo se verá y funcionará la plataforma OsitoPolar. Estas maquetas son fundamentales para comunicar el diseño a los desarrolladores y clientes, asegurando que la experiencia del usuario se alinee con la visión del proyecto.
@@ -1454,16 +1456,27 @@ En esta sección se presentan y detallan los mock-ups de las aplicaciones de Osi
 ![Solicitudes-Empresa.png](assets/chapter04/Web%20Applications%20Mock-ups/Solicitudes-Empresa.png)
 ![ÓrdenesDeTrabajo-Empresa.png](assets/chapter04/Web%20Applications%20Mock-ups/%C3%93rdenesDeTrabajo-Empresa.png)
 
-Link de los mockups: https://www.figma.com/design/flGQQP3T3S1hLfh0I72Exj/Aplicaciones-Web?node-id=2313-3&t=UphT97uJSGQzmQl1-1
+
+Link de los mockups: https://shorturl.at/jMDBY
 
 #### 4.4.4. Web Applications User Flow Diagrams
-A continuación un diagrama que representa los user goals.
+### User Goal 1:
+- Como dueño de un negocio que utiliza equipos de refrigeración quiero estar pendiente del estado de cada equipo registrado.
+  ![userflow1.png]( assets/chapter04/userflows/userflow1.png)
 
-![Web Applications User Flow Diagrams.png](assets/chapter04/Web%20Applications%20User%20Flow%20Diagrams.png)
+### User Goal 2:
+- Como dueño de un negocio que utiliza equipos de refrigeración quiero revisar las estadisticas completas de mis equipos.
+  ![userflow2.png]( assets/chapter04/userflows/userflow2.png)
+
+### User Goal 3:
+- Como dueño de un negocio que utiliza equipos de refrigeración quiero lograr administrar los nuevos equipos que registre.
+  ![userflow3.png]( assets/chapter04/userflows/userflow3.png)
+
+
 
 ### 4.5. Web Applications Prototyping
 A continuación se presenta el prototipo de la aplicación web de OsitoPolar, el cual permite a los usuarios interactuar con la interfaz y explorar las diversas secciones de la plataforma. Este prototipo incluye las funcionalidades clave y características de la aplicación, proporcionando una vista preliminar de la experiencia del usuario. Además, facilita la evaluación y prueba de la interfaz antes de su implementación final, asegurando que el diseño sea intuitivo y eficiente.
-Link del prototipo: https://www.figma.com/proto/flGQQP3T3S1hLfh0I72Exj/Aplicaciones-Web?node-id=2380-1261&p=f&t=oDeAQCXay9dwRQG6-1&scaling=min-zoom&content-scaling=fixed&page-id=2313%3A3&starting-point-node-id=2380%3A1233&show-proto-sidebar=1
+Link del prototipo: https://shorturl.at/oIUJN
 
 ### 4.6 Domain Driven Software Architecture
 En esta sección se presenta la arquitectura de software basada en el dominio para OsitoPolar. Se detallan los diferentes diagramas que ilustran la estructura y organización del sistema, así como los componentes clave que lo integran, mostrando cómo se interconectan para proporcionar una solución eficiente y escalable.
