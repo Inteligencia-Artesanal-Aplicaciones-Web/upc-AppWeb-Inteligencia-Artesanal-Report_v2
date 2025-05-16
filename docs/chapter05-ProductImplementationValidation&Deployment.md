@@ -794,6 +794,140 @@ Con el fin de organizar de manera más eficiente el trabajo colaborativo, se ha 
 
 El objetivo principal de este Sprint es elaborar la Single Page Aplication (frontend) de nuestra plataforma OsitoPolar. Para ello, dividimos el desarrollo de esta según las User Stories pertenecientes a la Epic y prioridad enfocada a los usuarios. La plataforma elegida para ser la herramienta de control de tareas fue Trello.
 
+<table>
+<tr>
+    <th colspan="3">Sprint #</th>
+    <th colspan="10">Sprint 2</th>
+</tr>
+<tr>
+    <td colspan="3">User Story</td>
+    <td colspan="10">Work-Item/Task</td>
+</tr>
+<tr>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="3">Description</td>
+    <td colspan="1">Estimation (Hours)</td>
+    <td colspan="2">Assigned To</td>
+    <td colspan="1">Status (To do/ In-Process/ To-Review/ Done)</td>
+</tr>
+<tr>
+    <td colspan="1">US-06</td>
+    <td colspan="2">Agregar equipos</td>
+    <td colspan="1">UT-01</td>
+    <td colspan="2">Implementar estructura</td>
+    <td colspan="3">Crear los componentes, entidades y servicios de los equipos</td>
+    <td colspan="1">2</td>
+    <td colspan="2">Joseph Rodríguez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-06</td>
+    <td colspan="2">Agregar equipos</td>
+    <td colspan="1">UT-02</td>
+    <td colspan="2">Implementar operaciones CRUD</td>
+    <td colspan="3">Implementar las operaciones CREATE, READ, UPDATE AND DELETE de los equipos y cada uno de sus atributos </td>
+    <td colspan="1">3</td>
+    <td colspan="2">Joseph Rodríguez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-09</td>
+    <td colspan="2">Ver consumo energético de equipos</td>
+    <td colspan="1">UT-03</td>
+    <td colspan="2">Añadir datos de consumo energético</td>
+    <td colspan="3">Crear un component y service diseñado para este atributo</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Victor Rojas</td>
+    <td colspan="1">To Do</td>
+</tr>
+<tr>
+    <td colspan="1">US-31</td>
+    <td colspan="2">Controlar encendido y apagado del equipo</td>
+    <td colspan="1">UT-04</td>
+    <td colspan="2">Funcionalidad para apagar y encender el equipo</td>
+    <td colspan="3">Añadir estados de apagado y encendido a la entidad Equipment </td>
+    <td colspan="1">2</td>
+    <td colspan="2">Joseph Rodríguez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-31</td>
+    <td colspan="2">Controlar encendido y apagado del equipo</td>
+    <td colspan="1">UT-05</td>
+    <td colspan="2">Agregar y diseñar botón para cambiar entre estados</td>
+    <td colspan="3">Aplicar un button para activar la funcionalidad</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Jospeh Rodríguez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-32</td>
+    <td colspan="2">Ajustar temperatura del equipo</td>
+    <td colspan="1">UT-06</td>
+    <td colspan="2">Controlar el ajuste de temperatura de un equipo en concreto</td>
+    <td colspan="3">Aplicar la lógica para implementar el cambio del atributo temperatura de la entidad Equipment</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Jospeh Rodríguez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-32</td>
+    <td colspan="2">Ajustar temperatura del equipo</td>
+    <td colspan="1">UT-07</td>
+    <td colspan="2">Agregar gráficos analíticos sobre el cambio de temperatura</td>
+    <td colspan="3">Implementar gráficos que muestren el cambio de temperatura</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Joseph Rodríguez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-07</td>
+    <td colspan="2">Recibir alerta de falla en equipo</td>
+    <td colspan="1">UT-08</td>
+    <td colspan="2">Implementar notificaciones</td>
+    <td colspan="3">Crear components, models y services de notificaciones</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Joseph Rodríguez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-07</td>
+    <td colspan="2">Recibir alerta de falla en equipo</td>
+    <td colspan="1">UT-09</td>
+    <td colspan="2">Agregar funcionalidad para que la notificación alerte cuando se presenta una falla </td>
+    <td colspan="3">Crear la lógica para que la alerta funcione cuando haya una anomalía en la temperatura del equipo</td>
+    <td colspan="1">2</td>
+    <td colspan="2">Jospeh Rodríguez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-08</td>
+    <td colspan="2">Solicitar mantenimiento preventivo</td>
+    <td colspan="1">UT-10</td>
+    <td colspan="2">Implementar el registro de solicitud de mantenimiento</td>
+    <td colspan="3">Crear components, services y models para la solicitud de mantenimiento</td>
+    <td colspan="1">2</td>
+    <td colspan="2">Kenyi Ramírez</td>
+    <td colspan="1">To Do</td>
+</tr>
+<tr>
+    <td colspan="1">US-08</td>
+    <td colspan="2">Solicitar mantenimiento preventivo</td>
+    <td colspan="1">UT-11</td>
+    <td colspan="2">Implementar CRUD para los servicios de mantenimiento preventivo</td>
+    <td colspan="3">Crear las operaciones que permitan crear, ver y eliminar</td>
+    <td colspan="1">2</td>
+    <td colspan="2">Kenyi Ramirez</td>
+    <td colspan="1">To Do</td>
+</tr>
+
+</table>
+
+![sprintbacklog2.png](../assets/chapter-05/sprint2/sprintbacklog2.png)
+
 
 ##### 5.2.2.4. Development Evidence for Sprint Review
 
@@ -845,9 +979,10 @@ En este segundo Sprint realizamos mejoras y correcciones de idioma en la Landing
 
 ##### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
-No se emplearon servicios adicionales, ya que este primer sprint se centró exclusivamente en la implementación de la primera versión del web application.
+No se emplearon servicios adicionales, ya que este segundo sprint se centró exclusivamente en la implementación de la primera versión del web application.
 
 ##### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
 
 
 ##### 5.2.2.8. Team Collaboration Insights during Sprint
