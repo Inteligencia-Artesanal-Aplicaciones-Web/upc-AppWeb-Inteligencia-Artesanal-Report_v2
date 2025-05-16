@@ -28,11 +28,15 @@
 
 ## Registro de Versiones del Informe
 
-| Versión   | Fecha    | Autor                 | Descripción de modificación                              |
-|-----------|----------|-----------------------|----------------------------------------------------------|
-| 0.1       | 10/04/25 | Kenyi Ramírez         | Creación de la plantilla                                 |
-| 0.2       | 26/04/25 | Todos los integrantes | Modificación y arreglo de ramas                          |
-| 0.3 (TB1) | 26/04/25 | Todos los integrantes | Desarrollo completo de todos los puntos de cada capítulo |
+| Versión | Fecha      | Autor                                                                                                                                                     | Descripción de modificación       |
+|---------|------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------|
+| 0.1     | 09/04/2025 | Kenyi Ramírez                                                                                                                                             | Desarollo Capitulo 1 y seccion 2.1 |
+| 0.2     | 29/08/2024 | Ramírez Cabrera Kenyi Efraín, Rodriguez Parco Joseph Pablo                                                                                                | Desarollo del capitulo 2 y 3      |
+| 0.3     | 29/08/2024 | Aliaga Urbina Wilder Gonzalo                                                                                                                              | Desarollo Capitulo 4              |
+| 0.4     | 29/08/2024 | Ramírez Cabrera Kenyi Efraín, Rojas Reategui Victor Manuel, Rodriguez Parco Joseph Pablo                                                                  | Desarollo Capitulo 5              |
+| 1       | 07/09/2024 | Aliaga Urbina Wilder Gonzalo, Ramírez Cabrera Kenyi Efraín , Rodriguez Parco Joseph Pablo , Rojas Reategui Victor Manuel , Verona Flores Italo Sebastián  | Entrega TB1                       |
+| 1.1     | 27/09/2024 | Aliaga Urbina Wilder Gonzalo, Ramírez Cabrera Kenyi Efraín , Rojas Reategui Victor Manuel , Verona Flores Italo Sebastián                                 | Correciones TB1                   |
+| 2       | 27/09/2024 | Aliaga Urbina Wilder Gonzalo, Ramírez Cabrera Kenyi Efraín , Rodriguez Parco Joseph Pablo , Rojas Reategui Victor Manuel , Verona Flores Italo Sebastián  | Entrega TP                        |
 
 
 ## Project Report Collaboration Insights
