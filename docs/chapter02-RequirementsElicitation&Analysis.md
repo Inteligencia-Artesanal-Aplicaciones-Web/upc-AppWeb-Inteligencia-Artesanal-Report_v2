@@ -202,121 +202,153 @@ Hemos identificado diversas estrategias y tácticas para diferenciarse y competi
 ---
 #### 2.2.2. Registro de entrevistas
 
-##### Segmento objetivo #1: Negocios que utilizan equipos de refrigeración
+## Segmento objetivo #1: Negocios que utilizan equipos de refrigeración
 
-
----
-#### Entrevista 1:
+### Entrevista 1:
 
 - **Nombres y apellidos:** Adriana Moloche
 - **Edad:** 32
 - **Distrito:** San Martín de Porres
+- **Dispositivo móvil:** iPhone 11
+- **Navegador preferido:** Safari
+- **Marcas/influencias:** Tiendas de conveniencia Tambo, refrigeradores Samsung
 
-
-- ![Interview-1-segment-1.png](../assets/chapter02/Interview-1-segment-1.png)
-
+![Interview-1-segment-1.png](../assets/chapter02/Interview-1-segment-1.png)
 
 - **Inicio:** 0:02
 - **Duración:** 3:18 min
-- **URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220138_upc_edu_pe/EUSnM9J2IAJHggHYL2AGJEIBWavDtsQsp8swvVetaNGNOQ?e=0TNgA1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+- **URL:** [https://bit.ly/4j6lCpZ](https://bit.ly/4j6lCpZ)
 - **Resumen:** Adriana es emprendedora y dueña de una bodega tipo mini market, donde conserva productos como embutidos, gaseosas, aguas y otras bebidas en frío. Actualmente cuenta con dos equipos de refrigeración y ha experimentado pérdidas debido a fallas en sus equipos. Para monitorear el estado de estos, revisa manualmente la temperatura y el consumo de energía diariamente, y realiza el mantenimiento cada 20 días.
+
   No utiliza herramientas digitales para gestionar sus equipos, pero considera que sería completamente útil recibir alertas por fallas, variaciones de temperatura o consumo de energía. Además, le interesaría contar con un historial técnico y reportes automáticos por equipo tras cada servicio de mantenimiento, y estaría dispuesta a pagar una suscripción si esto le ayuda a evitar pérdidas.
+
   Para Adriana, una herramienta digital ideal debe incluir funcionalidades como control de temperatura y monitoreo de electricidad. Sin embargo, el precio sería un factor clave que podría desmotivarla a usarla; por ello, considera necesario probar un demo previo y tener planes de suscripción adaptables, ya sean mensuales o anuales.
 
 ---
-#### Entrevista 2:
+
+### Entrevista 2:
 - **Nombres y apellidos:** Luis Mamani Torres
 - **Edad:** 37
 - **Distrito:** Comas
+- **Dispositivo móvil:** Samsung Galaxy A53
+- **Navegador preferido:** Chrome
+- **Marcas/influencias:** Locales gastronómicos con alta calificación, Sheraton, equipos de refrigeración industrial LG
 
 ![Interview-2-segment-1.jpg](../assets/chapter02/Interview-2-segment-1.jpg)
+
 - **Inicio:** 0:25
 - **Duración:** 9:03 min
-- **URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223286_upc_edu_pe/EZpUpn4-Z8lEi6EC5ARiL_IBd8r8a3gLXm2QQ0OMfL59dw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=o03M2P
-- **Resumen:** Luis Mamani, es un emprendedor dueño de una cevichería muy bien calificada por los vecinos de Comas, ex trabajador coordinador de platos marinos en hoteles como el Sheraton, entre otros más, encargado de control de cocina en diversos restaurantes del Perú.
-  Actualmente, cuenta con equipos de refrigeración ya que para el rubro marino, todo debe estár en refrigeración, Luis recalca la diferencia entre refrigeración y congelación, porque en cevichería pocas cosas pueden estár congeladas, pero muchas pueden estár congeladas porque se toman como pérdidas.
-  Para Luis esta herramienta le ayudaría si tuviera que estár pendiente de muchos locales de cevicherías o así, ahora que él tiene un solo local, el se encarga de todo pero aclara la importancia que esto tiene a gran escala. Para Luis ahora el produto es interesante, está interesado en usarlo si tuviese garn escala.
-  Como ahora no lo tiene, quisiera usarlo para tener un control de los productos que tiene, y así no perderlos, ya que el ceviche es un producto muy delicado.
-  Luis menciona que no tiene un sistema de refrigeración, pero que le gustaría tenerlo, ya que ahora tiene un sistema de refrigeración, pero no tiene un sistema de monitoreo. Luis menciona que no tiene un sistema de monitoreo, pero que le gustaría tenerlo, ya que ahora tiene un sistema de monitoreo, pero no tiene un sistema de refrigeración.
-  Luis comenta que las empresas de refrigeración como avicolas, tienen estos sitemas pero no de manera tan sofiscticada como nuestra propuesta lo que realza valor en nuestro producto, que también dice que estarían dispuestos según su conocimiento a pagar, él también si tuviera una producción masiva.
+- **URL:** [https://bit.ly/45c4QlW](https://bit.ly/45c4QlW)
+- **Resumen:** Luis Mamani es emprendedor dueño de una cevichería muy bien calificada por los vecinos de Comas, ex trabajador coordinador de platos marinos en hoteles como el Sheraton, entre otros más, encargado de control de cocina en diversos restaurantes del Perú.
 
+  Actualmente cuenta con equipos de refrigeración ya que para el rubro marino, todo debe estar en refrigeración. Luis recalca la diferencia entre refrigeración y congelación, porque en cevichería pocas cosas pueden estar congeladas, ya que se considerarían como pérdidas.
 
-##### Segmento objetivo #2: Empresas proveedoras de servicios y equipos de refrigeración
+  Para Luis esta herramienta le ayudaría si tuviera que estar pendiente de muchos locales de cevicherías, ahora que él tiene un solo local, se encarga de todo pero aclara la importancia que esto tiene a gran escala. Para Luis el producto es interesante, y estaría interesado en usarlo si tuviera mayor escala.
 
----
-#### Entrevista 1:
+  Como actualmente no tiene múltiples locales, quisiera usar la herramienta para tener un control de los productos que mantiene refrigerados y así no perderlos, ya que el ceviche es un producto muy delicado.
+
+  Luis cuenta con un sistema de refrigeración pero no tiene un sistema de monitoreo digital. Menciona que empresas avícolas tienen sistemas similares pero no tan sofisticados como nuestra propuesta, lo que realza el valor de nuestro producto. Según su conocimiento, esas empresas estarían dispuestas a pagar por una solución así, y él también lo consideraría si tuviera una producción a mayor escala.
+
+## Segmento objetivo #2: Empresas proveedoras de servicios y equipos de refrigeración
+
+### Entrevista 1:
 
 - **Nombres y apellidos:** Wilder Canchan
 - **Edad:** 45
 - **Distrito:** Los Olivos
+- **Dispositivo móvil:** Xiaomi Redmi Note 10
+- **Navegador preferido:** Chrome
+- **Marcas/influencias:** Empresas de refrigeración comercial, Coldex, Miray
 
-
-- ![Interview-1-segment-2.png](../assets/chapter02/Interview-1-segment-2.png)
-
+![Interview-1-segment-2.png](../assets/chapter02/Interview-1-segment-2.png)
 
 - **Inicio:** 0:43
 - **Duración:** 7:03 min
-- **URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220138_upc_edu_pe/ES1Kw9TJaNZGszXWCTKRDwMBAXSTN5Xfq1nkndAnOnWqzA?e=4eLG4i&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
-- **Resumen:** Wilder es un empresario con 7 años de experiencia en mantenimiento de equipos de refrigeración y aire acondicionado. Él atiende entre 20 a 25 clientes al mes, principalmente restaurantes, bares y bodegas. En cuanto a la atención al cliente, su empresa solo utiliza un número telefónico para coordinar las visitas técnicas. Una de las dificultades que enfrenta su empresa es la mala coordinación entre el cliente y el servidor de mantenimiento en cuanto al punto de llegada. Esto se debe a la imprecisión de la ubicación que brindan ciertas herramientas de software y el tráfico vehicular. Su equipo técnico utiliza Google Maps para planificar rutas. Wilder considera útil una aplicación que le ayude a mejorar la gestión de los equipos de mantenimiento y de los técnicos, con reportes de fallas en tiempo real y mejor comunicación con el cliente. Él cree que el impacto de una aplicación así sería muy positiva, pues mejoraría la precisión de los servicios y conseguiría la satisfacción de sus clientes.
+- **URL:** [https://bit.ly/4jS816Q](https://bit.ly/4jS816Q)
+- **Resumen:** Wilder es un empresario con 7 años de experiencia en mantenimiento de equipos de refrigeración y aire acondicionado. Él atiende entre 20 a 25 clientes al mes, principalmente restaurantes, bares y bodegas. En cuanto a la atención al cliente, su empresa solo utiliza un número telefónico para coordinar las visitas técnicas.
+
+  Una de las dificultades que enfrenta su empresa es la mala coordinación entre el cliente y el servidor de mantenimiento en cuanto al punto de llegada. Esto se debe a la imprecisión de la ubicación que brindan ciertas herramientas de software y el tráfico vehicular. Su equipo técnico utiliza Google Maps para planificar rutas.
+
+  Wilder considera útil una aplicación que le ayude a mejorar la gestión de los equipos de mantenimiento y de los técnicos, con reportes de fallas en tiempo real y mejor comunicación con el cliente. Él cree que el impacto de una aplicación así sería muy positiva, pues mejoraría la precisión de los servicios y conseguiría la satisfacción de sus clientes.
 
 ---
 
-#### Entrevista 2:
+### Entrevista 2:
 
 - **Nombres y apellidos:** Jackeline Bravo
 - **Edad:** 36
 - **Distrito:** Comas
+- **Dispositivo móvil:** iPhone 12
+- **Navegador preferido:** Safari
+- **Marcas/influencias:** Microsoft Office, empresas con software de gestión integrado, servicios de refrigeración premium
 
-
-- ![Interview-2-segment-2.png](../assets/chapter02/Interview-2-segment-2.png)
-
+![Interview-2-segment-2.png](../assets/chapter02/Interview-2-segment-2.png)
 
 - **Inicio:** 0:30
 - **Duración:** 5:48 min
-- **URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220138_upc_edu_pe/EcXJ53phM5tErK0_8ysM4ZMBiNklNpj06tU3JQk9_GmjnQ?e=MwcjYd&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
-- **Resumen:** Jackeline es una empresaria dedicada en el área administrativa con 13 años de experiencia en el rubro de servicios y equipos de refrigeración. Actualmente atiende a dos clientes fijos y varios temporales, incluyendo servicios preventivos trimestrales y activaciones de equipos los fines de semana. Para gestionar el historial técnico de los equipos que provee o repara, utiliza hojas de cálculo en Excel. Una de las dificultades que enfrenta su empresa es la falta de un software que permita visualizar información en tiempo real, lo que impacta en la eficiencia y calidad del servicio. Para la planificación de rutas, su equipo técnico usa aplicaciones como Maps y cronogramas proporcionados por los clientes. Jacqueline considera que sería muy útil contar con una aplicación digital que optimice la gestión de datos, permita el ingreso de información en tiempo real desde dispositivos móviles, y facilite la recepción de alertas técnicas de fallas en los equipos.
+- **URL:** [https://bit.ly/43iyR14](https://bit.ly/43iyR14)
+- **Resumen:** Jackeline es una empresaria dedicada en el área administrativa con 13 años de experiencia en el rubro de servicios y equipos de refrigeración. Actualmente atiende a dos clientes fijos y varios temporales, incluyendo servicios preventivos trimestrales y activaciones de equipos los fines de semana.
+
+  Para gestionar el historial técnico de los equipos que provee o repara, utiliza hojas de cálculo en Excel. Una de las dificultades que enfrenta su empresa es la falta de un software que permita visualizar información en tiempo real, lo que impacta en la eficiencia y calidad del servicio.
+
+  Para la planificación de rutas, su equipo técnico usa aplicaciones como Maps y cronogramas proporcionados por los clientes. Jacqueline considera que sería muy útil contar con una aplicación digital que optimice la gestión de datos, permita el ingreso de información en tiempo real desde dispositivos móviles, y facilite la recepción de alertas técnicas de fallas en los equipos.
+
   Según ella, el impacto de una solución digital sería significativo, pues ahorraría tiempo, eliminaría procesos manuales, mejoraría la calidad del servicio, y aumentaría la satisfacción de sus clientes.
 
 ---
 
-#### Entrevista 3:
+### Entrevista 3:
 
 - **Nombres y apellidos:** Santiago Vique
 - **Edad:** 48
 - **Distrito:** San Martín de Porres
+- **Dispositivo móvil:** Samsung Galaxy S21
+- **Navegador preferido:** Firefox
+- **Marcas/influencias:** Grupo Backus, Grupo Mambrino, sistemas de refrigeración industrial europeos
 
-
-- ![Interview-3-segment-2.png](../assets/chapter02/Interview-3-segment-2.png)
-
+![Interview-3-segment-2.png](../assets/chapter02/Interview-3-segment-2.png)
 
 - **Inicio:** 0:11
 - **Duración:** 7:09 min
-- **URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220138_upc_edu_pe/EfsC5pRPvnVFovKrip9liqwB6Eea4CGfHAiILJt8Yn-H1w?e=881RuS&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
-- **Resumen:** Santiago es dueño de una empresa de venta y mantenimiento de equipos de refrigeración e instalación de cámaras frigoríficas, con 12 años de experiencia. Atiende principalmente a dos grandes clientes, el Grupo Backus y el Grupo Mambrino, y algunos clientes ambulatorios. Actualmente, no utiliza un sistema digital para gestionar el historial técnico de los equipos más allá de informes en PDF y Excel. Una de sus principales dificultades es la falta de información clara sobre las fallas de los equipos cuando coordina los servicios, lo que dificulta la preparación adecuada de herramientas y repuestos. Además, la planificación de rutas se realiza de manera manual, usando WhatsApp y Google Maps, lo que limita la eficiencia en tiempo real.
-  Santiago considera que una aplicación digital que permita gestionar equipos, recibir alertas sobre fallas y organizar las visitas técnicas mejoraría significativamente la eficiencia de su empresa. Cree que una solución digital reduciría costos, optimizaría el tiempo y mejoraría la calidad del servicio, lo que aumentaría la confianza y satisfacción de los clientes.
+- **URL:** [https://bit.ly/43gc8T9](https://bit.ly/43gc8T9)
+- **Resumen:** Santiago es dueño de una empresa de venta y mantenimiento de equipos de refrigeración e instalación de cámaras frigoríficas, con 12 años de experiencia. Atiende principalmente a dos grandes clientes, el Grupo Backus y el Grupo Mambrino, y algunos clientes ambulatorios.
 
+  Actualmente, no utiliza un sistema digital para gestionar el historial técnico de los equipos más allá de informes en PDF y Excel. Una de sus principales dificultades es la falta de información clara sobre las fallas de los equipos cuando coordina los servicios, lo que dificulta la preparación adecuada de herramientas y repuestos.
+
+  Además, la planificación de rutas se realiza de manera manual, usando WhatsApp y Google Maps, lo que limita la eficiencia en tiempo real. Santiago considera que una aplicación digital que permita gestionar equipos, recibir alertas sobre fallas y organizar las visitas técnicas mejoraría significativamente la eficiencia de su empresa.
+
+  Cree que una solución digital reduciría costos, optimizaría el tiempo y mejoraría la calidad del servicio, lo que aumentaría la confianza y satisfacción de los clientes.
 
 ---
 
+## 2.2.3. Análisis de entrevistas
 
-#### 2.2.3. Análisis de entrevistas
 Basándonos en las entrevistas, hemos llevado a cabo un análisis en el que destacamos los puntos compartidos y tendencias comunes entre los usuarios.
 
-**Segmento objetivo #2: EMPRESAS PROVEEDORAS DE SERVICIOS Y EQUIPOS DE REFRIGERACIÓN**
+### Hallazgos para el Segmento #1: NEGOCIOS QUE UTILIZAN EQUIPOS DE REFRIGERACIÓN
 
-**Hallazgos:**
+- Los entrevistados administran negocios donde la refrigeración es crítica para la calidad de sus productos.
+- Monitorean manualmente las temperaturas y el consumo de energía sin utilizar herramientas digitales.
+- Han experimentado pérdidas económicas directas debido a fallas en los equipos de refrigeración.
+- Muestran interés en recibir alertas por fallas, variaciones de temperatura o consumo energético.
+- El precio es un factor decisivo para la adopción de una nueva tecnología.
+- Valoran la posibilidad de probar un demo antes de comprometerse con una suscripción.
+- Los negocios de mayor escala perciben mayor valor en una solución de monitoreo digital.
+
+**Hypothesis Statement para Segmento #1:**
+"Los negocios pequeños y medianos que dependen de equipos de refrigeración para mantener la calidad de sus productos sufren pérdidas económicas significativas debido a la falta de monitoreo automatizado. Una solución digital que ofrezca alertas en tiempo real sobre fallas y variaciones de temperatura, con un modelo de precios flexible, reduciría estas pérdidas y mejoraría la eficiencia operativa."
+
+### Hallazgos para el Segmento #2: EMPRESAS PROVEEDORAS DE SERVICIOS Y EQUIPOS DE REFRIGERACIÓN
+
 - Algunos tienen más de 10 años de experiencia en el rubro.
 - Todos los entrevistados tienen como motivación principal brindar equipos de calidad y mejorar la eficiencia del servicio que ofrecen a sus clientes. Buscan optimizar los tiempos de respuesta y asegurar la satisfacción del cliente, especialmente en sectores que requieren atención técnica frecuente, como la refrigeración y el mantenimiento de equipos.
 - Los entrevistados comparten una motivación común, aunque sus prioridades varían en áreas como la optimización de la gestión de datos, la precisión en las intervenciones y la atención al cliente.
 - Todos mencionan que la coordinación de rutas es una dificultad, ya que actualmente se realiza de manera manual mediante WhatsApp, Google Maps, o cronogramas proporcionados por los clientes.
-- Algunos se centran más en los problemas asociados a la gestión de datos, mientras que otros destacan las dificultades relacionadas con las ubicaciones imprecisas y el tráfico vehicular.
 - La mayoría cree que a veces la labor ineficiente de coordinación del cliente es un problema, tanto para brindar su ubicación como para precisar la falla o problema de su equipo de refrigeración.
 - La falta de un sistema digital que centralice y facilite el acceso a los datos de los equipos y las intervenciones es otra limitante que impacta en la eficiencia de sus operaciones.
 - La mayoría de los entrevistados utilizan métodos tradicionales como Excel para gestionar el historial técnico de los equipos.
-- Todos están interesados en recibir alertas sobre fallas en los equipos en tiempo real, lo que les permitiría responder más rápido y con mayor precisión a los problemas.
 - Todos creen que una solución digital tendría un impacto positivo en su empresa.
-- Algunos anticipan un mayor impacto positivo en áreas específicas, como una buena gestión de tiempo, la reducción de costos y el aumento de la satisfacción tanto de los clientes como de los técnicos con los que colaboran.
-- Ninguno ha probado antes una solución digital que mejore la venta, gestión y mantenimiento de equipos de refrigeración más allá de las tradicionales.
+- Ninguno ha probado antes una solución digital que mejore la venta, gestión y mantenimiento de equipos de refrigeración más allá de herramientas tradicionales.
 
 **Análisis estadístico**
 
