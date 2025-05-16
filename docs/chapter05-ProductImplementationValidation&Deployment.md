@@ -850,7 +850,20 @@ En este segundo Sprint realizamos mejoras y correcciones de idioma en la Landing
 
 ##### 5.2.2.8. Team Collaboration Insights during Sprint
 
+Durante este Sprint, el equipo ha colaborado en el desarrollo de la Landing Page. Las actividades fueron gestionadas a través de GitHub, permitiendo una trazabilidad clara de los aportes de cada miembro del equipo. Se realizaron tareas de codificación, revisión, organización del repositorio y mejoras visuales y funcionales del producto.
 
+**LandingPage**
+
+![Insights-LandingPage-S2.png](../assets/chapter-05/sprint-2/Insights-LandingPage-S2.png)
+
+![Contributors-LandingPageS2.png](../assets/chapter-05/sprint-2/Contributors-LandingPageS2.png)
+
+
+**Frontend**
+
+![Insights-Frontend-S2.png](../assets/chapter-05/sprint-2/Insights-Frontend-S2.png)
+
+![Contributors-FrontendS2.png](../assets/chapter-05/sprint-2/Contributors-FrontendS2.png)
 
 ## Conclusiones
 
