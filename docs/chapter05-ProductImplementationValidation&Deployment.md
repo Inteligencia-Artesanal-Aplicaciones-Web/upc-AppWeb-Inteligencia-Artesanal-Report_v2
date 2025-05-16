@@ -736,7 +736,59 @@ Esto se confirmará cuando la landing page refleje los ajustes de diseño, la na
 
 ##### 5.2.2.2. Aspect Leaders and Collaborators
 
-
+Durante este segundo Sprint, el equipo se enfocó en la corrección de la Landing Page y en el desarrollo del Single Page Aplication (Frontend) de OsitoPolar.
+Con el fin de organizar de manera más eficiente el trabajo colaborativo, se ha elaborado la matriz de Liderazgo y Colaboración (LACX). Esta matriz asigna responsabilidades específicas a cada miembro del equipo en relación con los aspectos clave del Sprint.
+<table>
+  <tr>
+    <td colspan="2"><strong>Team Member (Last Name, First Name)</strong></td>
+    <td><strong>GitHub Username</strong></td>
+    <td><strong>Correcciones generales de la Landing Page<br>Leader (L) / Collaborator (C)</strong></td>
+    <td><strong>Implementación de la gestión de equipos de refrigeración<br>Leader (L) / Collaborator (C)</strong></td>
+    <td><strong>Implementación de gráficos analíticos<br>Leader (L) / Collaborator (C)</strong></td>
+    <td><strong>Despliegue de la aplicación web<br>Leader (L) / Collaborator (C)</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2">Ramírez Cabrera, Kenyi Efrain</td>
+    <td>Kenyi15upc</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td colspan="2">Rodriguez Parco Joseph Pablo </td>
+    <td>eJosR-Coding</td>
+    <td>L</td>
+    <td>L</td>
+    <td>L</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td colspan="2"> Aliaga Urbina Wilder Gonzalo </td>
+    <td>Gonzalo1905</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td colspan="2">Verona Flores Italo Sebastián
+</td>
+    <td>atomdragon1318</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td colspan="2">Rojas Reategui Victor Manuel </td>
+    <td>VRojas1603</td>
+    <td>C</td>
+    <td>C</td>
+    <td>C</td>
+    <td>L</td>
+  </tr>
+</table>
 
 ##### 5.2.2.3. Sprint Backlog 2
 
