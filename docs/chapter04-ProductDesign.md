@@ -317,7 +317,7 @@ En esta sección se presentan y detallan los mock-ups de las aplicaciones de Osi
 ![Solicitudes-Empresa.png](../assets/chapter04/Web%20Applications%20Mock-ups/Solicitudes-Empresa.png)
 ![ÓrdenesDeTrabajo-Empresa.png](../assets/chapter04/Web%20Applications%20Mock-ups/%C3%93rdenesDeTrabajo-Empresa.png)
 
-Link de los mockups: https://www.figma.com/design/flGQQP3T3S1hLfh0I72Exj/Aplicaciones-Web?node-id=2313-3&t=UphT97uJSGQzmQl1-1
+Link de los mockups: https://www.figma.com/design/wptd1wiA5c1y2cizdROcMY/Aplicaciones-Web-TP?node-id=2313-3&t=yAzKntbxeGDWIAGd-1
 
 #### 4.4.4. Web Applications User Flow Diagrams
 A continuación un diagrama que representa los user goals.
