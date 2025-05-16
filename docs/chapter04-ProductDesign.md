@@ -370,7 +370,7 @@ En esta sección se presenta el diseño de software orientado a objetos para Osi
 
 El diagrama de clases proporciona una representación visual de las clases del sistema, sus atributos y las relaciones entre ellas.
 
-![Clase UML.png](../assets/chapter04/Software-Object-oriented-design/Clase%20UML.png)
+![Class-UML.png](../assets/chapter04/Class-UML.png)
 
 #### 4.7.2. Class Dictionary
 
@@ -444,8 +444,10 @@ El diagrama de clases proporciona una representación visual de las clases del s
 
 Esta sección presenta la estructura lógica del sistema desde el punto de vista de almacenamiento y organización de los datos. Se describen las entidades principales del sistema, sus atributos, tipos de datos y relaciones entre ellas. El modelo de base de datos ha sido diseñado para garantizar integridad, consistencia y eficiencia en el acceso a la información.
 
+
+
 #### 4.8.1. Database Diagram
 
 El diagrama de base de datos ilustra gráficamente cómo se relacionan las tablas dentro del sistema, incluyendo sus claves primarias, claves foráneas y los tipos de relaciones existentes (uno a uno, uno a muchos o muchos a muchos).
 
-![diagrama-clase.png](../assets/chapter04/diagrama-clase.png)
+![diagram-class.png](../assets/chapter04/diagram-class.png)
