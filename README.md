@@ -43,8 +43,18 @@
 URL de la organización del proyecto:
 https://github.com/Inteligencia-Artesanal-Aplicaciones-Web
 
-URL del repositorio del informe del proyecto:
+
+URL del repositorio del informe del proyecto en TB1:
 https://github.com/Inteligencia-Artesanal-Aplicaciones-Web/upc-AppWeb-Inteligencia-Artesanal-Report
+
+
+URL del repositorio del informe del proyecto en TP:
+https://github.com/Inteligencia-Artesanal-Aplicaciones-Web/upc-AppWeb-Inteligencia-Artesanal-Report_v2
+
+Insights:
+
+<img src="assets/chapter01/insightsTP.png" alt="insightsTB1" style="zoom: 40%;" />
+
 
 ## Contenido
 
