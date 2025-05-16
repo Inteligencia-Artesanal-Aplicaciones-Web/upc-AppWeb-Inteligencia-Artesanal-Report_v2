@@ -177,7 +177,7 @@ Visión: Queremos ser la empresa lider en gestión y mantenimiento de equipos de
 | **Código del Estudiante** | U202223286 |
 | **Carrera** | Ingeniería de Software |
 | **Descripción** | Estudiante de Ingeniería de Software con afinidad por proyectos Web, Interesado en ML, Data Science y aprender por sobre todas las cosas. |
-| **Foto** | <img src="../assets/chapter01/Joseph-Rodriguez-Picture.png" alt="Joseph" width="200" height="200"> |
+| **Foto** | <img src="assets/chapter01/Joseph-Rodriguez-Picture.png" alt="Joseph" width="200" height="200"> |
 
 ---
 
@@ -186,7 +186,7 @@ Visión: Queremos ser la empresa lider en gestión y mantenimiento de equipos de
 | **Código del Estudiante** | U202222001 |
 | **Carrera** | Ingeniería de Software |
 | **Descripción** | Soy Gonzalo Aliaga, tengo 19 años y actualmente curso el sexto ciclo de la carrera de Ingeniería de Software. Me caracterizo por mi sentido de responsabilidad y mi habilidad para trabajar en equipo. Disfruto colaborar con mis compañeros y aportar al cumplimiento de objetivos en el ámbito académico y en proyectos grupales. Poseo experiencia en diversos lenguajes de programación, como C++, Python y Java, además de conocimientos en bases de datos SQL y NoSQL. |
-| **Foto** | <img src="../assets/chapter01/Gonzalo-Aliaga-picture.png" alt="Gonzalo" width="200" height="200"> |
+| **Foto** | <img src="assets/chapter01/Gonzalo-Aliaga-picture.png" alt="Gonzalo" width="200" height="200"> |
 
 ---
 
@@ -195,7 +195,7 @@ Visión: Queremos ser la empresa lider en gestión y mantenimiento de equipos de
 | **Código del Estudiante** | U202123655 |
 | **Carrera** | Ingeniería de Software |
 | **Descripción** | Soy Victor Rojas y voy en el 5to ciclo de la carrera de Ingeniería de Software. Me gusta lo rápido que cambia la tecnología en la actualidad, por lo que este curso me ayudará a expandir mis conocimientos y a explorar nuevas aplicaciones de mi carrera que no había experimentado antes. |
-| **Foto** | <img src="../assets/chapter01/Victor-Rojas-Picture.jpg" alt="Victor" width="200" height="200"> |
+| **Foto** | <img src="assets/chapter01/Victor-Rojas-Picture.jpg" alt="Victor" width="200" height="200"> |
 
 ---
 
@@ -204,7 +204,7 @@ Visión: Queremos ser la empresa lider en gestión y mantenimiento de equipos de
 | **Código del Estudiante** | U20221E617 |
 | **Carrera** | Ingeniería de Software |
 | **Descripción** | Mi nombre es Italo Verona, tengo 20 años y actualmente curso el 5to ciclo de la carrera de Ingeniería de Software en la UPC. Una vez terminé la carrera quisiera especializarme en ciberseguridad en el país de España. Luego quisiera vivir en Finlandia. El objetivo de estudiar ciberseguridad es poder reforzar la seguridad informática que hoy en día es muy peligrosa ya sea para las personas o las empresas de todo el mundo. |
-| **Foto** | <img src="../assets/chapter01/Italo-Verona-Picture.jpg" alt="Italo" width="200" height="200"> |
+| **Foto** | <img src="assets/chapter01/Italo-Verona-Picture.jpg" alt="Italo" width="200" height="200"> |
 
 ---
 
@@ -213,7 +213,7 @@ Visión: Queremos ser la empresa lider en gestión y mantenimiento de equipos de
 | **Código del Estudiante** | U202220138 |
 | **Carrera** | Ingeniería de Software |
 | **Descripción** | Soy Kenyi Ramirez, estudio la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Soy una persona comprometida y trabajadora. Poseo un nivel intermedio en los lenguajes C++, Python, Java y HTML, los cuales aplico para garantizar resultados efectivos en mis tareas. |
-| **Foto** | <img src="../assets/chapter01/Kenyi-Ramirez-Picture.png" alt="Kenyi" width="200" height="200"> |
+| **Foto** | <img src="assets/chapter01/Kenyi-Ramirez-Picture.png" alt="Kenyi" width="200" height="200"> |
 ## 1.2 Solution Profile
 
 ### 1.2.1 Antecedentes y Problematica
