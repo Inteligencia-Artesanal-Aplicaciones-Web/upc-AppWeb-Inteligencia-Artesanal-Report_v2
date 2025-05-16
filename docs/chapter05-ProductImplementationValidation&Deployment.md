@@ -845,6 +845,8 @@ En este segundo Sprint realizamos mejoras y correcciones de idioma en la Landing
 
 ##### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
+No se emplearon servicios adicionales, ya que este primer sprint se centró exclusivamente en la implementación de la primera versión del web application.
+
 ##### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
 
