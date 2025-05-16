@@ -243,6 +243,53 @@ Los wireframes de las aplicaciones web de OsitoPolar delinean la estructura y or
 #### 4.4.2. Web Applications Wireflow Diagrams
 En esta sección se presentan los Wireflows para cada objetivo del usuario, teniendo en cuenta los User Personas relevantes. Cada diagrama ilustra el flujo de interacción del usuario y cómo las acciones realizadas afectan las pantallas dentro de la aplicación.
 
+
+### **User Goal 1**: 
+Como dueño de un negocio que utiliza equipos de refrigeración quiero estar pendiente del estado de cada equipo registrado.
+
+**Task Flow**
+![taskflow1.png](../assets/chapter04/wireflows/taskflow1.png)
+
+**Wireflow**
+![wireflow1.png](../assets/chapter04/wireflows/wireflow1.png)
+
+### **User Goal 2**:
+Como dueño de un negocio que utiliza equipos de refrigeración quiero lograr administrar los nuevos equipos que registre.
+
+**Task Flow**
+![taskflow2.png](../assets/chapter04/wireflows/taskflow2.png)
+
+**Wireflow**
+![wireflow2.png](../assets/chapter04/wireflows/wireflow2.png)
+
+### **User Goal 3**:
+Como dueño de un negocio que utiliza equipos de refrigeración quiero revisar las estadísticas completas de mis equipos.
+
+**Task Flow**
+![taskflow3.png](../assets/chapter04/wireflows/taskflow3.png)
+
+**Wireflow**
+![wireflow3.png](../assets/chapter04/wireflows/wireflow3.png)
+
+### **User Goal 4**:
+Como dueño de un negocio que utiliza equipos de refrigeración quiero pedir nuevos equipos a un proveedor de manera sencilla.
+
+**Task Flow**
+![taskflow4.png](../assets/chapter04/wireflows/taskflow4.png)
+
+**Wireflow**
+![wireflow4.png](../assets/chapter04/wireflows/wireflow4.png)
+
+### **User Goal 5**:
+Como proveedor de equipos de refrigeración quiero estar pendiente de los ordenes de pedios de mis clientes.
+
+**Task Flow**
+![taskflow5.png](../assets/chapter04/wireflows/taskflow5.png)
+
+**Wireflow**
+![wireflow5.png](../assets/chapter04/wireflows/wireflow5.png)
+
+
 ### **Registro y Perfil de Empresa**:
 Este flujo de usuario corresponde al proceso de registro de una nueva empresa. En este flujo, el usuario ingresa la información empresarial, como nombre de la empresa y datos de contacto. Al completar el registro, la empresa pasa a estar registrada en la plataforma, con acceso a todas las funcionalidades de gestión de equipos.
 
