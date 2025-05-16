@@ -328,7 +328,7 @@ A continuación un diagrama que representa los user goals.
 
 ### 4.5. Web Applications Prototyping
 A continuación se presenta el prototipo de la aplicación web de OsitoPolar, el cual permite a los usuarios interactuar con la interfaz y explorar las diversas secciones de la plataforma. Este prototipo incluye las funcionalidades clave y características de la aplicación, proporcionando una vista preliminar de la experiencia del usuario. Además, facilita la evaluación y prueba de la interfaz antes de su implementación final, asegurando que el diseño sea intuitivo y eficiente.
-Link del prototipo: https://www.figma.com/proto/flGQQP3T3S1hLfh0I72Exj/Aplicaciones-Web?node-id=2380-1261&p=f&t=oDeAQCXay9dwRQG6-1&scaling=min-zoom&content-scaling=fixed&page-id=2313%3A3&starting-point-node-id=2380%3A1233&show-proto-sidebar=1
+Link del prototipo: https://www.figma.com/proto/wptd1wiA5c1y2cizdROcMY/Aplicaciones-Web-TP?node-id=6346-844&p=f&t=PTAD0lXOTj8X82e1-1&scaling=min-zoom&content-scaling=fixed&page-id=2313%3A3&starting-point-node-id=6346%3A1750
 
 ### 4.6 Domain Driven Software Architecture
 En esta sección se presenta la arquitectura de software basada en el dominio para OsitoPolar. Se detallan los diferentes diagramas que ilustran la estructura y organización del sistema, así como los componentes clave que lo integran, mostrando cómo se interconectan para proporcionar una solución eficiente y escalable.
