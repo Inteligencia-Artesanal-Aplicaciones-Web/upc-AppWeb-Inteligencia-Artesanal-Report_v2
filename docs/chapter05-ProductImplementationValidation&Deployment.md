@@ -983,11 +983,42 @@ No se emplearon servicios adicionales, ya que este segundo sprint se centró exc
 
 ##### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
+Durante este Sprint hemos desplegado el frontend.
 
+- Usaremos Beeceptor es una herramienta en línea para probar y depurar APIs.
+
+![deployment0-s2.png](../assets/chapter-05/sprint-2/deployment0-s2.png)
+
+![deployment01-s2.png](../assets/chapter-05/sprint-2/deployment01-s2.png)
+
+
+- Usaremos Firebase, el cuál es una plataforma de desarrollo de Google que ofrece servicios backend listos para usar, como autenticación, bases de datos en tiempo real, notificaciones y, en este caso, hosting web estático.
+![deployment1-S2.png](../assets/chapter-05/sprint-2/deployment1-S2.png)
+
+![deployment2-s2.png](../assets/chapter-05/sprint-2/deployment2-s2.png)
+
+![deployment3-S2.png](../assets/chapter-05/sprint-2/deployment3-S2.png)
+
+![deployment4-S2.png](../assets/chapter-05/sprint-2/deployment4-S2.png)
+
+![deployment6-S2.png](../assets/chapter-05/sprint-2/deployment6-S2.png)
+
+![deployment7-S2.png](../assets/chapter-05/sprint-2/deployment7-S2.png)
+
+![deployment9-S2.png](../assets/chapter-05/sprint-2/deployment9-S2.png)
+
+![deployment11-S2.png](../assets/chapter-05/sprint-2/deployment11-S2.png)
+
+![deployment12-S2.png](../assets/chapter-05/sprint-2/deployment12-S2.png)
+
+
+- Finalmente se puede visualizar nuestro proyecto desplegado.
+
+![deploymentfinalS2.png](../assets/chapter-05/sprint-2/deploymentfinalS2.png)
 
 ##### 5.2.2.8. Team Collaboration Insights during Sprint
 
-Durante este Sprint, el equipo ha colaborado en el desarrollo de la Landing Page. Las actividades fueron gestionadas a través de GitHub, permitiendo una trazabilidad clara de los aportes de cada miembro del equipo. Se realizaron tareas de codificación, revisión, organización del repositorio y mejoras visuales y funcionales del producto.
+Durante este Sprint, el equipo ha colaborado en el desarrollo del frontend y correcciones de diseño e idioma. Los miembros del equipo revisaban y señalaban ciertos errores a quién se encargaba de los commits. Por falta de tiempo y experiencia en el equipo no se pudo realizar una colaboración perfecta. Las actividades fueron gestionadas a través de GitHub, permitiendo una trazabilidad clara de los aportes de cada miembro del equipo. Se realizaron tareas de codificación, revisión, organización del repositorio y mejoras visuales y funcionales del producto.
 
 **LandingPage**
 
