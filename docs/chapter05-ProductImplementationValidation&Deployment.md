@@ -1,4 +1,4 @@
-## Capítulo V: Product Implementation, Validation & Deployment <a id="c5"></a>
+## Capítulo V: Product Implementation, Validation & Deployment 
 
 ### 5.1. Software Configuration Management
 #### 5.1.1. Software Development Environment Configuration
@@ -742,22 +742,92 @@ Esto se confirmará cuando la landing page refleje los ajustes de diseño, la na
 
 El objetivo principal de este Sprint es elaborar la Single Page Aplication (frontend) de nuestra plataforma OsitoPolar. Para ello, dividimos el desarrollo de esta según las User Stories pertenecientes a la Epic y prioridad enfocada a los usuarios. La plataforma elegida para ser la herramienta de control de tareas fue Trello.
 
-
+![sprintbacklog2.png](../assets/chapter-05/sprint2/sprintbacklog2.png)
 ##### 5.2.2.4. Development Evidence for Sprint Review
 
 En este segundo Sprint hemos realizado la implementación de nuestra Single Page Aplication. En la siguiente tabla se muestran los commits realizados.
 
+<table border="1" cellpadding="5" cellspacing="0">
+  <tr>
+    <th>Repository</th>
+    <th>Branch</th>
+    <th>Commit Id</th>
+    <th>Commit Message</th>
+    <th>Commited on (Date)</th>
+  </tr>
+  <tr><td>Inteligencia-Artesanal-Aplicaciones-Web</td><td>fix/home</td><td>9e50deb</td><td>Merge pull request #6 from Inteligencia-Artesanal-Aplicaciones-Web/fix/home</td><td>15/05/2025</td></tr>
+  <tr><td>Inteligencia-Artesanal-Aplicaciones-Web</td><td>fix/home</td><td>f5757cd</td><td>fix: refine temperature display logic and update equipment list title</td><td>15/05/2025</td></tr>
+  <tr><td>Inteligencia-Artesanal-Aplicaciones-Web</td><td>fix/home</td><td>1cc49e1</td><td>fix: update default redirect route to point to home</td><td>15/05/2025</td></tr>
+  <tr><td>Inteligencia-Artesanal-Aplicaciones-Web</td><td>feat/equipment-crud</td><td>f2f91b0</td><td>Merge pull request #5 from Inteligencia-Artesanal-Aplicaciones-Web/feat/equipment-crud</td><td>15/05/2025</td></tr>
+  <tr><td>Inteligencia-Artesanal-Aplicaciones-Web</td><td>feat/equipment-crud</td><td>b6f831d</td><td>feat: implement CRUD operations for equipment with modal form</td><td>15/05/2025</td></tr>
+  <tr><td>Inteligencia-Artesanal-Aplicaciones-Web</td><td>fix/db-json-update</td><td>4bf0491</td><td>Merge pull request #4 from Inteligencia-Artesanal-Aplicaciones-Web/fix/db-json-update</td><td>15/05/2025</td></tr>
+  <tr><td>Inteligencia-Artesanal-Aplicaciones-Web</td><td>fix/db-json-update</td><td>f15a1e0</td><td>fix: update db.json with additional temperature readings and daily averages for equipment 2</td><td>15/05/2025</td></tr>
+  <tr><td>Inteligencia-Artesanal-Aplicaciones-Web</td><td>fix/equipment</td><td>a65d5ea</td><td>Merge pull request #3 from Inteligencia-Artesanal-Aplicaciones-Web/fix/equipment</td><td>15/05/2025</td></tr>
+  <tr><td>Inteligencia-Artesanal-Aplicaciones-Web</td><td>fix/equipment</td><td>72661b2</td><td>fix: add location map component to equipment analytics and enhance summary display</td><td>15/05/2025</td></tr>
+  <tr><td>Inteligencia-Artesanal-Aplicaciones-Web</td><td>fix/equipment</td><td>c81fc4f</td><td>fix: update import path for EquipmentAnalyticsComponent</td><td>15/05/2025</td></tr>
+  <tr><td>Inteligencia-Artesanal-Aplicaciones-Web</td><td>fix/equipment</td><td>711e2a5</td><td>fix: add route for equipment analytics component</td><td>15/05/2025</td></tr>
+  <tr><td>Inteligencia-Artesanal-Aplicaciones-Web</td><td>fix/equipment</td><td>cbf3cf4</td><td>fix: enhance equipment control panel with mini analytics preview and temperature charts</td><td>15/05/2025</td></tr>
+  <tr><td>Inteligencia-Artesanal-Aplicaciones-Web</td><td>fix/equipment</td><td>29e21e6</td><td>feat: add equipment analytics component with temperature readings and charts</td><td>15/05/2025</td></tr>
+  <tr><td>Inteligencia-Artesanal-Aplicaciones-Web</td><td>fix/equipment</td><td>1d569c4</td><td>fix: rename analytics service file for consistency</td><td>15/05/2025</td></tr>
+  <tr><td>Inteligencia-Artesanal-Aplicaciones-Web</td><td>feat/notifications</td><td>b07cd2a</td><td>Merge pull request #2 from Inteligencia-Artesanal-Aplicaciones-Web/feat/notifications</td><td>15/05/2025</td></tr>
+  <tr><td>Inteligencia-Artesanal-Aplicaciones-Web</td><td>feat/notifications</td><td>f175b59</td><td>fix: update equipment and notification descriptions</td><td>15/05/2025</td></tr>
+  <tr><td>Inteligencia-Artesanal-Aplicaciones-Web</td><td>feat/notifications</td><td>83a6251</td><td>feat: add navigation to notifications page from navbar</td><td>15/05/2025</td></tr>
+  <tr><td>Inteligencia-Artesanal-Aplicaciones-Web</td><td>feat/notifications</td><td>b23be6b</td><td>feat: create notifications page component for viewing and managing user notifications</td><td>15/05/2025</td></tr>
+  <tr><td>Inteligencia-Artesanal-Aplicaciones-Web</td><td>feat/notifications</td><td>fe286b7</td><td>feat: create notifications page component for viewing and managing user notifications</td><td>15/05/2025</td></tr>
+  <tr><td>Inteligencia-Artesanal-Aplicaciones-Web</td><td>feat/notifications</td><td>a15a9c6</td><td>feat: add notification components for displaying and managing user notifications</td><td>15/05/2025</td></tr>
+  <tr><td>Inteligencia-Artesanal-Aplicaciones-Web</td><td>feat/notifications</td><td>3a37494</td><td>feat: implement NotificationService for managing user notifications</td><td>15/05/2025</td></tr>
+  <tr><td>Inteligencia-Artesanal-Aplicaciones-Web</td><td>feat/notifications</td><td>fce8643</td><td>feat: add Notification entity to manage user notifications</td><td>15/05/2025</td></tr>
+  <tr><td>Inteligencia-Artesanal-Aplicaciones-Web</td><td>feat/equipment-management</td><td>441e368</td><td>Merge pull request #1 from Inteligencia-Artesanal-Aplicaciones-Web/feat/equipment-management</td><td>15/05/2025</td></tr>
+  <tr><td>Inteligencia-Artesanal-Aplicaciones-Web</td><td>feat/equipment-management</td><td>da969a3</td><td>Merge remote-tracking branch 'origin/feat/equipment-management' into feat/equipment-management</td><td>14/05/2025</td></tr>
+  <tr><td>Inteligencia-Artesanal-Aplicaciones-Web</td><td>feat/equipment-management</td><td>fb813fe</td><td>feat: update IDs to string format and adjust temperature values in db.json</td><td>14/05/2025</td></tr>
+  <tr><td>Inteligencia-Artesanal-Aplicaciones-Web</td><td>feat/equipment-management</td><td>2cdeb26</td><td>feat: update equipment power toggle component and enhance routing for equipment module</td><td>14/05/2025</td></tr>
+  <tr><td>Inteligencia-Artesanal-Aplicaciones-Web</td><td>feat/equipment-management</td><td>85c5f44</td><td>feat: enhance equipment card styles with border color indicators</td><td>14/05/2025</td></tr>
+  <tr><td>Inteligencia-Artesanal-Aplicaciones-Web</td><td>feat/equipment-management</td><td>04ad3ab</td><td>feat: register ToggleSwitch and Slider components in main.js</td><td>14/05/2025</td></tr>
+  <tr><td>Inteligencia-Artesanal-Aplicaciones-Web</td><td>feat/equipment-management</td><td>245ec95</td><td>feat: integrate ToggleSwitch component for equipment power toggle functionality</td><td>14/05/2025</td></tr>
+  <tr><td>Inteligencia-Artesanal-Aplicaciones-Web</td><td>feat/equipment-management</td><td>0907fc4</td><td>feat: add EquipmentDetail component for displaying equipment information and controls</td><td>14/05/2025</td></tr>
+  <tr><td>Inteligencia-Artesanal-Aplicaciones-Web</td><td>feat/equipment-management</td><td>ab2b56a</td><td>feat: enhance EquipmentControlPanel with temperature and power controls</td><td>14/05/2025</td></tr>
+  <tr><td>Inteligencia-Artesanal-Aplicaciones-Web</td><td>feat/equipment-management</td><td>47e9fa2</td><td>feat: add EquipmentService for managing equipment operations</td><td>14/05/2025</td></tr>
+  <tr><td>Inteligencia-Artesanal-Aplicaciones-Web</td><td>feat/equipment-management</td><td>66791bc</td><td>feat: add EquipmentTemperatureControl component template</td><td>14/05/2025</td></tr>
+  <tr><td>Inteligencia-Artesanal-Aplicaciones-Web</td><td>feat/equipment-management</td><td>b8ef7f7</td><td>feat: add EquipmentPowerToggle component template</td><td>14/05/2025</td></tr>
+  <tr><td>Inteligencia-Artesanal-Aplicaciones-Web</td><td>feat/equipment-management</td><td>f55ea7e</td><td>feat: add EquipmentInfoCard component template</td><td>14/05/2025</td></tr>
+  <tr><td>Inteligencia-Artesanal-Aplicaciones-Web</td><td>feat/equipment-management</td><td>984b4b4</td><td>feat: add EquipmentControlPanel component template</td><td>14/05/2025</td></tr>
+  <tr><td>Inteligencia-Artesanal-Aplicaciones-Web</td><td>feat/equipment-management</td><td>b240664</td><td>feat: add Equipment entity for refrigeration management and monitoring</td><td>14/05/2025</td></tr>
+  <tr><td>Inteligencia-Artesanal-Aplicaciones-Web</td><td>feat/equipment-management</td><td>eb4a2da</td><td>feat: add AnalyticsService for handling equipment data and temperature analytics</td><td>14/05/2025</td></tr>
+  <tr><td>Inteligencia-Artesanal-Aplicaciones-Web</td><td>feat/equipment-management</td><td>b4ab105</td><td>feat: update IDs to string format and adjust temperature values in db.json</td><td>14/05/2025</td></tr>
+  <tr><td>Inteligencia-Artesanal-Aplicaciones-Web</td><td>feat/equipment-management</td><td>3f3eca4</td><td>feat: update equipment power toggle component and enhance routing for equipment module</td><td>14/05/2025</td></tr>
+  <tr><td>Inteligencia-Artesanal-Aplicaciones-Web</td><td>feat/equipment-management</td><td>d40bba0</td><td>feat: enhance equipment card styles with border color indicators</td><td>14/05/2025</td></tr>
+  <tr><td>Inteligencia-Artesanal-Aplicaciones-Web</td><td>feat/equipment-management</td><td>aaa0ad57</td><td>feat: register ToggleSwitch and Slider components in main.js</td><td>14/05/2025</td></tr>
+  <tr><td>Inteligencia-Artesanal-Aplicaciones-Web</td><td>feat/equipment-management</td><td>551232f</td><td>feat: integrate ToggleSwitch component for equipment power toggle functionality</td><td>14/05/2025</td></tr>
+  <tr><td>Inteligencia-Artesanal-Aplicaciones-Web</td><td>feat/equipment-management</td><td>701faf5</td><td>feat: add EquipmentList component for displaying a list of all equipment</td><td>14/05/2025</td></tr>
+  <tr><td>Inteligencia-Artesanal-Aplicaciones-Web</td><td>feat/equipment-management</td><td>d32410b</td><td>feat: add EquipmentList component for displaying a list of all equipment</td><td>14/05/2025</td></tr>
+  <tr><td>Inteligencia-Artesanal-Aplicaciones-Web</td><td>feat/equipment-management</td><td>135131f</td><td>feat: add EquipmentList component for displaying a list of all equipment</td><td>14/05/2025</td></tr>
+  <tr><td>Inteligencia-Artesanal-Aplicaciones-Web</td><td>feat/equipment-management</td><td>247a90b</td><td>feat: add EquipmentInfoCard component for displaying detailed equipment information</td><td>14/05/2025</td></tr>
+  <tr><td>Inteligencia-Artesanal-Aplicaciones-Web</td><td>feat/equipment-management</td><td>e8a8d25</td><td>feat: add EquipmentDetail component for displaying equipment information and controls</td><td>14/05/2025</td></tr>
+  <tr><td>Inteligencia-Artesanal-Aplicaciones-Web</td><td>feat/equipment-management</td><td>7a24fe2</td><td>feat: enhance EquipmentControlPanel with temperature and power controls</td><td>14/05/2025</td></tr>
+  <tr><td>Inteligencia-Artesanal-Aplicaciones-Web</td><td>feat/equipment-management</td><td>8748252</td><td>feat: add EquipmentService for managing equipment operations</td><td>14/05/2025</td></tr>
+  <tr><td>Inteligencia-Artesanal-Aplicaciones-Web</td><td>feat/equipment-management</td><td>3ffe9c7</td><td>feat: add EquipmentTemperatureControl component template</td><td>14/05/2025</td></tr>
+  <tr><td>Inteligencia-Artesanal-Aplicaciones-Web</td><td>feat/equipment-management</td><td>7ab6766</td><td>feat: add EquipmentPowerToggle component template</td><td>14/05/2025</td></tr>
+  <tr><td>Inteligencia-Artesanal-Aplicaciones-Web</td><td>feat/equipment-management</td><td>ede6f82</td><td>feat: add EquipmentInfoCard component template</td><td>14/05/2025</td></tr>
+  <tr><td>Inteligencia-Artesanal-Aplicaciones-Web</td><td>feat/equipment-management</td><td>0cf641f</td><td>feat: add EquipmentControlPanel component template</td><td>14/05/2025</td></tr>
+  <tr><td>Inteligencia-Artesanal-Aplicaciones-Web</td><td>feat/equipment-management</td><td>99bd05f</td><td>feat: add Equipment entity for refrigeration management and monitoring</td><td>14/05/2025</td></tr>
+  <tr><td>Inteligencia-Artesanal-Aplicaciones-Web</td><td>feat/equipment-management</td><td>df417fd</td><td>merge: add dashboard analytics feature</td><td>14/05/2025</td></tr>
+</table>
+
 
 
 ##### 5.2.2.5. Execution Evidence for Sprint Review
-
+A continuación se entrega el enlace a la landing page actualizada: https://inteligencia-artesanal-aplicaciones-web.github.io/Landing-Page/
 ##### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+No se emplearon servicios adicionales, ya que este primer sprint se centró exclusivamente en la implementación de la primera versión del web application.
 
 ##### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
 
 ##### 5.2.2.8. Team Collaboration Insights during Sprint
+Durante este sprint, todo el equipo colaboró activamente en el diseño de la interfaz de la primera versión de la aplicación frontend, enfocándose en crear una experiencia visual coherente y amigable para el usuario. Mientras tanto, Kenyi y Joseph llevaron a cabo la implementación del frontend de la aplicación, desarrollando la funcionalidad y asegurando que el código respondiera adecuadamente a los requerimientos definidos.
 
+![sprint2insights.png](../assets/chapter-05/sprint2/sprint2insights.png)
 
 
 ## Conclusiones
