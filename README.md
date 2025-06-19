@@ -2703,7 +2703,59 @@ Durante este Sprint, el equipo ha colaborado en el desarrollo del frontend y cor
 
 ### 5.2.3.1. Sprint Planning 3
 
+<table>
+<tr>
+    <th colspan="5">Sprint 3</th>
+    <th colspan="9">Sprint 3</th>
+  </tr>
+      <tr>
+    <td colspan="13">Sprint Planning Background</td>
+  </tr>
+  <tr>
+    <td colspan="5">Date</td>
+    <td colspan="8">2025-06-05</td>
+</tr>
+  <tr>
+    <td colspan="5">Time</td>
+    <td colspan="8">10:30 PM</td>
+  </tr>
+  <tr>
+    <td colspan="5">Location</td>
+    <td colspan="8">Via Discord</td>
+<tr>
+    <td colspan="5">Prepared By</td>
+    <td colspan="8">Kenyi Ramirez</td>
+</tr>
+<tr>
+    <td colspan="5">Attendees (to planning meeting)</td>
+    <td colspan="8">Joseph Rodriguez, Wilder Aliaga, Victor Rojas, Italo Verona</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 2 Review Summary</td>
+    <td colspan="8">Se realizó el primer despliegue de la web application, implementando funcionalidades básicas como la creación de servicios y visualización de datos.</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 2 Retrospective Summary</td>
+    <td colspan="8">Hubo un incremento considerable en la productividad y compromiso del equipo hacia el trabajo. Ademá se plantearon las bases para una organización efectiva.</td>
+</tr>
+<tr>
+    <td colspan="13">Sprint Goal & User Stories</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 3 Goal</td>
+       <td colspan="8">Nuestro enfoque para este sprint es consolidar una versión integrada del Landing Page, el Frontend de la plataforma y una versión funcional del Backend que gestione las principales entidades del sistema OsitoPolar. Esta integración permitirá que los usuarios puedan acceder a la aplicación web directamente desde el Landing Page, mejorando la experiencia de navegación y conexión entre módulos.
 
+Desde el lado del backend, desarrollaremos una versión inicial que permita la gestión de entidades clave como: equipos, solicitudes de servicio, técnicos, órdenes de trabajo y suscripciones. Esto permitirá a los desarrolladores realizar operaciones CRUD sobre estos recursos y conectar la lógica de negocio con la base de datos.</td>
+
+</tr>
+<tr>
+    <td colspan="5">Sprint 3 Velocity</td>
+    <td colspan="8">32</td>
+<tr>
+    <td colspan="5">Sum of Story Points</td>
+    <td colspan="8">30</td>
+</tr>
+</table>
 
 ##### 5.2.3.2. Sprint Backlog 3.
 
