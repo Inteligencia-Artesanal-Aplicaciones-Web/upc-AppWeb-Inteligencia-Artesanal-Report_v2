@@ -2711,6 +2711,245 @@ Durante este Sprint, el equipo ha colaborado en el desarrollo del frontend y cor
 
 ##### 5.2.3.3. Development Evidence for Sprint Review.
 
+En esta sección se presentan los commits realizados en el repositorio de backend y frontend durante el sprint 3.
+
+*Commits realizados en el repositorio de frontend durante el sprint 3:*
+A continuación se presenta un registro de los cambios realizados en la interfaz de usuario de nuestra aplicación. Cada commit detalla las modificaciones efectuadas en el diseño, la estructura y la interacción de los elementos visuales durante este Sprint.
+
+<table border="1">
+  <tr>
+    <th>Repository</th>
+    <th>Branch</th>
+    <th>Commit Id</th>
+    <th>Commit Message</th>
+    <th>Commit Message Body</th>
+    <th>Committed on (Date)</th>
+  </tr>
+  <tr>
+    <td>https://github.com/Inteligencia-Artesanal-Aplicaciones-Web/OsitoPolar-Frontend</td>
+    <td>main</td>
+    <td>394b441</td>
+    <td>Merge pull request #20 from Inteligencia-Artesanal-Aplicaciones-Web/dev</td>
+    <td>Merge pull request #20 from Inteligencia-Artesanal-Aplicaciones-Web/dev</td>
+    <td>19/06/2025</td>
+  </tr>
+  <tr>
+    <td>https://github.com/Inteligencia-Artesanal-Aplicaciones-Web/OsitoPolar-Frontend</td>
+    <td>main</td>
+    <td>15b12ba</td>
+    <td>Merge pull request #19 from Inteligencia-Artesanal-Aplicaciones-Web/feat/service-management</td>
+    <td>Merge pull request #19 from Inteligencia-Artesanal-Aplicaciones-Web/feat/service-management</td>
+    <td>19/06/2025</td>
+  </tr>
+  <tr>
+    <td>https://github.com/Inteligencia-Artesanal-Aplicaciones-Web/OsitoPolar-Frontend</td>
+    <td>main</td>
+    <td>43b8e4f</td>
+    <td>Merge pull request #18 from Inteligencia-Artesanal-Aplicaciones-Web/dev</td>
+    <td>Merge pull request #18 from Inteligencia-Artesanal-Aplicaciones-Web/dev</td>
+    <td>19/06/2025</td>
+  </tr>
+  <tr>
+    <td>https://github.com/Inteligencia-Artesanal-Aplicaciones-Web/OsitoPolar-Frontend</td>
+    <td>main</td>
+    <td>f129d79</td>
+    <td>Merge pull request #17 from Inteligencia-Artesanal-Aplicaciones-Web/dev</td>
+    <td>Merge pull request #17 from Inteligencia-Artesanal-Aplicaciones-Web/dev</td>
+    <td>19/06/2025</td>
+  </tr>
+  <tr>
+    <td>https://github.com/Inteligencia-Artesanal-Aplicaciones-Web/OsitoPolar-Frontend</td>
+    <td>main</td>
+    <td>852e8be</td>
+    <td>Merge pull request #16 from Inteligencia-Artesanal-Aplicaciones-Web/feat/field-operations</td>
+    <td>Merge pull request #16 from Inteligencia-Artesanal-Aplicaciones-Web/feat/field-operations</td>
+    <td>19/06/2025</td>
+  </tr>
+  <tr>
+    <td>https://github.com/Inteligencia-Artesanal-Aplicaciones-Web/OsitoPolar-Frontend</td>
+    <td>feat/field-operations</td>
+    <td>49ad111</td>
+    <td>feat(router): add work-order list, new work-orders and technician list routes</td>
+    <td>feat(router): add work-order list, new work-orders and technician list routes</td>
+    <td>19/06/2025</td>
+  </tr>
+  <tr>
+    <td>https://github.com/Inteligencia-Artesanal-Aplicaciones-Web/OsitoPolar-Frontend</td>
+    <td>feat/field-operations</td>
+    <td>f135d53</td>
+    <td>feat(i18n): add work-order and technician</td>
+    <td>feat(i18n): add work-order and technician</td>
+    <td>19/06/2025</td>
+  </tr>
+  <tr>
+    <td>https://github.com/Inteligencia-Artesanal-Aplicaciones-Web/OsitoPolar-Frontend</td>
+    <td>feat/field-operations</td>
+    <td>cb42721</td>
+    <td>feat(field-operations): add new work-order component</td>
+    <td>feat(field-operations): add new work-order component</td>
+    <td>19/06/2025</td>
+  </tr>
+  <tr>
+    <td>https://github.com/Inteligencia-Artesanal-Aplicaciones-Web/OsitoPolar-Frontend</td>
+    <td>feat/field-operations</td>
+    <td>16aba8f</td>
+    <td>feat(field-operations): add work-order list component</td>
+    <td>feat(field-operations): add work-order list component</td>
+    <td>19/06/2025</td>
+  </tr>
+  <tr>
+    <td>https://github.com/Inteligencia-Artesanal-Aplicaciones-Web/OsitoPolar-Frontend</td>
+    <td>feat/field-operations</td>
+    <td>906e24d</td>
+    <td>feat(field-operations): add work-order detail modal styles</td>
+    <td>feat(field-operations): add work-order detail modal styles</td>
+    <td>18/06/2025</td>
+  </tr>
+  <tr>
+    <td>https://github.com/Inteligencia-Artesanal-Aplicaciones-Web/OsitoPolar-Frontend</td>
+    <td>feat/field-operations</td>
+    <td>494055f</td>
+    <td>feat(field-operations): add work-order detail modal</td>
+    <td>feat(field-operations): add work-order detail modal</td>
+    <td>18/06/2025</td>
+  </tr>
+  <tr>
+    <td>https://github.com/Inteligencia-Artesanal-Aplicaciones-Web/OsitoPolar-Frontend</td>
+    <td>feat/field-operations</td>
+    <td>f786497</td>
+    <td>feat(field-operations): add technician list component</td>
+    <td>feat(field-operations): add technician list component</td>
+    <td>18/06/2025</td>
+  </tr>
+  <tr>
+    <td>https://github.com/Inteligencia-Artesanal-Aplicaciones-Web/OsitoPolar-Frontend</td>
+    <td>feat/field-operations</td>
+    <td>a60fdaa</td>
+    <td>feat(field-operations): move Technician dialog styles to styles.css</td>
+    <td>feat(field-operations): move Technician dialog styles to styles.css</td>
+    <td>18/06/2025</td>
+  </tr>
+  <tr>
+    <td>https://github.com/Inteligencia-Artesanal-Aplicaciones-Web/OsitoPolar-Frontend</td>
+    <td>feat/field-operations</td>
+    <td>2c72c67</td>
+    <td>feat(field-operations): add technician detail modal component</td>
+    <td>feat(field-operations): add technician detail modal component</td>
+    <td>18/06/2025</td>
+  </tr>
+  <tr>
+    <td>https://github.com/Inteligencia-Artesanal-Aplicaciones-Web/OsitoPolar-Frontend</td>
+    <td>feat/field-operations</td>
+    <td>1251bf8</td>
+    <td>feat(field-operations): add entity and service for WorkOrder and Technician</td>
+    <td>feat(field-operations): add entity and service for WorkOrder and Technician</td>
+    <td>18/06/2025</td>
+  </tr>
+</table>
+
+
+**Commits realizados en el repositorio de backend durante el sprint 3:**
+
+A continuación se presenta un registro detallado de los commits realizados en el repositorio, enfocados a la parte de backend. Cada entrada incluye el identificador único del commit (ID), descripciones realizados durante la elaboracion de esta.
+
+<table>
+  <tr>
+    <td colspan="1">Repository</td>
+    <td colspan="1">Branch</td>
+    <td colspan="1">Commit Id</td>
+    <td colspan="1">Commit Message</td>
+    <td colspan="1">Commit Message Body</td>
+    <td colspan="1">Commited on (Date)</td>
+  </tr>
+  <tr>
+    <td>https://github.com/Inteligencia-Artesanal-Aplicaciones-Web/OsitoPolar-Platform</td>
+    <td>develop</td>
+    <td>f31a9c2</td>
+    <td>feat(Subscriptions): update Program.cs with Repository, CommandService, and QueryService.</td>
+    <td>feat(Subscriptions): update Program.cs with Repository, CommandService, and QueryService.</td>
+    <td>19/06/2025</td>
+  </tr>
+  <tr>
+    <td>https://github.com/Inteligencia-Artesanal-Aplicaciones-Web/OsitoPolar-Platform</td>
+    <td>develop</td>
+    <td>c7b84e9</td>
+    <td>feat(Subscriptions): add ApplySubscriptionsConfiguration method to AppDbContext.cs for subscriptions setup.</td>
+    <td>feat(Subscriptions): add ApplySubscriptionsConfiguration method to AppDbContext.cs for subscriptions setup.</td>
+    <td>19/06/2025</td>
+  </tr>
+  <tr>
+    <td>https://github.com/Inteligencia-Artesanal-Aplicaciones-Web/OsitoPolar-Platform</td>
+    <td>develop</td>
+    <td>e12cba1</td>
+    <td>feat(Subscriptions): add SubscriptionsController.cs.</td>
+    <td>feat(Subscriptions): add SubscriptionsController.cs.</td>
+    <td>19/06/2025</td>
+  </tr>
+  <tr>
+    <td>https://github.com/Inteligencia-Artesanal-Aplicaciones-Web/OsitoPolar-Platform</td>
+    <td>develop</td>
+    <td>bd8a674</td>
+    <td>feat(Subscriptions): add SubscriptionResourceFromEntityAssembler.cs.</td>
+    <td>feat(Subscriptions): add SubscriptionResourceFromEntityAssembler.cs.</td>
+    <td>19/06/2025</td>
+  </tr>
+  <tr>
+    <td>https://github.com/Inteligencia-Artesanal-Aplicaciones-Web/OsitoPolar-Platform</td>
+    <td>develop</td>
+    <td>ae99f21</td>
+    <td>feat(Subscriptions): add UpgradeSubscriptionCommandFromResourceAssembler.cs.</td>
+    <td>feat(Subscriptions): add UpgradeSubscriptionCommandFromResourceAssembler.cs.</td>
+    <td>19/06/2025</td>
+  </tr>
+  <tr>
+    <td>https://github.com/Inteligencia-Artesanal-Aplicaciones-Web/OsitoPolar-Platform</td>
+    <td>develop</td>
+    <td>67d42cb</td>
+    <td>feat(Subscriptions): add SubscriptionResource.cs.</td>
+    <td>feat(Subscriptions): add SubscriptionResource.cs.</td>
+    <td>19/06/2025</td>
+  </tr>
+  <tr>
+    <td>https://github.com/Inteligencia-Artesanal-Aplicaciones-Web/OsitoPolar-Platform</td>
+    <td>develop</td>
+    <td>a1248f5</td>
+    <td>feat(Subscriptions): add SubscriptionRepository.cs.</td>
+    <td>feat(Subscriptions): add SubscriptionRepository.cs.</td>
+    <td>19/06/2025</td>
+  </tr>
+  <tr>
+    <td>https://github.com/Inteligencia-Artesanal-Aplicaciones-Web/OsitoPolar-Platform</td>
+    <td>develop</td>
+    <td>ba1c970</td>
+    <td>feat(Subscriptions): add ISubscriptionCommandService.cs.</td>
+    <td>feat(Subscriptions): add ISubscriptionCommandService.cs.</td>
+    <td>19/06/2025</td>
+  </tr>
+  <tr>
+    <td>https://github.com/Inteligencia-Artesanal-Aplicaciones-Web/OsitoPolar-Platform</td>
+    <td>develop</td>
+    <td>c4d7e03</td>
+    <td>feat(Subscriptions): add SubscriptionQueryService.cs.</td>
+    <td>feat(Subscriptions): add SubscriptionQueryService.cs.</td>
+    <td>19/06/2025</td>
+  </tr>
+  <tr>
+    <td>https://github.com/Inteligencia-Artesanal-Aplicaciones-Web/OsitoPolar-Platform</td>
+    <td>develop</td>
+    <td>ecaf42a</td>
+    <td>feat(Subscriptions): add SubscriptionsCommandServices.cs.</td>
+    <td>feat(Subscriptions): add SubscriptionsCommandServices.cs.</td>
+    <td>19/06/2025</td>
+  </tr>
+  <tr>
+    <td>https://github.com/Inteligencia-Artesanal-Aplicaciones-Web/OsitoPolar-Platform</td>
+    <td>develop</td>
+    <td>d13c7d1</td>
+    <td>feat(Subscriptions): add ISubscriptionRepository.cs.</td>
+    <td>feat(Subscriptions): add ISubscriptionRepository.cs.</td>
+    <td>19/06/2025</td>
+  </tr>
+</table>
 
 
 ##### 5.2.3.4. Testing Suite Evidence for Sprint Review.
@@ -2722,7 +2961,20 @@ Durante este Sprint, el equipo ha colaborado en el desarrollo del frontend y cor
 En esta sección se presentan las evidencias de la ejecución de la aplicación para el sprint 3.
 En esta sección, presentamos una recopilación visual y detallada de los avances logrados durante el sprint.
 
-
+![front1.png](assets/chapter-05/TB2/front1.png)
+![front2.png](assets/chapter-05/TB2/front2.png)
+![front3.png](assets/chapter-05/TB2/front3.png)
+![front4.png](assets/chapter-05/TB2/front4.png)
+![front5.png](assets/chapter-05/TB2/front5.png)
+![front6.png](assets/chapter-05/TB2/front6.png)
+![front7.png](assets/chapter-05/TB2/front7.png)
+![front8.png](assets/chapter-05/TB2/front8.png)
+![front9.png](assets/chapter-05/TB2/front9.png)
+![front10.png](assets/chapter-05/TB2/front10.png)
+![front11.png](assets/chapter-05/TB2/front11.png)
+![front12.png](assets/chapter-05/TB2/front12.png)
+![front13.png](assets/chapter-05/TB2/front13.png)
+![front14.png](assets/chapter-05/TB2/front14.png)
 
 
 ##### 5.2.3.6. Services Documentation Evidence for Sprint Review.
