@@ -2698,6 +2698,66 @@ Durante este Sprint, el equipo ha colaborado en el desarrollo del frontend y cor
 
 ![Contributors-FrontendS2.png]( assets/chapter-05/sprint-2/Contributors-FrontendS2.png)
 
+### 5.2.3. Sprint 3
+
+
+### 5.2.3.1. Sprint Planning 3
+
+
+
+##### 5.2.3.2. Sprint Backlog 3.
+
+
+
+##### 5.2.3.3. Development Evidence for Sprint Review.
+
+
+
+##### 5.2.3.4. Testing Suite Evidence for Sprint Review.
+
+
+
+##### 5.2.3.5. Execution Evidence for Sprint Review.
+
+En esta sección se presentan las evidencias de la ejecución de la aplicación para el sprint 3.
+En esta sección, presentamos una recopilación visual y detallada de los avances logrados durante el sprint.
+
+
+
+
+##### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+
+
+
+##### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+
+
+
+##### 5.2.3.8. Team Collaboration Insights during Sprint.
+
+
+
+
+## 5.3. Validation Interviews.
+
+
+### 5.3.1. Diseño de Entrevistas.
+
+
+
+### 5.3.2. Registro de Entrevistas.
+
+
+
+### 5.3.3. Evaluaciones según heurísticas.
+
+
+
+## 5.4. Video About-the-Product.
+
+
+
+
 ## Conclusiones
 
 A lo largo del desarrollo del modelo de negocio digital OsitoPolar, hemos logrado validar la necesidad real y urgente de soluciones tecnológicas en el sector de refrigeración, tanto en los negocios que dependen de estos equipos como en las empresas proveedoras de servicios técnicos.
