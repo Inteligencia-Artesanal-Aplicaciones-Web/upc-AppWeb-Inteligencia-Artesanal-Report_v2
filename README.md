@@ -2979,6 +2979,72 @@ En esta sección, presentamos una recopilación visual y detallada de los avance
 
 ##### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 
+Se documentaron 26 endpoints distribuidos en 5 controladores: WorkOrders, Subscriptions, ServiceRequests, Equipments y Technicians. La documentación está disponible mediante Swagger accediendo a la URL configurada en el servidor (http://localhost:5128/swagger/index.html).
+
+<strong>WorkOrderController</strong> <br>
+
+Se muestra la documentación de los servicios del controlador de órdenes de trabajo.
+
+<table> <tr> <th>Tag</th> <th>Verbo http</th> <th>Endpoint</th> <th>Summary</th> <th>Description</th> <th>OperationId</th> </tr> <tr> <td>WorkOrders</td> <td>POST</td> <td>/api/v1/work-orders</td> <td>Create Work Order</td> <td>Create a new work order in the system</td> <td>CreateWorkOrder</td> </tr> <tr> <td colspan="1">Parameters</td> <td colspan="2">no</td> <td>Request body</td> <td colspan="2">sí</td> </tr> <tr> <td>WorkOrders</td> <td>GET</td> <td>/api/v1/work-orders</td> <td>Get All Work Orders</td> <td>Retrieve all work orders</td> <td>GetAllWorkOrders</td> </tr> <tr> <td>WorkOrders</td> <td>GET</td> <td>/api/v1/work-orders/{workOrderId}</td> <td>Get Work Order by Id</td> <td>Retrieve a work order by its ID</td> <td>GetWorkOrderById</td> </tr> <tr> <td colspan="1">Parameters</td> <td colspan="2">workOrderId</td> <td>Request body</td> <td colspan="2">no</td> </tr> <tr> <td>WorkOrders</td> <td>PUT</td> <td>/api/v1/work-orders/{workOrderId}/status</td> <td>Update Work Order Status</td> <td>Change the status of a work order</td> <td>UpdateWorkOrderStatus</td> </tr> <tr> <td colspan="1">Parameters</td> <td colspan="2">workOrderId</td> <td>Request body</td> <td colspan="2">sí</td> </tr> <tr> <td>WorkOrders</td> <td>PUT</td> <td>/api/v1/work-orders/{workOrderId}/resolution</td> <td>Add Work Order Resolution Details</td> <td>Add resolution details to a work order</td> <td>AddWorkOrderResolution</td> </tr> <tr> <td colspan="1">Parameters</td> <td colspan="2">workOrderId</td> <td>Request body</td> <td colspan="2">sí</td> </tr> </table>
+
+![WorkOrders.png](assets/chapter-05/TB2/WorkOrders.png)
+
+![WO1.png](assets/chapter-05/TB2/WO1.png)
+![WO2.png](assets/chapter-05/TB2/WO2.png)
+![WO3.png](assets/chapter-05/TB2/WO3.png)
+![WO4.png](assets/chapter-05/TB2/WO4.png)
+![WO5.png](assets/chapter-05/TB2/WO5.png)
+
+
+
+
+<strong>SubscriptionController </strong><br>
+Se muestra la documentación de los servicios del controlador de suscripciones.
+
+<table> <tr> <th>Tag</th> <th>Verbo http</th> <th>Endpoint</th> <th>Summary</th> <th>Description</th> <th>OperationId</th> </tr> <tr> <td>Subscriptions</td> <td>GET</td> <td>/api/v1/subscriptions/{subscriptionId}</td> <td>Get Subscription by Id</td> <td>Retrieve a subscription by its ID</td> <td>GetSubscriptionById</td> </tr> <tr> <td>Subscriptions</td> <td>GET</td> <td>/api/v1/subscriptions</td> <td>Get All Subscriptions</td> <td>Retrieve all subscriptions</td> <td>GetAllSubscriptions</td> </tr> <tr> <td>Subscriptions</td> <td>POST</td> <td>/api/v1/subscriptions/upgrade</td> <td>Upgrade Subscription</td> <td>Upgrade the plan of an existing subscription</td> <td>UpgradeSubscription</td> </tr> </table>
+
+![Subscriptions.png](assets/chapter-05/TB2/Subscriptions.png)
+
+![S1.png](assets/chapter-05/TB2/S1.png)
+![S2.png](assets/chapter-05/TB2/S2.png)
+![S3.png](assets/chapter-05/TB2/S3.png)
+
+
+
+
+<strong>ServiceRequestController  </strong><br>
+Se muestra la documentación de los servicios del controlador de solicitudes de servicio.
+
+<table> <tr> <th>Tag</th> <th>Verbo http</th> <th>Endpoint</th> <th>Summary</th> <th>Description</th> <th>OperationId</th> </tr> <tr> <td>ServiceRequests</td> <td>POST</td> <td>/api/v1/service-requests</td> <td>Create Service Request</td> <td>Create a new service request</td> <td>CreateServiceRequest</td> </tr> <tr> <td>ServiceRequests</td> <td>GET</td> <td>/api/v1/service-requests</td> <td>Get All Service Requests</td> <td>Retrieve all service requests</td> <td>GetAllServiceRequests</td> </tr> <tr> <td>ServiceRequests</td> <td>PUT</td> <td>/api/v1/service-requests/{serviceRequestId}</td> <td>Update an existing Service Request</td> <td>Update the details of a service request</td> <td>UpdateServiceRequest</td> </tr> <tr> <td>ServiceRequests</td> <td>GET</td> <td>/api/v1/service-requests/{serviceRequestId}</td> <td>Get Service Request by Id</td> <td>Retrieve a service request by its ID</td> <td>GetServiceRequestById</td> </tr> <tr> <td>ServiceRequests</td> <td>PUT</td> <td>/api/v1/service-requests/{serviceRequestId}/assign-technician</td> <td>Assign Technician to Service Request</td> <td>Assign a technician to a service request</td> <td>AssignTechnician</td> </tr> <tr> <td>ServiceRequests</td> <td>PUT</td> <td>/api/v1/service-requests/{serviceRequestId}/feedback</td> <td>Add Customer Feedback</td> <td>Add feedback to a service request</td> <td>AddFeedback</td> </tr> <tr> <td>ServiceRequests</td> <td>PUT</td> <td>/api/v1/service-requests/{serviceRequestId}/reject</td> <td>Reject Service Request</td> <td>Reject a service request</td> <td>RejectServiceRequest</td> </tr> <tr> <td>ServiceRequests</td> <td>PUT</td> <td>/api/v1/service-requests/{serviceRequestId}/cancel</td> <td>Cancel Service Request</td> <td>Cancel a service request</td> <td>CancelServiceRequest</td> </tr> </table>
+
+![ServiceRequests.png](assets/chapter-05/TB2/ServiceRequests.png)
+
+![SR1.png](assets/chapter-05/TB2/SR1.png)
+![SR2.png](assets/chapter-05/TB2/SR2.png)
+![SR3.png](assets/chapter-05/TB2/SR3.png)
+
+<strong>EquipmentController </strong><br>
+Se muestra la documentación de los servicios del controlador de equipos.
+
+<table> <tr> <th>Tag</th> <th>Verbo http</th> <th>Endpoint</th> <th>Summary</th> <th>Description</th> <th>OperationId</th> </tr> <tr> <td>Equipments</td> <td>GET</td> <td>/api/v1/equipments/{equipmentId}</td> <td>Get Equipment by Id</td> <td>Retrieve equipment details by ID</td> <td>GetEquipmentById</td> </tr> <tr> <td>Equipments</td> <td>POST</td> <td>/api/v1/equipments</td> <td>Create Equipment</td> <td>Create a new equipment</td> <td>CreateEquipment</td> </tr> <tr> <td>Equipments</td> <td>GET</td> <td>/api/v1/equipments</td> <td>Get All Equipment</td> <td>Retrieve all equipment in the system</td> <td>GetAllEquipments</td> </tr> <tr> <td>Equipments</td> <td>GET</td> <td>/api/v1/equipments/owner/{ownerId}</td> <td>Get Equipment by Owner</td> <td>Retrieve equipment by owner ID</td> <td>GetEquipmentsByOwner</td> </tr> <tr> <td>Equipments</td> <td>PUT</td> <td>/api/v1/equipments/{equipmentId}/temperature</td> <td>Update Equipment Temperature</td> <td>Modify temperature of equipment</td> <td>UpdateEquipmentTemperature</td> </tr> <tr> <td>Equipments</td> <td>PUT</td> <td>/api/v1/equipments/{equipmentId}/power</td> <td>Update Equipment Power State</td> <td>Change power state of equipment</td> <td>UpdateEquipmentPower</td> </tr> <tr> <td>Equipments</td> <td>PUT</td> <td>/api/v1/equipments/{equipmentId}/location</td> <td>Update Equipment Location</td> <td>Change location of equipment</td> <td>UpdateEquipmentLocation</td> </tr> </table>
+
+![Equipments.png](assets/chapter-05/TB2/Equipments.png)
+
+
+![E1.png](assets/chapter-05/TB2/E1.png)
+![E2.png](assets/chapter-05/TB2/E2.png)
+![E3.png](assets/chapter-05/TB2/E3.png)
+
+<strong>TechnicianController </strong><br>
+Se muestra la documentación de los servicios del controlador de técnicos.
+
+<table> <tr> <th>Tag</th> <th>Verbo http</th> <th>Endpoint</th> <th>Summary</th> <th>Description</th> <th>OperationId</th> </tr> <tr> <td>Technicians</td> <td>POST</td> <td>/api/v1/technicians</td> <td>Create Technician</td> <td>Create a new technician</td> <td>CreateTechnician</td> </tr> <tr> <td>Technicians</td> <td>GET</td> <td>/api/v1/technicians</td> <td>Get All Technicians</td> <td>Retrieve all technicians</td> <td>GetAllTechnicians</td> </tr> <tr> <td>Technicians</td> <td>GET</td> <td>/api/v1/technicians/{technicianId}</td> <td>Get Technician by Id</td> <td>Retrieve technician details by ID</td> <td>GetTechnicianById</td> </tr> <tr> <td>Technicians</td> <td>GET</td> <td>/api/v1/technicians/{technicianId}/average-rating</td> <td>Get Technician Average Rating</td> <td>Retrieve average rating for a technician</td> <td>GetTechnicianRating</td> </tr> </table>
+
+![Technicians.png](assets/chapter-05/TB2/Technicians.png)
+
+![T1.png](assets/chapter-05/TB2/T1.png)
+![T2.png](assets/chapter-05/TB2/T2.png)
+![T3.png](assets/chapter-05/TB2/T3.png)
 
 
 ##### 5.2.3.7. Software Deployment Evidence for Sprint Review.
@@ -2987,7 +3053,11 @@ En esta sección, presentamos una recopilación visual y detallada de los avance
 
 ##### 5.2.3.8. Team Collaboration Insights during Sprint.
 
+**Frontend**
+![Insights Frontend.png](assets/chapter-05/TB2/Insights%20Frontend.png)
 
+**Backend**
+![Insights Backend.png](assets/chapter-05/TB2/Insights%20Backend.png)
 
 
 ## 5.3. Validation Interviews.
