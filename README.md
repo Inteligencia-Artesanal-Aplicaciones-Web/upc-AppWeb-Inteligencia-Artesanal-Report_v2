@@ -2700,6 +2700,7 @@ Durante este Sprint, el equipo ha colaborado en el desarrollo del frontend y cor
 
 ### 5.2.3. Sprint 3
 
+En esta sección se presenta el reporte del sprint 3, el cual se enfocó en el desarrollo del Backend, la implementación de nuevas funcionalidades y mejoras en la experiencia de usuario de la web application.
 
 ### 5.2.3.1. Sprint Planning 3
 
