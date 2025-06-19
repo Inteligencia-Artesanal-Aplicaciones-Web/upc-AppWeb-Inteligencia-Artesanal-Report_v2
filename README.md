@@ -3113,10 +3113,112 @@ Se muestra la documentación de los servicios del controlador de técnicos.
 
 
 ## 5.3. Validation Interviews.
-
+En esta sección se presentan los detalles de las entrevistas de validación realizadas.
 
 ### 5.3.1. Diseño de Entrevistas.
 
+<h4>Objetivo de la Entrevista</h4>
+<p>Validar la usabilidad, efectividad y propuesta de valor de la plataforma OsitoPolar para los segmentos clave. Se evaluará si las funcionalidades cubren las necesidades operativas reales y si los flujos son intuitivos para usuarios con distintos perfiles técnicos.</p>
+
+<h4>Elementos de Validación</h4>
+<ul>
+  <li><strong>Landing Page:</strong> Claridad en la propuesta de valor, acceso a funcionalidades clave, llamados a la acción.</li>
+  <li><strong>Aplicación Web/Móvil:</strong> Flujos críticos como registro de equipos, solicitud de servicios, visualización de reportes, asignación de técnicos y generación de alertas.</li>
+</ul>
+
+<h4>User Flows a Validar</h4>
+
+<h5>Para el Segmento: Negocios con Equipos de Refrigeración</h5>
+<ol>
+  <li>Registro y configuración inicial</li>
+  <li>Monitoreo y alertas</li>
+  <li>Solicitud de servicios</li>
+  <li>Visualización de reportes</li>
+  <li>Evaluación del servicio</li>
+</ol>
+
+<h5>Para el Segmento: Empresas Proveedoras de Servicios</h5>
+<ol>
+  <li>Recepción de solicitudes</li>
+  <li>Gestión de técnicos</li>
+  <li>Historial técnico</li>
+  <li>Generación de reportes</li>
+  <li>Gestión de cartera de clientes</li>
+</ol>
+
+<h4>Formato de Registro de Entrevista</h4>
+<ul>
+  <li>Nombre completo</li>
+  <li>Edad</li>
+  <li>Distrito de residencia</li>
+  <li>Rol en su empresa</li>
+  <li>Dispositivo utilizado para la prueba</li>
+</ul>
+
+<h3>Preguntas para el Segmento 1: Negocios que utilizan Equipos de Refrigeración</h3>
+
+<h4>Registro y Gestión de Equipos</h4>
+<ul>
+  <li>¿Qué tan fácil fue registrar tus equipos de refrigeración?</li>
+  <li>¿La información solicitada fue clara y necesaria?</li>
+  <li>¿Hubo algún paso que te generó dudas?</li>
+</ul>
+
+<h4>Monitoreo y Alertas</h4>
+<ul>
+  <li>¿Pudiste acceder rápidamente al estado de tus equipos?</li>
+  <li>¿Las alertas fueron comprensibles y oportunas?</li>
+  <li>¿Te sentirías seguro tomando decisiones basadas en esas alertas?</li>
+</ul>
+
+<h4>Solicitudes de Servicio</h4>
+<ul>
+  <li>¿Cómo fue tu experiencia solicitando un servicio?</li>
+  <li>¿La opción para programar mantenimiento estaba visible y disponible?</li>
+  <li>¿Recibiste confirmaciones claras tras realizar la solicitud?</li>
+</ul>
+
+<h4>Visualización de Reportes</h4>
+<ul>
+  <li>¿Los reportes técnicos te resultaron útiles para entender lo que ocurrió con el equipo?</li>
+  <li>¿La información sobre consumo energético te ayudó a detectar posibles problemas?</li>
+  <li>¿Qué agregarías o mejorarías en estos reportes?</li>
+</ul>
+
+<h4>Evaluación del Servicio</h4>
+<ul>
+  <li>¿Fue sencillo dejar una evaluación después del servicio?</li>
+  <li>¿Consideras útil poder modificar tu evaluación si hubo cambios posteriores?</li>
+</ul>
+
+<h3>Preguntas para el Segmento 2: Empresas Proveedoras de Servicios</h3>
+
+<h4>Recepción y Gestión de Solicitudes</h4>
+<ul>
+  <li>¿Cómo fue la experiencia al recibir una nueva solicitud de servicio?</li>
+  <li>¿La plataforma te permitió asignar fácilmente un técnico?</li>
+  <li>¿Pudiste hacer seguimiento del estado del servicio en tiempo real?</li>
+</ul>
+
+<h4>Gestión de Técnicos</h4>
+<ul>
+  <li>¿Fue intuitivo registrar nuevos técnicos?</li>
+  <li>¿Qué tan completa consideras la información que puedes ver en el perfil de un técnico?</li>
+  <li>¿Te resultó útil el sistema de métricas de desempeño?</li>
+</ul>
+
+<h4>Historial y Reportes Técnicos</h4>
+<ul>
+  <li>¿Pudiste acceder fácilmente al historial técnico de los equipos atendidos?</li>
+  <li>¿Los reportes generados fueron útiles y claros para el cliente?</li>
+  <li>¿Te parece adecuado el proceso de generación automática de reportes?</li>
+</ul>
+
+<h4>Gestión de Cartera de Clientes</h4>
+<ul>
+  <li>¿Cómo fue tu experiencia al visualizar la lista de clientes y sus servicios?</li>
+  <li>¿Pudiste filtrar fácilmente por estado del servicio o tipo de equipo?</li>
+</ul>
 
 
 ### 5.3.2. Registro de Entrevistas.
