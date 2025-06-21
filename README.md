@@ -2759,8 +2759,591 @@ Desde el lado del backend, desarrollaremos una versión inicial que permita la g
 </table>
 
 ##### 5.2.3.2. Sprint Backlog 3.
+Nuestro enfoque principal para este Sprint ha sido el desarrollo del frontend y backend de la plataforma OsitoPolar. Hemos estructurado nuestras tareas siguiendo las User Stories y Technical Stories que hemos detallado, asegurando un progreso claro y alineado con los objetivos de negocio y la arquitectura técnica.
+
+Para la gestión y el control de estas tareas, estamos utilizando Trello.
 
 
+<table>
+<tr>
+    <th colspan="3">Sprint #</th>
+    <th colspan="10">Sprint 3</th>
+</tr>
+<tr>
+    <td colspan="3">User Story</td>
+    <td colspan="10">Work-Item/Task</td>
+</tr>
+<tr>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="3">Description</td>
+    <td colspan="1">Estimation (Hours)</td>
+    <td colspan="2">Assigned To</td>
+    <td colspan="1">Status (To do/ In-Process/ To-Review/ Done)</td>
+</tr>
+<tr>
+    <td colspan="1">US-08</td>
+    <td colspan="2">Ver la ubicación de cada equipo</td>
+    <td colspan="1">UT-01</td>
+    <td colspan="2">Integrar mapa con ubicaciones</td>
+    <td colspan="3">Implementar componente de mapa para visualizar equipos.</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Joseph Rodríguez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-08</td>
+    <td colspan="2">Ver la ubicación de cada equipo</td>
+    <td colspan="1">UT-02</td>
+    <td colspan="2">Mostrar detalles en mapa</td>
+    <td colspan="3">Asegurar que la información del equipo se muestre al seleccionar en el mapa.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Joseph Rodríguez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-17</td>
+    <td colspan="2">Visualizar equipos entregados a clientes</td>
+    <td colspan="1">UT-01</td>
+    <td colspan="2">Crear vista de listado de equipos</td>
+    <td colspan="3">Desarrollar la interfaz para listar equipos por cliente.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Joseph Rodríguez</td>
+    <td colspan="1">To Review</td>
+</tr>
+<tr>
+    <td colspan="1">US-03</td>
+    <td colspan="2">Solicitar y programar un tipo de servicio para mis equipos</td>
+    <td colspan="1">UT-01</td>
+    <td colspan="2">Diseñar formulario de solicitud</td>
+    <td colspan="3">Crear la interfaz para que el cliente solicite un servicio.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Kenyi Ramírez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-03</td>
+    <td colspan="2">Solicitar y programar un tipo de servicio para mis equipos</td>
+    <td colspan="1">UT-02</td>
+    <td colspan="2">Implementar selección tipo y fecha</td>
+    <td colspan="3">Integrar validaciones a cada captura de datos relevantes dentro del formulario.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Kenyi Ramírez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-04</td>
+    <td colspan="2">Ver estado del servicio solicitado</td>
+    <td colspan="1">UT-01</td>
+    <td colspan="2">Crear vista estado solicitud</td>
+    <td colspan="3">Desarrollar una sección donde se pueda visualizar los estado en las solicitudes de servicio realizadas.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Kenyi Ramírez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-04</td>
+    <td colspan="2">Ver estado del servicio solicitado</td>
+    <td colspan="1">UT-02</td>
+    <td colspan="2">Mostrar progreso del servicio</td>
+    <td colspan="3">Definir e implementar la visualización los estados ("pending", "in_progress", "resolved", "rejected") de la solicitud.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Kenyi Ramírez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-11</td>
+    <td colspan="2">Asignar técnico a solicitud de servicio</td>
+    <td colspan="1">UT-01</td>
+    <td colspan="2">Crear interfaz asignación</td>
+    <td colspan="3">Diseñar la sección para asignar técnicos a solicitudes/órdenes.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Kenyi Ramírez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-11</td>
+    <td colspan="2">Asignar técnico a solicitud de servicio</td>
+    <td colspan="1">UT-02</td>
+    <td colspan="2">Implementar lógica asignación</td>
+    <td colspan="3">Desarrollar la funcionalidad para vincular técnicos a servicios.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Kenyi Ramírez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-13</td>
+    <td colspan="2">Realizar seguimiento a solicitudes de servicio</td>
+    <td colspan="1">UT-01</td>
+    <td colspan="2">Desarrollar panel de seguimiento</td>
+    <td colspan="3">Construir la sección para el seguimiento de solicitudes de servicio.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Kenyi Ramírez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-13</td>
+    <td colspan="2">Realizar seguimiento a solicitudes de servicio</td>
+    <td colspan="1">UT-02</td>
+    <td colspan="2">Mostrar estado órdenes por técnico</td>
+    <td colspan="3">Implementar filtros y visualización de órdenes por técnico.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Kenyi Ramírez</td>
+    <td colspan="1">To Do</td>
+</tr>
+<tr>
+    <td colspan="1">US-19</td>
+    <td colspan="2">Realizar evaluación de servicio</td>
+    <td colspan="1">UT-01</td>
+    <td colspan="2">Diseñar interfaz evaluación</td>
+    <td colspan="3">Crear el formulario o rating para la evaluación del servicio.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Kenyi Ramírez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-19</td>
+    <td colspan="2">Realizar evaluación de servicio</td>
+    <td colspan="1">UT-02</td>
+    <td colspan="2">Implementar envío evaluación</td>
+    <td colspan="3">Desarrollar la funcionalidad para guardar la puntuación</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Kenyi Ramírez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-20</td>
+    <td colspan="2">Registrar técnicos</td>
+    <td colspan="1">UT-01</td>
+    <td colspan="2">Diseñar formulario registro técnico</td>
+    <td colspan="3">Crear la interfaz para que el empresario registre nuevos técnicos.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Gonzalo Aliaga</td>
+    <td colspan="1">To Do</td>
+</tr>
+<tr>
+    <td colspan="1">US-20</td>
+    <td colspan="2">Registrar técnicos</td>
+    <td colspan="1">UT-02</td>
+    <td colspan="2">Implementar guardado datos técnico</td>
+    <td colspan="3">Desarrollar la funcionalidad para almacenar la información del técnico.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Gonzalo Aliaga</td>
+    <td colspan="1">To Do</td>
+</tr>
+<tr>
+    <td colspan="1">US-21</td>
+    <td colspan="2">Visualizar perfil del técnico</td>
+    <td colspan="1">UT-01</td>
+    <td colspan="2">Crear vista perfil técnico</td>
+    <td colspan="3">Desarrollar la interfaz para mostrar el perfil completo del técnico.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Kenyi Ramírez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-21</td>
+    <td colspan="2">Visualizar perfil del técnico</td>
+    <td colspan="1">UT-02</td>
+    <td colspan="2">Mostrar métricas e historial</td>
+    <td colspan="3">Implementar la visualización de desempeño y servicios del técnico.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Gonzalo Aliaga</td>
+    <td colspan="1">To Review</td>
+</tr>
+<tr>
+    <td colspan="1">US-33</td>
+    <td colspan="2">Gestionar mi suscripción</td>
+    <td colspan="1">UT-01</td>
+    <td colspan="2">Crear vista detalles suscripción</td>
+    <td colspan="3">Desarrollar la interfaz para mostrar el plan y estado de la suscripción.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Victor Rojas</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-33</td>
+    <td colspan="2">Gestionar mi suscripción</td>
+    <td colspan="1">UT-02</td>
+    <td colspan="2">Implementar opción "Actualizar Plan"</td>
+    <td colspan="3">Desarrollar la funcionalidad para iniciar el proceso de cambio de plan.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Victor Rojas</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-34</td>
+    <td colspan="2">Realizar y validar pagos de mi suscripción</td>
+    <td colspan="1">UT-01</td>
+    <td colspan="2">Integrar pasarela de pagos</td>
+    <td colspan="3">Conectar el sistema con el proveedor de pagos (ej. Stripe, PayPal).</td>
+    <td colspan="1">7</td>
+    <td colspan="2">Victor Rojas</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-34</td>
+    <td colspan="2">Realizar y validar pagos de mi suscripción</td>
+    <td colspan="1">UT-02</td>
+    <td colspan="2">Implementar confirmación/gestión fallos</td>
+    <td colspan="3">Desarrollar lógica para procesar confirmaciones y errores de pago.</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Victor Rojas</td>
+    <td colspan="1">To Review</td>
+</tr>
+<tr>
+    <td colspan="1">TS-08</td>
+    <td colspan="2">Registrar nuevo equipo a través de API RESTful</td>
+    <td colspan="1">TT-01</td>
+    <td colspan="2">Definir esquema datos equipo</td>
+    <td colspan="3">Diseñar la estructura de la base de datos para equipos.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Joseph Rodríguez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-08</td>
+    <td colspan="2">Registrar nuevo equipo a través de API RESTful</td>
+    <td colspan="1">TT-02</td>
+    <td colspan="2">Implementar endpoint POST /equipment</td>
+    <td colspan="3">Codificar la API para crear nuevos registros de equipos.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Joseph Rodríguez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-11</td>
+    <td colspan="2">Actualizar parámetros de operación de equipo unificados vía API RESTful</td>
+    <td colspan="1">TT-01</td>
+    <td colspan="2">Diseñar API PATCH /equipments/{id}/operations</td>
+    <td colspan="3">Definir la estructura de la API para actualizar parámetros operativos.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Joseph Rodríguez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-11</td>
+    <td colspan="2">Actualizar parámetros de operación de equipo unificados vía API RESTful</td>
+    <td colspan="1">TT-02</td>
+    <td colspan="2">Validar y aplicar nuevos parámetros</td>
+    <td colspan="3">Codificar la lógica para validar y actualizar los datos en DB.</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Joseph Rodríguez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-09</td>
+    <td colspan="2">Actualizar información de equipo a través de API RESTful</td>
+    <td colspan="1">TT-01</td>
+    <td colspan="2">Implementar endpoint PUT/PATCH /equipments/{id}</td>
+    <td colspan="3">Codificar la API para actualizar información general de equipos.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Joseph Rodríguez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-09</td>
+    <td colspan="2">Actualizar información de equipo a través de API RESTful</td>
+    <td colspan="1">TT-02</td>
+    <td colspan="2">Validar datos de entrada</td>
+    <td colspan="3">Implementar validaciones para la información de actualización.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Joseph Rodríguez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-10</td>
+    <td colspan="2">Consultar equipos por propietario a través de API RESTful</td>
+    <td colspan="1">TT-01</td>
+    <td colspan="2">Implementar endpoint GET /equipments/owners/{ownerId}</td>
+    <td colspan="3">Codificar la API para listar equipos por propietario.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Joseph Rodríguez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-10</td>
+    <td colspan="2">Consultar equipos por propietario a través de API RESTful</td>
+    <td colspan="1">TT-02</td>
+    <td colspan="2">Filtrar equipos por ownerId</td>
+    <td colspan="3">Asegurar que la consulta filtre correctamente por el ID del propietario.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Joseph Rodríguez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-13</td>
+    <td colspan="2">Crear Solicitud de Servicio a través de API RESTful</td>
+    <td colspan="1">TT-01</td>
+    <td colspan="2">Diseñar esquema solicitud servicio</td>
+    <td colspan="3">Definir la estructura de datos para las solicitudes de servicio.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Kenyi Ramírez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-13</td>
+    <td colspan="2">Crear Solicitud de Servicio a través de API RESTful</td>
+    <td colspan="1">TT-02</td>
+    <td colspan="2">Implementar endpoint POST /service-requests</td>
+    <td colspan="3">Codificar la API para crear nuevas solicitudes de servicio.</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Kenyi Ramírez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-14</td>
+    <td colspan="2">Consultar estado de Solicitud de Servicio por API</td>
+    <td colspan="1">TT-01</td>
+    <td colspan="2">Implementar endpoint GET /service-requests/{id}</td>
+    <td colspan="3">Codificar la API para consultar el estado de una solicitud específica.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Kenyi Ramírez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-15</td>
+    <td colspan="2">Crear orden de trabajo a partir de Solicitud de Servicio por API</td>
+    <td colspan="1">TT-01</td>
+    <td colspan="2">Diseñar endpoint POST /work-orders (desde solicitud)</td>
+    <td colspan="3">Definir la API para crear una orden de trabajo basada en una solicitud.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Kenyi Ramírez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-16</td>
+    <td colspan="2">Crear orden de trabajo a través de API RESTful</td>
+    <td colspan="1">TT-01</td>
+    <td colspan="2">Diseñar esquema Orden de Trabajo</td>
+    <td colspan="3">Definir la estructura de datos para las órdenes de trabajo.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Kenyi Ramírez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-16</td>
+    <td colspan="2">Crear orden de trabajo a través de API RESTful</td>
+    <td colspan="1">TT-02</td>
+    <td colspan="2">Implementar endpoint POST /work-orders</td>
+    <td colspan="3">Codificar la API para crear nuevas órdenes de trabajo directamente.</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Kenyi Ramírez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-29</td>
+    <td colspan="2">Asignar técnico a Orden de Trabajo por API</td>
+    <td colspan="1">TT-01</td>
+    <td colspan="2">Implementar endpoint PUT /work-orders/{id}/technicians</td>
+    <td colspan="3">Codificar la API para asignar o reasignar un técnico a una orden.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Kenyi Ramírez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-17</td>
+    <td colspan="2">Consultar órdenes de Trabajo por API</td>
+    <td colspan="1">TT-01</td>
+    <td colspan="2">Implementar endpoint GET /work-orders</td>
+    <td colspan="3">Codificar la API para listar todas las órdenes de trabajo.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Kenyi Ramírez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-18</td>
+    <td colspan="2">Actualizar estado de Orden de Trabajo por API</td>
+    <td colspan="1">TT-01</td>
+    <td colspan="2">Implementar endpoint PUT/PATCH /work-orders/{id}/status</td>
+    <td colspan="3">Codificar la API para actualizar el estado de una orden de trabajo.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Kenyi Ramírez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-27</td>
+    <td colspan="2">Evaluar servicio a través de API RESTful</td>
+    <td colspan="1">TT-01</td>
+    <td colspan="2">Implementar endpoint POST /reviews</td>
+    <td colspan="3">Codificar la API para crear nuevas evaluaciones de servicio.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Kenyi Ramírez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-27</td>
+    <td colspan="2">Evaluar servicio a través de API RESTful</td>
+    <td colspan="1">TT-02</td>
+    <td colspan="2">Implementar PUT /reviews/{id}</td>
+    <td colspan="3">Codificar la API para actualizar evaluaciones existentes.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Kenyi Ramírez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-28</td>
+    <td colspan="2">Consultar evaluaciones de servicio a través de API RESTful</td>
+    <td colspan="1">TT-01</td>
+    <td colspan="2">Implementar endpoint GET /reviews</td>
+    <td colspan="3">Codificar la API para listar todas las evaluaciones de servicio.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Kenyi Ramírez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-28</td>
+    <td colspan="2">Consultar evaluaciones de servicio a través de API RESTful</td>
+    <td colspan="1">TT-02</td>
+    <td colspan="2">Permitir filtros por servicio/cliente/técnico</td>
+    <td colspan="3">Implementar filtros avanzados en la API de evaluaciones.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Kenyi Ramírez</td>
+    <td colspan="1">To Do</td>
+</tr>
+<tr>
+    <td colspan="1">TS-30</td>
+    <td colspan="2">Añadir feedback de cliente a Orden de Trabajo por API</td>
+    <td colspan="1">TT-01</td>
+    <td colspan="2">Implementar endpoint PUT /work-orders/{id}/feedback</td>
+    <td colspan="3">Codificar la API para añadir feedback de cliente a una orden.</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Kenyi Ramírez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-07</td>
+    <td colspan="2">Consultar perfil del técnico con métricas por API</td>
+    <td colspan="1">TT-01</td>
+    <td colspan="2">Implementar endpoint GET /technicians/{id}</td>
+    <td colspan="3">Codificar la API para obtener el perfil detallado de un técnico.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Gonzalo Aliaga</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-47</td>
+    <td colspan="2">Obtener Calificación Promedio del Técnico</td>
+    <td colspan="1">TT-02</td>
+    <td colspan="2">Implementar lógica de cálculo promedio</td>
+    <td colspan="3">Codificar la funcionalidad para calcular el promedio de las calificaciones del técnico.</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Kenyi Ramirez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-47</td>
+    <td colspan="2">Obtener Calificación Promedio del Técnico</td>
+    <td colspan="1">TT-03</td>
+    <td colspan="2">Integrar con datos de evaluaciones</td>
+    <td colspan="3">Conectar la lógica de cálculo con la base de datos de evaluaciones de servicio del técnico.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Kenyi Ramirez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-05</td>
+    <td colspan="2">Registrar nuevo técnico a través de API RESTful</td>
+    <td colspan="1">TT-01</td>
+    <td colspan="2">Implementar endpoint POST /technicians</td>
+    <td colspan="3">Codificar la API para registrar nuevos técnicos.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Gonzalo Aliaga</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-12</td>
+    <td colspan="2">Crear y Consultar lecturas de Equipo vía API RESTful</td>
+    <td colspan="1">TT-01</td>
+    <td colspan="2">Implementar POST /equipments/{id}/readings</td>
+    <td colspan="3">Codificar la API para registrar nuevas lecturas de equipo.</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Joseph Rodríguez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-12</td>
+    <td colspan="2">Crear y Consultar lecturas de Equipo vía API RESTful</td>
+    <td colspan="1">TT-02</td>
+    <td colspan="2">Implementar GET /equipments/{id}/readings</td>
+    <td colspan="3">Codificar la API para consultar el historial de lecturas.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Joseph Rodríguez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-32</td>
+    <td colspan="2">Obtener lecturas y resúmenes analíticos de equipos por API</td>
+    <td colspan="1">TT-01</td>
+    <td colspan="2">Implementar GET /analytics/equipments/{id}/readings</td>
+    <td colspan="3">Codificar la API para obtener lecturas de telemetría con filtros.</td>
+    <td colspan="1">6</td>
+    <td colspan="2">Joseph Rodríguez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-32</td>
+    <td colspan="2">Obtener lecturas y resúmenes analíticos de equipos por API</td>
+    <td colspan="1">TT-02</td>
+    <td colspan="2">Implementar GET /analytics/equipments/{id}/summaries</td>
+    <td colspan="3">Codificar la API para obtener resúmenes analíticos de equipo.</td>
+    <td colspan="1">7</td>
+    <td colspan="2">Joseph Rodríguez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-46</td>
+    <td colspan="2">Obtener vista general de analíticas de múltiples equipos por API</td>
+    <td colspan="1">TT-01</td>
+    <td colspan="2">Implementar endpoint GET /analytics/equipments/overview</td>
+    <td colspan="3">Codificar la API para la vista general analítica de múltiples equipos.</td>
+    <td colspan="1">8</td>
+    <td colspan="2">Joseph Rodríguez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-33</td>
+    <td colspan="2">Obtener Suscripciones a través de API RESTful</td>
+    <td colspan="1">TT-01</td>
+    <td colspan="2">Implementar GET /subscriptions</td>
+    <td colspan="3">Codificar la API para recuperar todas las suscripciones.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Victor Rojas</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-33</td>
+    <td colspan="2">Obtener Suscripciones a través de API RESTful</td>
+    <td colspan="1">TT-02</td>
+    <td colspan="2">Implementar GET /subscriptions/{id}</td>
+    <td colspan="3">Codificar la API para recuperar una suscripción específica por ID.</td>
+    <td colspan="1">2</td>
+    <td colspan="2">Victor Rojas</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-34</td>
+    <td colspan="2">Actualizar Suscripción a un Nuevo Plan a través de API RESTful</td>
+    <td colspan="1">TT-01</td>
+    <td colspan="2">Implementar POST /subscriptions/upgrade</td>
+    <td colspan="3">Codificar la API para procesar la actualización de un plan.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Victor Rojas</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-34</td>
+    <td colspan="2">Actualizar Suscripción a un Nuevo Plan a través de API RESTful</td>
+    <td colspan="1">TT-02</td>
+    <td colspan="2">Validar plan y suscripción</td>
+    <td colspan="3">Implementar lógica de validación para la transición de planes.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Victor Rojas</td>
+    <td colspan="1">To Review</td>
+</tr>
+</table>
 
 ##### 5.2.3.3. Development Evidence for Sprint Review.
 
