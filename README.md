@@ -28,15 +28,18 @@
 
 ## Registro de Versiones del Informe
 
-| Versión | Fecha      | Autor                                                                                                                                                     | Descripción de modificación       |
-|---------|------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------|
-| 0.1     | 09/04/2025 | Kenyi Ramírez                                                                                                                                             | Desarollo Capitulo 1 y seccion 2.1 |
-| 0.2     | 29/08/2024 | Ramírez Cabrera Kenyi Efraín, Rodriguez Parco Joseph Pablo                                                                                                | Desarollo del capitulo 2 y 3      |
-| 0.3     | 29/08/2024 | Aliaga Urbina Wilder Gonzalo                                                                                                                              | Desarollo Capitulo 4              |
-| 0.4     | 29/08/2024 | Ramírez Cabrera Kenyi Efraín, Rojas Reategui Victor Manuel, Rodriguez Parco Joseph Pablo                                                                  | Desarollo Capitulo 5              |
-| 1       | 07/09/2024 | Aliaga Urbina Wilder Gonzalo, Ramírez Cabrera Kenyi Efraín , Rodriguez Parco Joseph Pablo , Rojas Reategui Victor Manuel , Verona Flores Italo Sebastián  | Entrega TB1                       |
-| 1.1     | 27/09/2024 | Aliaga Urbina Wilder Gonzalo, Ramírez Cabrera Kenyi Efraín , Rojas Reategui Victor Manuel , Verona Flores Italo Sebastián                                 | Correciones TB1                   |
-| 2       | 27/09/2024 | Aliaga Urbina Wilder Gonzalo, Ramírez Cabrera Kenyi Efraín , Rodriguez Parco Joseph Pablo , Rojas Reategui Victor Manuel , Verona Flores Italo Sebastián  | Entrega TP                        |
+| Versión | Fecha      | Autor                                                                                                                                                     | Descripción de modificación                     |
+|---------|------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|
+| 0.1     | 09/04/2025 | Kenyi Ramírez                                                                                                                                             | Desarrollo Capítulo 1 y sección 2.1             |
+| 0.2     | 29/08/2025 | Ramírez Cabrera Kenyi Efraín, Rodriguez Parco Joseph Pablo                                                                                                | Desarrollo de los capítulos 2 y 3               |
+| 0.3     | 29/08/2025 | Aliaga Urbina Wilder Gonzalo                                                                                                                              | Desarrollo Capítulo 4                           |
+| 0.4     | 29/08/2025 | Ramírez Cabrera Kenyi Efraín, Rojas Reategui Victor Manuel, Rodriguez Parco Joseph Pablo                                                                  | Desarrollo Capítulo 5                           |
+| 1       | 07/09/2025 | Aliaga Urbina Wilder Gonzalo, Ramírez Cabrera Kenyi Efraín, Rodriguez Parco Joseph Pablo, Rojas Reategui Victor Manuel, Verona Flores Italo Sebastián     | Entrega TB1                                     |
+| 1.1     | 27/09/2025 | Aliaga Urbina Wilder Gonzalo, Ramírez Cabrera Kenyi Efraín, Rojas Reategui Victor Manuel, Verona Flores Italo Sebastián                                  | Correcciones TB1                                |
+| 2       | 27/09/2025 | Aliaga Urbina Wilder Gonzalo, Ramírez Cabrera Kenyi Efraín, Rodriguez Parco Joseph Pablo, Rojas Reategui Victor Manuel, Verona Flores Italo Sebastián     | Entrega TP                                      |
+| 3       | 10/06/2025 | Aliaga Urbina Wilder Gonzalo, Ramírez Cabrera Kenyi Efraín, Rodriguez Parco Joseph Pablo, Rojas Reategui Victor Manuel                                    | Inicio de desarrollo de Sprint 3 (capítulo 5.2.3) |
+| 3.1     | 18/06/2025 | Aliaga Urbina Wilder Gonzalo, Ramírez Cabrera Kenyi Efraín, Rodriguez Parco Joseph Pablo, Rojas Reategui Victor Manuel                                    | Avances en backlog, evidencias y documentación de endpoints |
+| 3.2     | 21/06/2025 | Aliaga Urbina Wilder Gonzalo, Ramírez Cabrera Kenyi Efraín, Rodriguez Parco Joseph Pablo, Rojas Reategui Victor Manuel                                    | Redacción de conclusiones y cierre de capítulo 5.2.3 |
 
 
 ## Project Report Collaboration Insights
@@ -3729,6 +3732,78 @@ A continuación se presenta un registro detallado de los commits realizados en e
     <td>feat(Subscriptions): add ISubscriptionRepository.cs.</td>
     <td>19/06/2025</td>
   </tr>
+</table>
+
+
+##### 5.2.3.2.1 Aspect Leaders and Collaborators
+
+<p>Durante el Sprint 3, el equipo centró sus esfuerzos en consolidar módulos clave del backend y continuar con el desarrollo del frontend de OsitoPolar. Se trabajó de manera organizada en cada aspecto funcional mediante la asignación de líderes (L) y colaboradores (C), lo cual se resume en la siguiente matriz LACX:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Integrante</th>
+      <th>A1 Subs</th>
+      <th>A2 IAM</th>
+      <th>A3 Profile</th>
+      <th>A4 Asset</th>
+      <th>A5 Service Dt</th>
+      <th>A6 Service or</th>
+      <th>A7 Dashboard</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Joseph</td>
+      <td>C</td>
+      <td></td>
+      <td></td>
+      <td>L</td>
+      <td>C</td>
+      <td>C</td>
+      <td>L</td>
+    </tr>
+    <tr>
+      <td>Victor</td>
+      <td>L</td>
+      <td>C</td>
+      <td></td>
+      <td>C</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kenyi</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>C</td>
+      <td>L</td>
+      <td>L</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Italo</td>
+      <td>C</td>
+      <td>L</td>
+      <td>C</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gonzalo</td>
+      <td></td>
+      <td>L</td>
+      <td></td>
+      <td></td>
+      <td>C</td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
 </table>
 
 
