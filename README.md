@@ -1199,7 +1199,7 @@ Escala de Story Points (Fibonacci):
 
 8: Tareas muy complejas o que afectan a múltiples áreas.
 
-![Product-Backlog.png]( assets/chapter03/Product-Backlog.png)
+![Product_Backlog.png](assets/chapter03/Product_Backlog.png)
 
 | Orden | User Story ID | Título                                                                  | Descripción                                                                                                                                                                                                                                                                                            | Story Points (1 / 2 / 3 /5 / 8) |
 |-------|---------------|-------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|
@@ -2904,7 +2904,9 @@ Con el fin de organizar de manera más eficiente el trabajo colaborativo, se ha 
 Nuestro enfoque principal para este Sprint ha sido el desarrollo del frontend y backend de la plataforma OsitoPolar. Hemos estructurado nuestras tareas siguiendo las User Stories y Technical Stories que hemos detallado, asegurando un progreso claro y alineado con los objetivos de negocio y la arquitectura técnica.
 
 Para la gestión y el control de estas tareas, estamos utilizando Trello.
+![Sprint-Backlog3.png](assets/chapter-05/Sprint-Backlog3.png)
 
+Enlace: https://trello.com/b/mGIGAFIk/sprint-backlog-3
 
 <table>
 <tr>
@@ -2941,7 +2943,7 @@ Para la gestión y el control de estas tareas, estamos utilizando Trello.
     <td colspan="1">UT-02</td>
     <td colspan="2">Mostrar detalles en mapa</td>
     <td colspan="3">Asegurar que la información del equipo se muestre al seleccionar en el mapa.</td>
-    <td colspan="1">3</td>
+    <td colspan="1">4</td>
     <td colspan="2">Joseph Rodríguez</td>
     <td colspan="1">Done</td>
 </tr>
@@ -2961,7 +2963,7 @@ Para la gestión y el control de estas tareas, estamos utilizando Trello.
     <td colspan="1">UT-01</td>
     <td colspan="2">Diseñar formulario de solicitud</td>
     <td colspan="3">Crear la interfaz para que el cliente solicite un servicio.</td>
-    <td colspan="1">3</td>
+    <td colspan="1">4</td>
     <td colspan="2">Kenyi Ramírez</td>
     <td colspan="1">Done</td>
 </tr>
@@ -2981,7 +2983,7 @@ Para la gestión y el control de estas tareas, estamos utilizando Trello.
     <td colspan="1">UT-01</td>
     <td colspan="2">Crear vista estado solicitud</td>
     <td colspan="3">Desarrollar una sección donde se pueda visualizar los estado en las solicitudes de servicio realizadas.</td>
-    <td colspan="1">3</td>
+    <td colspan="1">4</td>
     <td colspan="2">Kenyi Ramírez</td>
     <td colspan="1">Done</td>
 </tr>
@@ -3191,7 +3193,7 @@ Para la gestión y el control de estas tareas, estamos utilizando Trello.
     <td colspan="1">TT-02</td>
     <td colspan="2">Validar datos de entrada</td>
     <td colspan="3">Implementar validaciones para la información de actualización.</td>
-    <td colspan="1">3</td>
+    <td colspan="1">4</td>
     <td colspan="2">Joseph Rodríguez</td>
     <td colspan="1">Done</td>
 </tr>
@@ -3211,7 +3213,7 @@ Para la gestión y el control de estas tareas, estamos utilizando Trello.
     <td colspan="1">TT-02</td>
     <td colspan="2">Filtrar equipos por ownerId</td>
     <td colspan="3">Asegurar que la consulta filtre correctamente por el ID del propietario.</td>
-    <td colspan="1">3</td>
+    <td colspan="1">4</td>
     <td colspan="2">Joseph Rodríguez</td>
     <td colspan="1">Done</td>
 </tr>
@@ -3241,7 +3243,7 @@ Para la gestión y el control de estas tareas, estamos utilizando Trello.
     <td colspan="1">TT-01</td>
     <td colspan="2">Implementar endpoint GET /service-requests/{id}</td>
     <td colspan="3">Codificar la API para consultar el estado de una solicitud específica.</td>
-    <td colspan="1">3</td>
+    <td colspan="1">4</td>
     <td colspan="2">Kenyi Ramírez</td>
     <td colspan="1">Done</td>
 </tr>
@@ -3451,7 +3453,7 @@ Para la gestión y el control de estas tareas, estamos utilizando Trello.
     <td colspan="1">TT-01</td>
     <td colspan="2">Implementar GET /subscriptions</td>
     <td colspan="3">Codificar la API para recuperar todas las suscripciones.</td>
-    <td colspan="1">3</td>
+    <td colspan="1">4</td>
     <td colspan="2">Victor Rojas</td>
     <td colspan="1">Done</td>
 </tr>
@@ -3461,7 +3463,7 @@ Para la gestión y el control de estas tareas, estamos utilizando Trello.
     <td colspan="1">TT-02</td>
     <td colspan="2">Implementar GET /subscriptions/{id}</td>
     <td colspan="3">Codificar la API para recuperar una suscripción específica por ID.</td>
-    <td colspan="1">2</td>
+    <td colspan="1">4</td>
     <td colspan="2">Victor Rojas</td>
     <td colspan="1">Done</td>
 </tr>
@@ -3481,7 +3483,7 @@ Para la gestión y el control de estas tareas, estamos utilizando Trello.
     <td colspan="1">TT-02</td>
     <td colspan="2">Validar plan y suscripción</td>
     <td colspan="3">Implementar lógica de validación para la transición de planes.</td>
-    <td colspan="1">3</td>
+    <td colspan="1">4</td>
     <td colspan="2">Victor Rojas</td>
     <td colspan="1">To Review</td>
 </tr>
