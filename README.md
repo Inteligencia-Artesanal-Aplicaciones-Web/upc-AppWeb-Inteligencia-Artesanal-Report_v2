@@ -3224,7 +3224,7 @@ Para la gestión y el control de estas tareas, estamos utilizando Trello.
     <td colspan="1">Done</td>
 </tr>
 <tr>
-    <td colspan="1">TS-47</td>
+    <td colspan="1">TS-38</td>
     <td colspan="2">Obtener Calificación Promedio del Técnico</td>
     <td colspan="1">TT-02</td>
     <td colspan="2">Implementar lógica de cálculo promedio</td>
@@ -3234,7 +3234,7 @@ Para la gestión y el control de estas tareas, estamos utilizando Trello.
     <td colspan="1">Done</td>
 </tr>
 <tr>
-    <td colspan="1">TS-47</td>
+    <td colspan="1">TS-38</td>
     <td colspan="2">Obtener Calificación Promedio del Técnico</td>
     <td colspan="1">TT-03</td>
     <td colspan="2">Integrar con datos de evaluaciones</td>
@@ -3294,7 +3294,7 @@ Para la gestión y el control de estas tareas, estamos utilizando Trello.
     <td colspan="1">Done</td>
 </tr>
 <tr>
-    <td colspan="1">TS-46</td>
+    <td colspan="1">TS-37</td>
     <td colspan="2">Obtener vista general de analíticas de múltiples equipos por API</td>
     <td colspan="1">TT-01</td>
     <td colspan="2">Implementar endpoint GET /analytics/equipments/overview</td>
