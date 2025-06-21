@@ -2826,21 +2826,81 @@ En esta sección se presenta el reporte del sprint 3, el cual se enfocó en el d
 </tr>
 <tr>
     <td colspan="5">Sprint 3 Goal</td>
-       <td colspan="8">Nuestro enfoque para este sprint es consolidar una versión integrada del Landing Page, el Frontend de la plataforma y una versión funcional del Backend que gestione las principales entidades del sistema OsitoPolar. Esta integración permitirá que los usuarios puedan acceder a la aplicación web directamente desde el Landing Page, mejorando la experiencia de navegación y conexión entre módulos.
-
-Desde el lado del backend, desarrollaremos una versión inicial que permita la gestión de entidades clave como: equipos, solicitudes de servicio, técnicos, órdenes de trabajo y suscripciones. Esto permitirá a los desarrolladores realizar operaciones CRUD sobre estos recursos y conectar la lógica de negocio con la base de datos.</td>
+       <td colspan="8">Nuestro enfoque para este sprint es establecer la base central integrada de la plataforma OsitoPolar, conectando nuestra página de aterrizaje pública con una aplicación frontend funcional y un backend fundamental. Creemos que esta integración proporcionará un punto de entrada fluido para los usuarios a nuestra aplicación y permitirá la gestión esencial de datos, mejorando significativamente la experiencia inicial del usuario y capacitando a nuestro equipo para construir sobre una base sólida. Esto se confirmará cuando los usuarios puedan acceder y navegar la aplicación web principal de forma directa y fluida desde la página de aterrizaje; el backend soporte exitosamente operaciones para entidades clave, incluyendo equipos, solicitudes de servicio, técnicos, órdenes de trabajo y suscripciones; y el frontend pueda interactuar exitosamente con el backend para mostrar y gestionar estas entidades principales, demostrando una conexión funcional entre las capas.</td>
 
 </tr>
 <tr>
     <td colspan="5">Sprint 3 Velocity</td>
-    <td colspan="8">32</td>
+    <td colspan="8">144</td>
 <tr>
     <td colspan="5">Sum of Story Points</td>
-    <td colspan="8">30</td>
+    <td colspan="8">130</td>
 </tr>
 </table>
 
-##### 5.2.3.2. Sprint Backlog 3.
+##### 5.2.3.2. Aspect Leaders and Collaborators
+
+Durante este tercer Sprint, el equipo se enfocó principalmente en el desarrollo, la mejora estructural y visual del frontend y en más del 50% de los endpoints asociados al alcance de nuestro proyecto en el backend asegurando la integración entre ellas.
+Con el fin de organizar de manera más eficiente el trabajo colaborativo, se ha elaborado la matriz de Liderazgo y Colaboración (LACX). Esta matriz asigna responsabilidades específicas a cada miembro del equipo en relación con los aspectos clave del Sprint.
+<table>
+  <tr>
+    <td colspan="2"><strong>Team Member (Last Name, First Name)</strong></td>
+    <td><strong>GitHub Username</strong></td>
+    <td><strong>Service Request Management<br>Leader (L) / Collaborator (C)</strong></td>
+    <td><strong>Assets and Equipment Management<br>Leader (L) / Collaborator (C)</strong></td>
+    <td><strong>Field Operations<br>Leader (L) / Collaborator (C)</strong></td>
+    <td><strong>Subscriptions and Payments<br>Leader (L) / Collaborator (C)</strong></td>
+    <td><strong>Dashboard and Analytics<br>Leader (L) / Collaborator (C)</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2">Ramírez Cabrera, Kenyi Efrain</td>
+    <td>Kenyi15upc</td>
+    <td>L</td>
+    <td>-</td>
+    <td>L</td>
+    <td>-</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td colspan="2">Rodriguez Parco Joseph Pablo </td>
+    <td>eJosR-Coding</td>
+    <td>C</td>
+    <td>L</td>
+    <td>-</td>
+    <td>C</td>
+    <td>L</td>
+  </tr>
+  <tr>
+    <td colspan="2"> Aliaga Urbina Wilder Gonzalo </td>
+    <td>Gonzalo1905</td>
+    <td>C</td>
+    <td>-</td>
+    <td>C</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td colspan="2">Verona Flores Italo Sebastián
+</td>
+    <td>atomdragon1318</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td colspan="2">Rojas Reategui Victor Manuel </td>
+    <td>VRojas1603</td>
+    <td>-</td>
+    <td>C</td>
+    <td>-</td>
+    <td>L</td>
+    <td>-</td>
+  </tr>
+</table>
+
+##### 5.2.3.3. Sprint Backlog 3.
 Nuestro enfoque principal para este Sprint ha sido el desarrollo del frontend y backend de la plataforma OsitoPolar. Hemos estructurado nuestras tareas siguiendo las User Stories y Technical Stories que hemos detallado, asegurando un progreso claro y alineado con los objetivos de negocio y la arquitectura técnica.
 
 Para la gestión y el control de estas tareas, estamos utilizando Trello.
@@ -3427,7 +3487,7 @@ Para la gestión y el control de estas tareas, estamos utilizando Trello.
 </tr>
 </table>
 
-##### 5.2.3.3. Development Evidence for Sprint Review.
+##### 5.2.3.4. Development Evidence for Sprint Review.
 
 En esta sección se presentan los commits realizados en el repositorio de backend y frontend durante el sprint 3.
 
@@ -3668,9 +3728,6 @@ A continuación se presenta un registro detallado de los commits realizados en e
     <td>19/06/2025</td>
   </tr>
 </table>
-
-
-##### 5.2.3.4. Testing Suite Evidence for Sprint Review.
 
 
 
