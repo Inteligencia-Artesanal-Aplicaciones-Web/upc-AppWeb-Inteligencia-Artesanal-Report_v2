@@ -3032,72 +3032,161 @@ En esta sección, presentamos una recopilación visual y detallada de los avance
 
 ##### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 
-Se documentaron 26 endpoints distribuidos en 5 controladores: WorkOrders, Subscriptions, ServiceRequests, Equipments y Technicians. La documentación está disponible mediante Swagger accediendo a la URL configurada en el servidor (http://localhost:5128/swagger/index.html).
+Durante este sprint se logró documentar un total de 25 endpoints correspondientes a 6 controladores principales de la API. La documentación fue realizada utilizando Swagger, una herramienta que facilita la exploración, prueba y validación de servicios REST. Esta interfaz está disponible accediendo a la siguiente URL configurada en el servidor (http://localhost:5128/swagger/index.html).
 
-<strong>WorkOrderController</strong> <br>
+<p>A continuación, se detallan los controladores y sus respectivos endpoints documentados:</p>
 
-Se muestra la documentación de los servicios del controlador de órdenes de trabajo.
+<h4>WorkOrderController</h4>
+<p>Se encarga de la gestión de órdenes de trabajo. Incluye endpoints para creación, obtención, actualización de estado y resolución.</p>
+<table>
+  <thead>
+    <tr>
+      <th>Verbo HTTP</th>
+      <th>Endpoint</th>
+      <th>Descripción</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>POST</td><td>/api/v1/work-orders</td><td>Crear nueva orden de trabajo</td></tr>
+    <tr><td>GET</td><td>/api/v1/work-orders</td><td>Obtener todas las órdenes</td></tr>
+    <tr><td>GET</td><td>/api/v1/work-orders/{workOrderId}</td><td>Obtener orden por ID</td></tr>
+    <tr><td>PUT</td><td>/api/v1/work-orders/{workOrderId}/status</td><td>Actualizar estado de la orden</td></tr>
+    <tr><td>PUT</td><td>/api/v1/work-orders/{workOrderId}/resolution</td><td>Agregar resolución a la orden</td></tr>
+  </tbody>
+</table>
 
-<table> <tr> <th>Tag</th> <th>Verbo http</th> <th>Endpoint</th> <th>Summary</th> <th>Description</th> <th>OperationId</th> </tr> <tr> <td>WorkOrders</td> <td>POST</td> <td>/api/v1/work-orders</td> <td>Create Work Order</td> <td>Create a new work order in the system</td> <td>CreateWorkOrder</td> </tr> <tr> <td colspan="1">Parameters</td> <td colspan="2">no</td> <td>Request body</td> <td colspan="2">sí</td> </tr> <tr> <td>WorkOrders</td> <td>GET</td> <td>/api/v1/work-orders</td> <td>Get All Work Orders</td> <td>Retrieve all work orders</td> <td>GetAllWorkOrders</td> </tr> <tr> <td>WorkOrders</td> <td>GET</td> <td>/api/v1/work-orders/{workOrderId}</td> <td>Get Work Order by Id</td> <td>Retrieve a work order by its ID</td> <td>GetWorkOrderById</td> </tr> <tr> <td colspan="1">Parameters</td> <td colspan="2">workOrderId</td> <td>Request body</td> <td colspan="2">no</td> </tr> <tr> <td>WorkOrders</td> <td>PUT</td> <td>/api/v1/work-orders/{workOrderId}/status</td> <td>Update Work Order Status</td> <td>Change the status of a work order</td> <td>UpdateWorkOrderStatus</td> </tr> <tr> <td colspan="1">Parameters</td> <td colspan="2">workOrderId</td> <td>Request body</td> <td colspan="2">sí</td> </tr> <tr> <td>WorkOrders</td> <td>PUT</td> <td>/api/v1/work-orders/{workOrderId}/resolution</td> <td>Add Work Order Resolution Details</td> <td>Add resolution details to a work order</td> <td>AddWorkOrderResolution</td> </tr> <tr> <td colspan="1">Parameters</td> <td colspan="2">workOrderId</td> <td>Request body</td> <td colspan="2">sí</td> </tr> </table>
-
-![WorkOrders.png](assets/chapter-05/TB2/WorkOrders.png)
-
-![WO1.png](assets/chapter-05/TB2/WO1.png)
-![WO2.png](assets/chapter-05/TB2/WO2.png)
-![WO3.png](assets/chapter-05/TB2/WO3.png)
-![WO4.png](assets/chapter-05/TB2/WO4.png)
-![WO5.png](assets/chapter-05/TB2/WO5.png)
-
-
-
-
-<strong>SubscriptionController </strong><br>
-Se muestra la documentación de los servicios del controlador de suscripciones.
-
-<table> <tr> <th>Tag</th> <th>Verbo http</th> <th>Endpoint</th> <th>Summary</th> <th>Description</th> <th>OperationId</th> </tr> <tr> <td>Subscriptions</td> <td>GET</td> <td>/api/v1/subscriptions/{subscriptionId}</td> <td>Get Subscription by Id</td> <td>Retrieve a subscription by its ID</td> <td>GetSubscriptionById</td> </tr> <tr> <td>Subscriptions</td> <td>GET</td> <td>/api/v1/subscriptions</td> <td>Get All Subscriptions</td> <td>Retrieve all subscriptions</td> <td>GetAllSubscriptions</td> </tr> <tr> <td>Subscriptions</td> <td>POST</td> <td>/api/v1/subscriptions/upgrade</td> <td>Upgrade Subscription</td> <td>Upgrade the plan of an existing subscription</td> <td>UpgradeSubscription</td> </tr> </table>
-
-![Subscriptions.png](assets/chapter-05/TB2/Subscriptions.png)
-
-![S1.png](assets/chapter-05/TB2/S1.png)
-![S2.png](assets/chapter-05/TB2/S2.png)
-![S3.png](assets/chapter-05/TB2/S3.png)
+![WO.png](assets/chapter-05/TB2/fixServices/WO.png)
+![WO1.png](assets/chapter-05/TB2/fixServices/WO1.png)
+![WO2.png](assets/chapter-05/TB2/fixServices/WO2.png)
+![WO3.png](assets/chapter-05/TB2/fixServices/WO3.png)
 
 
 
+<h4>SubscriptionController</h4>
+<p>Permite gestionar suscripciones de los usuarios.</p>
+<table>
+  <thead>
+    <tr>
+      <th>Verbo HTTP</th>
+      <th>Endpoint</th>
+      <th>Descripción</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>GET</td><td>/api/v1/subscriptions/{subscriptionId}</td><td>Obtener suscripción por ID</td></tr>
+    <tr><td>GET</td><td>/api/v1/subscriptions</td><td>Listar todas las suscripciones</td></tr>
+    <tr><td>POST</td><td>/api/v1/subscriptions/upgrade</td><td>Actualizar plan de suscripción</td></tr>
+  </tbody>
+</table>
 
-<strong>ServiceRequestController  </strong><br>
-Se muestra la documentación de los servicios del controlador de solicitudes de servicio.
-
-<table> <tr> <th>Tag</th> <th>Verbo http</th> <th>Endpoint</th> <th>Summary</th> <th>Description</th> <th>OperationId</th> </tr> <tr> <td>ServiceRequests</td> <td>POST</td> <td>/api/v1/service-requests</td> <td>Create Service Request</td> <td>Create a new service request</td> <td>CreateServiceRequest</td> </tr> <tr> <td>ServiceRequests</td> <td>GET</td> <td>/api/v1/service-requests</td> <td>Get All Service Requests</td> <td>Retrieve all service requests</td> <td>GetAllServiceRequests</td> </tr> <tr> <td>ServiceRequests</td> <td>PUT</td> <td>/api/v1/service-requests/{serviceRequestId}</td> <td>Update an existing Service Request</td> <td>Update the details of a service request</td> <td>UpdateServiceRequest</td> </tr> <tr> <td>ServiceRequests</td> <td>GET</td> <td>/api/v1/service-requests/{serviceRequestId}</td> <td>Get Service Request by Id</td> <td>Retrieve a service request by its ID</td> <td>GetServiceRequestById</td> </tr> <tr> <td>ServiceRequests</td> <td>PUT</td> <td>/api/v1/service-requests/{serviceRequestId}/assign-technician</td> <td>Assign Technician to Service Request</td> <td>Assign a technician to a service request</td> <td>AssignTechnician</td> </tr> <tr> <td>ServiceRequests</td> <td>PUT</td> <td>/api/v1/service-requests/{serviceRequestId}/feedback</td> <td>Add Customer Feedback</td> <td>Add feedback to a service request</td> <td>AddFeedback</td> </tr> <tr> <td>ServiceRequests</td> <td>PUT</td> <td>/api/v1/service-requests/{serviceRequestId}/reject</td> <td>Reject Service Request</td> <td>Reject a service request</td> <td>RejectServiceRequest</td> </tr> <tr> <td>ServiceRequests</td> <td>PUT</td> <td>/api/v1/service-requests/{serviceRequestId}/cancel</td> <td>Cancel Service Request</td> <td>Cancel a service request</td> <td>CancelServiceRequest</td> </tr> </table>
-
-![ServiceRequests.png](assets/chapter-05/TB2/ServiceRequests.png)
-
-![SR1.png](assets/chapter-05/TB2/SR1.png)
-![SR2.png](assets/chapter-05/TB2/SR2.png)
-![SR3.png](assets/chapter-05/TB2/SR3.png)
-
-<strong>EquipmentController </strong><br>
-Se muestra la documentación de los servicios del controlador de equipos.
-
-<table> <tr> <th>Tag</th> <th>Verbo http</th> <th>Endpoint</th> <th>Summary</th> <th>Description</th> <th>OperationId</th> </tr> <tr> <td>Equipments</td> <td>GET</td> <td>/api/v1/equipments/{equipmentId}</td> <td>Get Equipment by Id</td> <td>Retrieve equipment details by ID</td> <td>GetEquipmentById</td> </tr> <tr> <td>Equipments</td> <td>POST</td> <td>/api/v1/equipments</td> <td>Create Equipment</td> <td>Create a new equipment</td> <td>CreateEquipment</td> </tr> <tr> <td>Equipments</td> <td>GET</td> <td>/api/v1/equipments</td> <td>Get All Equipment</td> <td>Retrieve all equipment in the system</td> <td>GetAllEquipments</td> </tr> <tr> <td>Equipments</td> <td>GET</td> <td>/api/v1/equipments/owner/{ownerId}</td> <td>Get Equipment by Owner</td> <td>Retrieve equipment by owner ID</td> <td>GetEquipmentsByOwner</td> </tr> <tr> <td>Equipments</td> <td>PUT</td> <td>/api/v1/equipments/{equipmentId}/temperature</td> <td>Update Equipment Temperature</td> <td>Modify temperature of equipment</td> <td>UpdateEquipmentTemperature</td> </tr> <tr> <td>Equipments</td> <td>PUT</td> <td>/api/v1/equipments/{equipmentId}/power</td> <td>Update Equipment Power State</td> <td>Change power state of equipment</td> <td>UpdateEquipmentPower</td> </tr> <tr> <td>Equipments</td> <td>PUT</td> <td>/api/v1/equipments/{equipmentId}/location</td> <td>Update Equipment Location</td> <td>Change location of equipment</td> <td>UpdateEquipmentLocation</td> </tr> </table>
-
-![Equipments.png](assets/chapter-05/TB2/Equipments.png)
+![S.png](assets/chapter-05/TB2/fixServices/S.png)
+![S1.png](assets/chapter-05/TB2/fixServices/S1.png)
+![S2.png](assets/chapter-05/TB2/fixServices/S2.png)
+![S3.png](assets/chapter-05/TB2/fixServices/S3.png)
 
 
-![E1.png](assets/chapter-05/TB2/E1.png)
-![E2.png](assets/chapter-05/TB2/E2.png)
-![E3.png](assets/chapter-05/TB2/E3.png)
+<h4>ServiceRequestController</h4>
+<p>Encargado de manejar solicitudes de servicio por parte de los usuarios.</p>
+<table>
+  <thead>
+    <tr>
+      <th>Verbo HTTP</th>
+      <th>Endpoint</th>
+      <th>Descripción</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>POST</td><td>/api/v1/service-requests</td><td>Crear solicitud de servicio</td></tr>
+    <tr><td>GET</td><td>/api/v1/service-requests</td><td>Obtener todas las solicitudes</td></tr>
+    <tr><td>PUT</td><td>/api/v1/service-requests/{serviceRequestId}</td><td>Actualizar solicitud existente</td></tr>
+    <tr><td>GET</td><td>/api/v1/service-requests/{serviceRequestId}</td><td>Obtener solicitud por ID</td></tr>
+    <tr><td>PUT</td><td>/api/v1/service-requests/{serviceRequestId}/assign-technician</td><td>Asignar técnico</td></tr>
+    <tr><td>PUT</td><td>/api/v1/service-requests/{serviceRequestId}/feedback</td><td>Añadir feedback de cliente</td></tr>
+    <tr><td>PUT</td><td>/api/v1/service-requests/{serviceRequestId}/reject</td><td>Rechazar solicitud</td></tr>
+    <tr><td>PUT</td><td>/api/v1/service-requests/{serviceRequestId}/cancel</td><td>Cancelar solicitud</td></tr>
+  </tbody>
+</table>
 
-<strong>TechnicianController </strong><br>
-Se muestra la documentación de los servicios del controlador de técnicos.
+![SR.png](assets/chapter-05/TB2/fixServices/SR.png)
+![SR1.png](assets/chapter-05/TB2/fixServices/SR1.png)
+![SR2.png](assets/chapter-05/TB2/fixServices/SR2.png)
+![SR3.png](assets/chapter-05/TB2/fixServices/SR3.png)
 
-<table> <tr> <th>Tag</th> <th>Verbo http</th> <th>Endpoint</th> <th>Summary</th> <th>Description</th> <th>OperationId</th> </tr> <tr> <td>Technicians</td> <td>POST</td> <td>/api/v1/technicians</td> <td>Create Technician</td> <td>Create a new technician</td> <td>CreateTechnician</td> </tr> <tr> <td>Technicians</td> <td>GET</td> <td>/api/v1/technicians</td> <td>Get All Technicians</td> <td>Retrieve all technicians</td> <td>GetAllTechnicians</td> </tr> <tr> <td>Technicians</td> <td>GET</td> <td>/api/v1/technicians/{technicianId}</td> <td>Get Technician by Id</td> <td>Retrieve technician details by ID</td> <td>GetTechnicianById</td> </tr> <tr> <td>Technicians</td> <td>GET</td> <td>/api/v1/technicians/{technicianId}/average-rating</td> <td>Get Technician Average Rating</td> <td>Retrieve average rating for a technician</td> <td>GetTechnicianRating</td> </tr> </table>
 
-![Technicians.png](assets/chapter-05/TB2/Technicians.png)
+<h4>EquipmentController</h4>
+<p>Gestiona el inventario de equipos y sus lecturas operacionales.</p>
+<table>
+  <thead>
+    <tr>
+      <th>Verbo HTTP</th>
+      <th>Endpoint</th>
+      <th>Descripción</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>GET</td><td>/api/v1/equipments</td><td>Obtener todos los equipos</td></tr>
+    <tr><td>POST</td><td>/api/v1/equipments</td><td>Crear nuevo equipo</td></tr>
+    <tr><td>GET</td><td>/api/v1/equipments/{equipmentId}</td><td>Obtener equipo por ID</td></tr>
+    <tr><td>PUT</td><td>/api/v1/equipments/{equipmentId}</td><td>Actualizar equipo completo</td></tr>
+    <tr><td>DELETE</td><td>/api/v1/equipments/{equipmentId}</td><td>Eliminar equipo</td></tr>
+    <tr><td>GET</td><td>/api/v1/equipments/owners/{ownerId}</td><td>Obtener equipos por dueño</td></tr>
+    <tr><td>PATCH</td><td>/api/v1/equipments/{equipmentId}/operations</td><td>Actualizar parámetros operativos</td></tr>
+    <tr><td>POST</td><td>/api/v1/equipments/{equipmentId}/readings</td><td>Crear lectura de equipo</td></tr>
+    <tr><td>GET</td><td>/api/v1/equipments/{equipmentId}/readings</td><td>Obtener lecturas del equipo</td></tr>
+  </tbody>
+</table>
 
-![T1.png](assets/chapter-05/TB2/T1.png)
-![T2.png](assets/chapter-05/TB2/T2.png)
-![T3.png](assets/chapter-05/TB2/T3.png)
+![E.png](assets/chapter-05/TB2/fixServices/E.png)
+![E1.png](assets/chapter-05/TB2/fixServices/E1.png)
+![E2.png](assets/chapter-05/TB2/fixServices/E2.png)
+![E3.png](assets/chapter-05/TB2/fixServices/E3.png)
+
+
+<h4>TechnicianController</h4>
+<p>Gestión de técnicos del sistema.</p>
+<table>
+  <thead>
+    <tr>
+      <th>Verbo HTTP</th>
+      <th>Endpoint</th>
+      <th>Descripción</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>POST</td><td>/api/v1/technicians</td><td>Crear nuevo técnico</td></tr>
+    <tr><td>GET</td><td>/api/v1/technicians</td><td>Obtener todos los técnicos</td></tr>
+    <tr><td>GET</td><td>/api/v1/technicians/{technicianId}</td><td>Obtener técnico por ID</td></tr>
+    <tr><td>GET</td><td>/api/v1/technicians/{technicianId}/average-rating</td><td>Obtener promedio de calificaciones</td></tr>
+  </tbody>
+</table>
+
+![T.png](assets/chapter-05/TB2/fixServices/T.png)
+![T1.png](assets/chapter-05/TB2/fixServices/T1.png)
+![T2.png](assets/chapter-05/TB2/fixServices/T2.png)
+![T3.png](assets/chapter-05/TB2/fixServices/T3.png)
+
+
+<h4>AnalyticsController</h4>
+<p>Provee datos analíticos sobre los equipos registrados.</p>
+<table>
+  <thead>
+    <tr>
+      <th>Verbo HTTP</th>
+      <th>Endpoint</th>
+      <th>Descripción</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>GET</td><td>/api/v1/analytics/equipments/{equipmentId}/readings</td><td>Obtener lecturas del equipo</td></tr>
+    <tr><td>GET</td><td>/api/v1/analytics/equipments/{equipmentId}/summaries</td><td>Obtener resumen analítico</td></tr>
+    <tr><td>GET</td><td>/api/v1/analytics/equipments/overview</td><td>Vista general de equipos</td></tr>
+  </tbody>
+</table>
+
+![A.png](assets/chapter-05/TB2/fixServices/A.png)
+![A1.png](assets/chapter-05/TB2/fixServices/A1.png)
+![A2.png](assets/chapter-05/TB2/fixServices/A2.png)
+![A3.png](assets/chapter-05/TB2/fixServices/A3.png)
 
 
 ##### 5.2.3.7. Software Deployment Evidence for Sprint Review.
