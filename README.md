@@ -4001,6 +4001,326 @@ Durante este sprint se logró documentar un total de 25 endpoints correspondient
 ![Insights Backend.png](assets/chapter-05/TB2/Insights%20Backend.png)
 
 
+
+### 5.2.4. Sprint 4
+
+En esta sección se presenta el reporte del sprint 4, el cual se enfocó en la culminación del desarrollo de la plataforma, implementando nuevas funcionalidades y mejoras en la experiencia de usuario.
+
+### 5.2.4.1. Sprint Planning 4
+
+<table>
+<tr>
+    <th colspan="5">Sprint 4</th>
+    <th colspan="9">Sprint 4</th>
+  </tr>
+      <tr>
+    <td colspan="13">Sprint Planning Background</td>
+  </tr>
+  <tr>
+    <td colspan="5">Date</td>
+    <td colspan="8">2025-07-03</td>
+</tr>
+  <tr>
+    <td colspan="5">Time</td>
+    <td colspan="8">10:30 PM</td>
+  </tr>
+  <tr>
+    <td colspan="5">Location</td>
+    <td colspan="8">Via Discord</td>
+<tr>
+    <td colspan="5">Prepared By</td>
+    <td colspan="8">Kenyi Ramirez</td>
+</tr>
+<tr>
+    <td colspan="5">Attendees (to planning meeting)</td>
+    <td colspan="8">Joseph Rodriguez, Wilder Aliaga, Victor Rojas, Italo Verona</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 3 Review Summary</td>
+    <td colspan="8"></td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 3 Retrospective Summary</td>
+    <td colspan="8"></td>
+</tr>
+<tr>
+    <td colspan="13">Sprint Goal & User Stories</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 4 Goal</td>
+       <td colspan="8"></td>
+
+</tr>
+<tr>
+    <td colspan="5">Sprint 4 Velocity</td>
+    <td colspan="8"></td>
+<tr>
+    <td colspan="5">Sum of Story Points</td>
+    <td colspan="8"></td>
+</tr>
+</table>
+
+##### 5.2.4.2. Aspect Leaders and Collaborators
+
+Durante este cuarto Sprint, el equipo se enfocó ...
+Con el fin de organizar de manera más eficiente el trabajo colaborativo, se ha elaborado la matriz de Liderazgo y Colaboración (LACX). Esta matriz asigna responsabilidades específicas a cada miembro del equipo en relación con los aspectos clave del Sprint.
+<table>
+  <tr>
+    <td colspan="2"><strong>Team Member (Last Name, First Name)</strong></td>
+    <td><strong>GitHub Username</strong></td>
+    <td><strong>Service Request Management<br>Leader (L) / Collaborator (C)</strong></td>
+    <td><strong>Assets and Equipment Management<br>Leader (L) / Collaborator (C)</strong></td>
+    <td><strong>Field Operations<br>Leader (L) / Collaborator (C)</strong></td>
+    <td><strong>Subscriptions and Payments<br>Leader (L) / Collaborator (C)</strong></td>
+    <td><strong>Dashboard and Analytics<br>Leader (L) / Collaborator (C)</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2">Ramírez Cabrera, Kenyi Efrain</td>
+    <td>Kenyi15upc</td>
+    <td>L</td>
+    <td>-</td>
+    <td>L</td>
+    <td>-</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td colspan="2">Rodriguez Parco Joseph Pablo </td>
+    <td>eJosR-Coding</td>
+    <td>C</td>
+    <td>L</td>
+    <td>-</td>
+    <td>C</td>
+    <td>L</td>
+  </tr>
+  <tr>
+    <td colspan="2"> Aliaga Urbina Wilder Gonzalo </td>
+    <td>Gonzalo1905</td>
+    <td>C</td>
+    <td>-</td>
+    <td>C</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td colspan="2">Verona Flores Italo Sebastián
+</td>
+    <td>atomdragon1318</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td colspan="2">Rojas Reategui Victor Manuel </td>
+    <td>VRojas1603</td>
+    <td>-</td>
+    <td>C</td>
+    <td>-</td>
+    <td>L</td>
+    <td>-</td>
+  </tr>
+</table>
+
+##### 5.2.4.3. Sprint Backlog 4.
+Nuestro enfoque principal para este Sprint ha sido el desarrollo del frontend y backend de la plataforma OsitoPolar. Hemos estructurado nuestras tareas siguiendo las User Stories y Technical Stories que hemos detallado, asegurando un progreso claro y alineado con los objetivos de negocio y la arquitectura técnica.
+
+Para la gestión y el control de estas tareas, estamos utilizando Trello.
+
+Enlace: 
+
+
+##### 5.2.4.4. Development Evidence for Sprint Review.
+
+En esta sección se presentan los commits realizados en el repositorio de backend y frontend durante el sprint 4.
+
+*Commits realizados en el repositorio de frontend durante el sprint 4:*
+A continuación se presenta un registro de los cambios realizados en la interfaz de usuario de nuestra aplicación. Cada commit detalla las modificaciones efectuadas en el diseño, la estructura y la interacción de los elementos visuales durante este Sprint.
+
+
+
+**Commits realizados en el repositorio de backend durante el sprint 4:**
+
+A continuación se presenta un registro detallado de los commits realizados en el repositorio, enfocados a la parte de backend. Cada entrada incluye el identificador único del commit (ID), descripciones realizados durante la elaboracion de esta.
+
+
+
+##### 5.2.4.5. Execution Evidence for Sprint Review.
+
+En esta sección se presentan las evidencias de la ejecución de la aplicación para el sprint 4.
+En esta sección, presentamos una recopilación visual y detallada de los avances logrados durante el sprint.
+
+
+##### 5.2.4.6. Services Documentation Evidence for Sprint Review.
+
+Durante este sprint se logró documentar un total de 25 endpoints correspondientes a 6 controladores principales de la API. La documentación fue realizada utilizando Swagger, una herramienta que facilita la exploración, prueba y validación de servicios REST. Esta interfaz está disponible accediendo a la siguiente URL configurada en el servidor (http://localhost:5128/swagger/index.html).
+
+<p>A continuación, se detallan los controladores y sus respectivos endpoints documentados:</p>
+
+<h4>WorkOrderController</h4>
+<p>Se encarga de la gestión de órdenes de trabajo. Incluye endpoints para creación, obtención, actualización de estado y resolución.</p>
+<table>
+  <thead>
+    <tr>
+      <th>Verbo HTTP</th>
+      <th>Endpoint</th>
+      <th>Descripción</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>POST</td><td>/api/v1/work-orders</td><td>Crear nueva orden de trabajo</td></tr>
+    <tr><td>GET</td><td>/api/v1/work-orders</td><td>Obtener todas las órdenes</td></tr>
+    <tr><td>GET</td><td>/api/v1/work-orders/{workOrderId}</td><td>Obtener orden por ID</td></tr>
+    <tr><td>PUT</td><td>/api/v1/work-orders/{workOrderId}/status</td><td>Actualizar estado de la orden</td></tr>
+    <tr><td>PUT</td><td>/api/v1/work-orders/{workOrderId}/resolution</td><td>Agregar resolución a la orden</td></tr>
+  </tbody>
+</table>
+
+![WO.png](assets/chapter-05/TB2/fixServices/WO.png)
+![WO1.png](assets/chapter-05/TB2/fixServices/WO1.png)
+![WO2.png](assets/chapter-05/TB2/fixServices/WO2.png)
+![WO3.png](assets/chapter-05/TB2/fixServices/WO3.png)
+
+
+
+<h4>SubscriptionController</h4>
+<p>Permite gestionar suscripciones de los usuarios.</p>
+<table>
+  <thead>
+    <tr>
+      <th>Verbo HTTP</th>
+      <th>Endpoint</th>
+      <th>Descripción</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>GET</td><td>/api/v1/subscriptions/{subscriptionId}</td><td>Obtener suscripción por ID</td></tr>
+    <tr><td>GET</td><td>/api/v1/subscriptions</td><td>Listar todas las suscripciones</td></tr>
+    <tr><td>POST</td><td>/api/v1/subscriptions/upgrade</td><td>Actualizar plan de suscripción</td></tr>
+  </tbody>
+</table>
+
+![S.png](assets/chapter-05/TB2/fixServices/S.png)
+![S1.png](assets/chapter-05/TB2/fixServices/S1.png)
+![S2.png](assets/chapter-05/TB2/fixServices/S2.png)
+![S3.png](assets/chapter-05/TB2/fixServices/S3.png)
+
+
+<h4>ServiceRequestController</h4>
+<p>Encargado de manejar solicitudes de servicio por parte de los usuarios.</p>
+<table>
+  <thead>
+    <tr>
+      <th>Verbo HTTP</th>
+      <th>Endpoint</th>
+      <th>Descripción</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>POST</td><td>/api/v1/service-requests</td><td>Crear solicitud de servicio</td></tr>
+    <tr><td>GET</td><td>/api/v1/service-requests</td><td>Obtener todas las solicitudes</td></tr>
+    <tr><td>PUT</td><td>/api/v1/service-requests/{serviceRequestId}</td><td>Actualizar solicitud existente</td></tr>
+    <tr><td>GET</td><td>/api/v1/service-requests/{serviceRequestId}</td><td>Obtener solicitud por ID</td></tr>
+    <tr><td>PUT</td><td>/api/v1/service-requests/{serviceRequestId}/assign-technician</td><td>Asignar técnico</td></tr>
+    <tr><td>PUT</td><td>/api/v1/service-requests/{serviceRequestId}/feedback</td><td>Añadir feedback de cliente</td></tr>
+    <tr><td>PUT</td><td>/api/v1/service-requests/{serviceRequestId}/reject</td><td>Rechazar solicitud</td></tr>
+    <tr><td>PUT</td><td>/api/v1/service-requests/{serviceRequestId}/cancel</td><td>Cancelar solicitud</td></tr>
+  </tbody>
+</table>
+
+![SR.png](assets/chapter-05/TB2/fixServices/SR.png)
+![SR1.png](assets/chapter-05/TB2/fixServices/SR1.png)
+![SR2.png](assets/chapter-05/TB2/fixServices/SR2.png)
+![SR3.png](assets/chapter-05/TB2/fixServices/SR3.png)
+
+
+<h4>EquipmentController</h4>
+<p>Gestiona el inventario de equipos y sus lecturas operacionales.</p>
+<table>
+  <thead>
+    <tr>
+      <th>Verbo HTTP</th>
+      <th>Endpoint</th>
+      <th>Descripción</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>GET</td><td>/api/v1/equipments</td><td>Obtener todos los equipos</td></tr>
+    <tr><td>POST</td><td>/api/v1/equipments</td><td>Crear nuevo equipo</td></tr>
+    <tr><td>GET</td><td>/api/v1/equipments/{equipmentId}</td><td>Obtener equipo por ID</td></tr>
+    <tr><td>PUT</td><td>/api/v1/equipments/{equipmentId}</td><td>Actualizar equipo completo</td></tr>
+    <tr><td>DELETE</td><td>/api/v1/equipments/{equipmentId}</td><td>Eliminar equipo</td></tr>
+    <tr><td>GET</td><td>/api/v1/equipments/owners/{ownerId}</td><td>Obtener equipos por dueño</td></tr>
+    <tr><td>PATCH</td><td>/api/v1/equipments/{equipmentId}/operations</td><td>Actualizar parámetros operativos</td></tr>
+    <tr><td>POST</td><td>/api/v1/equipments/{equipmentId}/readings</td><td>Crear lectura de equipo</td></tr>
+    <tr><td>GET</td><td>/api/v1/equipments/{equipmentId}/readings</td><td>Obtener lecturas del equipo</td></tr>
+  </tbody>
+</table>
+
+![E.png](assets/chapter-05/TB2/fixServices/E.png)
+![E1.png](assets/chapter-05/TB2/fixServices/E1.png)
+![E2.png](assets/chapter-05/TB2/fixServices/E2.png)
+![E3.png](assets/chapter-05/TB2/fixServices/E3.png)
+
+
+<h4>TechnicianController</h4>
+<p>Gestión de técnicos del sistema.</p>
+<table>
+  <thead>
+    <tr>
+      <th>Verbo HTTP</th>
+      <th>Endpoint</th>
+      <th>Descripción</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>POST</td><td>/api/v1/technicians</td><td>Crear nuevo técnico</td></tr>
+    <tr><td>GET</td><td>/api/v1/technicians</td><td>Obtener todos los técnicos</td></tr>
+    <tr><td>GET</td><td>/api/v1/technicians/{technicianId}</td><td>Obtener técnico por ID</td></tr>
+    <tr><td>GET</td><td>/api/v1/technicians/{technicianId}/average-rating</td><td>Obtener promedio de calificaciones</td></tr>
+  </tbody>
+</table>
+
+![T.png](assets/chapter-05/TB2/fixServices/T.png)
+![T1.png](assets/chapter-05/TB2/fixServices/T1.png)
+![T2.png](assets/chapter-05/TB2/fixServices/T2.png)
+![T3.png](assets/chapter-05/TB2/fixServices/T3.png)
+
+
+<h4>AnalyticsController</h4>
+<p>Provee datos analíticos sobre los equipos registrados.</p>
+<table>
+  <thead>
+    <tr>
+      <th>Verbo HTTP</th>
+      <th>Endpoint</th>
+      <th>Descripción</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>GET</td><td>/api/v1/analytics/equipments/{equipmentId}/readings</td><td>Obtener lecturas del equipo</td></tr>
+    <tr><td>GET</td><td>/api/v1/analytics/equipments/{equipmentId}/summaries</td><td>Obtener resumen analítico</td></tr>
+    <tr><td>GET</td><td>/api/v1/analytics/equipments/overview</td><td>Vista general de equipos</td></tr>
+  </tbody>
+</table>
+
+![A.png](assets/chapter-05/TB2/fixServices/A.png)
+![A1.png](assets/chapter-05/TB2/fixServices/A1.png)
+![A2.png](assets/chapter-05/TB2/fixServices/A2.png)
+![A3.png](assets/chapter-05/TB2/fixServices/A3.png)
+
+
+##### 5.2.4.7. Software Deployment Evidence for Sprint Review.
+
+
+
+##### 5.2.4.8. Team Collaboration Insights during Sprint.
+
+**Frontend**
+
+**Backend**
+
+
 ## 5.3. Validation Interviews.
 En esta sección se presentan los detalles de las entrevistas de validación realizadas.
 
