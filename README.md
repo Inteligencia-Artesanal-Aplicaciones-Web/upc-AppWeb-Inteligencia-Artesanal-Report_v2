@@ -742,13 +742,9 @@ Hemos identificado diversas estrategias y tácticas para diferenciarse y competi
 - **Inicio:** 0:02
 - **Duración:** 3:18 min
 - **URL:** [https://bit.ly/4j6lCpZ](https://bit.ly/4j6lCpZ)
-- **Resumen:** Adriana es emprendedora y dueña de una bodega tipo mini market, donde conserva productos como embutidos, gaseosas, aguas y otras bebidas en frío. Actualmente cuenta con dos equipos de refrigeración y ha experimentado pérdidas debido a fallas en sus equipos. Para monitorear el estado de estos, revisa manualmente la temperatura y el consumo de energía diariamente, y realiza el mantenimiento cada 20 días.
+- **Resumen:** Adriana es una emprendedora que administra una bodega tipo mini market en San Martín de Porres. Su actividad diaria depende del correcto funcionamiento de sus equipos de refrigeración, ya que conserva productos perecibles como embutidos, bebidas y lácteos. Durante la entrevista, manifestó haber experimentado pérdidas económicas debido a fallas inesperadas en sus congeladoras, y recalcó la ausencia de mecanismos digitales que le ayuden a prevenir esos eventos. Actualmente, revisa la temperatura manualmente y realiza mantenimientos periódicos cada 20 días, lo cual considera una tarea rutinaria pero propensa a errores. Se mostró muy interesada en la idea de contar con una solución tecnológica que le notifique fallas de manera automática, que le brinde un historial técnico detallado y reportes por cada servicio realizado. Además, resaltó la importancia de tener opciones de suscripción accesibles, adaptadas a negocios pequeños como el suyo. Mencionó que estaría dispuesta a pagar por el servicio si se le garantiza una reducción significativa en las pérdidas operativas. Para ella, una herramienta como OsitoPolar representa una alternativa innovadora que podría profesionalizar su gestión sin exigir conocimientos técnicos complejos. Esta entrevista refleja claramente la necesidad de digitalizar los procesos de mantenimiento en pequeños negocios que dependen críticamente del frío.
 
-  No utiliza herramientas digitales para gestionar sus equipos, pero considera que sería completamente útil recibir alertas por fallas, variaciones de temperatura o consumo de energía. Además, le interesaría contar con un historial técnico y reportes automáticos por equipo tras cada servicio de mantenimiento, y estaría dispuesta a pagar una suscripción si esto le ayuda a evitar pérdidas.
 
-  Para Adriana, una herramienta digital ideal debe incluir funcionalidades como control de temperatura y monitoreo de electricidad. Sin embargo, el precio sería un factor clave que podría desmotivarla a usarla; por ello, considera necesario probar un demo previo y tener planes de suscripción adaptables, ya sean mensuales o anuales.
-
----
 
 ### Entrevista 2:
 - **Nombres y apellidos:** Luis Mamani Torres
@@ -763,15 +759,8 @@ Hemos identificado diversas estrategias y tácticas para diferenciarse y competi
 - **Inicio:** 0:25
 - **Duración:** 9:03 min
 - **URL:** [https://bit.ly/45c4QlW](https://bit.ly/45c4QlW)
-- **Resumen:** Luis Mamani es emprendedor dueño de una cevichería muy bien calificada por los vecinos de Comas, ex trabajador coordinador de platos marinos en hoteles como el Sheraton, entre otros más, encargado de control de cocina en diversos restaurantes del Perú.
+- **Resumen:** Luis es un empresario del rubro gastronómico especializado en cevichería, con experiencia previa como coordinador de cocina en hoteles de prestigio como el Sheraton. Actualmente administra un solo local en el distrito de Comas, donde emplea equipos de refrigeración para conservar insumos altamente sensibles como pescados y mariscos. Recalcó que en su rubro la cadena de frío es esencial, ya que un solo error podría implicar pérdidas económicas y riesgos sanitarios. Aunque reconoce que puede gestionar su negocio manualmente por su tamaño actual, también admite que una herramienta como OsitoPolar sería vital si decidiera expandirse. Indicó que empresas del sector avícola cuentan con sistemas similares, aunque menos sofisticados. En ese sentido, considera que OsitoPolar presenta una propuesta más completa y especializada. Destacó que funcionalidades como alertas automáticas, reportes de consumo y planificación de mantenimiento le permitirían optimizar sus operaciones, especialmente si tuviera varios locales. A pesar de no usar una solución digital actualmente, Luis mostró una actitud muy abierta a la adopción de tecnología si esta garantiza eficiencia y prevención de pérdidas. Esta entrevista demuestra que incluso negocios con una sola sede reconocen el valor de la digitalización y están dispuestos a invertir en soluciones escalables.
 
-  Actualmente cuenta con equipos de refrigeración ya que para el rubro marino, todo debe estar en refrigeración. Luis recalca la diferencia entre refrigeración y congelación, porque en cevichería pocas cosas pueden estar congeladas, ya que se considerarían como pérdidas.
-
-  Para Luis esta herramienta le ayudaría si tuviera que estar pendiente de muchos locales de cevicherías, ahora que él tiene un solo local, se encarga de todo pero aclara la importancia que esto tiene a gran escala. Para Luis el producto es interesante, y estaría interesado en usarlo si tuviera mayor escala.
-
-  Como actualmente no tiene múltiples locales, quisiera usar la herramienta para tener un control de los productos que mantiene refrigerados y así no perderlos, ya que el ceviche es un producto muy delicado.
-
-  Luis cuenta con un sistema de refrigeración pero no tiene un sistema de monitoreo digital. Menciona que empresas avícolas tienen sistemas similares pero no tan sofisticados como nuestra propuesta, lo que realza el valor de nuestro producto. Según su conocimiento, esas empresas estarían dispuestas a pagar por una solución así, y él también lo consideraría si tuviera una producción a mayor escala.
 
 ## Segmento objetivo #2: Empresas proveedoras de servicios y equipos de refrigeración
 
@@ -789,12 +778,8 @@ Hemos identificado diversas estrategias y tácticas para diferenciarse y competi
 - **Inicio:** 0:43
 - **Duración:** 7:03 min
 - **URL:** [https://bit.ly/4jS816Q](https://bit.ly/4jS816Q)
-- **Resumen:** Wilder es un empresario con 7 años de experiencia en mantenimiento de equipos de refrigeración y aire acondicionado. Él atiende entre 20 a 25 clientes al mes, principalmente restaurantes, bares y bodegas. En cuanto a la atención al cliente, su empresa solo utiliza un número telefónico para coordinar las visitas técnicas.
-
-  Una de las dificultades que enfrenta su empresa es la mala coordinación entre el cliente y el servidor de mantenimiento en cuanto al punto de llegada. Esto se debe a la imprecisión de la ubicación que brindan ciertas herramientas de software y el tráfico vehicular. Su equipo técnico utiliza Google Maps para planificar rutas.
-
-  Wilder considera útil una aplicación que le ayude a mejorar la gestión de los equipos de mantenimiento y de los técnicos, con reportes de fallas en tiempo real y mejor comunicación con el cliente. Él cree que el impacto de una aplicación así sería muy positiva, pues mejoraría la precisión de los servicios y conseguiría la satisfacción de sus clientes.
-
+- **Resumen:** Wilder es técnico especializado en refrigeración y aire acondicionado, con más de 7 años de experiencia atendiendo aproximadamente a 25 clientes al mes. Durante la entrevista, comentó que su principal dificultad radica en la coordinación con los clientes para las visitas técnicas, especialmente por errores en la ubicación o en los horarios acordados. Actualmente, gestiona sus servicios vía telefónica y utiliza Google Maps como apoyo para las rutas. Consideró que una plataforma como OsitoPolar le permitiría centralizar su operación, recibir alertas sobre fallas, y mejorar tanto la planificación de su agenda como la comunicación con los clientes. También destacó la posibilidad de llevar un historial técnico de cada equipo atendido, lo cual le ayudaría a prepararse mejor antes de cada visita. En su opinión, el uso de una app profesional elevaría la imagen de su empresa, mejorando la confianza y fidelización del cliente. Esta entrevista muestra cómo la tecnología puede mejorar considerablemente el desempeño de empresas técnicas, sobre todo en aspectos logísticos y de trazabilidad.
+- 
 ---
 
 ### Entrevista 2:
@@ -811,13 +796,8 @@ Hemos identificado diversas estrategias y tácticas para diferenciarse y competi
 - **Inicio:** 0:30
 - **Duración:** 5:48 min
 - **URL:** [https://bit.ly/43iyR14](https://bit.ly/43iyR14)
-- **Resumen:** Jackeline es una empresaria dedicada en el área administrativa con 13 años de experiencia en el rubro de servicios y equipos de refrigeración. Actualmente atiende a dos clientes fijos y varios temporales, incluyendo servicios preventivos trimestrales y activaciones de equipos los fines de semana.
+- **Resumen:** Jackeline tiene 13 años de experiencia en el rubro de servicios y mantenimiento de refrigeración, y se desempeña en el área administrativa de una empresa que atiende tanto a clientes fijos como temporales. Actualmente, gestiona los reportes técnicos con Excel y planifica las rutas a través de cronogramas manuales y aplicaciones móviles como Google Maps. Destacó que una herramienta como OsitoPolar podría marcar una diferencia sustancial en la organización de su equipo, ya que centralizaría toda la información de los equipos atendidos y permitiría la visualización en tiempo real del estado de cada unidad. Subrayó la importancia de poder ingresar datos desde el lugar de trabajo, facilitando el flujo de información y reduciendo errores administrativos. También recalcó el valor de las alertas automáticas, ya que permitirían actuar de forma inmediata ante cualquier incidente. Concluyó que una solución digital como esta no solo optimizaría procesos, sino que elevaría el estándar del servicio ofrecido. Su testimonio confirma la necesidad de profesionalización de procesos técnicos mediante tecnología accesible y especializada.
 
-  Para gestionar el historial técnico de los equipos que provee o repara, utiliza hojas de cálculo en Excel. Una de las dificultades que enfrenta su empresa es la falta de un software que permita visualizar información en tiempo real, lo que impacta en la eficiencia y calidad del servicio.
-
-  Para la planificación de rutas, su equipo técnico usa aplicaciones como Maps y cronogramas proporcionados por los clientes. Jacqueline considera que sería muy útil contar con una aplicación digital que optimice la gestión de datos, permita el ingreso de información en tiempo real desde dispositivos móviles, y facilite la recepción de alertas técnicas de fallas en los equipos.
-
-  Según ella, el impacto de una solución digital sería significativo, pues ahorraría tiempo, eliminaría procesos manuales, mejoraría la calidad del servicio, y aumentaría la satisfacción de sus clientes.
 
 ---
 
@@ -835,13 +815,8 @@ Hemos identificado diversas estrategias y tácticas para diferenciarse y competi
 - **Inicio:** 0:11
 - **Duración:** 7:09 min
 - **URL:** [https://bit.ly/43gc8T9](https://bit.ly/43gc8T9)
-- **Resumen:** Santiago es dueño de una empresa de venta y mantenimiento de equipos de refrigeración e instalación de cámaras frigoríficas, con 12 años de experiencia. Atiende principalmente a dos grandes clientes, el Grupo Backus y el Grupo Mambrino, y algunos clientes ambulatorios.
+- **Resumen:** Santiago es dueño de una empresa de instalación y mantenimiento de sistemas de refrigeración industrial. Cuenta con más de una década de experiencia y trabaja con clientes de gran envergadura como el Grupo Backus y Mambrino. En la entrevista, señaló que una de sus principales dificultades es la falta de información previa sobre las fallas de los equipos al momento de coordinar servicios, lo que repercute en la preparación del personal técnico y en la eficiencia de las visitas. Actualmente emplea archivos PDF y hojas de cálculo, lo cual limita el acceso ágil y compartido de los datos. Opinó que OsitoPolar facilitaría la organización de rutas, mejoraría la trazabilidad del historial técnico de cada unidad, y permitiría preparar los materiales de forma más precisa antes de la atención. También valoró que una app así agilizaría la comunicación con los clientes, lo que podría traducirse en una mejora sustancial en la calidad del servicio. Finalmente, destacó que la digitalización le permitiría optimizar recursos, reducir tiempos de respuesta y aumentar la satisfacción del cliente. Esta entrevista confirma la demanda de herramientas profesionales que automaticen procesos críticos en empresas con operaciones complejas.
 
-  Actualmente, no utiliza un sistema digital para gestionar el historial técnico de los equipos más allá de informes en PDF y Excel. Una de sus principales dificultades es la falta de información clara sobre las fallas de los equipos cuando coordina los servicios, lo que dificulta la preparación adecuada de herramientas y repuestos.
-
-  Además, la planificación de rutas se realiza de manera manual, usando WhatsApp y Google Maps, lo que limita la eficiencia en tiempo real. Santiago considera que una aplicación digital que permita gestionar equipos, recibir alertas sobre fallas y organizar las visitas técnicas mejoraría significativamente la eficiencia de su empresa.
-
-  Cree que una solución digital reduciría costos, optimizaría el tiempo y mejoraría la calidad del servicio, lo que aumentaría la confianza y satisfacción de los clientes.
 
 ---
 
