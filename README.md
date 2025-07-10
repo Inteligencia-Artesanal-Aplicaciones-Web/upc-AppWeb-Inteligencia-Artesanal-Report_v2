@@ -8,7 +8,7 @@
   <h2>Sección: 4378</h2>
   <h2>Profesor: Angel Augusto Velasquez Nuñez</h2>
 <br>
- <h1>Informe TB1</h1>
+ <h1>Informe TF1</h1>
   <h2>Startup: IA: Inteligencia Artesanal</h2>
   <h2>Producto: OsitoPolar</h2>
 <br>
@@ -28,14 +28,26 @@
 
 ## Registro de Versiones del Informe
 
-| Versión   | Fecha    | Autor                 | Descripción de modificación                              |
-|-----------|----------|-----------------------|----------------------------------------------------------|
-| 0.1       | 10/04/25 | Kenyi Ramírez         | Creación de la plantilla                                 |
-| 0.2       | 26/04/25 | Todos los integrantes | Modificación y arreglo de ramas                          |
-| 0.3 (TB1) | 26/04/25 | Todos los integrantes | Desarrollo completo de todos los puntos de cada capítulo |
+
+| Versión | Fecha      | Autor               | Descripción de modificación                                     |
+|---------|------------|----------------------|-----------------------------------------------------------------|
+| 0.1     | 09/04/2025 | Kenyi Ramírez        | Desarrollo del Capítulo 1 y sección 2.1                         |
+| 0.2     | 22/04/2025 | Joseph Rodriguez     | Desarrollo del Capítulo 2 (entrevistas, competidores, segmentación) |
+| 0.2.1   | 26/04/2025 | Kenyi Ramírez        | Desarrollo del Capítulo 3 (To-Be, User Stories, Backlog)        |
+| 0.3     | 03/05/2025 | Wilder Aliaga        | Desarrollo del Capítulo 4 (diseño UI/UX, arquitectura, BD)      |
+| 0.4     | 07/05/2025 | Victor Rojas         | Desarrollo del Capítulo 5.1 y prototipado                       |
+| 0.4.1   | 10/05/2025 | Joseph Rodriguez     | Desarrollo del Capítulo 5.2.1 al 5.2.2                          |
+| 0.4.2   | 11/05/2025 | Kenyi Ramírez        | Desarrollo del Capítulo 5.2.3                                   |
+| 0.4.3   | 13/05/2025 | Italo Verona         | Desarrollo del Capítulo 5.3 (validaciones, entrevistas)         |
+| 1.0     | 14/05/2025 | Wilder Aliaga        | Revisión final y entrega del documento TB1                      |
+| 1.1     | 16/05/2025 | Victor Rojas         | Correcciones generales al documento TB1                         |
+| 2.0     | 18/05/2025 | Kenyi Ramírez        | Entrega del documento TP                                        |
+| 3.0     | 10/06/2025 | Joseph Rodriguez     | Inicio del Sprint 3 (documentación capítulo 5.2.3)              |
+| 3.1     | 18/06/2025 | Wilder Aliaga        | Avances en evidencias y endpoints del Sprint 3                  |
+| 3.2     | 21/06/2025 | Kenyi Ramírez        | Redacción de conclusiones y cierre del capítulo 5.2.3           |
 
 
-## Project Report Collaboration Insights
+## Project Report Collaboration Insights *(POR MODIFICAR POR CADA ENTREGA)
 - **URL de la organización del proyecto:**  
   [https://github.com/Inteligencia-Artesanal-Aplicaciones-Web](https://github.com/Inteligencia-Artesanal-Aplicaciones-Web)
 
@@ -810,14 +822,7 @@ Hemos identificado diversas estrategias y tácticas para diferenciarse y competi
 - **Inicio:** 0:11
 - **Duración:** 7:09 min
 - **URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220138_upc_edu_pe/EfsC5pRPvnVFovKrip9liqwB6Eea4CGfHAiILJt8Yn-H1w?e=881RuS&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
-- **Resumen:** Santiago es dueño de una empresa de venta y mantenimiento de equipos de refrigeración e instalación de cámaras frigoríficas, con 12 años de experiencia. Atiende principalmente a dos grandes clientes, el Grupo Backus y el Grupo Mambrino, y algunos clientes ambulatorios. Actualmente, no utiliza un sistema digital para gestionar el historial técnico de los equipos más allá de informes en PDF y Excel. Una de sus principales dificultades es la falta de información clara sobre las fallas de los equipos cuando coordina los servicios, lo que dificulta la preparación adecuada de herramientas y repuestos. Además, la planificación de rutas se realiza de manera manual, usando WhatsApp y Google Maps, lo que limita la eficiencia en tiempo real.
-  Santiago considera que una aplicación digital que permita gestionar equipos, recibir alertas sobre fallas y organizar las visitas técnicas mejoraría significativamente la eficiencia de su empresa. Cree que una solución digital reduciría costos, optimizaría el tiempo y mejoraría la calidad del servicio, lo que aumentaría la confianza y satisfacción de los clientes.
-
-  Actualmente, no utiliza un sistema digital para gestionar el historial técnico de los equipos más allá de informes en PDF y Excel. Una de sus principales dificultades es la falta de información clara sobre las fallas de los equipos cuando coordina los servicios, lo que dificulta la preparación adecuada de herramientas y repuestos.
-
-  Además, la planificación de rutas se realiza de manera manual, usando WhatsApp y Google Maps, lo que limita la eficiencia en tiempo real. Santiago considera que una aplicación digital que permita gestionar equipos, recibir alertas sobre fallas y organizar las visitas técnicas mejoraría significativamente la eficiencia de su empresa.
-
-  Cree que una solución digital reduciría costos, optimizaría el tiempo y mejoraría la calidad del servicio, lo que aumentaría la confianza y satisfacción de los clientes.
+- **Resumen:**  Santiago es dueño de una empresa de instalación y mantenimiento de sistemas de refrigeración industrial. Cuenta con más de una década de experiencia y trabaja con clientes de gran envergadura como el Grupo Backus y Mambrino. En la entrevista, señaló que una de sus principales dificultades es la falta de información previa sobre las fallas de los equipos al momento de coordinar servicios, lo que repercute en la preparación del personal técnico y en la eficiencia de las visitas. Actualmente emplea archivos PDF y hojas de cálculo, lo cual limita el acceso ágil y compartido de los datos. Opinó que OsitoPolar facilitaría la organización de rutas, mejoraría la trazabilidad del historial técnico de cada unidad, y permitiría preparar los materiales de forma más precisa antes de la atención. También valoró que una app así agilizaría la comunicación con los clientes, lo que podría traducirse en una mejora sustancial en la calidad del servicio. Finalmente, destacó que la digitalización le permitiría optimizar recursos, reducir tiempos de respuesta y aumentar la satisfacción del cliente. Esta entrevista confirma la demanda de herramientas profesionales que automaticen procesos críticos en empresas con operaciones complejas.
 
 ---
 
