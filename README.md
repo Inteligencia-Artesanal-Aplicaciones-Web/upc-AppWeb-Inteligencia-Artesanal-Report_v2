@@ -848,29 +848,77 @@ Basándonos en las entrevistas, hemos llevado a cabo un análisis en el que dest
 
 **Análisis estadístico**
 
-![pie_chart-1-segment-2.png]( assets/chapter02/pie_chart-1-segment-2.png)
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter02/pie_chart-1-segment-2.png"
+       alt="Segmento 2 del Gráfico Circular: Distribución de datos clave."
+       style="max-width: 75%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 1:</strong> Gráfico Circular - Segmento 2.
+  </figcaption>
+</figure>
+
 - Más del 50% de los empresarios tiene un número mayor a 10 años de experiencia en el rubro.
 
 ---
 
-![pie_chart-2-segment-2.png]( assets/chapter02/pie_chart-2-segment-2.png)
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter02/pie_chart-2-segment-2.png"
+       alt="Segmento 2 del segundo Gráfico Circular: Proporción de satisfacción del usuario."
+       style="max-width: 75%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 2:</strong> Gráfico Circular 2 - Segmento 2.
+  </figcaption>
+</figure>
+
 - Los empresarios tienen diferentes frecuencias de ciertas dificultades, a pesar de que tienen casi los mismos problemas.
 
 ---
-![pie_chart-3-segment-2.png]( assets/chapter02/pie_chart-3-segment-2.png)
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter02/pie_chart-3-segment-2.png"
+       alt="Segmento 2 del tercer Gráfico Circular: Datos demográficos de usuarios."
+       style="max-width: 75%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 3:</strong> Gráfico Circular 3 - Segmento 2.
+  </figcaption>
+</figure>
+
 - El 67% de los empresarios creen que el cliente es parcialmente causante de su problema de mayor frecuencia. Algunos de ellos han expresado su inconformidad respecto a los clientes que no explican bien las fallas de sus equipos.
 
 ---
 
-![pie_chart-4-segment-2.png]( assets/chapter02/pie_chart-4-segment-2.png)
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter02/pie_chart-4-segment-2.png"
+       alt="Segmento 2 del cuarto Gráfico Circular: Preferencias de los usuarios por características."
+       style="max-width: 75%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 4:</strong> Gráfico Circular 4 - Segmento 2.
+  </figcaption>
+</figure>
+
 - El 100% está interesado en recibir notificaciones sobre fallos que ocurren en equipos de refrigeración. Ellos creen que con dicha funcionalidad podrían hacer un mantenimiento preventivo más eficiente y lograr la satisfacción del cliente.
 
 ---
-![pie_chart-5-segment-2.png]( assets/chapter02/pie_chart-5-segment-2.png)
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter02/pie_chart-5-segment-2.png"
+       alt="Segmento 2 del quinto Gráfico Circular: Fuentes de información preferidas por los usuarios."
+       style="max-width: 75%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 5:</strong> Gráfico Circular 5 - Segmento 2.
+  </figcaption>
+</figure>
+
 - Ni uno de los empresarios ha usado una plataforma digital que se asemeje a la que se muestran interesados. Ellos usaron aplicaciones para mejorar la eficiencia de su trabajo como WhatsApp y Maps o programas como Microsoft Excel. Sin embargo, estos no poseen todas las funcionalidades que necesitan.
 
 ---
-![pie_chart-6-segment-2.png]( assets/chapter02/pie_chart-6-segment-2.png)
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter02/pie_chart-6-segment-2.png"
+       alt="Segmento 2 del sexto Gráfico Circular: Nivel de satisfacción general del producto."
+       style="max-width: 75%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 6:</strong> Gráfico Circular 6 - Segmento 2.
+  </figcaption>
+</figure>
+
 - Cada empresario tiene una meta deseada de mayor prioridad diferente al resto a pesar de que todos ellos comparten los mismos deseos y esperan que una plataforma digital pueda ayudarles a obtenerlos.
 
 ---
@@ -881,10 +929,24 @@ Basándonos en las entrevistas, hemos llevado a cabo un análisis en el que dest
 En esta sección se presentan las fichas de User Personas construidas a partir de los datos recogidos del análisis de entrevistas al segmento #1: "Negocios que utilizan equipos de refrigeración" y al segmento #2: "Empresas proveedoras de servicios y equipos de refrigeración". Estas fichas permiten representar de forma clara y estratégica los perfiles del segmento objetivo, considerando sus metas, habilidades, motivaciones y dificultades. Al integrar tanto la perspectiva del usuario como las tendencias del sector, estas representaciones sirven como una herramienta clave para el diseño de soluciones digitales centradas en el usuario y alineadas con las oportunidades del mercado.
 
 ##### Segmento objetivo #1: Negocios que utilizan equipos de refrigeración
-![UserPersona-Carolina_Garcia.png]( assets/chapter02/UserPersona-Carolina_Garcia.png)
-##### Segmento objetivo #2: Empresas proveedoras de servicios y equipos de refrigeración
-![UserPersona-Luis-Rojas.png]( assets/chapter02/UserPersona-Luis-Rojas.png)
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter02/UserPersona-Carolina_Garcia.png" 
+       alt="User Persona: Carolina García, descripción detallada del perfil de usuario." 
+       style="max-width: 90%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 1:</strong> User Persona - Carolina García.
+  </figcaption>
+</figure>
 
+##### Segmento objetivo #2: Empresas proveedoras de servicios y equipos de refrigeración
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter02/UserPersona-Luis-Rojas.png"
+       alt="User Persona: Luis Rojas, descripción detallada de sus características y necesidades."
+       style="max-width: 90%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 2:</strong> User Persona - Luis Rojas.
+  </figcaption>
+</figure>
 
 #### 2.3.2. User Task Matrix.
 
@@ -997,23 +1059,50 @@ Las tareas fueron identificadas a partir del análisis cualitativo de entrevista
 Este User Journey Map representa el recorrido actual de Carolina García. El mapa ilustra su experiencia completa desde que maneja continuamente los datos registrados de la empresa hasta su seguimiento luego de la realización de la venta o servicio.
 Esta sección refleja la situación actual sin intervención de soluciones tecnológicas, mostrando los puntos de contacto, tareas clave, emociones y posibles fricciones que enfrenta en su día a día. Este recorrido permite entender los desafíos que enfrenta Carolina.
 
-![JourneyMap-segment-1.png]( assets/chapter02/JourneyMap-segment-1.png)
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter02/JourneyMap-segment-1.png"
+       alt="Segmento 1 del Journey Map: Etapa de Descubrimiento de necesidades del usuario."
+       style="max-width: 95%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 1:</strong> Segmento 1 del Journey Map.
+  </figcaption>
+</figure>
 
 **Segmento objetivo #2: EMPRESAS PROVEEDORAS DE SERVICIOS Y EQUIPOS DE REFRIGERACIÓN**
 
 Este User Journey Map representa el recorrido actual de Luis Rojas. El mapa ilustra su experiencia completa desde que maneja continuamente los datos registrados de la empresa hasta su seguimiento luego de la realización de la venta o servicio.
 Esta sección refleja la situación actual sin intervención de soluciones tecnológicas, mostrando los puntos de contacto, tareas clave, emociones y posibles fricciones que enfrenta en su día a día. Este recorrido permite entender los desafíos que enfrenta Luis.
-![JourneyMap-segment-2.png]( assets/chapter02/JourneyMap-segment-2.png)
-
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter02/JourneyMap-segment-2.png"
+       alt="Segmento 2 del Journey Map: Etapa de Consideración y Evaluación."
+       style="max-width: 95%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 2:</strong> Segmento 2 del Journey Map.
+  </figcaption>
+</figure>
 
 #### 2.3.4. Empathy Mapping.
 
 **Segmento objetivo #1: Negocios que utilizan equipos de refrigeración**
-![EmpathyMap-segment-1.png]( assets/chapter02/EmpathyMap-segment-1.png)
-
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter02/EmpathyMap-segment-1.png"
+       alt="Segmento 1 del Mapa de Empatía: Qué piensa y siente el usuario."
+       style="max-width: 95%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 1:</strong> Segmento 1 del Mapa de Empatía.
+  </figcaption>
+</figure>
 
 **Segmento objetivo #2: EMPRESAS PROVEEDORAS DE SERVICIOS Y EQUIPOS DE REFRIGERACIÓN**
-![EmpathyMap-segment-2.png]( assets/chapter02/EmpathyMap-segment-2.png)
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter02/EmpathyMap-segment-2.png"
+       alt="Segmento 2 del Mapa de Empatía: Qué ve y qué oye el usuario."
+       style="max-width: 95%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 2:</strong> Segmento 2 del Mapa de Empatía.
+  </figcaption>
+</figure>
+
 
 #### 2.3.5. As-is Scenario Mapping.
 
@@ -1023,8 +1112,14 @@ Desde la perspectiva del usuario, este mapa nos permite visualizar su situación
 
 
 **Segmento objetivo #2: EMPRESAS PROVEEDORAS DE SERVICIOS Y EQUIPOS DE REFRIGERACIÓN**
-![As-is-Scenario-segment-2.jpg]( assets/chapter02/As-is-Scenario-segment-2.jpg)
-
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter02/As-is-Scenario-segment-2.jpg"
+       alt="Segmento 2 del Escenario As-Is: Fases de interacción actual del usuario con el producto."
+       style="max-width: 95%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 1:</strong> Segmento 2 del Escenario As-Is.
+  </figcaption>
+</figure>
 
 ### 2.4. Ubiquitous Language.
 
