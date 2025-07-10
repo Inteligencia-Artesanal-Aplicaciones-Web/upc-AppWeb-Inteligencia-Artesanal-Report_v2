@@ -8,7 +8,7 @@
   <h2>Sección: 4378</h2>
   <h2>Profesor: Angel Augusto Velasquez Nuñez</h2>
 <br>
- <h1>Informe TP1</h1>
+ <h1>Informe TF1</h1>
   <h2>Startup: IA: Inteligencia Artesanal</h2>
   <h2>Producto: OsitoPolar</h2>
 <br>
