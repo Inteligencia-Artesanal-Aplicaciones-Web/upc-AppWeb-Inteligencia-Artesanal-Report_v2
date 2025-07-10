@@ -3667,77 +3667,6 @@ A continuación se presenta un registro detallado de los commits realizados en e
 </table>
 
 
-##### 5.2.3.2.1 Aspect Leaders and Collaborators
-
-<p>Durante el Sprint 3, el equipo centró sus esfuerzos en consolidar módulos clave del backend y continuar con el desarrollo del frontend de OsitoPolar. Se trabajó de manera organizada en cada aspecto funcional mediante la asignación de líderes (L) y colaboradores (C), lo cual se resume en la siguiente matriz LACX:</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>Integrante</th>
-      <th>A1 Subs</th>
-      <th>A2 IAM</th>
-      <th>A3 Profile</th>
-      <th>A4 Asset</th>
-      <th>A5 Service Dt</th>
-      <th>A6 Service or</th>
-      <th>A7 Dashboard</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Joseph</td>
-      <td>C</td>
-      <td></td>
-      <td></td>
-      <td>L</td>
-      <td>C</td>
-      <td>C</td>
-      <td>L</td>
-    </tr>
-    <tr>
-      <td>Victor</td>
-      <td>L</td>
-      <td>C</td>
-      <td></td>
-      <td>C</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Kenyi</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>C</td>
-      <td>L</td>
-      <td>L</td>
-      <td>C</td>
-    </tr>
-    <tr>
-      <td>Italo</td>
-      <td>C</td>
-      <td>L</td>
-      <td>C</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Gonzalo</td>
-      <td></td>
-      <td>L</td>
-      <td></td>
-      <td></td>
-      <td>C</td>
-      <td></td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
-
 
 
 ##### 5.2.3.5. Execution Evidence for Sprint Review.
@@ -4523,25 +4452,37 @@ Este trabajo ha demostrado que OsitoPolar no solo resuelve un problema real, sin
 
 ## Bibliografía
 
-- Cohn, M. (s.f.). User Stories Articles. Mountain Goat Software. Recuperado de https://www.mountaingoatsoftware.com/blog/tag/user-stories
+- Axios. (s.f.). *Axios: Promise based HTTP client for the browser and node.js*. Recuperado el 10 de julio de 2025, de https://axios-http.com/docs/intro
 
-- UXPressia. (s.f.). User vs. Buyer Persona: Differences and Free Template. Recuperado de https://uxpressia.com/blog/user-persona-vs-buyer-persona-difference
+- Cohn, M. (s.f.). *User stories articles*. Mountain Goat Software. Recuperado el 10 de julio de 2025, de https://www.mountaingoatsoftware.com/blog/tag/user-stories
 
-- Nielsen Norman Group. (s.f.). Front-End Style-Guides: Definition, Requirements, Component Checklist. Recuperado de https://www.nngroup.com/articles/front-end-style-guides/
+- Conventional Commits. (s.f.). *Conventional commits*. Recuperado el 10 de julio de 2025, de https://www.conventionalcommits.org/
 
-- Nielsen Norman Group. (s.f.). The Four Dimensions of Tone of Voice. Recuperado de https://www.nngroup.com/articles/tone-of-voice-dimensions/
+- Google. (s.f.). *Firebase Hosting*. Recuperado el 10 de julio de 2025, de https://firebase.google.com/docs/hosting?hl=es-419
 
-- Nvie. (s.f.). A Successful Git Branching Model. Recuperado de https://nvie.com/posts/a-successful-git-branching-model/
+- Google. (s.f.). *Google HTML/CSS style guide*. Recuperado el 10 de julio de 2025, de https://google.github.io/styleguide/htmlcssguide.html
 
-- Preston-Werner, T. (s.f.). Semantic Versioning 2.0.0. Recuperado de https://semver.org/
+- Nielsen Norman Group. (s.f.). *Front-end style-guides: Definition, requirements, component checklist*. Recuperado el 10 de julio de 2025, de https://www.nngroup.com/articles/front-end-style-guides/
 
-- Conventional Commits. (s.f.). Conventional Commits. Recuperado de https://www.conventionalcommits.org/
+- Nielsen Norman Group. (s.f.). *The four dimensions of tone of voice*. Recuperado el 10 de julio de 2025, de https://www.nngroup.com/articles/tone-of-voice-dimensions/
 
-- W3Schools. (s.f.). HTML Style Guide and Coding Conventions. Recuperado de https://www.w3schools.com/html/html5_syntax.asp
+- Nvie. (s.f.). *A successful Git branching model*. Recuperado el 10 de julio de 2025, de https://nvie.com/posts/a-successful-git-branching-model/
 
-- Google. (s.f.). Google HTML/CSS Style Guide. Recuperado de https://google.github.io/styleguide/htmlcssguide.html
+- Preston-Werner, T. (s.f.). *Semantic versioning 2.0.0*. Recuperado el 10 de julio de 2025, de https://semver.org/
 
+- PrimeVue. (s.f.). *PrimeVue: The most complete UI component library for Vue.js*. Recuperado el 10 de julio de 2025, de https://primevue.org
 
+- Render. (s.f.). *Deployments*. Recuperado el 10 de julio de 2025, de https://render.com/docs/deploys
+
+- REST API Tutorial. (s.f.). *What is REST?*. Recuperado el 10 de julio de 2025, de https://www.restapitutorial.com/introduction/whatisrest
+
+- RESTfulAPI.net. (s.f.). *REST API tutorial*. Recuperado el 10 de julio de 2025, de https://restfulapi.net
+
+- Stripe. (s.f.). *Payments overview*. Recuperado el 10 de julio de 2025, de https://docs.stripe.com/payments?payments=popular
+
+- UXPressia. (s.f.). *User vs. buyer persona: Differences and free template*. Recuperado el 10 de julio de 2025, de https://uxpressia.com/blog/user-persona-vs-buyer-persona-difference
+
+- W3Schools. (s.f.). *HTML style guide and coding conventions*. Recuperado el 10 de julio de 2025, de https://www.w3schools.com/html/html5_syntax.asp
 ## Anexos
 
 
