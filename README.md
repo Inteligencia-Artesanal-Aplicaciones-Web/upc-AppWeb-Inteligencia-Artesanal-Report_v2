@@ -28,17 +28,19 @@
 
 ## Registro de Versiones del Informe
 
-| Versión | Fecha      | Autor                                                                                                                                                     | Descripción de modificación       |
-|---------|------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------|
-| 0.1     | 09/04/2025 | Kenyi Ramírez                                                                                                                                             | Desarollo Capitulo 1 y seccion 2.1 |
-| 0.2     | 29/08/2024 | Ramírez Cabrera Kenyi Efraín, Rodriguez Parco Joseph Pablo                                                                                                | Desarollo del capitulo 2 y 3      |
-| 0.3     | 29/08/2024 | Aliaga Urbina Wilder Gonzalo                                                                                                                              | Desarollo Capitulo 4              |
-| 0.4     | 29/08/2024 | Ramírez Cabrera Kenyi Efraín, Rojas Reategui Victor Manuel, Rodriguez Parco Joseph Pablo                                                                  | Desarollo Capitulo 5              |
-| 1       | 07/09/2024 | Aliaga Urbina Wilder Gonzalo, Ramírez Cabrera Kenyi Efraín , Rodriguez Parco Joseph Pablo , Rojas Reategui Victor Manuel , Verona Flores Italo Sebastián  | Entrega TB1                       |
-| 1.1     | 27/09/2024 | Aliaga Urbina Wilder Gonzalo, Ramírez Cabrera Kenyi Efraín , Rojas Reategui Victor Manuel , Verona Flores Italo Sebastián                                 | Correciones TB1                   |
-| 2       | 27/09/2024 | Aliaga Urbina Wilder Gonzalo, Ramírez Cabrera Kenyi Efraín , Rodriguez Parco Joseph Pablo , Rojas Reategui Victor Manuel , Verona Flores Italo Sebastián  | Entrega TP                        |
+| Versión | Fecha      | Autor                                                                                                                                                     | Descripción de modificación                     |
+|---------|------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|
+| 0.1     | 09/04/2025 | Kenyi Ramírez                                                                                                                                             | Desarrollo Capítulo 1 y sección 2.1             |
+| 0.2     | 29/08/2025 | Ramírez Cabrera Kenyi Efraín, Rodriguez Parco Joseph Pablo                                                                                                | Desarrollo de los capítulos 2 y 3               |
+| 0.3     | 29/08/2025 | Aliaga Urbina Wilder Gonzalo                                                                                                                              | Desarrollo Capítulo 4                           |
+| 0.4     | 29/08/2025 | Ramírez Cabrera Kenyi Efraín, Rojas Reategui Victor Manuel, Rodriguez Parco Joseph Pablo                                                                  | Desarrollo Capítulo 5                           |
+| 1       | 07/09/2025 | Aliaga Urbina Wilder Gonzalo, Ramírez Cabrera Kenyi Efraín, Rodriguez Parco Joseph Pablo, Rojas Reategui Victor Manuel, Verona Flores Italo Sebastián     | Entrega TB1                                     |
+| 1.1     | 27/09/2025 | Aliaga Urbina Wilder Gonzalo, Ramírez Cabrera Kenyi Efraín, Rojas Reategui Victor Manuel, Verona Flores Italo Sebastián                                  | Correcciones TB1                                |
+| 2       | 27/09/2025 | Aliaga Urbina Wilder Gonzalo, Ramírez Cabrera Kenyi Efraín, Rodriguez Parco Joseph Pablo, Rojas Reategui Victor Manuel, Verona Flores Italo Sebastián     | Entrega TP                                      |
+| 3       | 10/06/2025 | Aliaga Urbina Wilder Gonzalo, Ramírez Cabrera Kenyi Efraín, Rodriguez Parco Joseph Pablo, Rojas Reategui Victor Manuel                                    | Inicio de desarrollo de Sprint 3 (capítulo 5.2.3) |
+| 3.1     | 18/06/2025 | Aliaga Urbina Wilder Gonzalo, Ramírez Cabrera Kenyi Efraín, Rodriguez Parco Joseph Pablo, Rojas Reategui Victor Manuel                                    | Avances en backlog, evidencias y documentación de endpoints |
+| 3.2     | 21/06/2025 | Aliaga Urbina Wilder Gonzalo, Ramírez Cabrera Kenyi Efraín, Rodriguez Parco Joseph Pablo, Rojas Reategui Victor Manuel                                    | Redacción de conclusiones y cierre de capítulo 5.2.3 |
 
-<br><br>
 
 
 ## Project Report Collaboration Insights
@@ -154,10 +156,12 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de
 conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro
 del ABET – EAC - Student Outcome 5.
 
-| Criterio específico                                                                            | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Conclusiones                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-|------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Trabaja en equipo para proporcionar liderazgo en forma conjunta                                | Kenyi Efraín Ramírez Cabrera  <br> **TB1** <br> En esta entrega, durante el desarrollo de este informe, he tomado el rol de lider del equipo asignando tareas a todo el equipo y apoyando en todo lo posible. Me encargué de varias secciones que tenían que ver con el segmento objetivo 2, User Stories y gran parte del capítulo 5.<br><br> **TP1** <br> En esta entrega, durante el desarrollo de este informe, he ayudado a mis compañeros a realizar ciertas labores y resolver algunas dudas. Me encargué de corregir algunas secciones de la TB1 como  User Stories y Product Backlog, también aporté en el desarrollo del Sprint 2 y algunos puntos más del capítulo 5.<br><br> Wilder Gonzalo Aliaga Urbina <br> **TB1** <br> Realizó en la identificación de los competidores.<br><br> **TP1** <br> Elaboración y mejora de wireframes para optimizar la experiencia de usuario.<br><br> Victor Manuel Rojas Reategui  <br> **TB1** <br> Participé en las reuniones acordadas por el equipo y brindó apoyo para definir la estructura del proyecto.<br><br> **TP1** <br> Me aseguré de organizar las tareas pendientes para decidir la distribución entre los miembros del equipo.<br><br> Italo Sebastián Verona Flores  <br> **TB1** <br> Se elaboraron de manera coordinada los entregables asegurando retroalimentación continua entre los miembros.<br><br> **TP1** <br> Identificación de fallas y observaciones.<br><br> Joseph Rodríguez <br> **TB1** <br> Aporté ideas clave en la construcción del prototipo, colaboré en la redacción del informe y asistí a todas las reuniones para coordinar las tareas del equipo. <br><br> **TP1** <br> Participé de manera constante en las reuniones, ayudando a mantener la coordinación del equipo, y tomé decisiones en conjunto con mis compañeros, fortaleciendo el liderazgo compartido del grupo. | **TB1** <br> Se trabajó en equipo en reuniones remotas, proporcionamos conjuntamente un liderazgo de equipo íntegro para la elaboración de nuestro producto y el desarrollo profesional de cada miembro del equipo. <br><br> **TP1** <br> El liderazgo fue compartido entre los integrantes, y la participación de los miembros del equipo contribuyó a mantener la organización y el cumplimiento de los objetivos mediante una planificación clara y comunicación constante.                                                                                                                                                                          |
-| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | Kenyi Efraín Ramírez Cabrera <br> **TB1** <br> En esta entrega he colaborado junto con mi equipo en múltiples puntos a través de diferentes plataformas como Trello (para asignación de tareas), Miro (As-is y To-Be Scenarios), Figma (Algunos mockups)<br><br> **TP1** <br> En esta entrega me encargué de informar y resaltar algunos puntos por corregir. Diseñé el formato en Trello y definí junto con mi equipo los bounded context a realizar en la aplicación web.<br><br> Wilder Gonzalo Aliaga Urbina <br> **TB1** <br> Realizó los mockups de la app web y DDD.<br><br> **TP1** <br> Desarrollo de prototipos visuales y mockups interactivos para facilitar la comunicación con desarrollo de app frontend.<br><br> Victor Manuel Rojas Reategui <br> **TB1** <br> Me encargé de la elaboración de los wireframes para la Landing Page, además de organizar las ramas y la estructura del repositorio Github.<br><br> **TP1** <br> Me encargé de desarrllar los wireflows y userflows siguendo los principios de UX Design. <br><br> Italo Sebastián Verona Flores <br> **TB1** <br> Se organizó mediante planificación conjunta, estableciendo plazos claros y distribuyendo tareas.<br><br> **TP1** <br> Me encargé de arreglar el Database diagram, class diagram y Lean ux assumptions.<br><br> Joseph Rodriguez <br> **TB1** <br> Me aseguré de cumplir puntualmente mis tareas asignadas, trabajé con mis compañeros en definir objetivos claros y realistas, y mantuve una comunicación constante a través de las plataformas acordadas. <br><br> **TP1** <br> Fortalecí el ambiente colaborativo del equipo brindando apoyo a mis compañeros, aportando soluciones a problemas técnicos y ayudando a cumplir las metas semanales según la planificación establecida.                                                                             | **TB1** <br> Creamos un entorno de trabajo colaborativo mediante el uso de medios de comunicación eficaces, donde cada integrante del equipo mostró compromiso y apoyo mutuo a través de reuniones, entregas anticipadas y revisiones constantes del informe del proyecto. Nos reunimos de manera periódica para aportar ideas y colaborar en cada etapa del desarrollo de nuestro producto y su documentación. <br><br> **TP1** <br> Se logró un buen entorno de trabajo e inclusivo donde cada integrante se sintió escuchado y valorado. Gracias a la planificación conjunta, cumplimos con los entregables y se fortaleció el compromiso de equipo. |
+<br>
+
+| Criterio específico                                                                            | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Conclusiones                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta                                | Kenyi Efraín Ramírez Cabrera  <br> **TB1** <br> En esta entrega, durante el desarrollo de este informe, he tomado el rol de lider del equipo asignando tareas a todo el equipo y apoyando en todo lo posible. Me encargué de varias secciones que tenían que ver con el segmento objetivo 2, User Stories y gran parte del capítulo 5.<br><br> **TP1** <br> En esta entrega, durante el desarrollo de este informe, he ayudado a mis compañeros a realizar ciertas labores y resolver algunas dudas. Me encargué de corregir algunas secciones de la TB1 como  User Stories y Product Backlog, también aporté en el desarrollo del Sprint 2 y algunos puntos más del capítulo 5.<br><br> **TB2** <br> En esta entrega me encargué de corregir algunas secciones del TP como  User Stories y Product Backlog, también aporté en el desarrollo del Sprint 3 y algunos puntos más del capítulo 5.<br><br> Wilder Gonzalo Aliaga Urbina <br> **TB1** <br> Realizó en la identificación de los competidores.<br><br> **TP1** <br> Elaboración y mejora de wireframes para optimizar la experiencia de usuario. <br><br>**TB2** <br> Colaboré activamente en la gestión de equipos y activos, desarrollando todos los servicios relacionados a técnicos. Apoyé al equipo con soluciones técnicas y en la coordinación para cumplir los objetivos del sprint. <br><br> Victor Manuel Rojas Reategui  <br> **TB1** <br> Participé en las reuniones acordadas por el equipo y brindó apoyo para definir la estructura del proyecto.<br><br> **TP1** <br> Me aseguré de organizar las tareas pendientes para decidir la distribución entre los miembros del equipo.<br><br>**TB2** <br> Colabore activamente co nel equipo para poder desarrollar esta entrega, me encargue de la implementación de los planes y subscripciones tanto en el frontend como en el backend.<br><br> Italo Sebastián Verona Flores  <br> **TB1** <br> Se elaboraron de manera coordinada los entregables asegurando retroalimentación continua entre los miembros.<br><br> **TP1** <br> Identificación de fallas y observaciones.<br><br> Joseph Rodríguez <br> **TB1** <br> Aporté ideas clave en la construcción del prototipo, colaboré en la redacción del informe y asistí a todas las reuniones para coordinar las tareas del equipo. <br><br> **TP1** <br> Participé de manera constante en las reuniones, ayudando a mantener la coordinación del equipo, y tomé decisiones en conjunto con mis compañeros, fortaleciendo el liderazgo compartido del grupo.<br><br> **TB2**<br> Realicé el despliegue del backend, corregí errores del frontend y colaboré en el informe del equipo, apoyando en la integración técnica y el cumplimiento de tareas clave. | **TB1** <br> Se trabajó en equipo en reuniones remotas, proporcionamos conjuntamente un liderazgo de equipo íntegro para la elaboración de nuestro producto y el desarrollo profesional de cada miembro del equipo. <br><br> **TP1** <br> El liderazgo fue compartido entre los integrantes, y la participación de los miembros del equipo contribuyó a mantener la organización y el cumplimiento de los objetivos mediante una planificación clara y comunicación constante.<br><br> **TB2** <br> El compromiso y la efectiva colaboración del equipo permitieron no solo la finalización integral del informe, sino también el desarrollo cohesionado y la exitosa integración de las funcionalidades de la plataforma. La claridad en la comunicación fue fundamental para alinear esfuerzos y cumplir con los objetivos técnicos y documentales.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | Kenyi Efraín Ramírez Cabrera <br> **TB1** <br> En esta entrega he colaborado junto con mi equipo en múltiples puntos a través de diferentes plataformas como Trello (para asignación de tareas), Miro (As-is y To-Be Scenarios), Figma (Algunos mockups)<br><br> **TP1** <br> En esta entrega me encargué de informar y resaltar algunos puntos por corregir. Diseñé el formato en Trello y definí junto con mi equipo los bounded context a realizar en la aplicación web.<br><br> **TB2** <br> En esta entrega me encargué de informar y resaltar algunos puntos por corregir. Organicé al equipo de trabajo para realizar tareas individuales y colaborativas. Definí junto con mi equipo los bounded context a realizar en la aplicación web.<br><br> Wilder Gonzalo Aliaga Urbina <br> **TB1** <br> Realizó los mockups de la app web y DDD.<br><br> **TP1** <br> Desarrollo de prototipos visuales y mockups interactivos para facilitar la comunicación con desarrollo de app frontend. <br><br> **TB2** <br><br> Documenté las evidencias del Sprint 3 y realicé correcciones al informe final. Estas acciones contribuyeron a mantener la organización, trazabilidad y cumplimiento de las metas del equipo. <br><br> Victor Manuel Rojas Reategui <br> **TB1** <br> Me encargé de la elaboración de los wireframes para la Landing Page, además de organizar las ramas y la estructura del repositorio Github.<br><br> **TP1** <br> Me encargé de desarrllar los wireflows y userflows siguendo los principios de UX Design.<br><br>**TB2** <br> CME encargué de verificar y realizar el despliegue del frontend y del backend en los sesrvicios externos especificados <br><br> Italo Sebastián Verona Flores <br> **TB1** <br> Se organizó mediante planificación conjunta, estableciendo plazos claros y distribuyendo tareas.<br><br> **TP1** <br> Me encargé de arreglar el Database diagram, class diagram y Lean ux assumptions.<br><br> Joseph Rodriguez <br> **TB1** <br> Me aseguré de cumplir puntualmente mis tareas asignadas, trabajé con mis compañeros en definir objetivos claros y realistas, y mantuve una comunicación constante a través de las plataformas acordadas. <br><br> **TP1** <br> Fortalecí el ambiente colaborativo del equipo brindando apoyo a mis compañeros, aportando soluciones a problemas técnicos y ayudando a cumplir las metas semanales según la planificación establecida. <br><br> **TB2** <br>   Actualicé el frontend para consumir datos desde la API desplegada y mejoré la Landing Page, contribuyendo a la integración de componentes y al cumplimiento de los objetivos técnicos del equipo.                 | **TB1** <br> Creamos un entorno de trabajo colaborativo mediante el uso de medios de comunicación eficaces, donde cada integrante del equipo mostró compromiso y apoyo mutuo a través de reuniones, entregas anticipadas y revisiones constantes del informe del proyecto. Nos reunimos de manera periódica para aportar ideas y colaborar en cada etapa del desarrollo de nuestro producto y su documentación. <br><br> **TP1** <br> Se logró un buen entorno de trabajo e inclusivo donde cada integrante se sintió escuchado y valorado. Gracias a la planificación conjunta, cumplimos con los entregables y se fortaleció el compromiso de equipo.<br><br> **TB2** <br> Completamos exitosamente el informe del proyecto, consolidando todos los hallazgos y avances. Simultáneamente, finalizamos la implementación tanto del frontend como del backend de OsitoPolar. La colaboración constante y la comunicación fluida entre el equipo fueron cruciales para asegurar la integración efectiva de todos los componentes y la coherencia del informe. |
 
 
 # Capitulo 1: Introducción
@@ -2698,12 +2702,1818 @@ Durante este Sprint, el equipo ha colaborado en el desarrollo del frontend y cor
 
 ![Contributors-LandingPageS2.png]( assets/chapter-05/sprint-2/Contributors-LandingPageS2.png)
 
+![alt text](assets/chapter-05/Insights-LandingPage.png)
+**Frontend**
+![Insight-front1](assets/chapter-05/sprint-2/Insights-Frontend-S2.png)
+
+
+
+### 5.2.3. Sprint 3
+
+En esta sección se presenta el reporte del sprint 3, el cual se enfocó en el desarrollo del Backend, la implementación de nuevas funcionalidades y mejoras en la experiencia de usuario de la web application.
+
+### 5.2.3.1. Sprint Planning 3
+
+<table>
+<tr>
+    <th colspan="5">Sprint 3</th>
+    <th colspan="9">Sprint 3</th>
+  </tr>
+      <tr>
+    <td colspan="13">Sprint Planning Background</td>
+  </tr>
+  <tr>
+    <td colspan="5">Date</td>
+    <td colspan="8">2025-06-05</td>
+</tr>
+  <tr>
+    <td colspan="5">Time</td>
+    <td colspan="8">10:30 PM</td>
+  </tr>
+  <tr>
+    <td colspan="5">Location</td>
+    <td colspan="8">Via Discord</td>
+<tr>
+    <td colspan="5">Prepared By</td>
+    <td colspan="8">Kenyi Ramirez</td>
+</tr>
+<tr>
+    <td colspan="5">Attendees (to planning meeting)</td>
+    <td colspan="8">Joseph Rodriguez, Wilder Aliaga, Victor Rojas, Italo Verona</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 2 Review Summary</td>
+    <td colspan="8">Se realizó el primer despliegue de la web application, implementando funcionalidades básicas como la creación de servicios y visualización de datos.</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 2 Retrospective Summary</td>
+    <td colspan="8">Hubo un incremento considerable en la productividad y compromiso del equipo hacia el trabajo. Ademá se plantearon las bases para una organización efectiva.</td>
+</tr>
+<tr>
+    <td colspan="13">Sprint Goal & User Stories</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 3 Goal</td>
+       <td colspan="8">Nuestro enfoque para este sprint es establecer la base central integrada de la plataforma OsitoPolar, conectando nuestra página de aterrizaje pública con una aplicación frontend funcional y un backend fundamental. Creemos que esta integración proporcionará un punto de entrada fluido para los usuarios a nuestra aplicación y permitirá la gestión esencial de datos, mejorando significativamente la experiencia inicial del usuario y capacitando a nuestro equipo para construir sobre una base sólida. Esto se confirmará cuando los usuarios puedan acceder y navegar la aplicación web principal de forma directa y fluida desde la página de aterrizaje; el backend soporte exitosamente operaciones para entidades clave, incluyendo equipos, solicitudes de servicio, técnicos, órdenes de trabajo y suscripciones; y el frontend pueda interactuar exitosamente con el backend para mostrar y gestionar estas entidades principales, demostrando una conexión funcional entre las capas.</td>
+
+</tr>
+<tr>
+    <td colspan="5">Sprint 3 Velocity</td>
+    <td colspan="8">144</td>
+<tr>
+    <td colspan="5">Sum of Story Points</td>
+    <td colspan="8">130</td>
+</tr>
+</table>
+
+##### 5.2.3.2. Aspect Leaders and Collaborators
+
+Durante este tercer Sprint, el equipo se enfocó principalmente en el desarrollo, la mejora estructural y visual del frontend y en más del 50% de los endpoints asociados al alcance de nuestro proyecto en el backend asegurando la integración entre ellas.
+Con el fin de organizar de manera más eficiente el trabajo colaborativo, se ha elaborado la matriz de Liderazgo y Colaboración (LACX). Esta matriz asigna responsabilidades específicas a cada miembro del equipo en relación con los aspectos clave del Sprint.
+<table>
+  <tr>
+    <td colspan="2"><strong>Team Member (Last Name, First Name)</strong></td>
+    <td><strong>GitHub Username</strong></td>
+    <td><strong>Service Request Management<br>Leader (L) / Collaborator (C)</strong></td>
+    <td><strong>Assets and Equipment Management<br>Leader (L) / Collaborator (C)</strong></td>
+    <td><strong>Field Operations<br>Leader (L) / Collaborator (C)</strong></td>
+    <td><strong>Subscriptions and Payments<br>Leader (L) / Collaborator (C)</strong></td>
+    <td><strong>Dashboard and Analytics<br>Leader (L) / Collaborator (C)</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2">Ramírez Cabrera, Kenyi Efrain</td>
+    <td>Kenyi15upc</td>
+    <td>L</td>
+    <td>-</td>
+    <td>L</td>
+    <td>-</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td colspan="2">Rodriguez Parco Joseph Pablo </td>
+    <td>eJosR-Coding</td>
+    <td>C</td>
+    <td>L</td>
+    <td>-</td>
+    <td>C</td>
+    <td>L</td>
+  </tr>
+  <tr>
+    <td colspan="2"> Aliaga Urbina Wilder Gonzalo </td>
+    <td>Gonzalo1905</td>
+    <td>C</td>
+    <td>-</td>
+    <td>C</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td colspan="2">Verona Flores Italo Sebastián
+</td>
+    <td>atomdragon1318</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td colspan="2">Rojas Reategui Victor Manuel </td>
+    <td>VRojas1603</td>
+    <td>-</td>
+    <td>C</td>
+    <td>-</td>
+    <td>L</td>
+    <td>-</td>
+  </tr>
+</table>
+
+##### 5.2.3.3. Sprint Backlog 3.
+Nuestro enfoque principal para este Sprint ha sido el desarrollo del frontend y backend de la plataforma OsitoPolar. Hemos estructurado nuestras tareas siguiendo las User Stories y Technical Stories que hemos detallado, asegurando un progreso claro y alineado con los objetivos de negocio y la arquitectura técnica.
+
+Para la gestión y el control de estas tareas, estamos utilizando Trello.
+![Sprint-Backlog3.png](assets/chapter-05/Sprint-Backlog3.png)
+
+Enlace: https://trello.com/b/mGIGAFIk/sprint-backlog-3
+
+<table>
+<tr>
+    <th colspan="3">Sprint #</th>
+    <th colspan="10">Sprint 3</th>
+</tr>
+<tr>
+    <td colspan="3">User Story</td>
+    <td colspan="10">Work-Item/Task</td>
+</tr>
+<tr>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="3">Description</td>
+    <td colspan="1">Estimation (Hours)</td>
+    <td colspan="2">Assigned To</td>
+    <td colspan="1">Status (To do/ In-Process/ To-Review/ Done)</td>
+</tr>
+<tr>
+    <td colspan="1">US-08</td>
+    <td colspan="2">Ver la ubicación de cada equipo</td>
+    <td colspan="1">UT-01</td>
+    <td colspan="2">Integrar mapa con ubicaciones</td>
+    <td colspan="3">Implementar componente de mapa para visualizar equipos.</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Joseph Rodríguez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-08</td>
+    <td colspan="2">Ver la ubicación de cada equipo</td>
+    <td colspan="1">UT-02</td>
+    <td colspan="2">Mostrar detalles en mapa</td>
+    <td colspan="3">Asegurar que la información del equipo se muestre al seleccionar en el mapa.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Joseph Rodríguez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-17</td>
+    <td colspan="2">Visualizar equipos entregados a clientes</td>
+    <td colspan="1">UT-01</td>
+    <td colspan="2">Crear vista de listado de equipos</td>
+    <td colspan="3">Desarrollar la interfaz para listar equipos por cliente.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Joseph Rodríguez</td>
+    <td colspan="1">To Review</td>
+</tr>
+<tr>
+    <td colspan="1">US-03</td>
+    <td colspan="2">Solicitar y programar un tipo de servicio para mis equipos</td>
+    <td colspan="1">UT-01</td>
+    <td colspan="2">Diseñar formulario de solicitud</td>
+    <td colspan="3">Crear la interfaz para que el cliente solicite un servicio.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Kenyi Ramírez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-03</td>
+    <td colspan="2">Solicitar y programar un tipo de servicio para mis equipos</td>
+    <td colspan="1">UT-02</td>
+    <td colspan="2">Implementar selección tipo y fecha</td>
+    <td colspan="3">Integrar validaciones a cada captura de datos relevantes dentro del formulario.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Kenyi Ramírez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-04</td>
+    <td colspan="2">Ver estado del servicio solicitado</td>
+    <td colspan="1">UT-01</td>
+    <td colspan="2">Crear vista estado solicitud</td>
+    <td colspan="3">Desarrollar una sección donde se pueda visualizar los estado en las solicitudes de servicio realizadas.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Kenyi Ramírez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-04</td>
+    <td colspan="2">Ver estado del servicio solicitado</td>
+    <td colspan="1">UT-02</td>
+    <td colspan="2">Mostrar progreso del servicio</td>
+    <td colspan="3">Definir e implementar la visualización los estados ("pending", "in_progress", "resolved", "rejected") de la solicitud.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Kenyi Ramírez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-11</td>
+    <td colspan="2">Asignar técnico a solicitud de servicio</td>
+    <td colspan="1">UT-01</td>
+    <td colspan="2">Crear interfaz asignación</td>
+    <td colspan="3">Diseñar la sección para asignar técnicos a solicitudes/órdenes.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Kenyi Ramírez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-11</td>
+    <td colspan="2">Asignar técnico a solicitud de servicio</td>
+    <td colspan="1">UT-02</td>
+    <td colspan="2">Implementar lógica asignación</td>
+    <td colspan="3">Desarrollar la funcionalidad para vincular técnicos a servicios.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Kenyi Ramírez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-13</td>
+    <td colspan="2">Realizar seguimiento a solicitudes de servicio</td>
+    <td colspan="1">UT-01</td>
+    <td colspan="2">Desarrollar panel de seguimiento</td>
+    <td colspan="3">Construir la sección para el seguimiento de solicitudes de servicio.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Kenyi Ramírez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-13</td>
+    <td colspan="2">Realizar seguimiento a solicitudes de servicio</td>
+    <td colspan="1">UT-02</td>
+    <td colspan="2">Mostrar estado órdenes por técnico</td>
+    <td colspan="3">Implementar filtros y visualización de órdenes por técnico.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Kenyi Ramírez</td>
+    <td colspan="1">To Do</td>
+</tr>
+<tr>
+    <td colspan="1">US-19</td>
+    <td colspan="2">Realizar evaluación de servicio</td>
+    <td colspan="1">UT-01</td>
+    <td colspan="2">Diseñar interfaz evaluación</td>
+    <td colspan="3">Crear el formulario o rating para la evaluación del servicio.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Kenyi Ramírez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-19</td>
+    <td colspan="2">Realizar evaluación de servicio</td>
+    <td colspan="1">UT-02</td>
+    <td colspan="2">Implementar envío evaluación</td>
+    <td colspan="3">Desarrollar la funcionalidad para guardar la puntuación</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Kenyi Ramírez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-20</td>
+    <td colspan="2">Registrar técnicos</td>
+    <td colspan="1">UT-01</td>
+    <td colspan="2">Diseñar formulario registro técnico</td>
+    <td colspan="3">Crear la interfaz para que el empresario registre nuevos técnicos.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Gonzalo Aliaga</td>
+    <td colspan="1">To Do</td>
+</tr>
+<tr>
+    <td colspan="1">US-20</td>
+    <td colspan="2">Registrar técnicos</td>
+    <td colspan="1">UT-02</td>
+    <td colspan="2">Implementar guardado datos técnico</td>
+    <td colspan="3">Desarrollar la funcionalidad para almacenar la información del técnico.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Gonzalo Aliaga</td>
+    <td colspan="1">To Do</td>
+</tr>
+<tr>
+    <td colspan="1">US-21</td>
+    <td colspan="2">Visualizar perfil del técnico</td>
+    <td colspan="1">UT-01</td>
+    <td colspan="2">Crear vista perfil técnico</td>
+    <td colspan="3">Desarrollar la interfaz para mostrar el perfil completo del técnico.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Kenyi Ramírez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-21</td>
+    <td colspan="2">Visualizar perfil del técnico</td>
+    <td colspan="1">UT-02</td>
+    <td colspan="2">Mostrar métricas e historial</td>
+    <td colspan="3">Implementar la visualización de desempeño y servicios del técnico.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Gonzalo Aliaga</td>
+    <td colspan="1">To Review</td>
+</tr>
+<tr>
+    <td colspan="1">US-33</td>
+    <td colspan="2">Gestionar mi suscripción</td>
+    <td colspan="1">UT-01</td>
+    <td colspan="2">Crear vista detalles suscripción</td>
+    <td colspan="3">Desarrollar la interfaz para mostrar el plan y estado de la suscripción.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Victor Rojas</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-33</td>
+    <td colspan="2">Gestionar mi suscripción</td>
+    <td colspan="1">UT-02</td>
+    <td colspan="2">Implementar opción "Actualizar Plan"</td>
+    <td colspan="3">Desarrollar la funcionalidad para iniciar el proceso de cambio de plan.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Victor Rojas</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-34</td>
+    <td colspan="2">Realizar y validar pagos de mi suscripción</td>
+    <td colspan="1">UT-01</td>
+    <td colspan="2">Integrar pasarela de pagos</td>
+    <td colspan="3">Conectar el sistema con el proveedor de pagos (ej. Stripe, PayPal).</td>
+    <td colspan="1">7</td>
+    <td colspan="2">Victor Rojas</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-34</td>
+    <td colspan="2">Realizar y validar pagos de mi suscripción</td>
+    <td colspan="1">UT-02</td>
+    <td colspan="2">Implementar confirmación/gestión fallos</td>
+    <td colspan="3">Desarrollar lógica para procesar confirmaciones y errores de pago.</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Victor Rojas</td>
+    <td colspan="1">To Review</td>
+</tr>
+<tr>
+    <td colspan="1">TS-08</td>
+    <td colspan="2">Registrar nuevo equipo a través de API RESTful</td>
+    <td colspan="1">TT-01</td>
+    <td colspan="2">Definir esquema datos equipo</td>
+    <td colspan="3">Diseñar la estructura de la base de datos para equipos.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Joseph Rodríguez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-08</td>
+    <td colspan="2">Registrar nuevo equipo a través de API RESTful</td>
+    <td colspan="1">TT-02</td>
+    <td colspan="2">Implementar endpoint POST /equipment</td>
+    <td colspan="3">Codificar la API para crear nuevos registros de equipos.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Joseph Rodríguez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-11</td>
+    <td colspan="2">Actualizar parámetros de operación de equipo unificados vía API RESTful</td>
+    <td colspan="1">TT-01</td>
+    <td colspan="2">Diseñar API PATCH /equipments/{id}/operations</td>
+    <td colspan="3">Definir la estructura de la API para actualizar parámetros operativos.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Joseph Rodríguez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-11</td>
+    <td colspan="2">Actualizar parámetros de operación de equipo unificados vía API RESTful</td>
+    <td colspan="1">TT-02</td>
+    <td colspan="2">Validar y aplicar nuevos parámetros</td>
+    <td colspan="3">Codificar la lógica para validar y actualizar los datos en DB.</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Joseph Rodríguez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-09</td>
+    <td colspan="2">Actualizar información de equipo a través de API RESTful</td>
+    <td colspan="1">TT-01</td>
+    <td colspan="2">Implementar endpoint PUT/PATCH /equipments/{id}</td>
+    <td colspan="3">Codificar la API para actualizar información general de equipos.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Joseph Rodríguez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-09</td>
+    <td colspan="2">Actualizar información de equipo a través de API RESTful</td>
+    <td colspan="1">TT-02</td>
+    <td colspan="2">Validar datos de entrada</td>
+    <td colspan="3">Implementar validaciones para la información de actualización.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Joseph Rodríguez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-10</td>
+    <td colspan="2">Consultar equipos por propietario a través de API RESTful</td>
+    <td colspan="1">TT-01</td>
+    <td colspan="2">Implementar endpoint GET /equipments/owners/{ownerId}</td>
+    <td colspan="3">Codificar la API para listar equipos por propietario.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Joseph Rodríguez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-10</td>
+    <td colspan="2">Consultar equipos por propietario a través de API RESTful</td>
+    <td colspan="1">TT-02</td>
+    <td colspan="2">Filtrar equipos por ownerId</td>
+    <td colspan="3">Asegurar que la consulta filtre correctamente por el ID del propietario.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Joseph Rodríguez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-13</td>
+    <td colspan="2">Crear Solicitud de Servicio a través de API RESTful</td>
+    <td colspan="1">TT-01</td>
+    <td colspan="2">Diseñar esquema solicitud servicio</td>
+    <td colspan="3">Definir la estructura de datos para las solicitudes de servicio.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Kenyi Ramírez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-13</td>
+    <td colspan="2">Crear Solicitud de Servicio a través de API RESTful</td>
+    <td colspan="1">TT-02</td>
+    <td colspan="2">Implementar endpoint POST /service-requests</td>
+    <td colspan="3">Codificar la API para crear nuevas solicitudes de servicio.</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Kenyi Ramírez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-14</td>
+    <td colspan="2">Consultar estado de Solicitud de Servicio por API</td>
+    <td colspan="1">TT-01</td>
+    <td colspan="2">Implementar endpoint GET /service-requests/{id}</td>
+    <td colspan="3">Codificar la API para consultar el estado de una solicitud específica.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Kenyi Ramírez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-15</td>
+    <td colspan="2">Crear orden de trabajo a partir de Solicitud de Servicio por API</td>
+    <td colspan="1">TT-01</td>
+    <td colspan="2">Diseñar endpoint POST /work-orders (desde solicitud)</td>
+    <td colspan="3">Definir la API para crear una orden de trabajo basada en una solicitud.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Kenyi Ramírez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-16</td>
+    <td colspan="2">Crear orden de trabajo a través de API RESTful</td>
+    <td colspan="1">TT-01</td>
+    <td colspan="2">Diseñar esquema Orden de Trabajo</td>
+    <td colspan="3">Definir la estructura de datos para las órdenes de trabajo.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Kenyi Ramírez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-16</td>
+    <td colspan="2">Crear orden de trabajo a través de API RESTful</td>
+    <td colspan="1">TT-02</td>
+    <td colspan="2">Implementar endpoint POST /work-orders</td>
+    <td colspan="3">Codificar la API para crear nuevas órdenes de trabajo directamente.</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Kenyi Ramírez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-29</td>
+    <td colspan="2">Asignar técnico a Orden de Trabajo por API</td>
+    <td colspan="1">TT-01</td>
+    <td colspan="2">Implementar endpoint PUT /work-orders/{id}/technicians</td>
+    <td colspan="3">Codificar la API para asignar o reasignar un técnico a una orden.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Kenyi Ramírez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-17</td>
+    <td colspan="2">Consultar órdenes de Trabajo por API</td>
+    <td colspan="1">TT-01</td>
+    <td colspan="2">Implementar endpoint GET /work-orders</td>
+    <td colspan="3">Codificar la API para listar todas las órdenes de trabajo.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Kenyi Ramírez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-18</td>
+    <td colspan="2">Actualizar estado de Orden de Trabajo por API</td>
+    <td colspan="1">TT-01</td>
+    <td colspan="2">Implementar endpoint PUT/PATCH /work-orders/{id}/status</td>
+    <td colspan="3">Codificar la API para actualizar el estado de una orden de trabajo.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Kenyi Ramírez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-27</td>
+    <td colspan="2">Evaluar servicio a través de API RESTful</td>
+    <td colspan="1">TT-01</td>
+    <td colspan="2">Implementar endpoint POST /reviews</td>
+    <td colspan="3">Codificar la API para crear nuevas evaluaciones de servicio.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Kenyi Ramírez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-27</td>
+    <td colspan="2">Evaluar servicio a través de API RESTful</td>
+    <td colspan="1">TT-02</td>
+    <td colspan="2">Implementar PUT /reviews/{id}</td>
+    <td colspan="3">Codificar la API para actualizar evaluaciones existentes.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Kenyi Ramírez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-28</td>
+    <td colspan="2">Consultar evaluaciones de servicio a través de API RESTful</td>
+    <td colspan="1">TT-01</td>
+    <td colspan="2">Implementar endpoint GET /reviews</td>
+    <td colspan="3">Codificar la API para listar todas las evaluaciones de servicio.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Kenyi Ramírez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-28</td>
+    <td colspan="2">Consultar evaluaciones de servicio a través de API RESTful</td>
+    <td colspan="1">TT-02</td>
+    <td colspan="2">Permitir filtros por servicio/cliente/técnico</td>
+    <td colspan="3">Implementar filtros avanzados en la API de evaluaciones.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Kenyi Ramírez</td>
+    <td colspan="1">To Do</td>
+</tr>
+<tr>
+    <td colspan="1">TS-30</td>
+    <td colspan="2">Añadir feedback de cliente a Orden de Trabajo por API</td>
+    <td colspan="1">TT-01</td>
+    <td colspan="2">Implementar endpoint PUT /work-orders/{id}/feedback</td>
+    <td colspan="3">Codificar la API para añadir feedback de cliente a una orden.</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Kenyi Ramírez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-07</td>
+    <td colspan="2">Consultar perfil del técnico con métricas por API</td>
+    <td colspan="1">TT-01</td>
+    <td colspan="2">Implementar endpoint GET /technicians/{id}</td>
+    <td colspan="3">Codificar la API para obtener el perfil detallado de un técnico.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Gonzalo Aliaga</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-38</td>
+    <td colspan="2">Obtener Calificación Promedio del Técnico</td>
+    <td colspan="1">TT-02</td>
+    <td colspan="2">Implementar lógica de cálculo promedio</td>
+    <td colspan="3">Codificar la funcionalidad para calcular el promedio de las calificaciones del técnico.</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Kenyi Ramirez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-38</td>
+    <td colspan="2">Obtener Calificación Promedio del Técnico</td>
+    <td colspan="1">TT-03</td>
+    <td colspan="2">Integrar con datos de evaluaciones</td>
+    <td colspan="3">Conectar la lógica de cálculo con la base de datos de evaluaciones de servicio del técnico.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Kenyi Ramirez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-05</td>
+    <td colspan="2">Registrar nuevo técnico a través de API RESTful</td>
+    <td colspan="1">TT-01</td>
+    <td colspan="2">Implementar endpoint POST /technicians</td>
+    <td colspan="3">Codificar la API para registrar nuevos técnicos.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Gonzalo Aliaga</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-12</td>
+    <td colspan="2">Crear y Consultar lecturas de Equipo vía API RESTful</td>
+    <td colspan="1">TT-01</td>
+    <td colspan="2">Implementar POST /equipments/{id}/readings</td>
+    <td colspan="3">Codificar la API para registrar nuevas lecturas de equipo.</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Joseph Rodríguez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-12</td>
+    <td colspan="2">Crear y Consultar lecturas de Equipo vía API RESTful</td>
+    <td colspan="1">TT-02</td>
+    <td colspan="2">Implementar GET /equipments/{id}/readings</td>
+    <td colspan="3">Codificar la API para consultar el historial de lecturas.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Joseph Rodríguez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-32</td>
+    <td colspan="2">Obtener lecturas y resúmenes analíticos de equipos por API</td>
+    <td colspan="1">TT-01</td>
+    <td colspan="2">Implementar GET /analytics/equipments/{id}/readings</td>
+    <td colspan="3">Codificar la API para obtener lecturas de telemetría con filtros.</td>
+    <td colspan="1">6</td>
+    <td colspan="2">Joseph Rodríguez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-32</td>
+    <td colspan="2">Obtener lecturas y resúmenes analíticos de equipos por API</td>
+    <td colspan="1">TT-02</td>
+    <td colspan="2">Implementar GET /analytics/equipments/{id}/summaries</td>
+    <td colspan="3">Codificar la API para obtener resúmenes analíticos de equipo.</td>
+    <td colspan="1">7</td>
+    <td colspan="2">Joseph Rodríguez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-37</td>
+    <td colspan="2">Obtener vista general de analíticas de múltiples equipos por API</td>
+    <td colspan="1">TT-01</td>
+    <td colspan="2">Implementar endpoint GET /analytics/equipments/overview</td>
+    <td colspan="3">Codificar la API para la vista general analítica de múltiples equipos.</td>
+    <td colspan="1">8</td>
+    <td colspan="2">Joseph Rodríguez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-33</td>
+    <td colspan="2">Obtener Suscripciones a través de API RESTful</td>
+    <td colspan="1">TT-01</td>
+    <td colspan="2">Implementar GET /subscriptions</td>
+    <td colspan="3">Codificar la API para recuperar todas las suscripciones.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Victor Rojas</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-33</td>
+    <td colspan="2">Obtener Suscripciones a través de API RESTful</td>
+    <td colspan="1">TT-02</td>
+    <td colspan="2">Implementar GET /subscriptions/{id}</td>
+    <td colspan="3">Codificar la API para recuperar una suscripción específica por ID.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Victor Rojas</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-34</td>
+    <td colspan="2">Actualizar Suscripción a un Nuevo Plan a través de API RESTful</td>
+    <td colspan="1">TT-01</td>
+    <td colspan="2">Implementar POST /subscriptions/upgrade</td>
+    <td colspan="3">Codificar la API para procesar la actualización de un plan.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Victor Rojas</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS-34</td>
+    <td colspan="2">Actualizar Suscripción a un Nuevo Plan a través de API RESTful</td>
+    <td colspan="1">TT-02</td>
+    <td colspan="2">Validar plan y suscripción</td>
+    <td colspan="3">Implementar lógica de validación para la transición de planes.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Victor Rojas</td>
+    <td colspan="1">To Review</td>
+</tr>
+</table>
+
+##### 5.2.3.4. Development Evidence for Sprint Review.
+
+En esta sección se presentan los commits realizados en el repositorio de backend y frontend durante el sprint 3.
+
+*Commits realizados en el repositorio de frontend durante el sprint 3:*
+A continuación se presenta un registro de los cambios realizados en la interfaz de usuario de nuestra aplicación. Cada commit detalla las modificaciones efectuadas en el diseño, la estructura y la interacción de los elementos visuales durante este Sprint.
+
+<table border="1">
+  <tr>
+    <th>Repository</th>
+    <th>Branch</th>
+    <th>Commit Id</th>
+    <th>Commit Message</th>
+    <th>Commit Message Body</th>
+    <th>Committed on (Date)</th>
+  </tr>
+  <tr>
+    <td>https://github.com/Inteligencia-Artesanal-Aplicaciones-Web/OsitoPolar-Frontend</td>
+    <td>main</td>
+    <td>394b441</td>
+    <td>Merge pull request #20 from Inteligencia-Artesanal-Aplicaciones-Web/dev</td>
+    <td>Merge pull request #20 from Inteligencia-Artesanal-Aplicaciones-Web/dev</td>
+    <td>19/06/2025</td>
+  </tr>
+  <tr>
+    <td>https://github.com/Inteligencia-Artesanal-Aplicaciones-Web/OsitoPolar-Frontend</td>
+    <td>main</td>
+    <td>15b12ba</td>
+    <td>Merge pull request #19 from Inteligencia-Artesanal-Aplicaciones-Web/feat/service-management</td>
+    <td>Merge pull request #19 from Inteligencia-Artesanal-Aplicaciones-Web/feat/service-management</td>
+    <td>19/06/2025</td>
+  </tr>
+  <tr>
+    <td>https://github.com/Inteligencia-Artesanal-Aplicaciones-Web/OsitoPolar-Frontend</td>
+    <td>main</td>
+    <td>43b8e4f</td>
+    <td>Merge pull request #18 from Inteligencia-Artesanal-Aplicaciones-Web/dev</td>
+    <td>Merge pull request #18 from Inteligencia-Artesanal-Aplicaciones-Web/dev</td>
+    <td>19/06/2025</td>
+  </tr>
+  <tr>
+    <td>https://github.com/Inteligencia-Artesanal-Aplicaciones-Web/OsitoPolar-Frontend</td>
+    <td>main</td>
+    <td>f129d79</td>
+    <td>Merge pull request #17 from Inteligencia-Artesanal-Aplicaciones-Web/dev</td>
+    <td>Merge pull request #17 from Inteligencia-Artesanal-Aplicaciones-Web/dev</td>
+    <td>19/06/2025</td>
+  </tr>
+  <tr>
+    <td>https://github.com/Inteligencia-Artesanal-Aplicaciones-Web/OsitoPolar-Frontend</td>
+    <td>main</td>
+    <td>852e8be</td>
+    <td>Merge pull request #16 from Inteligencia-Artesanal-Aplicaciones-Web/feat/field-operations</td>
+    <td>Merge pull request #16 from Inteligencia-Artesanal-Aplicaciones-Web/feat/field-operations</td>
+    <td>19/06/2025</td>
+  </tr>
+  <tr>
+    <td>https://github.com/Inteligencia-Artesanal-Aplicaciones-Web/OsitoPolar-Frontend</td>
+    <td>feat/field-operations</td>
+    <td>49ad111</td>
+    <td>feat(router): add work-order list, new work-orders and technician list routes</td>
+    <td>feat(router): add work-order list, new work-orders and technician list routes</td>
+    <td>19/06/2025</td>
+  </tr>
+  <tr>
+    <td>https://github.com/Inteligencia-Artesanal-Aplicaciones-Web/OsitoPolar-Frontend</td>
+    <td>feat/field-operations</td>
+    <td>f135d53</td>
+    <td>feat(i18n): add work-order and technician</td>
+    <td>feat(i18n): add work-order and technician</td>
+    <td>19/06/2025</td>
+  </tr>
+  <tr>
+    <td>https://github.com/Inteligencia-Artesanal-Aplicaciones-Web/OsitoPolar-Frontend</td>
+    <td>feat/field-operations</td>
+    <td>cb42721</td>
+    <td>feat(field-operations): add new work-order component</td>
+    <td>feat(field-operations): add new work-order component</td>
+    <td>19/06/2025</td>
+  </tr>
+  <tr>
+    <td>https://github.com/Inteligencia-Artesanal-Aplicaciones-Web/OsitoPolar-Frontend</td>
+    <td>feat/field-operations</td>
+    <td>16aba8f</td>
+    <td>feat(field-operations): add work-order list component</td>
+    <td>feat(field-operations): add work-order list component</td>
+    <td>19/06/2025</td>
+  </tr>
+  <tr>
+    <td>https://github.com/Inteligencia-Artesanal-Aplicaciones-Web/OsitoPolar-Frontend</td>
+    <td>feat/field-operations</td>
+    <td>906e24d</td>
+    <td>feat(field-operations): add work-order detail modal styles</td>
+    <td>feat(field-operations): add work-order detail modal styles</td>
+    <td>18/06/2025</td>
+  </tr>
+  <tr>
+    <td>https://github.com/Inteligencia-Artesanal-Aplicaciones-Web/OsitoPolar-Frontend</td>
+    <td>feat/field-operations</td>
+    <td>494055f</td>
+    <td>feat(field-operations): add work-order detail modal</td>
+    <td>feat(field-operations): add work-order detail modal</td>
+    <td>18/06/2025</td>
+  </tr>
+  <tr>
+    <td>https://github.com/Inteligencia-Artesanal-Aplicaciones-Web/OsitoPolar-Frontend</td>
+    <td>feat/field-operations</td>
+    <td>f786497</td>
+    <td>feat(field-operations): add technician list component</td>
+    <td>feat(field-operations): add technician list component</td>
+    <td>18/06/2025</td>
+  </tr>
+  <tr>
+    <td>https://github.com/Inteligencia-Artesanal-Aplicaciones-Web/OsitoPolar-Frontend</td>
+    <td>feat/field-operations</td>
+    <td>a60fdaa</td>
+    <td>feat(field-operations): move Technician dialog styles to styles.css</td>
+    <td>feat(field-operations): move Technician dialog styles to styles.css</td>
+    <td>18/06/2025</td>
+  </tr>
+  <tr>
+    <td>https://github.com/Inteligencia-Artesanal-Aplicaciones-Web/OsitoPolar-Frontend</td>
+    <td>feat/field-operations</td>
+    <td>2c72c67</td>
+    <td>feat(field-operations): add technician detail modal component</td>
+    <td>feat(field-operations): add technician detail modal component</td>
+    <td>18/06/2025</td>
+  </tr>
+  <tr>
+    <td>https://github.com/Inteligencia-Artesanal-Aplicaciones-Web/OsitoPolar-Frontend</td>
+    <td>feat/field-operations</td>
+    <td>1251bf8</td>
+    <td>feat(field-operations): add entity and service for WorkOrder and Technician</td>
+    <td>feat(field-operations): add entity and service for WorkOrder and Technician</td>
+    <td>18/06/2025</td>
+  </tr>
+</table>
+
+
+**Commits realizados en el repositorio de backend durante el sprint 3:**
+
+A continuación se presenta un registro detallado de los commits realizados en el repositorio, enfocados a la parte de backend. Cada entrada incluye el identificador único del commit (ID), descripciones realizados durante la elaboracion de esta.
+
+<table>
+  <tr>
+    <td colspan="1">Repository</td>
+    <td colspan="1">Branch</td>
+    <td colspan="1">Commit Id</td>
+    <td colspan="1">Commit Message</td>
+    <td colspan="1">Commit Message Body</td>
+    <td colspan="1">Commited on (Date)</td>
+  </tr>
+  <tr>
+    <td>https://github.com/Inteligencia-Artesanal-Aplicaciones-Web/OsitoPolar-Platform</td>
+    <td>develop</td>
+    <td>f31a9c2</td>
+    <td>feat(Subscriptions): update Program.cs with Repository, CommandService, and QueryService.</td>
+    <td>feat(Subscriptions): update Program.cs with Repository, CommandService, and QueryService.</td>
+    <td>19/06/2025</td>
+  </tr>
+  <tr>
+    <td>https://github.com/Inteligencia-Artesanal-Aplicaciones-Web/OsitoPolar-Platform</td>
+    <td>develop</td>
+    <td>c7b84e9</td>
+    <td>feat(Subscriptions): add ApplySubscriptionsConfiguration method to AppDbContext.cs for subscriptions setup.</td>
+    <td>feat(Subscriptions): add ApplySubscriptionsConfiguration method to AppDbContext.cs for subscriptions setup.</td>
+    <td>19/06/2025</td>
+  </tr>
+  <tr>
+    <td>https://github.com/Inteligencia-Artesanal-Aplicaciones-Web/OsitoPolar-Platform</td>
+    <td>develop</td>
+    <td>e12cba1</td>
+    <td>feat(Subscriptions): add SubscriptionsController.cs.</td>
+    <td>feat(Subscriptions): add SubscriptionsController.cs.</td>
+    <td>19/06/2025</td>
+  </tr>
+  <tr>
+    <td>https://github.com/Inteligencia-Artesanal-Aplicaciones-Web/OsitoPolar-Platform</td>
+    <td>develop</td>
+    <td>bd8a674</td>
+    <td>feat(Subscriptions): add SubscriptionResourceFromEntityAssembler.cs.</td>
+    <td>feat(Subscriptions): add SubscriptionResourceFromEntityAssembler.cs.</td>
+    <td>19/06/2025</td>
+  </tr>
+  <tr>
+    <td>https://github.com/Inteligencia-Artesanal-Aplicaciones-Web/OsitoPolar-Platform</td>
+    <td>develop</td>
+    <td>ae99f21</td>
+    <td>feat(Subscriptions): add UpgradeSubscriptionCommandFromResourceAssembler.cs.</td>
+    <td>feat(Subscriptions): add UpgradeSubscriptionCommandFromResourceAssembler.cs.</td>
+    <td>19/06/2025</td>
+  </tr>
+  <tr>
+    <td>https://github.com/Inteligencia-Artesanal-Aplicaciones-Web/OsitoPolar-Platform</td>
+    <td>develop</td>
+    <td>67d42cb</td>
+    <td>feat(Subscriptions): add SubscriptionResource.cs.</td>
+    <td>feat(Subscriptions): add SubscriptionResource.cs.</td>
+    <td>19/06/2025</td>
+  </tr>
+  <tr>
+    <td>https://github.com/Inteligencia-Artesanal-Aplicaciones-Web/OsitoPolar-Platform</td>
+    <td>develop</td>
+    <td>a1248f5</td>
+    <td>feat(Subscriptions): add SubscriptionRepository.cs.</td>
+    <td>feat(Subscriptions): add SubscriptionRepository.cs.</td>
+    <td>19/06/2025</td>
+  </tr>
+  <tr>
+    <td>https://github.com/Inteligencia-Artesanal-Aplicaciones-Web/OsitoPolar-Platform</td>
+    <td>develop</td>
+    <td>ba1c970</td>
+    <td>feat(Subscriptions): add ISubscriptionCommandService.cs.</td>
+    <td>feat(Subscriptions): add ISubscriptionCommandService.cs.</td>
+    <td>19/06/2025</td>
+  </tr>
+  <tr>
+    <td>https://github.com/Inteligencia-Artesanal-Aplicaciones-Web/OsitoPolar-Platform</td>
+    <td>develop</td>
+    <td>c4d7e03</td>
+    <td>feat(Subscriptions): add SubscriptionQueryService.cs.</td>
+    <td>feat(Subscriptions): add SubscriptionQueryService.cs.</td>
+    <td>19/06/2025</td>
+  </tr>
+  <tr>
+    <td>https://github.com/Inteligencia-Artesanal-Aplicaciones-Web/OsitoPolar-Platform</td>
+    <td>develop</td>
+    <td>ecaf42a</td>
+    <td>feat(Subscriptions): add SubscriptionsCommandServices.cs.</td>
+    <td>feat(Subscriptions): add SubscriptionsCommandServices.cs.</td>
+    <td>19/06/2025</td>
+  </tr>
+  <tr>
+    <td>https://github.com/Inteligencia-Artesanal-Aplicaciones-Web/OsitoPolar-Platform</td>
+    <td>develop</td>
+    <td>d13c7d1</td>
+    <td>feat(Subscriptions): add ISubscriptionRepository.cs.</td>
+    <td>feat(Subscriptions): add ISubscriptionRepository.cs.</td>
+    <td>19/06/2025</td>
+  </tr>
+</table>
+
+
+##### 5.2.3.2.1 Aspect Leaders and Collaborators
+
+<p>Durante el Sprint 3, el equipo centró sus esfuerzos en consolidar módulos clave del backend y continuar con el desarrollo del frontend de OsitoPolar. Se trabajó de manera organizada en cada aspecto funcional mediante la asignación de líderes (L) y colaboradores (C), lo cual se resume en la siguiente matriz LACX:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Integrante</th>
+      <th>A1 Subs</th>
+      <th>A2 IAM</th>
+      <th>A3 Profile</th>
+      <th>A4 Asset</th>
+      <th>A5 Service Dt</th>
+      <th>A6 Service or</th>
+      <th>A7 Dashboard</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Joseph</td>
+      <td>C</td>
+      <td></td>
+      <td></td>
+      <td>L</td>
+      <td>C</td>
+      <td>C</td>
+      <td>L</td>
+    </tr>
+    <tr>
+      <td>Victor</td>
+      <td>L</td>
+      <td>C</td>
+      <td></td>
+      <td>C</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Kenyi</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>C</td>
+      <td>L</td>
+      <td>L</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Italo</td>
+      <td>C</td>
+      <td>L</td>
+      <td>C</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Gonzalo</td>
+      <td></td>
+      <td>L</td>
+      <td></td>
+      <td></td>
+      <td>C</td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+##### 5.2.3.5. Execution Evidence for Sprint Review.
+
+En esta sección se presentan las evidencias de la ejecución de la aplicación para el sprint 3.
+En esta sección, presentamos una recopilación visual y detallada de los avances logrados durante el sprint.
+
+![front1.png](assets/chapter-05/TB2/front1.png)
+![front2.png](assets/chapter-05/TB2/front2.png)
+![front3.png](assets/chapter-05/TB2/front3.png)
+![front4.png](assets/chapter-05/TB2/front4.png)
+![front5.png](assets/chapter-05/TB2/front5.png)
+![front6.png](assets/chapter-05/TB2/front6.png)
+![front7.png](assets/chapter-05/TB2/front7.png)
+![front8.png](assets/chapter-05/TB2/front8.png)
+![front9.png](assets/chapter-05/TB2/front9.png)
+![front10.png](assets/chapter-05/TB2/front10.png)
+![front11.png](assets/chapter-05/TB2/front11.png)
+![front12.png](assets/chapter-05/TB2/front12.png)
+![front13.png](assets/chapter-05/TB2/front13.png)
+![front14.png](assets/chapter-05/TB2/front14.png)
+
+
+##### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+
+Durante este sprint se logró documentar un total de 25 endpoints correspondientes a 6 controladores principales de la API. La documentación fue realizada utilizando Swagger, una herramienta que facilita la exploración, prueba y validación de servicios REST. Esta interfaz está disponible accediendo a la siguiente URL configurada en el servidor (https://ositopolar-platform.onrender.com/index.html).
+
+<p>A continuación, se detallan los controladores y sus respectivos endpoints documentados:</p>
+
+<h4>WorkOrderController</h4>
+<p>Se encarga de la gestión de órdenes de trabajo. Incluye endpoints para creación, obtención, actualización de estado y resolución.</p>
+<table>
+  <thead>
+    <tr>
+      <th>Verbo HTTP</th>
+      <th>Endpoint</th>
+      <th>Descripción</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>POST</td><td>/api/v1/work-orders</td><td>Crear nueva orden de trabajo</td></tr>
+    <tr><td>GET</td><td>/api/v1/work-orders</td><td>Obtener todas las órdenes</td></tr>
+    <tr><td>GET</td><td>/api/v1/work-orders/{workOrderId}</td><td>Obtener orden por ID</td></tr>
+    <tr><td>PUT</td><td>/api/v1/work-orders/{workOrderId}/status</td><td>Actualizar estado de la orden</td></tr>
+    <tr><td>PUT</td><td>/api/v1/work-orders/{workOrderId}/resolution</td><td>Agregar resolución a la orden</td></tr>
+  </tbody>
+</table>
+
+![WO.png](assets/chapter-05/TB2/fixServices/WO.png)
+![WO1.png](assets/chapter-05/TB2/fixServices/WO1.png)
+![WO2.png](assets/chapter-05/TB2/fixServices/WO2.png)
+![WO3.png](assets/chapter-05/TB2/fixServices/WO3.png)
+
+<h4>PaymentsController</h4>
+<p>Gestiona los pagos realizados por los usuarios.</p>
+<table>
+  <thead>
+    <tr>
+      <th>Verbo HTTP</th>
+      <th>Endpoint</th>
+      <th>Descripción</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>POST</td><td>/api/v1/payments/create-checkout-session</td><td>Crea una orden de pago.</td></tr>
+    <tr><td>POST</td><td>/api/v1/payments/webhook</td><td>Stripe Webhook</td></tr>
+  </tbody>
+</table>
+
+![P1.png](assets/chapter-05/TB2/fixServices/P1.png)
+![P2.png](assets/chapter-05/TB2/fixServices/P2.png)
+
+
+<h4>SubscriptionController</h4>
+<p>Permite gestionar suscripciones de los usuarios.</p>
+<table>
+  <thead>
+    <tr>
+      <th>Verbo HTTP</th>
+      <th>Endpoint</th>
+      <th>Descripción</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>GET</td><td>/api/v1/subscriptions/{subscriptionId}</td><td>Obtener suscripción por ID</td></tr>
+    <tr><td>GET</td><td>/api/v1/subscriptions</td><td>Listar todas las suscripciones</td></tr>
+    <tr><td>POST</td><td>/api/v1/subscriptions/upgrade</td><td>Actualizar plan de suscripción</td></tr>
+  </tbody>
+</table>
+
+![S.png](assets/chapter-05/TB2/fixServices/S.png)
+![S1.png](assets/chapter-05/TB2/fixServices/S1.png)
+![S2.png](assets/chapter-05/TB2/fixServices/S2.png)
+![S3.png](assets/chapter-05/TB2/fixServices/S3.png)
+
+
+<h4>ServiceRequestController</h4>
+<p>Encargado de manejar solicitudes de servicio por parte de los usuarios.</p>
+<table>
+  <thead>
+    <tr>
+      <th>Verbo HTTP</th>
+      <th>Endpoint</th>
+      <th>Descripción</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>POST</td><td>/api/v1/service-requests</td><td>Crear solicitud de servicio</td></tr>
+    <tr><td>GET</td><td>/api/v1/service-requests</td><td>Obtener todas las solicitudes</td></tr>
+    <tr><td>PUT</td><td>/api/v1/service-requests/{serviceRequestId}</td><td>Actualizar solicitud existente</td></tr>
+    <tr><td>GET</td><td>/api/v1/service-requests/{serviceRequestId}</td><td>Obtener solicitud por ID</td></tr>
+    <tr><td>PUT</td><td>/api/v1/service-requests/{serviceRequestId}/assign-technician</td><td>Asignar técnico</td></tr>
+    <tr><td>PUT</td><td>/api/v1/service-requests/{serviceRequestId}/feedback</td><td>Añadir feedback de cliente</td></tr>
+    <tr><td>PUT</td><td>/api/v1/service-requests/{serviceRequestId}/reject</td><td>Rechazar solicitud</td></tr>
+    <tr><td>PUT</td><td>/api/v1/service-requests/{serviceRequestId}/cancel</td><td>Cancelar solicitud</td></tr>
+  </tbody>
+</table>
+
+![SR.png](assets/chapter-05/TB2/fixServices/SR.png)
+![SR1.png](assets/chapter-05/TB2/fixServices/SR1.png)
+![SR2.png](assets/chapter-05/TB2/fixServices/SR2.png)
+![SR3.png](assets/chapter-05/TB2/fixServices/SR3.png)
+
+
+<h4>EquipmentController</h4>
+<p>Gestiona el inventario de equipos y sus lecturas operacionales.</p>
+<table>
+  <thead>
+    <tr>
+      <th>Verbo HTTP</th>
+      <th>Endpoint</th>
+      <th>Descripción</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>GET</td><td>/api/v1/equipments</td><td>Obtener todos los equipos</td></tr>
+    <tr><td>POST</td><td>/api/v1/equipments</td><td>Crear nuevo equipo</td></tr>
+    <tr><td>GET</td><td>/api/v1/equipments/{equipmentId}</td><td>Obtener equipo por ID</td></tr>
+    <tr><td>PUT</td><td>/api/v1/equipments/{equipmentId}</td><td>Actualizar equipo completo</td></tr>
+    <tr><td>DELETE</td><td>/api/v1/equipments/{equipmentId}</td><td>Eliminar equipo</td></tr>
+    <tr><td>GET</td><td>/api/v1/equipments/owners/{ownerId}</td><td>Obtener equipos por dueño</td></tr>
+    <tr><td>PATCH</td><td>/api/v1/equipments/{equipmentId}/operations</td><td>Actualizar parámetros operativos</td></tr>
+    <tr><td>POST</td><td>/api/v1/equipments/{equipmentId}/readings</td><td>Crear lectura de equipo</td></tr>
+    <tr><td>GET</td><td>/api/v1/equipments/{equipmentId}/readings</td><td>Obtener lecturas del equipo</td></tr>
+  </tbody>
+</table>
+
+![E.png](assets/chapter-05/TB2/fixServices/E.png)
+![E1.png](assets/chapter-05/TB2/fixServices/E1.png)
+![E2.png](assets/chapter-05/TB2/fixServices/E2.png)
+![E3.png](assets/chapter-05/TB2/fixServices/E3.png)
+
+
+<h4>TechnicianController</h4>
+<p>Gestión de técnicos del sistema.</p>
+<table>
+  <thead>
+    <tr>
+      <th>Verbo HTTP</th>
+      <th>Endpoint</th>
+      <th>Descripción</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>POST</td><td>/api/v1/technicians</td><td>Crear nuevo técnico</td></tr>
+    <tr><td>GET</td><td>/api/v1/technicians</td><td>Obtener todos los técnicos</td></tr>
+    <tr><td>GET</td><td>/api/v1/technicians/{technicianId}</td><td>Obtener técnico por ID</td></tr>
+    <tr><td>GET</td><td>/api/v1/technicians/{technicianId}/average-rating</td><td>Obtener promedio de calificaciones</td></tr>
+  </tbody>
+</table>
+
+![T.png](assets/chapter-05/TB2/fixServices/T.png)
+![T1.png](assets/chapter-05/TB2/fixServices/T1.png)
+![T2.png](assets/chapter-05/TB2/fixServices/T2.png)
+![T3.png](assets/chapter-05/TB2/fixServices/T3.png)
+
+
+<h4>AnalyticsController</h4>
+<p>Provee datos analíticos sobre los equipos registrados.</p>
+<table>
+  <thead>
+    <tr>
+      <th>Verbo HTTP</th>
+      <th>Endpoint</th>
+      <th>Descripción</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>GET</td><td>/api/v1/analytics/equipments/{equipmentId}/readings</td><td>Obtener lecturas del equipo</td></tr>
+    <tr><td>GET</td><td>/api/v1/analytics/equipments/{equipmentId}/summaries</td><td>Obtener resumen analítico</td></tr>
+    <tr><td>GET</td><td>/api/v1/analytics/equipments/overview</td><td>Vista general de equipos</td></tr>
+  </tbody>
+</table>
+
+![A.png](assets/chapter-05/TB2/fixServices/A.png)
+![A1.png](assets/chapter-05/TB2/fixServices/A1.png)
+![A2.png](assets/chapter-05/TB2/fixServices/A2.png)
+![A3.png](assets/chapter-05/TB2/fixServices/A3.png)
+
+
+##### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+Despliegue de la base de datos en FreeSqlDatabase
+
+![sql1.png](assets/chapter-05/TB2/sql1.png)
+![s1l2.png](assets/chapter-05/TB2/sql2.png)
+
+Despligue de Backend en Render:
+
+![s1l2.png](assets/chapter-05/TB2/render1.png)
+![s1l2.png](assets/chapter-05/TB2/render2.png)
+![s1l2.png](assets/chapter-05/TB2/render3.png)
+
+##### 5.2.3.8. Team Collaboration Insights during Sprint.
 
 **Frontend**
+![Insights Frontend.png](assets/chapter-05/TB2/Insights%20Frontend.png)
 
-![Insights-Frontend-S2.png]( assets/chapter-05/sprint-2/Insights-Frontend-S2.png)
+**Backend**
+![Insights Backend.png](assets/chapter-05/TB2/Insights%20Backend.png)
 
-![Contributors-FrontendS2.png]( assets/chapter-05/sprint-2/Contributors-FrontendS2.png)
+### 5.2.4. Sprint 4
+
+En esta sección se presenta el reporte del sprint 4, el cual se enfocó en la culminación del desarrollo de la plataforma, implementando nuevas funcionalidades y mejoras en la experiencia de usuario.
+
+### 5.2.4.1. Sprint Planning 4
+**(POR TERMINAR)**
+<table>
+<tr>
+    <th colspan="5">Sprint 4</th>
+    <th colspan="9">Sprint 4</th>
+  </tr>
+      <tr>
+    <td colspan="13">Sprint Planning Background</td>
+  </tr>
+  <tr>
+    <td colspan="5">Date</td>
+    <td colspan="8">2025-07-03</td>
+</tr>
+  <tr>
+    <td colspan="5">Time</td>
+    <td colspan="8">10:30 PM</td>
+  </tr>
+  <tr>
+    <td colspan="5">Location</td>
+    <td colspan="8">Via Discord</td>
+<tr>
+    <td colspan="5">Prepared By</td>
+    <td colspan="8">Kenyi Ramirez</td>
+</tr>
+<tr>
+    <td colspan="5">Attendees (to planning meeting)</td>
+    <td colspan="8">Joseph Rodriguez, Wilder Aliaga, Victor Rojas, Italo Verona</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 3 Review Summary</td>
+    <td colspan="8"></td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 3 Retrospective Summary</td>
+    <td colspan="8"></td>
+</tr>
+<tr>
+    <td colspan="13">Sprint Goal & User Stories</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 4 Goal</td>
+       <td colspan="8"></td>
+
+</tr>
+<tr>
+    <td colspan="5">Sprint 4 Velocity</td>
+    <td colspan="8"></td>
+<tr>
+    <td colspan="5">Sum of Story Points</td>
+    <td colspan="8"></td>
+</tr>
+</table>
+
+##### 5.2.4.2. Aspect Leaders and Collaborators
+
+Durante este cuarto Sprint, el equipo se enfocó ...
+Con el fin de organizar de manera más eficiente el trabajo colaborativo, se ha elaborado la matriz de Liderazgo y Colaboración (LACX). Esta matriz asigna responsabilidades específicas a cada miembro del equipo en relación con los aspectos clave del Sprint.
+<table>
+  <tr>
+    <td colspan="2"><strong>Team Member (Last Name, First Name)</strong></td>
+    <td><strong>GitHub Username</strong></td>
+    <td><strong>Service Request Management<br>Leader (L) / Collaborator (C)</strong></td>
+    <td><strong>Assets and Equipment Management<br>Leader (L) / Collaborator (C)</strong></td>
+    <td><strong>Field Operations<br>Leader (L) / Collaborator (C)</strong></td>
+    <td><strong>Subscriptions and Payments<br>Leader (L) / Collaborator (C)</strong></td>
+    <td><strong>Dashboard and Analytics<br>Leader (L) / Collaborator (C)</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2">Ramírez Cabrera, Kenyi Efrain</td>
+    <td>Kenyi15upc</td>
+    <td>L</td>
+    <td>-</td>
+    <td>L</td>
+    <td>-</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td colspan="2">Rodriguez Parco Joseph Pablo </td>
+    <td>eJosR-Coding</td>
+    <td>C</td>
+    <td>L</td>
+    <td>-</td>
+    <td>C</td>
+    <td>L</td>
+  </tr>
+  <tr>
+    <td colspan="2"> Aliaga Urbina Wilder Gonzalo </td>
+    <td>Gonzalo1905</td>
+    <td>C</td>
+    <td>-</td>
+    <td>C</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td colspan="2">Verona Flores Italo Sebastián
+</td>
+    <td>atomdragon1318</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td colspan="2">Rojas Reategui Victor Manuel </td>
+    <td>VRojas1603</td>
+    <td>-</td>
+    <td>C</td>
+    <td>-</td>
+    <td>L</td>
+    <td>-</td>
+  </tr>
+</table>
+
+##### 5.2.4.3. Sprint Backlog 4.
+Nuestro enfoque principal para este Sprint ha sido el desarrollo del frontend y backend de la plataforma OsitoPolar. Hemos estructurado nuestras tareas siguiendo las User Stories y Technical Stories que hemos detallado, asegurando un progreso claro y alineado con los objetivos de negocio y la arquitectura técnica.
+
+Para la gestión y el control de estas tareas, estamos utilizando Trello.
+
+Enlace: 
+**(POR TERMINAR)**
+
+##### 5.2.4.4. Development Evidence for Sprint Review.
+
+En esta sección se presentan los commits realizados en el repositorio de backend y frontend durante el sprint 4.
+
+*Commits realizados en el repositorio de frontend durante el sprint 4:*
+A continuación se presenta un registro de los cambios realizados en la interfaz de usuario de nuestra aplicación. Cada commit detalla las modificaciones efectuadas en el diseño, la estructura y la interacción de los elementos visuales durante este Sprint.
+
+
+
+**Commits realizados en el repositorio de backend durante el sprint 4:**
+
+A continuación se presenta un registro detallado de los commits realizados en el repositorio, enfocados a la parte de backend. Cada entrada incluye el identificador único del commit (ID), descripciones realizados durante la elaboracion de esta.
+
+**(POR TERMINAR)**
+
+##### 5.2.4.5. Execution Evidence for Sprint Review.
+
+En esta sección se presentan las evidencias de la ejecución de la aplicación para el sprint 4.
+En esta sección, presentamos una recopilación visual y detallada de los avances logrados durante el sprint.
+
+
+##### 5.2.4.6. Services Documentation Evidence for Sprint Review.
+
+Durante este sprint se logró documentar un total de 25 endpoints correspondientes a 6 controladores principales de la API. La documentación fue realizada utilizando Swagger, una herramienta que facilita la exploración, prueba y validación de servicios REST. Esta interfaz está disponible accediendo a la siguiente URL configurada en el servidor (https://ositopolar-platform.onrender.com).
+
+<p>A continuación, se detallan los controladores y sus respectivos endpoints documentados:</p>
+**(MODIFICAR)**
+<h4>WorkOrderController</h4>
+<p>Se encarga de la gestión de órdenes de trabajo. Incluye endpoints para creación, obtención, actualización de estado y resolución.</p>
+<table>
+  <thead>
+    <tr>
+      <th>Verbo HTTP</th>
+      <th>Endpoint</th>
+      <th>Descripción</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>POST</td><td>/api/v1/work-orders</td><td>Crear nueva orden de trabajo</td></tr>
+    <tr><td>GET</td><td>/api/v1/work-orders</td><td>Obtener todas las órdenes</td></tr>
+    <tr><td>GET</td><td>/api/v1/work-orders/{workOrderId}</td><td>Obtener orden por ID</td></tr>
+    <tr><td>PUT</td><td>/api/v1/work-orders/{workOrderId}/status</td><td>Actualizar estado de la orden</td></tr>
+    <tr><td>PUT</td><td>/api/v1/work-orders/{workOrderId}/resolution</td><td>Agregar resolución a la orden</td></tr>
+  </tbody>
+</table>
+
+![WO.png](assets/chapter-05/TB2/fixServices/WO.png)
+![WO1.png](assets/chapter-05/TB2/fixServices/WO1.png)
+![WO2.png](assets/chapter-05/TB2/fixServices/WO2.png)
+![WO3.png](assets/chapter-05/TB2/fixServices/WO3.png)
+
+
+
+<h4>SubscriptionController</h4>
+<p>Permite gestionar suscripciones de los usuarios.</p>
+<table>
+  <thead>
+    <tr>
+      <th>Verbo HTTP</th>
+      <th>Endpoint</th>
+      <th>Descripción</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>GET</td><td>/api/v1/subscriptions/{subscriptionId}</td><td>Obtener suscripción por ID</td></tr>
+    <tr><td>GET</td><td>/api/v1/subscriptions</td><td>Listar todas las suscripciones</td></tr>
+    <tr><td>POST</td><td>/api/v1/subscriptions/upgrade</td><td>Actualizar plan de suscripción</td></tr>
+  </tbody>
+</table>
+
+![S.png](assets/chapter-05/TB2/fixServices/S.png)
+![S1.png](assets/chapter-05/TB2/fixServices/S1.png)
+![S2.png](assets/chapter-05/TB2/fixServices/S2.png)
+![S3.png](assets/chapter-05/TB2/fixServices/S3.png)
+
+
+<h4>ServiceRequestController</h4>
+<p>Encargado de manejar solicitudes de servicio por parte de los usuarios.</p>
+<table>
+  <thead>
+    <tr>
+      <th>Verbo HTTP</th>
+      <th>Endpoint</th>
+      <th>Descripción</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>POST</td><td>/api/v1/service-requests</td><td>Crear solicitud de servicio</td></tr>
+    <tr><td>GET</td><td>/api/v1/service-requests</td><td>Obtener todas las solicitudes</td></tr>
+    <tr><td>PUT</td><td>/api/v1/service-requests/{serviceRequestId}</td><td>Actualizar solicitud existente</td></tr>
+    <tr><td>GET</td><td>/api/v1/service-requests/{serviceRequestId}</td><td>Obtener solicitud por ID</td></tr>
+    <tr><td>PUT</td><td>/api/v1/service-requests/{serviceRequestId}/assign-technician</td><td>Asignar técnico</td></tr>
+    <tr><td>PUT</td><td>/api/v1/service-requests/{serviceRequestId}/feedback</td><td>Añadir feedback de cliente</td></tr>
+    <tr><td>PUT</td><td>/api/v1/service-requests/{serviceRequestId}/reject</td><td>Rechazar solicitud</td></tr>
+    <tr><td>PUT</td><td>/api/v1/service-requests/{serviceRequestId}/cancel</td><td>Cancelar solicitud</td></tr>
+  </tbody>
+</table>
+
+![SR.png](assets/chapter-05/TB2/fixServices/SR.png)
+![SR1.png](assets/chapter-05/TB2/fixServices/SR1.png)
+![SR2.png](assets/chapter-05/TB2/fixServices/SR2.png)
+![SR3.png](assets/chapter-05/TB2/fixServices/SR3.png)
+
+
+<h4>EquipmentController</h4>
+<p>Gestiona el inventario de equipos y sus lecturas operacionales.</p>
+<table>
+  <thead>
+    <tr>
+      <th>Verbo HTTP</th>
+      <th>Endpoint</th>
+      <th>Descripción</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>GET</td><td>/api/v1/equipments</td><td>Obtener todos los equipos</td></tr>
+    <tr><td>POST</td><td>/api/v1/equipments</td><td>Crear nuevo equipo</td></tr>
+    <tr><td>GET</td><td>/api/v1/equipments/{equipmentId}</td><td>Obtener equipo por ID</td></tr>
+    <tr><td>PUT</td><td>/api/v1/equipments/{equipmentId}</td><td>Actualizar equipo completo</td></tr>
+    <tr><td>DELETE</td><td>/api/v1/equipments/{equipmentId}</td><td>Eliminar equipo</td></tr>
+    <tr><td>GET</td><td>/api/v1/equipments/owners/{ownerId}</td><td>Obtener equipos por dueño</td></tr>
+    <tr><td>PATCH</td><td>/api/v1/equipments/{equipmentId}/operations</td><td>Actualizar parámetros operativos</td></tr>
+    <tr><td>POST</td><td>/api/v1/equipments/{equipmentId}/readings</td><td>Crear lectura de equipo</td></tr>
+    <tr><td>GET</td><td>/api/v1/equipments/{equipmentId}/readings</td><td>Obtener lecturas del equipo</td></tr>
+  </tbody>
+</table>
+
+![E.png](assets/chapter-05/TB2/fixServices/E.png)
+![E1.png](assets/chapter-05/TB2/fixServices/E1.png)
+![E2.png](assets/chapter-05/TB2/fixServices/E2.png)
+![E3.png](assets/chapter-05/TB2/fixServices/E3.png)
+
+
+<h4>TechnicianController</h4>
+<p>Gestión de técnicos del sistema.</p>
+<table>
+  <thead>
+    <tr>
+      <th>Verbo HTTP</th>
+      <th>Endpoint</th>
+      <th>Descripción</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>POST</td><td>/api/v1/technicians</td><td>Crear nuevo técnico</td></tr>
+    <tr><td>GET</td><td>/api/v1/technicians</td><td>Obtener todos los técnicos</td></tr>
+    <tr><td>GET</td><td>/api/v1/technicians/{technicianId}</td><td>Obtener técnico por ID</td></tr>
+    <tr><td>GET</td><td>/api/v1/technicians/{technicianId}/average-rating</td><td>Obtener promedio de calificaciones</td></tr>
+  </tbody>
+</table>
+
+![T.png](assets/chapter-05/TB2/fixServices/T.png)
+![T1.png](assets/chapter-05/TB2/fixServices/T1.png)
+![T2.png](assets/chapter-05/TB2/fixServices/T2.png)
+![T3.png](assets/chapter-05/TB2/fixServices/T3.png)
+
+
+<h4>AnalyticsController</h4>
+<p>Provee datos analíticos sobre los equipos registrados.</p>
+<table>
+  <thead>
+    <tr>
+      <th>Verbo HTTP</th>
+      <th>Endpoint</th>
+      <th>Descripción</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>GET</td><td>/api/v1/analytics/equipments/{equipmentId}/readings</td><td>Obtener lecturas del equipo</td></tr>
+    <tr><td>GET</td><td>/api/v1/analytics/equipments/{equipmentId}/summaries</td><td>Obtener resumen analítico</td></tr>
+    <tr><td>GET</td><td>/api/v1/analytics/equipments/overview</td><td>Vista general de equipos</td></tr>
+  </tbody>
+</table>
+
+![A.png](assets/chapter-05/TB2/fixServices/A.png)
+![A1.png](assets/chapter-05/TB2/fixServices/A1.png)
+![A2.png](assets/chapter-05/TB2/fixServices/A2.png)
+![A3.png](assets/chapter-05/TB2/fixServices/A3.png)
+
+
+##### 5.2.4.7. Software Deployment Evidence for Sprint Review.
+(Por hacer)
+
+
+##### 5.2.4.8. Team Collaboration Insights during Sprint.
+(Por hacer)
+**Landing Page**
+(Por hacer)
+**Frontend**
+(Por hacer)
+**Backend**
+(Por hacer)
+
+## 5.3. Validation Interviews.
+En esta sección se presentan los detalles de las entrevistas de validación realizadas.
+
+### 5.3.1. Diseño de Entrevistas.
+
+<h4>Objetivo de la Entrevista</h4>
+<p>Validar la usabilidad, efectividad y propuesta de valor de la plataforma OsitoPolar para los segmentos clave. Se evaluará si las funcionalidades cubren las necesidades operativas reales y si los flujos son intuitivos para usuarios con distintos perfiles técnicos.</p>
+
+<h4>Elementos de Validación</h4>
+<ul>
+  <li><strong>Landing Page:</strong> Claridad en la propuesta de valor, acceso a funcionalidades clave, llamados a la acción.</li>
+  <li><strong>Aplicación Web/Móvil:</strong> Flujos críticos como registro de equipos, solicitud de servicios, visualización de reportes, asignación de técnicos y generación de alertas.</li>
+</ul>
+
+<h4>User Flows a Validar</h4>
+
+<h5>Para el Segmento: Negocios con Equipos de Refrigeración</h5>
+<ol>
+  <li>Registro y configuración inicial</li>
+  <li>Monitoreo y alertas</li>
+  <li>Solicitud de servicios</li>
+  <li>Visualización de reportes</li>
+  <li>Evaluación del servicio</li>
+</ol>
+
+<h5>Para el Segmento: Empresas Proveedoras de Servicios</h5>
+<ol>
+  <li>Recepción de solicitudes</li>
+  <li>Gestión de técnicos</li>
+  <li>Historial técnico</li>
+  <li>Generación de reportes</li>
+  <li>Gestión de cartera de clientes</li>
+</ol>
+
+<h4>Formato de Registro de Entrevista</h4>
+<ul>
+  <li>Nombre completo</li>
+  <li>Edad</li>
+  <li>Distrito de residencia</li>
+  <li>Rol en su empresa</li>
+  <li>Dispositivo utilizado para la prueba</li>
+</ul>
+
+<h3>Preguntas para el Segmento 1: Negocios que utilizan Equipos de Refrigeración</h3>
+<ul>
+  <li>¿De que manera te pareció útil la información del Landing Page?</li>
+</ul>
+<h4>Registro y Gestión de Equipos</h4>
+<ul>
+  <li>¿Qué tan fácil fue registrar tus equipos de refrigeración?</li>
+  <li>¿La información solicitada fue clara y necesaria?</li>
+  <li>¿Hubo algún paso que te generó dudas?</li>
+</ul>
+
+<h4>Monitoreo y Alertas</h4>
+<ul>
+  <li>¿Cómo sentiste el proceso para acceder al estado de tus equipos?</li>
+  <li>¿De que manera te sirvió la sección de alertas de los equipos?</li>
+  <li>¿Cómo afectaría tu toma de decisiones estas alertas?</li>
+</ul>
+
+<h4>Solicitudes de Servicio</h4>
+<ul>
+  <li>¿Cómo fue tu experiencia solicitando un servicio?</li>
+  <li>¿La opción para programar mantenimiento estaba visible y disponible?¿Qué te pareció su implementación?</li>
+  <li>¿Cómo fue tu proceso al solicitar un tipo de servicio?</li>
+</ul>
+
+<h4>Visualización de Reportes</h4>
+<ul>
+  <li>¿De que manera te ayudo los reportes de los equipos a conocer el estado en el que se ?</li>
+  <li>¿Cómo es que los reportes de consumo energético te sirvieron para detectar posibles problemas?</li>
+  <li>¿Qué agregarías o mejorarías en estos reportes?</li>
+</ul>
+
+<h4>Evaluación del Servicio</h4>
+<ul>
+  <li>¿Fue sencillo dejar una evaluación después del servicio?¿Cómo fue tu experiencia al usar esta funcionalidad?</li>
+  <li>¿De qué manera consideras útil poder modificar tu evaluación si hubo cambios posteriores?</li>
+</ul>
+
+<h3>Preguntas para el Segmento 2: Empresas Proveedoras de Servicios</h3>
+
+<h4>Recepción y Gestión de Solicitudes</h4>
+<ul>
+  <li>¿Puedes describir cómo es el proceso de recibir una nueva solicitud de servicio en la plataforma y qué aspectos destacarías, tanto positivos como áreas de mejora? </li>
+  <li>¿Cómo describirías tu experiencia al asignar un técnico a una solicitud de servicio en la plataforma, y qué elementos del procedimiento te resultaron más útiles o desafiantes?</li>
+  <li>¿Cómo ha sido tu experiencia al realizar el seguimiento del estado de los servicios en tiempo real, y qué características de esta funcionalidad consideras más valiosas o cuáles mejorarías? </li>
+</ul>
+
+<h4>Gestión de Técnicos</h4>
+<ul>
+  <li>¿Cómo describirías el procedimiento para asignar técnicos a las solicitudes de servicio, y qué sugerencias tendrías para optimizar esta funcionalidad? </li>
+  <li>¿Qué información sobre el desempeño de los técnicos encuentras en la plataforma, y cómo te ayuda o qué aspectos adicionales te gustaría ver?</li>
+  <li> ¿De qué manera el sistema de métricas de desempeño de la plataforma ha impactado en la gestión de tus técnicos, y qué mejoras sugerirías para hacerlo más útil? </li>
+</ul>
+
+<h4>Historial y Reportes Técnicos</h4>
+<ul>
+  <li>¿Cómo ha sido tu experiencia al acceder al historial técnico de los equipos atendidos, y qué aspectos del procedimiento te parecen efectivos o cuáles cambiarías? </li>
+  <li>¿Cómo describirías la utilidad y claridad de los reportes generados por la plataforma para tus clientes, y qué elementos crees que podrían mejorarse?</li>
+  <li>¿Puedes contarme cómo es el proceso de generación automática de reportes en la plataforma y qué aspectos consideras que funcionan bien o podrían optimizarse?</li>
+</ul>
+
+<h4>Gestión de Cartera de Clientes</h4>
+<ul>
+  <li>¿Cómo describirías tu experiencia al visualizar y gestionar la lista de clientes y sus servicios en la plataforma, y qué funcionalidades destacarías o mejorarías? </li>
+  <li>¿Qué tan sencillo o complejo ha sido para ti filtrar información por estado del servicio o tipo de equipo, y qué sugerencias tendrías para mejorar esta funcionalidad?</li>
+</ul>
+
+
+### 5.3.2. Registro de Entrevistas.
+En esta sección tenemos el análisis de las entrevistas por segmentos objetivos.
+| Entrevista 1: Negocio que utiliza maquinas de refrigeración                            |                                                                                                                                                                  |
+|-----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Nombre Entrevistado                                 | (Nombre del entrevistado)                                                                                                                                                   |
+| Edad                                                | (Su edad)                                                                                                                                                               |
+| Profesión                                           | (A que se dedica)                                                                                                                                                |
+| Departamento                                        | Lima                                                                                                                                                             |
+| Dispositivo utilizado                               | Móvil, PC                                                                                                                                                        |
+| Duración de la Entrevista                           | (Tiempo de la etrevista)                                                                                                                                                             |
+| Análisis de la Entrevista                       |                                                                                                                                                                  |
+| Registro y Gestión de Equipos                      | (Opinión sobre este punto)                                                                                                                           |
+| Monitoreo y Alertas                              | (Opinión sobre este punto) |
+| Solicitudes de Servicio                           | (Opinión sobre este punto)                                        |
+| Visualización de Reportes | (Opinión sobre este punto)                                   |
+| Evaluación del Servicio                  | (Opinión sobre este punto)    |
+<br><br>
+
+| Entrevista 2: Negocio que utiliza maquinas de refrigeración                            |                                                                                                                                                                  |
+|-----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Nombre Entrevistado                                 | (Nombre del entrevistado)                                                                                                                                                   |
+| Edad                                                | (Su edad)                                                                                                                                                               |
+| Profesión                                           | (A que se dedica)                                                                                                                                                |
+| Departamento                                        | Lima                                                                                                                                                             |
+| Dispositivo utilizado                               | Móvil, PC                                                                                                                                                        |
+| Duración de la Entrevista                           | (Tiempo de la etrevista)                                                                                                                                                             |
+| Análisis de la Entrevista                       |                                                                                                                                                                  |
+| Registro y Gestión de Equipos                      | (Opinión sobre este punto)                                                                                                                           |
+| Monitoreo y Alertas                              | (Opinión sobre este punto) |
+| Solicitudes de Servicio                           | (Opinión sobre este punto)                                        |
+| Visualización de Reportes | (Opinión sobre este punto)                                   |
+| Evaluación del Servicio                  | (Opinión sobre este punto)    |
+
+<br>
+
+| Entrevista 3: Negocio que utiliza maquinas de refrigeración                            |                                                                                                                                                                  |
+|-----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Nombre Entrevistado                                 | (Nombre del entrevistado)                                                                                                                                                   |
+| Edad                                                | (Su edad)                                                                                                                                                               |
+| Profesión                                           | (A que se dedica)                                                                                                                                                |
+| Departamento                                        | Lima                                                                                                                                                             |
+| Dispositivo utilizado                               | Móvil, PC                                                                                                                                                        |
+| Duración de la Entrevista                           | (Tiempo de la etrevista)                                                                                                                                                             |
+| Análisis de la Entrevista                       |                                                                                                                                                                  |
+| Registro y Gestión de Equipos                      | (Opinión sobre este punto)                                                                                                                           |
+| Monitoreo y Alertas                              | (Opinión sobre este punto) |
+| Solicitudes de Servicio                           | (Opinión sobre este punto)                                        |
+| Visualización de Reportes | (Opinión sobre este punto)                                   |
+| Evaluación del Servicio                  | (Opinión sobre este punto)    |
+
+<br>
+
+| Entrevista 1: Proveedores de equipos de refrigeración                            |                                                                                                                                                                  |
+|-----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Nombre Entrevistado                                 | (Nombre del entrevistado)                                                                                                                                                   |
+| Edad                                                | (Su edad)                                                                                                                                                               |
+| Profesión                                           | (A que se dedica)                                                                                                                                                |
+| Departamento                                        | Lima                                                                                                                                                             |
+| Dispositivo utilizado                               | Móvil, PC                                                                                                                                                        |
+| Duración de la Entrevista                           | (Tiempo de la etrevista)                                                                                                                                                             |
+| Análisis de la Entrevista                       |                                                                                                                                                                  |
+| Recepción y Gestión de Solicitudes                     | (Opinión sobre este punto)                                                                                                                           |
+| Gestión de Técnicos                             | (Opinión sobre este punto) |
+| Historial y Reportes Técnicos                        | (Opinión sobre este punto)                                        |
+| Gestión de Cartera de Clientes | (Opinión sobre este punto)                                   |
+<br>
+
+| Entrevista 2: Proveedores de equipos de refrigeración                            |                                                                                                                                                                  |
+|-----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Nombre Entrevistado                                 | (Nombre del entrevistado)                                                                                                                                                   |
+| Edad                                                | (Su edad)                                                                                                                                                               |
+| Profesión                                           | (A que se dedica)                                                                                                                                                |
+| Departamento                                        | Lima                                                                                                                                                             |
+| Dispositivo utilizado                               | Móvil, PC                                                                                                                                                        |
+| Duración de la Entrevista                           | (Tiempo de la etrevista)                                                                                                                                                             |
+| Análisis de la Entrevista                       |                                                                                                                                                                  |
+| Recepción y Gestión de Solicitudes                     | (Opinión sobre este punto)                                                                                                                           |
+| Gestión de Técnicos                             | (Opinión sobre este punto) |
+| Historial y Reportes Técnicos                        | (Opinión sobre este punto)                                        |
+| Gestión de Cartera de Clientes | (Opinión sobre este punto)                                   |
+<br>
+
+| Entrevista 3: Proveedores de equipos de refrigeración                            |                                                                                                                                                                  |
+|-----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Nombre Entrevistado                                 | (Nombre del entrevistado)                                                                                                                                                   |
+| Edad                                                | (Su edad)                                                                                                                                                               |
+| Profesión                                           | (A que se dedica)                                                                                                                                                |
+| Departamento                                        | Lima                                                                                                                                                             |
+| Dispositivo utilizado                               | Móvil, PC                                                                                                                                                        |
+| Duración de la Entrevista                           | (Tiempo de la etrevista)                                                                                                                                                             |
+| Análisis de la Entrevista                       |                                                                                                                                                                  |
+| Recepción y Gestión de Solicitudes                     | (Opinión sobre este punto)                                                                                                                           |
+| Gestión de Técnicos                             | (Opinión sobre este punto) |
+| Historial y Reportes Técnicos                        | (Opinión sobre este punto)                                        |
+| Gestión de Cartera de Clientes | (Opinión sobre este punto)                                   |
+
+### 5.3.3. Evaluaciones según heurísticas.
+
+(Por hacer)
+
+## 5.4. Video About-the-Product.
+En esta sección se muestra una captura del video about the product que se encuentra incrustado en el landing page, además del link en los anexos.
+
+![alt text](assets/chapter-05/sprint4/about-the-product.png)
+
+## Conclusiones
+
+A lo largo del desarrollo del modelo de negocio digital OsitoPolar, hemos logrado validar la necesidad real y urgente de soluciones tecnológicas en el sector de refrigeración, tanto en los negocios que dependen de estos equipos como en las empresas proveedoras de servicios técnicos.
+El proceso de investigación, entrevistas y análisis ha revelado importantes hallazgos que refuerzan la relevancia de nuestra propuesta de valor.
+
+Desde el análisis de entrevistas, logramos comprobar:
+- Existe una falta generalizada de control y monitoreo sobre los equipos de refrigeración, lo cual genera pérdidas económicas importantes.
+- La mayoría de los negocios revisa de manera manual el estado de sus equipos, mientras que los técnicos/empresarios trabajan con herramientas desorganizadas (WhatsApp, Excel, llamadas).
+- Todos los entrevistados manifestaron interés por una solución digital que centralice la información, agilice la atención y brinde trazabilidad técnica.
+
+Las hipótesis planteadas durante el proceso Lean UX fueron validadas:
+- Los usuarios consideran útil una herramienta con alertas automáticas, historial técnico y reportes.
+- Existe disposición a pagar por el servicio, siempre que el valor sea percibido claramente en ahorro de pérdidas o tiempo.
+- La diferencia competitiva de OsitoPolar —automatización, trazabilidad y facilidad de uso— fue bien recibida y genera ventaja frente a competidores más rígidos o complejos.
+
+Se logró validar las necesidades de nuestros usuarios objetivos y diseñar un producto más alineado a ellos gracias a múltiples herramientas como el User Persona, User Task Matrix, As-Is y To-Be Scenarios.
+A partir de esto hemos desarrollado historias de usuario que nos servirán para tener en cuenta las funcionalidades que implementaremos en las siguientes tareas. Hemos diseñado también nuestra Landing Page y Web Aplication en herramientas de diseño colaborativas.
+
+Algunas recomendaciones que tomamos en cuenta que podrían impulsar el desarrollo y crecimiento en el mercado de OsitoPolar son:
+- Desarrollar un MVP centrado en funciones clave: alertas, historial técnico, gestión de citas y reportes.
+- Realizar pruebas piloto en campo con usuarios reales antes del lanzamiento masivo.
+- Consolidar alianzas con proveedores locales, para lograr una adopción más rápida y posicionar la plataforma como un estándar del sector.
+
+Este trabajo ha demostrado que OsitoPolar no solo resuelve un problema real, sino que tiene el potencial de transformar la forma en que se gestiona la refrigeración comercial y técnica en el Perú. Los próximos pasos deberán enfocarse en escalar esta solución de manera sostenible y centrada en el usuario.
+
+
 
 ## Conclusiones
 
