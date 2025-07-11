@@ -5508,8 +5508,10 @@ Este trabajo ha demostrado que OsitoPolar no solo resuelve un problema real, sin
 
 ## Anexos
 
-
 - Organización GitHub: https://github.com/Inteligencia-Artesanal-Aplicaciones-Web
+- Repositorio de la Landing Page: https://github.com/Inteligencia-Artesanal-Aplicaciones-Web/Landing-Page
+- Repositorio Frontend: https://github.com/Inteligencia-Artesanal-Aplicaciones-Web/OsitoPolar-Frontend
+- Repositorio Backend: https://github.com/Inteligencia-Artesanal-Aplicaciones-Web/OsitoPolar-Platform
 - Video de demostración de la Landing Page: [Video demostrativo de la landing page](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223286_upc_edu_pe/EWpS23aHI95KiF5rJXhOyHgBoHAL62jYwnz8m4zMqxkGwA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=bwYjby)
 - Video de exposicion TB1: [Video de exposicion TB1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202222001_upc_edu_pe/ESOPHU5GHEZGgBnK1e7uFVcBotVap94eOrrzWJIRhrJREQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=irIdp1)
 - Video de exposicion TP: [Video de exposicion TP](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202222001_upc_edu_pe/EUSP6C-FnFZFhqELTWnDrfgBBnB-QgeehRsw6agebPFu-A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=G9ZqQ4)
