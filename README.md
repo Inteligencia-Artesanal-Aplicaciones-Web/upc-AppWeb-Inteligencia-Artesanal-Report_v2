@@ -2,7 +2,7 @@
  <h1>Universidad Peruana de Ciencias Aplicadas</h1>
  <img style="height: 200px" src=https://seeklogo.com/images/U/universidad-peruana-de-ciencias-aplicadas-upc-logo-B98C3A365C-seeklogo.com.png>
   <h2>Carrera: Ingeniería de Software</h2>
-  <h2>Ciclo: 2025-1</h2>
+  <h2>Ciclo: 2025-10</h2>
 <br>
   <h2>Curso: 1ASI0730 Aplicaciones Web</h2>
   <h2>Sección: 4378</h2>
