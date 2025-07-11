@@ -4683,15 +4683,15 @@ En esta sección se presenta el reporte del sprint 4, el cual se enfocó en la c
 </tr>
 <tr>
     <td colspan="5">Attendees (to planning meeting)</td>
-    <td colspan="8">Joseph Rodriguez, Wilder Aliaga, Victor Rojas, Italo Verona</td>
+    <td colspan="8">Joseph Rodriguez, Wilder Aliaga, Victor Rojas, Anyelo  Alejos</td>
 </tr>
 <tr>
     <td colspan="5">Sprint 3 Review Summary</td>
-    <td colspan="8"></td>
+    <td colspan="8">Se implementaron funcionalidades críticas en el frontend, avanzando en la integración del sistema.</td>
 </tr>
 <tr>
     <td colspan="5">Sprint 3 Retrospective Summary</td>
-    <td colspan="8"></td>
+    <td colspan="8">El equipo mostró un alto nivel de colaboración, con mejoras sustanciales en la organización y planificación.</td>
 </tr>
 <tr>
     <td colspan="13">Sprint Goal & User Stories</td>
