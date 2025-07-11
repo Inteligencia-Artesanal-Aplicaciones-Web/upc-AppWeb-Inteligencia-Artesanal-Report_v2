@@ -64,11 +64,11 @@
 
 - **URL del repositorio del frontend del proyecto:**  
   [https://github.com/Inteligencia-Artesanal-Aplicaciones-Web/OsitoPolar-Frontend](https://github.com/Inteligencia-Artesanal-Aplicaciones-Web/OsitoPolar-Frontend)
-
+![frontinsights.png](assets/TF/frontinsights.png)
 
 - **URL del repositorio del backend del proyecto:**  
   [https://github.com/Inteligencia-Artesanal-Aplicaciones-Web/OsitoPolar-Platform](https://github.com/Inteligencia-Artesanal-Aplicaciones-Web/OsitoPolar-Platform)
-
+![backinsights.png](assets/TF/backinsights.png)
 
 
 ## Contenido
@@ -5114,13 +5114,19 @@ Durante este sprint se logró documentar un total de 25 endpoints correspondient
 
 
 ##### 5.2.4.8. Team Collaboration Insights during Sprint.
-(Por hacer)
+
 **Landing Page**
-(Por hacer)
+![landinginsights.png](assets/TF/landinginsights.png)
+
+
 **Frontend**
-(Por hacer)
+![frontinsights.png](assets/TF/frontinsights.png)
+
+
 **Backend**
-(Por hacer)
+![backinsights.png](assets/TF/backinsights.png)
+
+
 
 ## 5.3. Validation Interviews.
 En esta sección se presentan los detalles de las entrevistas de validación realizadas.
