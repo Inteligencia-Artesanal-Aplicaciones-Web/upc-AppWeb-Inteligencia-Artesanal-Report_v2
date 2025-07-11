@@ -4681,10 +4681,10 @@ En esta sección se presenta el reporte del sprint 4, el cual se enfocó en la c
 </tr>
 <tr>
     <td colspan="5">Sprint 4 Velocity</td>
-    <td colspan="8"></td>
+    <td colspan="8">30 points</td>
 <tr>
     <td colspan="5">Sum of Story Points</td>
-    <td colspan="8"></td>
+    <td colspan="8">30 points</td>
 </tr>
 </table>
 
@@ -4772,34 +4772,35 @@ Enlace: [Enlace del tablero en Trello](https://trello.com/b/c8iCHXbr)
 
 | User Story ID | Title | Task ID | Task Title | Description | Estimation | Assign to | Status |
 |---------------|-------|---------|------------|-------------|------------|-----------|--------|
-| US-02 | Inicio de sesión | T02-1 | Definir campos de login | Definir los campos requeridos para el inicio de sesión (correo y contraseña). | 6 | [Placeholder] | To Do |
-| US-02 | Inicio de sesión | T02-2 | Establecer mensajes de error | Definir los mensajes de error para credenciales inválidas. | 6 | [Placeholder] | To Do |
-| US-02 | Inicio de sesión | T02-3 | Validar redirección al dashboard | Asegurar que el usuario es redirigido al dashboard tras un login exitoso. | 6 | [Placeholder] | To Do |
-| US-02 | Inicio de sesión | T02-4 | Asegurar accesibilidad al formulario | Garantizar que el formulario de inicio de sesión sea accesible desde el Landing Page. | 6 | [Placeholder] | To Do |
-| US-33 | Ver video explicativo sobre el producto en el Landing Page | T33-1 | Definir contenido del video | Establecer los requisitos funcionales del contenido del video sobre el producto. | 5 | [Placeholder] | To Do |
-| US-33 | Ver video explicativo sobre el producto en the Landing Page | T33-2 | Garantizar accesibilidad del video | Asegurar que el video sea accesible para los visitantes en el Landing Page. | 5 | [Placeholder] | To Do |
-| US-33 | Ver video explicativo sobre el producto en el Landing Page | T33-3 | Validar reproducción del video | Probar que el video se reproduce sin interrupciones en distintos dispositivos. | 5 | [Placeholder] | To Do |
-| US-34 | Ver video sobre el equipo en el Landing Page | T34-1 | Definir contenido del video del equipo | Establecer los requisitos del contenido del video sobre el equipo. | 5 | [Placeholder] | To Do |
-| US-34 | Ver video sobre el equipo en el Landing Page | T34-2 | Asegurar disponibilidad del video | Garantizar que el video esté disponible para los visitantes en el Landing Page. | 5 | [Placeholder] | To Do |
-| US-34 | Ver video sobre el equipo en el Landing Page | T34-3 | Probar reproducción del video | Validar la reproducción del video en múltiples dispositivos. | 5 | [Placeholder] | To Do |
-| US-35 | Barra de navegación actualizada tras inicio de sesión | T35-1 | Identificar opciones de navegación | Definir las opciones de navegación que deben mostrarse tras el login. | 4 | [Placeholder] | To Do |
-| US-35 | Barra de navegación actualizada tras inicio de sesión | T35-2 | Asegurar actualización automática | Garantizar que la barra de navegación se actualice automáticamente tras el inicio de sesión. | 4 | [Placeholder] | To Do |
-| US-35 | Barra de navegación actualizada tras inicio de sesión | T35-3 | Probar navegación | Validar que el usuario puede navegar a las funcionalidades disponibles sin errores. | 4 | [Placeholder] | To Do |
-| TS-36 | Integrar sistema IAM en el backend | T36-1 | Configurar sistema IAM | Configurar el sistema IAM en el backend (ej. Auth0, Firebase Auth). | 8 | [Placeholder] | To Do |
-| TS-36 | Integrar sistema IAM en el backend | T36-2 | Proteger endpoints | Implementar validación de tokens en los endpoints necesarios. | 8 | [Placeholder] | To Do |
-| TS-36 | Integrar sistema IAM en el backend | T36-3 | Probar integración con frontend | Validar el flujo de autenticación entre frontend y backend sin errores. | 8 | [Placeholder] | To Do |
-| TS-37 | Implementar autenticación en el backend | T37-1 | Crear endpoint de autenticación | Desarrollar un endpoint para validar credenciales de usuario. | 6 | [Placeholder] | To Do |
-| TS-37 | Implementar autenticación en el backend | T37-2 | Generar tokens de acceso | Implementar la generación de tokens (JWT o similar) tras login exitoso. | 6 | [Placeholder] | To Do |
-| TS-37 | Implementar autenticación en el backend | T37-3 | Configurar manejo de errores | Establecer manejo de errores para credenciales inválidas. | 6 | [Placeholder] | To Do |
-| TS-39 | Usar llave secreta para crear usuarios | T39-1 | Implementar validación de llave | Configurar la validación de la llave secreta en el endpoint de creación de usuarios. | 5 | [Placeholder] | To Do |
-| TS-39 | Usar llave secreta para crear usuarios | T39-2 | Crear lógica de generación de usuarios | Implementar la lógica para crear usuarios con credenciales seguras. | 5 | [Placeholder] | To Do |
-| TS-39 | Usar llave secreta para crear usuarios | T39-3 | Probar seguridad del endpoint | Validar el endpoint con llaves válidas e inválidas. | 5 | [Placeholder] | To Do |
-| TS-40 | Registrar nuevo usuario a través de API RESTful | T40-1 | Crear endpoint de registro | Desarrollar el endpoint `/api/v1/users` para registrar nuevos usuarios con datos válidos. | 6 | [Placeholder] | To Do |
-| TS-40 | Registrar nuevo usuario a través de API RESTful | T40-2 | Validar datos únicos | Implementar la validación de correo único y formato de contraseña. | 6 | [Placeholder] | To Do |
-| TS-40 | Registrar nuevo usuario a través de API RESTful | T40-3 | Probar manejo de errores | Verificar que el endpoint devuelve un error claro para correos ya registrados. | 6 | [Placeholder] | To Do |
-| TS-50 | Arreglar conexión entre endpoints y frontend | T50-1 | Diagnosticar errores de conexión | Identificar los errores actuales en la conexión frontend-backend. | 7 | [Placeholder] | To Do |
-| TS-50 | Arreglar conexión entre endpoints y frontend | T50-2 | Ajustar endpoints | Modificar los endpoints para garantizar compatibilidad con el frontend. | 7 | [Placeholder] | To Do |
-| TS-50 | Arreglar conexión entre endpoints y frontend | T50-3 | Probar interacciones | Validar todas las interacciones frontend-backend para un flujo de datos estable. | 7 | [Placeholder] | To Do |
+| US-02 | Inicio de sesión | T02-1 | Definir campos de login | Definir los campos requeridos para el inicio de sesión (correo y contraseña). | 6 | Aliaga Urbina Wilder Gonzalo | To Do |
+| US-02 | Inicio de sesión | T02-2 | Establecer mensajes de error | Definir los mensajes de error para credenciales inválidas. | 6 | Ramírez Cabrera Kenyi Efraín | To Do |
+| US-02 | Inicio de sesión | T02-3 | Validar redirección al dashboard | Asegurar que el usuario es redirigido al dashboard tras un login exitoso. | 6 | Rodriguez Parco Joseph Pablo | To Do |
+| US-02 | Inicio de sesión | T02-4 | Asegurar accesibilidad al formulario | Garantizar que el formulario de inicio de sesión sea accesible desde el Landing Page. | 6 | Rojas Reategui Victor Manuel | To Do |
+| US-33 | Ver video explicativo sobre el producto en el Landing Page | T33-1 | Definir contenido del video | Establecer los requisitos funcionales del contenido del video sobre el producto. | 5 | Alejos Jesus Anyelo Bill | To Do |
+| US-33 | Ver video explicativo sobre el producto en the Landing Page | T33-2 | Garantizar accesibilidad del video | Asegurar que el video sea accesible para los visitantes en el Landing Page. | 5 | Aliaga Urbina Wilder Gonzalo | To Do |
+| US-33 | Ver video explicativo sobre el producto en el Landing Page | T33-3 | Validar reproducción del video | Probar que el video se reproduce sin interrupciones en distintos dispositivos. | 5 | Ramírez Cabrera Kenyi Efraín | To Do |
+| US-34 | Ver video sobre el equipo en el Landing Page | T34-1 | Definir contenido del video del equipo | Establecer los requisitos del contenido del video sobre el equipo. | 5 | Rodriguez Parco Joseph Pablo | To Do |
+| US-34 | Ver video sobre el equipo en el Landing Page | T34-2 | Asegurar disponibilidad del video | Garantizar que el video esté disponible para los visitantes en el Landing Page. | 5 | Rojas Reategui Victor Manuel | To Do |
+| US-34 | Ver video sobre el equipo en el Landing Page | T34-3 | Probar reproducción del video | Validar la reproducción del video en múltiples dispositivos. | 5 | Alejos Jesus Anyelo Bill | To Do |
+| US-35 | Barra de navegación actualizada tras inicio de sesión | T35-1 | Identificar opciones de navegación | Definir las opciones de navegación que deben mostrarse tras el login. | 4 | Aliaga Urbina Wilder Gonzalo | To Do |
+| US-35 | Barra de navegación actualizada tras inicio de sesión | T35-2 | Asegurar actualización automática | Garantizar que la barra de navegación se actualice automáticamente tras el inicio de sesión. | 4 | Ramírez Cabrera Kenyi Efraín | To Do |
+| US-35 | Barra de navegación actualizada tras inicio de sesión | T35-3 | Probar navegación | Validar que el usuario puede navegar a las funcionalidades disponibles sin errores. | 4 | Rodriguez Parco Joseph Pablo | To Do |
+| TS-36 | Integrar sistema IAM en el backend | T36-1 | Configurar sistema IAM | Configurar el sistema IAM en el backend (ej. Auth0, Firebase Auth). | 8 | Rojas Reategui Victor Manuel | To Do |
+| TS-36 | Integrar sistema IAM en el backend | T36-2 | Proteger endpoints | Implementar validación de tokens en los endpoints necesarios. | 8 | Alejos Jesus Anyelo Bill | To Do |
+| TS-36 | Integrar sistema IAM en el backend | T36-3 | Probar integración con frontend | Validar el flujo de autenticación entre frontend y backend sin errores. | 8 | Aliaga Urbina Wilder Gonzalo | To Do |
+| TS-37 | Implementar autenticación en el backend | T37-1 | Crear endpoint de autenticación | Desarrollar un endpoint para validar credenciales de usuario. | 6 | Ramírez Cabrera Kenyi Efraín | To Do |
+| TS-37 | Implementar autenticación en el backend | T37-2 | Generar tokens de acceso | Implementar la generación de tokens (JWT o similar) tras login exitoso. | 6 | Rodriguez Parco Joseph Pablo | To Do |
+| TS-37 | Implementar autenticación en el backend | T37-3 | Configurar manejo de errores | Establecer manejo de errores para credenciales inválidas. | 6 | Rojas Reategui Victor Manuel | To Do |
+| TS-39 | Usar llave secreta para crear usuarios | T39-1 | Implementar validación de llave | Configurar la validación de la llave secreta en el endpoint de creación de usuarios. | 5 | Alejos Jesus Anyelo Bill | To Do |
+| TS-39 | Usar llave secreta para crear usuarios | T39-2 | Crear lógica de generación de usuarios | Implementar la lógica para crear usuarios con credenciales seguras. | 5 | Aliaga Urbina Wilder Gonzalo | To Do |
+| TS-39 | Usar llave secreta para crear usuarios | T39-3 | Probar seguridad del endpoint | Validar el endpoint con llaves válidas e inválidas. | 5 | Ramírez Cabrera Kenyi Efraín | To Do |
+| TS-40 | Registrar nuevo usuario a través de API RESTful | T40-1 | Crear endpoint de registro | Desarrollar el endpoint `/api/v1/users` para registrar nuevos usuarios con datos válidos. | 6 | Rodriguez Parco Joseph Pablo | To Do |
+| TS-40 | Registrar nuevo usuario a través de API RESTful | T40-2 | Validar datos únicos | Implementar la validación de correo único y formato de contraseña. | 6 | Rojas Reategui Victor Manuel | To Do |
+| TS-40 | Registrar nuevo usuario a través de API RESTful | T40-3 | Probar manejo de errores | Verificar que el endpoint devuelve un error claro para correos ya registrados. | 6 | Alejos Jesus Anyelo Bill | To Do |
+| TS-50 | Arreglar conexión entre endpoints y frontend | T50-1 | Diagnosticar errores de conexión | Identificar los errores actuales en la conexión frontend-backend. | 7 | Aliaga Urbina Wilder Gonzalo | To Do |
+| TS-50 | Arreglar conexión entre endpoints y frontend | T50-2 | Ajustar endpoints | Modificar los endpoints para garantizar compatibilidad con el frontend. | 7 | Ramírez Cabrera Kenyi Efraín | To Do |
+| TS-50 | Arreglar conexión entre endpoints y frontend | T50-3 | Probar interacciones | Validar todas las interacciones frontend-backend para un flujo de datos estable. | 7 | Rodriguez Parco Joseph Pablo | To Do |
+
 
 ##### 5.2.4.4. Development Evidence for Sprint Review.
 
