@@ -5180,9 +5180,105 @@ En esta sección tenemos el análisis de las entrevistas por segmentos objetivos
 | Historial y Reportes Técnicos                        | Utiliza con frecuencia el historial técnico de cada equipo registrado, lo cual le ha permitido evitar errores y mejorar la continuidad del servicio. Sugiere habilitar la opción de exportación en PDF. En cuanto a los reportes, los considera prácticos y bien recibidos por los clientes, aunque recomienda enriquecerlos con gráficos más visuales de consumo energético o temperatura. También sugiere personalizar los campos según cliente o servicio.                                       |
 | Gestión de Cartera de Clientes | Afirma que la cartera de clientes está bien organizada dentro del panel, facilitando la consulta de facturación, servicios y tareas pendientes. Para mejorar, propone que el sistema incluya alertas automáticas para mantenimientos programados. En cuanto al filtrado de información, aunque lo considera funcional, sugiere implementar carpetas o etiquetas personalizadas para clientes con mayor volumen de órdenes activas.                                 |
 
-### 5.3.3. Evaluaciones según heurísticas.
+#### 5.3.3. Evaluaciones según heurísticas
 
-(Por hacer)
+**UX Heuristics & Principles Evaluation**  
+**Usability – Inclusive Design – Information Architecture**
+
+**Información del Proyecto**
+- **Carrera:** Ingeniería de Software
+- **Curso:** Aplicaciones Web
+- **Auditor:** Inteligencia Artesanal
+- **Cliente:** Inteligencia Artesanal
+- **Site o App a Evaluar:** OsitoPolar
+
+---
+
+### Tareas a Evaluar
+
+**Para el Segmento Negocios que utilizan equipos de refrigeración:**
+1. Registro y gestión de equipos
+2. Monitoreo y alertas
+3. Solicitudes de servicio técnico
+
+**Para el Segmento Empresas proveedoras de servicios y equipos de refrigeración:**
+1. Recepción y gestión de solicitudes
+2. Asignación y gestión de técnicos
+3. Visualización de historial y reportes técnicos
+4. Gestión de cartera de clientes
+
+---
+
+### Escala de Severidad
+
+| Nivel | Descripción |
+|-------|-------------|
+| 1     | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2     | Problema menor: puede ocurrir con más frecuencia o es más difícil de superar para el usuario. Debería tener una prioridad baja para resolverse en la próxima versión. |
+| 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlo. Debería tener alta prioridad para corregirse. |
+| 4     | Problema muy grave: error que impide al usuario continuar utilizando la herramienta. Debe corregirse antes del lanzamiento. |
+
+---
+
+### Tabla Resumen
+
+| #  | Problema                                                                                 | Escala de severidad | Heurística/Principio violado                  | Tarea evaluada                          |
+|----|------------------------------------------------------------------------------------------|----------------------|----------------------------------------------|-----------------------------------------|
+| 1  | El formulario de solicitud de servicio no exige detalles técnicos suficientes           | 2                    | Prevención de errores / Flexibilidad         | Recepción y gestión de solicitudes      |
+| 2  | No hay exportación de reportes en PDF o Excel                                            | 2                    | Control del usuario / Flexibilidad           | Historial y reportes técnicos           |
+| 3  | No se pueden modificar fácilmente rutas de técnicos asignados                            | 2                    | Flexibilidad y eficiencia de uso             | Gestión de técnicos                     |
+| 4  | No hay rankings ni gráficos comparativos de desempeño técnico                            | 2                    | Visibilidad del estado del sistema           | Gestión de técnicos                     |
+| 5  | No hay sugerencias automáticas en base a los reportes de consumo                         | 3                    | Ayuda y documentación / Personalización      | Visualización de reportes               |
+| 6  | No existen alertas automáticas para mantenimientos programados                           | 3                    | Prevención de errores / Eficiencia           | Gestión de cartera de clientes          |
+| 7  | No se pueden crear carpetas ni etiquetas personalizadas para clientes con alta carga     | 2                    | Flexibilidad y eficiencia de uso             | Gestión de cartera de clientes          |
+
+---
+
+### Descripción de Problemas
+
+**Problema #1:**
+- **Tarea Evaluada:** Recepción y gestión de solicitudes
+- **Recomendación:** Incorporar campos obligatorios que detallen la falla o contexto del equipo para evitar llamadas adicionales y agilizar el servicio.
+
+**Problema #2:**
+- **Tarea Evaluada:** Historial y reportes técnicos
+- **Recomendación:** Añadir opción de exportación en formatos estándares para facilitar el análisis offline o la presentación a terceros.
+
+**Problema #3:**
+- **Tarea Evaluada:** Gestión de técnicos
+- **Recomendación:** Permitir modificar rutas y agrupar visitas por zonas geográficas.
+
+**Problema #4:**
+- **Tarea Evaluada:** Gestión de técnicos
+- **Recomendación:** Incluir dashboard comparativo por técnico que muestre desempeño mensual y por tipo de equipo.
+
+**Problema #5:**
+- **Tarea Evaluada:** Visualización de reportes
+- **Recomendación:** Implementar recomendaciones basadas en datos históricos y patrones detectados, para asistir en la toma de decisiones técnicas o de ahorro energético.
+
+**Problema #6:**
+- **Tarea Evaluada:** Gestión de cartera de clientes
+- **Recomendación:** Activar alertas en base a ciclos de mantenimiento definidos por el proveedor o sistema.
+
+**Problema #7:**
+- **Tarea Evaluada:** Gestión de cartera de clientes
+- **Recomendación:** Permitir organización avanzada con carpetas o tags personalizados según volumen o tipo de cliente.
+
+---
+
+### User Flows a Validar
+
+**Para el Segmento Negocios que utilizan equipos de refrigeración:**
+1. Registro de vitrinas o congeladoras
+2. Gestión y visualización de alertas por temperatura
+3. Solicitud y evaluación de técnicos desde la misma interfaz
+
+**Para el Segmento Empresas proveedoras de servicios y equipos de refrigeración:**
+1. Recepción detallada de solicitudes técnicas
+2. Asignación eficiente de técnicos por especialidad o zona
+3. Revisión de historial técnico y descarga de reportes
+4. Gestión avanzada por cliente con alertas y etiquetas
+
 
 ## 5.4. Video About-the-Product.
 En esta sección se muestra una captura del video about the product que se encuentra incrustado en el landing page, además del link en los anexos.
