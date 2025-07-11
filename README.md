@@ -5241,6 +5241,7 @@ En esta sección se presentan los detalles de las entrevistas de validación rea
 
 ### 5.3.2. Registro de Entrevistas.
 En esta sección tenemos el análisis de las entrevistas por segmentos objetivos.
+
 | Entrevista 1: Negocio que utiliza maquinas de refrigeración                            |                                                                                                                                                                  |
 |-----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Nombre Entrevistado                                 | Angelica Apaza Bocanegra                                                                                                                                                   |
@@ -5255,6 +5256,7 @@ En esta sección tenemos el análisis de las entrevistas por segmentos objetivos
 | Solicitudes de Servicio                           | Tuvo una experiencia positiva al agendar servicio técnico. Comentó que la opción estaba bien ubicada en la plataforma y que pudo seleccionar técnicos cercanos con buenas referencias, todo desde la misma interfaz.                                        |
 | Visualización de Reportes | Gracias a los reportes, identificó un consumo elevado en horarios sin actividad comercial. Esto le permitió ajustar el uso de sus equipos y prevenir problemas técnicos, destacando lo útil que sería recibir sugerencias automáticas según los datos.                                  |
 | Evaluación del Servicio                  | Pudo calificar al técnico inmediatamente después del servicio, lo que le pareció práctico. Además, comentó que le fue útil poder actualizar su evaluación cuando el técnico regresó para ajustar un detalle pendiente.    |
+
 <br><br>
 
 | Entrevista 2: Negocio que utiliza maquinas de refrigeración                            |                                                                                                                                                                  |
