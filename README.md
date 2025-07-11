@@ -64,11 +64,11 @@
 
 - **URL del repositorio del frontend del proyecto:**  
   [https://github.com/Inteligencia-Artesanal-Aplicaciones-Web/OsitoPolar-Frontend](https://github.com/Inteligencia-Artesanal-Aplicaciones-Web/OsitoPolar-Frontend)
-
+![frontinsights.png](assets/TF/frontinsights.png)
 
 - **URL del repositorio del backend del proyecto:**  
   [https://github.com/Inteligencia-Artesanal-Aplicaciones-Web/OsitoPolar-Platform](https://github.com/Inteligencia-Artesanal-Aplicaciones-Web/OsitoPolar-Platform)
-
+![backinsights.png](assets/TF/backinsights.png)
 
 
 ## Contenido
@@ -451,40 +451,20 @@ Sabremos que estamos en lo correcto cuando observemos una rápida adopción de n
 
 #### 1.2.2.4 Lean UX Canvas
 
-<table border="1">
-  <thead>
-    <tr>
-      <th><strong>Business Problem</strong></th>
-      <th><strong>Solutions</strong></th>
-      <th><strong>Business Outcomes</strong></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Los negocios que dependen de equipos de refrigeración enfrentan grandes desafíos operativos debido a fallas inesperadas, altos consumos energéticos no detectados y falta de monitoreo constante. Esto puede llevar a pérdidas económicas, reducción de la calidad del servicio y pérdidas de productos.</td>
-      <td>Desarrollo de una plataforma web (OsitoPolar) que permita el monitoreo en tiempo real de temperatura, consumo energético, y tiempo de uso de los equipos de refrigeración. Incluye generación de reportes técnicos, alertas automáticas por fallas y programación inteligente de mantenimientos.</td>
-      <td>- Aumentar en al menos un 15% la cantidad de usuarios activos dentro de la aplicación.<br> - Lograr una mayor visibilidad en redes sociales, especialmente entre negocios de alimentos y técnicos de refrigeración.<br> - Generar confianza en el monitoreo y mantenimiento automatizado de los equipos.</td>
-    </tr>
-    <tr>
-      <td><strong>Users</strong></td>
-      <td><strong>User Outcomes & Benefits</strong></td>
-    </tr>
-    <tr>
-      <td>- **Negocios** que dependen de equipos de refrigeración: supermercados, minimarkets, restaurantes, laboratorios y empresas del sector alimentario y farmacéutico.<br> - **Técnicos de refrigeración** que brindan mantenimiento a los sistemas de congelación.<br> - **Proveedores de equipos de refrigeración** que buscan mejorar su servicio posventa.</td>
-      <td>- **Eficiencia operativa mejorada**: Mejora en la gestión de los equipos, reducción de tiempos de inactividad y pérdidas de productos.<br> - **Reducción de costos**: Optimización en el consumo energético y mantenimiento predictivo.<br> - **Toma de decisiones informada**: Acceso a reportes y estadísticas detalladas para tomar decisiones estratégicas.</td>
-    </tr>
-    <tr>
-      <td><strong>Hypotheses</strong></td>
-      <td><strong>What’s the most important thing we need to learn first?</strong></td>
-      <td><strong>What’s the least amount of work we need to do to learn the next most important thing?</strong></td>
-    </tr>
-    <tr>
-      <td>- Los empresarios necesitan una plataforma integral y fácil de usar para gestionar sus equipos de refrigeración.<br> - Los técnicos valorarán herramientas que les permitan gestionar múltiples clientes y equipos de manera eficiente.<br> - La implementación de IA y recomendaciones predictivas optimizará los procesos operativos.</td>
-      <td>El supuesto más riesgoso es que los empresarios realmente necesiten y valoren una funcionalidad avanzada de gestión de flotas. Es crucial validar si esta necesidad es real antes de continuar con el desarrollo a gran escala.</td>
-      <td>Realizar entrevistas con empresarios, encuestas y un Producto Mínimo Viable (MVP) para validar la hipótesis de que necesitan una solución de gestión de flotas avanzada. Esto nos permitirá obtener resultados rápidamente con una mínima inversión de tiempo y recursos.</td>
-    </tr>
-  </tbody>
-</table>
+El presente Lean UX Canvas se ha desarrollado para ofrecer una visión estratégica y concisa de la solución OsitoPolar. Este marco nos permite alinear rápidamente los objetivos de negocio con las necesidades de nuestros usuarios y las hipótesis clave que guían nuestro desarrollo.
+A través de este lienzo, hemos desglosado el problema central que enfrentan los negocios que dependen de equipos de refrigeración, definido las soluciones propuestas y anticipado los resultados que esperamos alcanzar.
+Asimismo, hemos identificado a nuestros usuarios clave y sus beneficios, y hemos establecido una serie de hipótesis que nos permitirán validar nuestro enfoque con la mínima inversión de tiempo y recursos posible, asegurando que cada paso que demos esté centrado en generar valor real.
+
+
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter01/lean-ux-canvas.png"
+       alt="Lean UX Canvas: Un lienzo para aplicar principios de Lean UX al diseño."
+       style="max-width: 80%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 1:</strong> Lean UX Canvas.
+  </figcaption>
+</figure>
+
 
 ## 1.3 Segmentos objetivos
 
@@ -4825,16 +4805,165 @@ Enlace: [Enlace del tablero en Trello](https://trello.com/b/c8iCHXbr)
 
 En esta sección se presentan los commits realizados en el repositorio de backend y frontend durante el sprint 4.
 
-*Commits realizados en el repositorio de frontend durante el sprint 4:*
+**Commits realizados en el repositorio de frontend durante el sprint 4:**
+
 A continuación se presenta un registro de los cambios realizados en la interfaz de usuario de nuestra aplicación. Cada commit detalla las modificaciones efectuadas en el diseño, la estructura y la interacción de los elementos visuales durante este Sprint.
 
+| Repository          | Branch | Commit Id | Commit Message                                                                                         | Commit Message Body                                                                                      | Committed on (Date) |
+|---------------------|--------|-----------|--------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|---------------------|
+| OsitoPolar-Frontend | main   | 3f5aa82   | feat(service-management): add styles to company-service-request-cards                                 | feat(service-management): add styles to company-service-request-cards                                   | ~3 weeks ago        |
+| OsitoPolar-Frontend | main   | 755c72d   | feat(service-management): add rating attribute and integrate technician assignment and service request handling | feat(service-management): add rating attribute and integrate technician assignment and service request handling | ~3 weeks ago        |
+| OsitoPolar-Frontend | main   | 9d70416   | Merge pull request #17 from Inteligencia-Artesanal-Aplicaciones-Web/dev                               | Merge pull request #17 from Inteligencia-Artesanal-Aplicaciones-Web/dev                                 | ~3 weeks ago        |
+| OsitoPolar-Frontend | main   | ee48102   | Merge pull request #16 from Inteligencia-Artesanal-Aplicaciones-Web/feat/field-operations             | Merge pull request #16 from Inteligencia-Artesanal-Aplicaciones-Web/feat/field-operations               | ~3 weeks ago        |
+| OsitoPolar-Frontend | main   | a52a80b   | feat(router): add work-order list, new work-orders and technician list routes                         | feat(router): add work-order list, new work-orders and technician list routes                           | ~3 weeks ago        |
+| OsitoPolar-Frontend | main   | 4135053   | feat(i18n): add work-order and technician                                                              | feat(i18n): add work-order and technician                                                                | ~3 weeks ago        |
+| OsitoPolar-Frontend | main   | 4a0e49e   | feat(field-operations): add new work-order component                                                   | feat(field-operations): add new work-order component                                                     | ~3 weeks ago        |
+| OsitoPolar-Frontend | main   | 1ec3102   | feat(field-operations): add work-order list component                                                  | feat(field-operations): add work-order list component                                                    | ~3 weeks ago        |
+| OsitoPolar-Frontend | main   | 906e244   | feat(field-operations): add work-order detail modal styles                                             | feat(field-operations): add work-order detail modal styles                                               | Jun 18, 2025        |
+| OsitoPolar-Frontend | main   | 186c9ae   | feat(field-operations): add work-order detail modal                                                    | feat(field-operations): add work-order detail modal                                                      | Jun 18, 2025        |
+| OsitoPolar-Frontend | main   | 56ffb1c   | feat(field-operations): add technician list component                                                  | feat(field-operations): add technician list component                                                    | Jun 18, 2025        |
+| OsitoPolar-Frontend | main   | f9f68e6   | feat(field-operations): move Technician dialog styles to styles.css                                   | feat(field-operations): move Technician dialog styles to styles.css                                     | Jun 18, 2025        |
+| OsitoPolar-Frontend | main   | a43ed02   | feat(i18n): add translation key for “plans” option.                                                    | feat(i18n): add translation key for “plans” option.                                                      | Jun 15, 2025        |
+| OsitoPolar-Frontend | main   | 1ef80bb   | feat(router): add new route for plans.                                                                 | feat(router): add new route for plans.                                                                   | Jun 15, 2025        |
+| OsitoPolar-Frontend | main   | 635d9ba   | fix(subscription): update plan entity.                                                                 | fix(subscription): update plan entity.                                                                   | Jun 15, 2025        |
+| OsitoPolar-Frontend | main   | ed11792   | feat(subscription): add plan-card and plans components.                                                | feat(subscription): add plan-card and plans components.                                                  | Jun 15, 2025        |
+| OsitoPolar-Frontend | main   | 362ec9e   | fix(subscription): fix internalization labels.                                                         | fix(subscription): fix internalization labels.                                                           | Jun 15, 2025        |
+| OsitoPolar-Frontend | main   | 1b99dcd   | update(db): add plans for providers and clients.                                                       | update(db): add plans for providers and clients.                                                         | Jun 15, 2025        |
+| OsitoPolar-Frontend | main   | a0c3a56   | feat(subscription): implement plans-tab component.                                                     | feat(subscription): implement plans-tab component.                                                       | Jun 15, 2025        |
+| OsitoPolar-Frontend | main   | f32c2fa   | fix(subscription): change class to const.                                                              | fix(subscription): change class to const.                                                                | Jun 15, 2025        |
+| OsitoPolar-Frontend | main   | 89e8f92   | fix(index): add rental and contact const missing in feat/plans branch.                                 | fix(index): add rental and contact const missing in feat/plans branch.                                   | Jun 15, 2025        |
+| OsitoPolar-Frontend | main   | b5d717a   | Merge branch ‘dev’ into feat/plans                                                                     | Merge branch ‘dev’ into feat/plans                                                                       | Jun 15, 2025        |
+| OsitoPolar-Frontend | main   | d3478f1   | feat(subscription): add subscription service.js                                                        | feat(subscription): add subscription service.js                                                          | Jun 15, 2025        |
+| OsitoPolar-Frontend | main   | 82350e2   | Merge pull request #15 from Inteligencia-Artesanal-Aplicaciones-Web/dev                               | Merge pull request #15 from Inteligencia-Artesanal-Aplicaciones-Web/dev                                 | Jun 14, 2025        |
+| OsitoPolar-Frontend | main   | 4de5867   | Updated contact and added translation (#14)                                                            | Updated contact and added translation (#14)                                                              | Jun 14, 2025        |
+| OsitoPolar-Frontend | dev    | 35cfb92   | Merge branch ‘dev’                                                                                     | Merge branch ‘dev’                                                                                       | Jun 14, 2025        |
+| OsitoPolar-Frontend | dev    | b1b88f2   | Merge branch ‘feat/rent-management' into dev                                                           | Merge branch ‘feat/rent-management' into dev                                                             | Jun 14, 2025        |
+| OsitoPolar-Frontend | main   | 0776e57   | Created rent-managment (#13)                                                                           | Created rent-managment (#13)                                                                             | Jun 14, 2025        |
+| OsitoPolar-Frontend | main   | 9f6b9cb   | feat(rental): add localization to rental hero section, payment modal, and pricing summary components   | feat(rental): add localization to rental hero section, payment modal, and pricing summary components     | Jun 14, 2025        |
+| OsitoPolar-Frontend | main   | 0b3016e   | feat(rental): add localization for rental equipment grid, summary, and filter components               | feat(rental): add localization for rental equipment grid, summary, and filter components                 | Jun 14, 2025        |
+| OsitoPolar-Frontend | main   | 2f2eaa3   | feat(rental): add localization for rental configuration and equipment components                       | feat(rental): add localization for rental configuration and equipment components                         | Jun 14, 2025        |
+| OsitoPolar-Frontend | main   | b9e0d3a   | feat(rental): add localization for rental components in English and Spanish                            | feat(rental): add localization for rental components in English and Spanish                              | Jun 14, 2025        |
+| OsitoPolar-Frontend | main   | e1a70fb   | chore(plans): add plan.entity.js                                                                       | chore(plans): add plan.entity.js                                                                         | Jun 14, 2025        |
+| OsitoPolar-Frontend | main   | 3f03bda   | chore(db): add “plans” and “providerPlans” structure                                                   | chore(db): add “plans” and “providerPlans” structure                                                     | Jun 14, 2025        |
+| OsitoPolar-Frontend | main   | 4dc4821   | chore(plans): add plan.entity.js                                                                       | chore(plans): add plan.entity.js                                                                         | last month          |
+| OsitoPolar-Frontend | main   | 49e16cf   | chore(db): add “plans” and “providerPlans” structure                                                   | chore(db): add “plans” and “providerPlans” structure                                                     | last month          |
+| OsitoPolar-Frontend | main   | e5d7299   | feat(navbar): add ‘Plans’ link to main navigation                                                      | feat(navbar): add ‘Plans’ link to main navigation                                                        | last month          |
+| OsitoPolar-Frontend | main   | 28bd08f   | fix(index): refactor routes array                                                                      | fix(index): refactor routes array                                                                        | last month          |
+| OsitoPolar-Frontend | main   | 3749fd0   | feat(i18n): add translation key for “plans” option                                                     | feat(i18n): add translation key for “plans” option                                                       | last month          |
+| OsitoPolar-Frontend | main   | 5fc5701   | feat(rental): add rental page header component with back navigation                                    | feat(rental): add rental page header component with back navigation                                      | last month          |
+| OsitoPolar-Frontend | main   | a0e8055   | feat(rental): add loading state component for rental processes                                         | feat(rental): add loading state component for rental processes                                           | last month          |
+| OsitoPolar-Frontend | main   | 76d1fa5   | feat(rental): add rental configuration form and equipment summary components                           | feat(rental): add rental configuration form and equipment summary components                             | last month          |
+| OsitoPolar-Frontend | main   | bde70a6   | feat(rental): refactor rental checkout page with new components and improved loading/error handling    | feat(rental): refactor rental checkout page with new components and improved loading/error handling      | last month          |
+| OsitoPolar-Frontend | main   | c9b4e65   | feat(rental): add rental equipment card and grid components for displaying equipment                   | feat(rental): add rental equipment card and grid components for displaying equipment                     | Jun 13, 2025        |
 
 
 **Commits realizados en el repositorio de backend durante el sprint 4:**
 
 A continuación se presenta un registro detallado de los commits realizados en el repositorio, enfocados a la parte de backend. Cada entrada incluye el identificador único del commit (ID), descripciones realizados durante la elaboracion de esta.
 
-**(POR TERMINAR)**
+| Repository         | Branch   | Commit Id | Commit Message                                                                                  | Commit Message Body                                                                           | Committed on (Date) |
+|--------------------|----------|-----------|-------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|----------------|
+| OsitoPolar-Backend | develop  | 6b5f228   | Merge branch ‘develop’                                                                          | Merge branch ‘develop’                                                                      | Jul 10, 2025   |
+| OsitoPolar-Backend | develop  | 3c5a953   | fix: update project files.                                                                      | fix: update project files.                                                                  | Jul 10, 2025   |
+| OsitoPolar-Backend | develop  | c99bdda   | Merge branch ‘feat/iam2' into develop                                                           | Merge branch ‘feat/iam2' into develop                                                       | Jul 10, 2025   |
+| OsitoPolar-Backend | develop  | 6b033de   | feat(middleware): enhance request authorization with detailed logging and error handling       | feat(middleware): enhance request authorization with detailed logging and error handling     | Jul 9, 2025    |
+| OsitoPolar-Backend | develop  | 78ad87f   | Merge branch ‘develop’                                                                          | Merge branch ‘develop’                                                                      | Jul 9, 2025    |
+| OsitoPolar-Backend | develop  | 721d852   | fix(technicians): minor error in data type.                                                     | fix(technicians): minor error in data type.                                                 | Jul 9, 2025    |
+| OsitoPolar-Backend | develop  | 4a83fc0   | Merge branch ‘fix/deploy’ into develop                                                          | Merge branch ‘fix/deploy’ into develop                                                      | Jul 9, 2025    |
+| OsitoPolar-Backend | develop  | dc0b7d1   | feat(Program): clean up comments and improve logging output                                     | feat(Program): clean up comments and improve logging output                                 | Jul 9, 2025    |
+| OsitoPolar-Backend | develop  | ff2a5b9   | feat(config): update database connection string and add token settings                         | feat(config): update database connection string and add token settings                      | Jul 9, 2025    |
+| OsitoPolar-Backend | develop  | c0fd7ad   | fix(Equipments): update GetAllEquipments to filter by owner and improve error handling         | fix(Equipments): update GetAllEquipments to filter by owner and improve error handling      | Jul 8, 2025    |
+| OsitoPolar-Backend | develop  | b2f92a9   | fix(Payments): update endpoint paths for checkout session and webhook                          | fix(Payments): update endpoint paths for checkout session and webhook                       | Jul 8, 2025    |
+| OsitoPolar-Backend | develop  | 15cddd2   | fix(ServiceRequests): update service request status endpoint to handle reject and cancel actions | fix(ServiceRequests): update service request status endpoint to handle reject and cancel actions | Jul 8, 2025    |
+| OsitoPolar-Backend | develop  | d9fcde5   | feat(Program.cs): add service request and technician API                             | feat(Program.cs): add service request and technician API                             | Jul 5, 2025    |
+| OsitoPolar-Backend | develop  | 11d9724   | fix(Technician): fix rating atribute                                                 | fix(Technician): fix rating atribute                                                 | Jul 5, 2025    |
+| OsitoPolar-Backend | develop  | 8331740   | Merge branch ‘develop’                                                               | Merge branch ‘develop’                                                               | Jul 4, 2025    |
+| OsitoPolar-Backend | develop  | 767e260   | chore: modify origins in cors.                                                       | chore: modify origins in cors.                                                       | Jul 4, 2025    |
+| OsitoPolar-Backend | develop  | 75fdaeb   | Merge branch ‘develop’                                                               | Merge branch ‘develop’                                                               | Jul 4, 2025    |
+| OsitoPolar-Backend | develop  | f35e23a   | fix: refactor comments.                                                              | fix: refactor comments.                                                              | Jul 4, 2025    |
+| OsitoPolar-Backend | develop  | 9735e3b   | fix(Technicians): fix                                                                 | fix(Technicians): fix                                                                | Jul 4, 2025    |
+| OsitoPolar-Backend | develop  | af644af   | fix(Technicians): fix rating atribute                                                 | fix(Technicians): fix rating atribute                                                | Jul 4, 2025    |
+| OsitoPolar-Backend | develop  | 6a2c94b   | chore: update hosting credentials.                                                   | chore: update hosting credentials.                                                   | Jul 4, 2025    |
+| OsitoPolar-Backend | develop  | 563f911   | fix: fix Program.cs                                                                  | fix: fix Program.cs                                                                  | Jul 4, 2025    |
+| OsitoPolar-Backend | develop  | 563f911   | fix: fix Program.cs                                                  | fix: fix Program.cs                                                    | Jul 3, 2025 |
+| OsitoPolar-Backend | develop  | 438ac5    | feat(iam): fix bounded context                                       | feat(iam): fix bounded context                                         | Jul 3, 2025|
+| OsitoPolar-Backend | develop  | 99116e8   | feat(profiles): add dependency injection rules                       | feat(profiles): add dependency injection rules                         | Jul 3, 2025|
+| OsitoPolar-Backend | develop  | 22ba1aa   | feat(iam): add bounded context                                       | feat(iam): add bounded context                                         | Jul 3, 2025|
+| OsitoPolar-Backend | develop  | 22732fa   | feat(profiles): add bounded context                                  | feat(profiles): add bounded context                                    | Jul 3, 2025|
+| OsitoPolar-Backend | develop  | 095ec21   | feat(appsettings): add appsettings for freeSqlDatabase.             | feat(appsettings): add appsettings for freeSqlDatabase.               | Jun 21, 2025   |
+| OsitoPolar-Backend | develop  | aceb970   | feat(Settings): add user-specific settings for code inspection exclusions | feat(Settings): add user-specific settings for code inspection exclusions | Jun 21, 2025   |
+| OsitoPolar-Backend | develop  | 68473d0   | feat(Payment): add CreatePaymentSessionCommand record for payment session creation | feat(Payment): add CreatePaymentSessionCommand record for payment session creation | Jun 21, 2025   |
+| OsitoPolar-Backend | develop  | 15b412b   | feat(Stripe): add Stripe configuration to appsettings for development, production, and general use | feat(Stripe): add Stripe configuration to appsettings for development, production, and general use | Jun 21, 2025   |
+| OsitoPolar-Backend | develop  | 439f9ee   | fix(dependencies): update package versions for EntityFrameworkCore and add Stripe.net | fix(dependencies): update package versions for EntityFrameworkCore and add Stripe.net | Jun 21, 2025        |
+| OsitoPolar-Backend | develop  | 43d27bf   | feat(Payment): add Payment class for managing payment details and status updates | feat(Payment): add Payment class for managing payment details and status updates | Jun 21, 2025        |
+| OsitoPolar-Backend | develop  | e2830d9   | feat(Payment): add PaymentAudit class for tracking created and updated dates   | feat(Payment): add PaymentAudit class for tracking created and updated dates     | Jun 21, 2025        |
+| OsitoPolar-Backend | develop  | 088cf19   | feat(Payment): implement PaymentCommandService for handling payment sessions and webhooks | feat(Payment): implement PaymentCommandService for handling payment sessions and webhooks | Jun 21, 2025        |
+| OsitoPolar-Backend | develop  | a6b2ec4   | feat(Payment): implement PaymentRepository and PaymentsController for Stripe integration | feat(Payment): implement PaymentRepository and PaymentsController for Stripe integration | Jun 21, 2025        |
+| OsitoPolar-Backend | develop  | cac2d23   | feat(Payment): add PaymentStatus enum to represent various payment states       | feat(Payment): add PaymentStatus enum to represent various payment states        | Jun 21, 2025        |
+| OsitoPolar-Backend | develop  | 7944b88   | feat(Payment): add command for processing payment webhook with Stripe session ID and event type | feat(Payment): add command for processing payment webhook with Stripe session ID and event type | Jun 21, 2025        |
+| OsitoPolar-Backend | develop  | bc3a866   | fix(Deployment): update development port and add Stripe configuration and services | fix(Deployment): update development port and add Stripe configuration and services | Jun 21, 2025        |
+| OsitoPolar-Backend | develop  | 819594e   | feat(Subscription): store features as JSON and add computed property for serialization | feat(Subscription): store features as JSON and add computed property for serialization | Jun 21, 2025        |
+| OsitoPolar-Backend | develop  | 98de59d   | fix(SubscriptionRepository): implement temporary solution to return null for users without active subscriptions | fix(SubscriptionRepository): implement temporary solution to return null for users without active subscriptions | Jun 21, 2025        |
+| OsitoPolar-Backend | develop  | 7ccadc2   | feat(Subscriptions): refactor upgrade plan logic to process upgrades without existing subscription | feat(Subscriptions): refactor upgrade plan logic to process upgrades without existing subscription | Jun 21, 2025        |
+| OsitoPolar-Backend | develop  | bc65113   | feat(Stripe): implement Stripe service for checkout sessions and webhook validation | feat(Stripe): implement Stripe service for checkout sessions and webhook validation | Jun 21, 2025        |
+| OsitoPolar-Backend | develop  | 873f4a6   | feat(Deployment): update development configuration with connection strings and logging levels | feat(Deployment): update development configuration with connection strings and logging levels | Jun 21, 2025        |
+| OsitoPolar-Backend | develop  | 4fdf788   | feat(Deployment): enhance production configuration and kebab-case routing       | feat(Deployment): enhance production configuration and kebab-case routing       | Jun 21, 2025        |
+| OsitoPolar-Backend | feat/deployment-test1 | dc94c7b   | Merge branch ‘develop’ into feat/deployment-test1                               | Merge branch ‘develop’ into feat/deployment-test1                               | Jun 20, 2025        |
+| OsitoPolar-Backend | develop  | d4e2ba2   | Merge pull request #12 from Inteligencia-Artesanal-Aplicaciones-Web/feat/analytics | Merge pull request #12 from Inteligencia-Artesanal-Aplicaciones-Web/feat/analytics | Jun 20, 2025        |
+| OsitoPolar-Backend | develop  | 67b9947   | fix(deployment): update Program.cs.                                             | fix(deployment): update Program.cs.                                             | Jun 20, 2025        |
+| OsitoPolar-Backend | develop  | 8e78919   | fix(deployment): update Program.cs.                                             | fix(deployment): update Program.cs.                                             | Jun 20, 2025        |
+| OsitoPolar-Backend | develop  | 950bdf8   | feat(deployment): add docker image.                                             | feat(deployment): add docker image.                                             | Jun 20, 2025        |
+| OsitoPolar-Backend | develop  | e979a6f   | feat(deployment): add appsettings.Production.json.                              | feat(deployment): add appsettings.Production.json.                              | Jun 20, 2025        |
+| OsitoPolar-Backend | develop  | f082050   | feat(Analytics): add unified resource for equipment readings                    | feat(Analytics): add unified resource for equipment readings                    | Jun 20, 2025        |
+| OsitoPolar-Backend | develop  | 1ba50e0   | feat(Equipment): move equipment reading creation to Equipment Management        | feat(Equipment): move equipment reading creation to Equipment Management        | Jun 20, 2025        |
+| OsitoPolar-Backend | develop  | e252e9c   | feat(Equipment): add resource for creating equipment readings                   | feat(Equipment): add resource for creating equipment readings                   | Jun 20, 2025        |
+| OsitoPolar-Backend | develop  | cef30fb   | feat(Analytics): add unified resource for analytics summaries                   | feat(Analytics): add unified resource for analytics summaries                   | Jun 20, 2025        |
+| OsitoPolar-Backend | develop  | fa82332   | feat(Analytics): unify equipment readings and analytics endpoints               | feat(Analytics): unify equipment readings and analytics endpoints               | Jun 20, 2025        |
+| OsitoPolar-Backend | develop  | 9287401   | feat(Equipment): add EquipmentOperationParametersResource                                            | feat(Equipment): add EquipmentOperationParametersResource                                              | Jun 20, 2025        |
+| OsitoPolar-Backend | develop  | 167759c   | feat(Equipment): implement Handle method                                                             | feat(Equipment): implement Handle method                                                               | Jun 20, 2025        |
+| OsitoPolar-Backend | develop  | 0f0cfbc   | feat(Equipment): add DeleteEquipmentCommand for equipment deletion functionality related to analytics | feat(Equipment): add DeleteEquipmentCommand for equipment deletion functionality related to analytics | Jun 20, 2025        |
+| OsitoPolar-Backend | develop  | dfd06ae   | feat(Equipment): add Handle method for DeleteEquipmentCommand in IEquipmentCommandService related to analytics | feat(Equipment): add Handle method for DeleteEquipmentCommand in IEquipmentCommandService related to analytics | Jun 20, 2025        |
+| OsitoPolar-Backend | develop  | b159352   | feat(Equipment): add UpdateEquipmentResource for updating equipment details                          | feat(Equipment): add UpdateEquipmentResource for updating equipment details                            | Jun 20, 2025        |
+| OsitoPolar-Backend | develop  | a25b5db   | Merge branch ‘develop’                                                                              | Merge branch ‘develop’                                                                                 | Jun 19, 2025        |
+| OsitoPolar-Backend | develop  | 464b81b   | feat(Subscriptions): update Program.cs with Repository, CommandService, and QueryService.           | feat(Subscriptions): update Program.cs with Repository, CommandService, and QueryService.             | Jun 19, 2025        |
+| OsitoPolar-Backend | develop  | 0ccda81   | feat(Subscriptions): add ApplySubscriptionsConfiguration method to AppDbContext.cs for subscriptions setup. | feat(Subscriptions): add ApplySubscriptionsConfiguration method to AppDbContext.cs for subscriptions setup. | Jun 19, 2025        |
+| OsitoPolar-Backend | develop  | de6ec23   | feat(Subscriptions): add SubscriptionsController.cs.                                                 | feat(Subscriptions): add SubscriptionsController.cs.                                                   | Jun 19, 2025        |
+| OsitoPolar-Backend | develop  | 71df9de   | feat(Subscriptions): add ModelBuilderExtensions.cs.                            | feat(Subscriptions): add ModelBuilderExtensions.cs.                                  | Jun 19, 2025        |
+| OsitoPolar-Backend | develop  | 2638d6c   | feat(Subscriptions): add SubscriptionResourceFromEntityAssembler.cs.           | feat(Subscriptions): add SubscriptionResourceFromEntityAssembler.cs.                 | Jun 19, 2025        |
+| OsitoPolar-Backend | develop  | 911ae50   | feat(Subscriptions): add UpgradeSubscriptionCommandFromResourceAssembler.cs.   | feat(Subscriptions): add UpgradeSubscriptionCommandFromResourceAssembler.cs.         | Jun 19, 2025        |
+| OsitoPolar-Backend | develop  | d6e5130   | feat(Subscriptions): add SubscriptionResource.cs.                              | feat(Subscriptions): add SubscriptionResource.cs.                                    | Jun 19, 2025        |
+| OsitoPolar-Backend | develop  | c60fba7   | feat(Subscriptions): add SubscriptionRepository.cs.                            | feat(Subscriptions): add SubscriptionRepository.cs.                                  | Jun 19, 2025        |
+| OsitoPolar-Backend | develop  | 514830c   | feat(Subscriptions): add ISubscriptionCommandService.cs.                       | feat(Subscriptions): add ISubscriptionCommandService.cs.                             | Jun 19, 2025        |
+| OsitoPolar-Backend | develop  | eb50f8b   | feat(Subscriptions): add ISubscriptionCommandService.cs.                       | feat(Subscriptions): add ISubscriptionCommandService.cs.                             | Jun 19, 2025        |
+| OsitoPolar-Backend | develop  | b4dfa15   | feat(Subscriptions): add SubscriptionQueryService.cs.                          | feat(Subscriptions): add SubscriptionQueryService.cs.                                | Jun 19, 2025        |
+| OsitoPolar-Backend | develop  | 3f5279f   | feat(Subscriptions): add SubscriptionsCommandServices.cs.                      | feat(Subscriptions): add SubscriptionsCommandServices.cs.                            | Jun 19, 2025        |
+| OsitoPolar-Backend | develop  | 9a38037   | feat(Subscriptions): add ISubscriptionRepository.cs.                            | feat(Subscriptions): add ISubscriptionRepository.cs.                                 | Jun 19, 2025        |
+| OsitoPolar-Backend | develop  | 7d259ed   | feat(Subscriptions): add queries to Subscriptions.                             | feat(Subscriptions): add queries to Subscriptions.                                   | Jun 19, 2025        |
+| OsitoPolar-Backend | develop  | 84d5d76   | feat(Subscriptions): add UpgradePlanCommand.cs.                                | feat(Subscriptions): add UpgradePlanCommand.cs.                                      | Jun 19, 2025        |
+| OsitoPolar-Backend | develop  | 52eb592   | feat(Subscriptions): add Aggregates.                                           | feat(Subscriptions): add Aggregates.                                                 | Jun 19, 2025        |
+| OsitoPolar-Backend | develop  | dacd508   | Merge pull request #11 from Inteligencia-Artesanal-Aplicaciones-Web/feat/service-requests            | Merge pull request #11 from Inteligencia-Artesanal-Aplicaciones-Web/feat/service-requests             | Jun 18, 2025        |
+| OsitoPolar-Backend | develop  | 20ed869   | fix(ServiceRequests): fix IServiceRequestCommandService and ModelBuilderExtensions                   | fix(ServiceRequests): fix IServiceRequestCommandService and ModelBuilderExtensions                    | Jun 18, 2025        |
+| OsitoPolar-Backend | develop  | 86cbc95   | Merge pull request #10 from Inteligencia-Artesanal-Aplicaciones-Web/feat/work-orders                 | Merge pull request #10 from Inteligencia-Artesanal-Aplicaciones-Web/feat/work-orders                  | Jun 18, 2025        |
+| OsitoPolar-Backend | develop  | d765ac7   | feat(WorkOrders): add foreign key relations for WorkOrder with ServiceRequest, Technician, and Equipment | feat(WorkOrders): add foreign key relations for WorkOrder with ServiceRequest, Technician, and Equipment | Jun 18, 2025        |
+| OsitoPolar-Backend | develop  | 698001e   | feat(WorkOrders): update WorkOrdersController                                                        | feat(WorkOrders): update WorkOrdersController                                                         | Jun 18, 2025        |
+| OsitoPolar-Backend | develop  | 0767c70   | feat(WorkOrders): add UpdateWorkOrderStatusCommandFromResourceAssembler                              | feat(WorkOrders): add UpdateWorkOrderStatusCommandFromResourceAssembler                               | Jun 18, 2025        |
+| OsitoPolar-Backend | develop  | df842d6   | fix(WorkOrders): update WorkOrderCommandService and WorOrderCommandService                           | fix(WorkOrders): update WorkOrderCommandService and WorOrderCommandService                            | Jun 18, 2025        |
+| OsitoPolar-Backend | develop  | 7fa1d13   | fix(WorkOrders): Refactor WorkOrder constructor to accept nullable ServiceRequestId and rename feedback method | fix(WorkOrders): Refactor WorkOrder constructor to accept nullable ServiceRequestId and rename feedback method | Jun 18, 2025        |
+| OsitoPolar-Backend | develop  | b159990   | Merge pull request #8 from Inteligencia-Artesanal-Aplicaciones-Web/feat/service-requests            | Merge pull request #8 from Inteligencia-Artesanal-Aplicaciones-Web/feat/service-requests             | Jun 18, 2025        |
+| OsitoPolar-Backend | develop  | dc33795   | feat(ServiceRequests): Add Equipment and Technician relationships to ServiceRequest EF configuration with appropriate foreign key constraints | feat(ServiceRequests): Add Equipment and Technician relationships to ServiceRequest EF configuration with appropriate foreign key constraints | Jun 18, 2025        |
+| OsitoPolar-Backend | develop  | 4f09949   | feat(ServiceRequests): added Reject and Cancel endpoints                                              | feat(ServiceRequests): added Reject and Cancel endpoints                                               | Jun 18, 2025        |
+| OsitoPolar-Backend | develop  | a2dcfc0   | feat(Analytics): add RecordTemperatureReadingCommand for capturing temperature readings       | feat(Analytics): add RecordTemperatureReadingCommand for capturing temperature readings         | Jun 18, 2025        |
+| OsitoPolar-Backend | develop  | a16d8b7   | feat(Analytics): add TemperatureRange value object for temperature range representation       | feat(Analytics): add TemperatureRange value object for temperature range representation         | Jun 18, 2025        |
+| OsitoPolar-Backend | develop  | 8f69635   | feat(Analytics): add TemperatureReading entity for equipment temperature data                 | feat(Analytics): add TemperatureReading entity for equipment temperature data                   | Jun 18, 2025        |
+| OsitoPolar-Backend | develop  | 6c8f2b1   | feat(Analytics): add TemperatureReadingAudit for tracking created and updated dates           | feat(Analytics): add TemperatureReadingAudit for tracking created and updated dates             | Jun 18, 2025        |
+| OsitoPolar-Backend | develop  | 02ded63   | feat(Analytics): add TemperatureReadingResource for API response representation               | feat(Analytics): add TemperatureReadingResource for API response representation                 | Jun 18, 2025        |
+| OsitoPolar-Backend | develop  | 84e8c51   | feat(Analytics): add TemperatureReadingResourceFromEntityAssembler for transforming TemperatureReading entities to resources | feat(Analytics): add TemperatureReadingResourceFromEntityAssembler for transforming TemperatureReading entities to resources | Jun 18, 2025        |
+| OsitoPolar-Backend | develop  | 4d5cb8b   | Merge pull request #5 from Inteligencia-Artesanal-Aplicaciones-Web/develop                    | Merge pull request #5 from Inteligencia-Artesanal-Aplicaciones-Web/develop                      | Jun 18, 2025        |
+| OsitoPolar-Backend | develop  | 21c7b45   | Merge pull request #4 from Inteligencia-Artesanal-Aplicaciones-Web/feat/equipment-management  | Merge pull request #4 from Inteligencia-Artesanal-Aplicaciones-Web/feat/equipment-management    | Jun 18, 2025        |
+| OsitoPolar-Backend | develop  | 1b14a67   | fix(EquipmentManagement): update Equipment class to use Entities for EnergyConsumption and Rentalinfo to avoid future errors | fix(EquipmentManagement): update Equipment class to use Entities for EnergyConsumption and Rentalinfo to avoid future errors | Jun 18, 2025        |
+| OsitoPolar-Backend | develop  | 42bc758   | feat(EquipmentManagement): add ModelBuilderExtensions for Equipment context configuration     | feat(EquipmentManagement): add ModelBuilderExtensions for Equipment context configuration       | Jun 18, 2025        |
+| OsitoPolar-Backend | develop  | c50e588   | feat(EquipmentManagement): add IEquipmentCommandService and IEquipmentRepository for command and data access operations | feat(EquipmentManagement): add IEquipmentCommandService and IEquipmentRepository for command and data access operations | Jun 18, 2025        |
+| OsitoPolar-Backend | develop  | b37c3ca   | feat(EquipmentManagement): add IEquipmentQueryService and Location entity for equipment management | feat(EquipmentManagement): add IEquipmentQueryService and Location entity for equipment management | Jun 18, 2025        |
 
 ##### 5.2.4.5. Execution Evidence for Sprint Review.
 
@@ -5006,13 +5135,19 @@ Durante este sprint se logró documentar un total de 25 endpoints correspondient
 
 
 ##### 5.2.4.8. Team Collaboration Insights during Sprint.
-(Por hacer)
+
 **Landing Page**
-(Por hacer)
+![landinginsights.png](assets/TF/landinginsights.png)
+
+
 **Frontend**
-(Por hacer)
+![frontinsights.png](assets/TF/frontinsights.png)
+
+
 **Backend**
-(Por hacer)
+![backinsights.png](assets/TF/backinsights.png)
+
+
 
 ## 5.3. Validation Interviews.
 En esta sección se presentan los detalles de las entrevistas de validación realizadas.
@@ -5127,6 +5262,7 @@ En esta sección se presentan los detalles de las entrevistas de validación rea
 
 ### 5.3.2. Registro de Entrevistas.
 En esta sección tenemos el análisis de las entrevistas por segmentos objetivos.
+
 | Entrevista 1: Negocio que utiliza maquinas de refrigeración                            |                                                                                                                                                                  |
 |-----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Nombre Entrevistado                                 | Angelica Apaza Bocanegra                                                                                                                                                   |
@@ -5134,6 +5270,7 @@ En esta sección tenemos el análisis de las entrevistas por segmentos objetivos
 | Profesión                                           | Venta productos coreanos                                                                                                                                               |
 | Departamento                                        | Lima                                                                                                                                                             |
 | Dispositivo utilizado                               | Móvil, PC                                                                                                                                                        |
+| <img width=620 src="assets/chapter-05/Negocio1.PNG"/>                           | https://www.youtube.com/watch?v=5KzeBJlqIOI                                                                                                                                                             |
 | Duración de la Entrevista                           | 0:00 - 7:08                                                                                                                                                             |
 | Análisis de la Entrevista                       |                                                                                                                                                                  |
 | Registro y Gestión de Equipos                      | Consideró el proceso muy sencillo y rápido. Registró sus vitrinas refrigeradas fácilmente desde el celular, resaltando que los campos solicitados eran claros y adecuados para negocios pequeños como el suyo.                                                                                                                           |
@@ -5141,6 +5278,7 @@ En esta sección tenemos el análisis de las entrevistas por segmentos objetivos
 | Solicitudes de Servicio                           | Tuvo una experiencia positiva al agendar servicio técnico. Comentó que la opción estaba bien ubicada en la plataforma y que pudo seleccionar técnicos cercanos con buenas referencias, todo desde la misma interfaz.                                        |
 | Visualización de Reportes | Gracias a los reportes, identificó un consumo elevado en horarios sin actividad comercial. Esto le permitió ajustar el uso de sus equipos y prevenir problemas técnicos, destacando lo útil que sería recibir sugerencias automáticas según los datos.                                  |
 | Evaluación del Servicio                  | Pudo calificar al técnico inmediatamente después del servicio, lo que le pareció práctico. Además, comentó que le fue útil poder actualizar su evaluación cuando el técnico regresó para ajustar un detalle pendiente.    |
+
 <br><br>
 
 | Entrevista 2: Negocio que utiliza maquinas de refrigeración                            |                                                                                                                                                                  |
@@ -5150,6 +5288,7 @@ En esta sección tenemos el análisis de las entrevistas por segmentos objetivos
 | Profesión                                           | Negocio familiar de restaurante                                                                                                                                              |
 | Departamento                                        | Lima                                                                                                                                                             |
 | Dispositivo utilizado                               | Móvil, PC                                                                                                                                                        |
+| <img width=620 src="assets/chapter-05/Negocio2.PNG"/>                           | https://youtu.be/PICc5eucOKU                                                                                                                                                             |
 | Duración de la Entrevista                           | 0:00 - 5:07                                                                                                                                                            |
 | Análisis de la Entrevista                       |                                                                                                                                                                  |
 | Registro y Gestión de Equipos                      | Resaltó que el registro fue rápido y sin complicaciones. Mencionó que tenía varias congeladoras, y que pudo organizarlas por ubicación sin necesidad de capacitación. Sintió que los datos solicitados eran los adecuados para tener trazabilidad de sus equipos.                                                                                                                           |
@@ -5167,6 +5306,7 @@ En esta sección tenemos el análisis de las entrevistas por segmentos objetivos
 | Profesión                                           | Propietaria de una cafeteria                                                                                                                                                |
 | Departamento                                        | Lima                                                                                                                                                             |
 | Dispositivo utilizado                               | Móvil, PC                                                                                                                                                        |
+| <img width=620 src="assets/chapter-05/Negocio3.PNG"/>                           | https://youtu.be/PICc5eucOKU                                                                                                                                                             |
 | Duración de la Entrevista                           | 0:00 - 7:00                                                                                                                                                            |
 | Análisis de la Entrevista                       |                                                                                                                                                             |
 | Registro y Gestión de Equipos                      | Describió el proceso de registro como sencillo y rápido. Registró sus dos equipos (una refrigeradora para insumos y otra para postres) usando su celular. Resaltó que los campos solicitados estaban bien definidos y que no necesitó asistencia adicional.                                                                                                                           |
@@ -5180,10 +5320,11 @@ En esta sección tenemos el análisis de las entrevistas por segmentos objetivos
 | Entrevista 1: Proveedores de equipos de refrigeración                            |                                                                                                                                                                  |
 |-----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Nombre Entrevistado                                 | Piero Medina                                                                                                                                                   |
-| Edad                                                | (Su edad)                                                                                                                                                               |
+| Edad                                                | 29                                                                                                                                                               |
 | Profesión                                           | Proveedor de equipos de refrigeración                                                                                                                                                |
 | Departamento                                        | Lima                                                                                                                                                             |
 | Dispositivo utilizado                               | Móvil, PC                                                                                                                                                        |
+| <img width=620 src="assets/chapter-05/Empresa1.PNG"/>                           | https://youtu.be/tUuoOfQYDaQ                                                                                                                                                             |
 | Duración de la Entrevista                           | 0:00 - 7:00                                                                                                                                                         |
 | Análisis de la Entrevista                       |                                                                                                                                                                  |
 | Recepción y Gestión de Solicitudes                     |  El entrevistado valora la claridad de la sección de equipos, donde puede ver tipo de equipo, cliente y duración estimada. Le parece positivo poder aceptar solicitudes desde la misma pantalla. Como área de mejora, destaca la falta de detalle técnico en algunas solicitudes, lo que lo obliga a contactar al cliente directamente.                                                                                                                           |
@@ -5199,6 +5340,7 @@ En esta sección tenemos el análisis de las entrevistas por segmentos objetivos
 | Profesión                                           | Proveedor de equipos de refrigeración                                                                                                                                                |
 | Departamento                                        | Lima                                                                                                                                                             |
 | Dispositivo utilizado                               | Móvil, PC                                                                                                                                                        |
+| <img width=620 src="assets/chapter-05/Empresa2.PNG"/>                           | https://youtu.be/W2XLr-i4Mpg                                                                                                                                                            |
 | Duración de la Entrevista                           | 0:00 - 5:59                                                                                                                                                          |
 | Análisis de la Entrevista                       |                                                                                                                                                                  |
 | Recepción y Gestión de Solicitudes                     | El entrevistado destaca que el panel de equipos permite una recepción rápida y clara de las solicitudes, incluyendo cliente, tipo de equipo y duración sugerida. El proceso le resulta visual y eficiente. Como área de mejora, sugiere que el formulario de solicitud obligue a incluir más detalles técnicos para evitar llamadas adicionales.                                                                                                                         |
@@ -5214,6 +5356,7 @@ En esta sección tenemos el análisis de las entrevistas por segmentos objetivos
 | Profesión                                           | Proveedor de equipos de refrigeración                                                                                                                                              |
 | Departamento                                        | Lima                                                                                                                                                             |
 | Dispositivo utilizado                               | Móvil, PC                                                                                                                                                        |
+| <img width=820 src="assets/chapter-05/Empresa3.PNG"/>                           | https://drive.google.com/file/d/1mf5XDvYOie9tlLQRrV4OX7YwjgEJ6cKf/view?usp=sharing                                                                                                                                                            |
 | Duración de la Entrevista                           | 0:00 - 16:27                                                                                                                                                         |
 | Análisis de la Entrevista                       |                                                                                                                                                                  |
 | Recepción y Gestión de Solicitudes                     | El entrevistado destaca que el panel de equipos permite una recepción rápida y clara de las solicitudes, incluyendo cliente, tipo de equipo y duración sugerida. El proceso le resulta visual y eficiente. Como área de mejora, sugiere que el formulario de solicitud obligue a incluir más detalles técnicos para evitar llamadas adicionales.                                                                                                                           |
@@ -5221,14 +5364,114 @@ En esta sección tenemos el análisis de las entrevistas por segmentos objetivos
 | Historial y Reportes Técnicos                        | Utiliza con frecuencia el historial técnico de cada equipo registrado, lo cual le ha permitido evitar errores y mejorar la continuidad del servicio. Sugiere habilitar la opción de exportación en PDF. En cuanto a los reportes, los considera prácticos y bien recibidos por los clientes, aunque recomienda enriquecerlos con gráficos más visuales de consumo energético o temperatura. También sugiere personalizar los campos según cliente o servicio.                                       |
 | Gestión de Cartera de Clientes | Afirma que la cartera de clientes está bien organizada dentro del panel, facilitando la consulta de facturación, servicios y tareas pendientes. Para mejorar, propone que el sistema incluya alertas automáticas para mantenimientos programados. En cuanto al filtrado de información, aunque lo considera funcional, sugiere implementar carpetas o etiquetas personalizadas para clientes con mayor volumen de órdenes activas.                                 |
 
-### 5.3.3. Evaluaciones según heurísticas.
+#### 5.3.3. Evaluaciones según heurísticas
 
-(Por hacer)
+**UX Heuristics & Principles Evaluation**  
+**Usability – Inclusive Design – Information Architecture**
+
+**Información del Proyecto**
+- **Carrera:** Ingeniería de Software
+- **Curso:** Aplicaciones Web
+- **Auditor:** Inteligencia Artesanal
+- **Cliente:** Inteligencia Artesanal
+- **Site o App a Evaluar:** OsitoPolar
+
+---
+
+### Tareas a Evaluar
+
+**Para el Segmento Negocios que utilizan equipos de refrigeración:**
+1. Registro y gestión de equipos
+2. Monitoreo y alertas
+3. Solicitudes de servicio técnico
+
+**Para el Segmento Empresas proveedoras de servicios y equipos de refrigeración:**
+1. Recepción y gestión de solicitudes
+2. Asignación y gestión de técnicos
+3. Visualización de historial y reportes técnicos
+4. Gestión de cartera de clientes
+
+---
+
+### Escala de Severidad
+
+| Nivel | Descripción |
+|-------|-------------|
+| 1     | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2     | Problema menor: puede ocurrir con más frecuencia o es más difícil de superar para el usuario. Debería tener una prioridad baja para resolverse en la próxima versión. |
+| 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlo. Debería tener alta prioridad para corregirse. |
+| 4     | Problema muy grave: error que impide al usuario continuar utilizando la herramienta. Debe corregirse antes del lanzamiento. |
+
+---
+
+### Tabla Resumen
+
+| #  | Problema                                                                                 | Escala de severidad | Heurística/Principio violado                  | Tarea evaluada                          |
+|----|------------------------------------------------------------------------------------------|----------------------|----------------------------------------------|-----------------------------------------|
+| 1  | El formulario de solicitud de servicio no exige detalles técnicos suficientes           | 2                    | Prevención de errores / Flexibilidad         | Recepción y gestión de solicitudes      |
+| 2  | No hay exportación de reportes en PDF o Excel                                            | 2                    | Control del usuario / Flexibilidad           | Historial y reportes técnicos           |
+| 3  | No se pueden modificar fácilmente rutas de técnicos asignados                            | 2                    | Flexibilidad y eficiencia de uso             | Gestión de técnicos                     |
+| 4  | No hay rankings ni gráficos comparativos de desempeño técnico                            | 2                    | Visibilidad del estado del sistema           | Gestión de técnicos                     |
+| 5  | No hay sugerencias automáticas en base a los reportes de consumo                         | 3                    | Ayuda y documentación / Personalización      | Visualización de reportes               |
+| 6  | No existen alertas automáticas para mantenimientos programados                           | 3                    | Prevención de errores / Eficiencia           | Gestión de cartera de clientes          |
+| 7  | No se pueden crear carpetas ni etiquetas personalizadas para clientes con alta carga     | 2                    | Flexibilidad y eficiencia de uso             | Gestión de cartera de clientes          |
+
+---
+
+### Descripción de Problemas
+
+**Problema #1:**
+- **Tarea Evaluada:** Recepción y gestión de solicitudes
+- **Recomendación:** Incorporar campos obligatorios que detallen la falla o contexto del equipo para evitar llamadas adicionales y agilizar el servicio.
+
+**Problema #2:**
+- **Tarea Evaluada:** Historial y reportes técnicos
+- **Recomendación:** Añadir opción de exportación en formatos estándares para facilitar el análisis offline o la presentación a terceros.
+
+**Problema #3:**
+- **Tarea Evaluada:** Gestión de técnicos
+- **Recomendación:** Permitir modificar rutas y agrupar visitas por zonas geográficas.
+
+**Problema #4:**
+- **Tarea Evaluada:** Gestión de técnicos
+- **Recomendación:** Incluir dashboard comparativo por técnico que muestre desempeño mensual y por tipo de equipo.
+
+**Problema #5:**
+- **Tarea Evaluada:** Visualización de reportes
+- **Recomendación:** Implementar recomendaciones basadas en datos históricos y patrones detectados, para asistir en la toma de decisiones técnicas o de ahorro energético.
+
+**Problema #6:**
+- **Tarea Evaluada:** Gestión de cartera de clientes
+- **Recomendación:** Activar alertas en base a ciclos de mantenimiento definidos por el proveedor o sistema.
+
+**Problema #7:**
+- **Tarea Evaluada:** Gestión de cartera de clientes
+- **Recomendación:** Permitir organización avanzada con carpetas o tags personalizados según volumen o tipo de cliente.
+
+---
+
+### User Flows a Validar
+
+**Para el Segmento Negocios que utilizan equipos de refrigeración:**
+1. Registro de vitrinas o congeladoras
+2. Gestión y visualización de alertas por temperatura
+3. Solicitud y evaluación de técnicos desde la misma interfaz
+
+**Para el Segmento Empresas proveedoras de servicios y equipos de refrigeración:**
+1. Recepción detallada de solicitudes técnicas
+2. Asignación eficiente de técnicos por especialidad o zona
+3. Revisión de historial técnico y descarga de reportes
+4. Gestión avanzada por cliente con alertas y etiquetas
+
 
 ## 5.4. Video About-the-Product.
 En esta sección se muestra una captura del video about the product que se encuentra incrustado en el landing page, además del link en los anexos.
 
+Video about the product: [Video about the product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202222001_upc_edu_pe/EX7h3-WbRbpNqTqMmM-NKdwBEXUEHMmcoY4pT1Q0epIOkQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Dwh3nQ)
+
 ![alt text](assets/chapter-05/sprint4/about-the-product.png)
+
+
 
 ## Conclusiones
 
@@ -5289,10 +5532,16 @@ Este trabajo ha demostrado que OsitoPolar no solo resuelve un problema real, sin
 - UXPressia. (s.f.). *User vs. buyer persona: Differences and free template*. Recuperado el 10 de julio de 2025, de https://uxpressia.com/blog/user-persona-vs-buyer-persona-difference
 
 - W3Schools. (s.f.). *HTML style guide and coding conventions*. Recuperado el 10 de julio de 2025, de https://www.w3schools.com/html/html5_syntax.asp
+
 ## Anexos
 
-
 - Organización GitHub: https://github.com/Inteligencia-Artesanal-Aplicaciones-Web
+- Repositorio de la Landing Page: https://github.com/Inteligencia-Artesanal-Aplicaciones-Web/Landing-Page
+- Repositorio Frontend: https://github.com/Inteligencia-Artesanal-Aplicaciones-Web/OsitoPolar-Frontend
+- Repositorio Backend: https://github.com/Inteligencia-Artesanal-Aplicaciones-Web/OsitoPolar-Platform
 - Video de demostración de la Landing Page: [Video demostrativo de la landing page](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223286_upc_edu_pe/EWpS23aHI95KiF5rJXhOyHgBoHAL62jYwnz8m4zMqxkGwA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=bwYjby)
-- Video About the Team: [Enlace en youtube](https://youtu.be/TFbd0T1vjBc) y [Enlace en Microsoft Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202123655_upc_edu_pe/EVvLjP-Q3QNKqCuNR__cVdABIysnJfQFfP8ap-IXe3ITeg?e=vgc3rk)
-- Video Entrevistas de validación: [Enlace en Microsoft Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202123655_upc_edu_pe/Ebs-Ltq2oj9DuGPn-l0687kBxrII24P5P0WLTKsVJdM8JQ?e=u8tnUd)
+- Video de exposicion TB1: [Video de exposicion TB1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202222001_upc_edu_pe/ESOPHU5GHEZGgBnK1e7uFVcBotVap94eOrrzWJIRhrJREQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=irIdp1)
+- Video de exposicion TP: [Video de exposicion TP](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202222001_upc_edu_pe/EUSP6C-FnFZFhqELTWnDrfgBBnB-QgeehRsw6agebPFu-A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=G9ZqQ4)
+- Video de exposicion TB2: [Video de exposicion TB2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202222001_upc_edu_pe/EbXmWKN2jitDrR5rM7lc3VoBA6YsEcvhG_dhuVWPwLl2ZQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ULdQc8)
+- Video de exposicion TF: [Video de exposicion TF]()
+- Video about the product: [Video about the product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202222001_upc_edu_pe/EX7h3-WbRbpNqTqMmM-NKdwBEXUEHMmcoY4pT1Q0epIOkQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Dwh3nQ)
