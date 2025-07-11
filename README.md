@@ -451,40 +451,20 @@ Sabremos que estamos en lo correcto cuando observemos una rápida adopción de n
 
 #### 1.2.2.4 Lean UX Canvas
 
-<table border="1">
-  <thead>
-    <tr>
-      <th><strong>Business Problem</strong></th>
-      <th><strong>Solutions</strong></th>
-      <th><strong>Business Outcomes</strong></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Los negocios que dependen de equipos de refrigeración enfrentan grandes desafíos operativos debido a fallas inesperadas, altos consumos energéticos no detectados y falta de monitoreo constante. Esto puede llevar a pérdidas económicas, reducción de la calidad del servicio y pérdidas de productos.</td>
-      <td>Desarrollo de una plataforma web (OsitoPolar) que permita el monitoreo en tiempo real de temperatura, consumo energético, y tiempo de uso de los equipos de refrigeración. Incluye generación de reportes técnicos, alertas automáticas por fallas y programación inteligente de mantenimientos.</td>
-      <td>- Aumentar en al menos un 15% la cantidad de usuarios activos dentro de la aplicación.<br> - Lograr una mayor visibilidad en redes sociales, especialmente entre negocios de alimentos y técnicos de refrigeración.<br> - Generar confianza en el monitoreo y mantenimiento automatizado de los equipos.</td>
-    </tr>
-    <tr>
-      <td><strong>Users</strong></td>
-      <td><strong>User Outcomes & Benefits</strong></td>
-    </tr>
-    <tr>
-      <td>- **Negocios** que dependen de equipos de refrigeración: supermercados, minimarkets, restaurantes, laboratorios y empresas del sector alimentario y farmacéutico.<br> - **Técnicos de refrigeración** que brindan mantenimiento a los sistemas de congelación.<br> - **Proveedores de equipos de refrigeración** que buscan mejorar su servicio posventa.</td>
-      <td>- **Eficiencia operativa mejorada**: Mejora en la gestión de los equipos, reducción de tiempos de inactividad y pérdidas de productos.<br> - **Reducción de costos**: Optimización en el consumo energético y mantenimiento predictivo.<br> - **Toma de decisiones informada**: Acceso a reportes y estadísticas detalladas para tomar decisiones estratégicas.</td>
-    </tr>
-    <tr>
-      <td><strong>Hypotheses</strong></td>
-      <td><strong>What’s the most important thing we need to learn first?</strong></td>
-      <td><strong>What’s the least amount of work we need to do to learn the next most important thing?</strong></td>
-    </tr>
-    <tr>
-      <td>- Los empresarios necesitan una plataforma integral y fácil de usar para gestionar sus equipos de refrigeración.<br> - Los técnicos valorarán herramientas que les permitan gestionar múltiples clientes y equipos de manera eficiente.<br> - La implementación de IA y recomendaciones predictivas optimizará los procesos operativos.</td>
-      <td>El supuesto más riesgoso es que los empresarios realmente necesiten y valoren una funcionalidad avanzada de gestión de flotas. Es crucial validar si esta necesidad es real antes de continuar con el desarrollo a gran escala.</td>
-      <td>Realizar entrevistas con empresarios, encuestas y un Producto Mínimo Viable (MVP) para validar la hipótesis de que necesitan una solución de gestión de flotas avanzada. Esto nos permitirá obtener resultados rápidamente con una mínima inversión de tiempo y recursos.</td>
-    </tr>
-  </tbody>
-</table>
+El presente Lean UX Canvas se ha desarrollado para ofrecer una visión estratégica y concisa de la solución OsitoPolar. Este marco nos permite alinear rápidamente los objetivos de negocio con las necesidades de nuestros usuarios y las hipótesis clave que guían nuestro desarrollo.
+A través de este lienzo, hemos desglosado el problema central que enfrentan los negocios que dependen de equipos de refrigeración, definido las soluciones propuestas y anticipado los resultados que esperamos alcanzar.
+Asimismo, hemos identificado a nuestros usuarios clave y sus beneficios, y hemos establecido una serie de hipótesis que nos permitirán validar nuestro enfoque con la mínima inversión de tiempo y recursos posible, asegurando que cada paso que demos esté centrado en generar valor real.
+
+
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter01/lean-ux-canvas.png"
+       alt="Lean UX Canvas: Un lienzo para aplicar principios de Lean UX al diseño."
+       style="max-width: 80%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 1:</strong> Lean UX Canvas.
+  </figcaption>
+</figure>
+
 
 ## 1.3 Segmentos objetivos
 
