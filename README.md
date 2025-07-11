@@ -848,29 +848,77 @@ Basándonos en las entrevistas, hemos llevado a cabo un análisis en el que dest
 
 **Análisis estadístico**
 
-![pie_chart-1-segment-2.png]( assets/chapter02/pie_chart-1-segment-2.png)
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter02/pie_chart-1-segment-2.png"
+       alt="Segmento 2 del Gráfico Circular: Distribución de datos clave."
+       style="max-width: 75%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 1:</strong> Gráfico Circular - Segmento 2.
+  </figcaption>
+</figure>
+
 - Más del 50% de los empresarios tiene un número mayor a 10 años de experiencia en el rubro.
 
 ---
 
-![pie_chart-2-segment-2.png]( assets/chapter02/pie_chart-2-segment-2.png)
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter02/pie_chart-2-segment-2.png"
+       alt="Segmento 2 del segundo Gráfico Circular: Proporción de satisfacción del usuario."
+       style="max-width: 75%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 2:</strong> Gráfico Circular 2 - Segmento 2.
+  </figcaption>
+</figure>
+
 - Los empresarios tienen diferentes frecuencias de ciertas dificultades, a pesar de que tienen casi los mismos problemas.
 
 ---
-![pie_chart-3-segment-2.png]( assets/chapter02/pie_chart-3-segment-2.png)
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter02/pie_chart-3-segment-2.png"
+       alt="Segmento 2 del tercer Gráfico Circular: Datos demográficos de usuarios."
+       style="max-width: 75%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 3:</strong> Gráfico Circular 3 - Segmento 2.
+  </figcaption>
+</figure>
+
 - El 67% de los empresarios creen que el cliente es parcialmente causante de su problema de mayor frecuencia. Algunos de ellos han expresado su inconformidad respecto a los clientes que no explican bien las fallas de sus equipos.
 
 ---
 
-![pie_chart-4-segment-2.png]( assets/chapter02/pie_chart-4-segment-2.png)
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter02/pie_chart-4-segment-2.png"
+       alt="Segmento 2 del cuarto Gráfico Circular: Preferencias de los usuarios por características."
+       style="max-width: 75%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 4:</strong> Gráfico Circular 4 - Segmento 2.
+  </figcaption>
+</figure>
+
 - El 100% está interesado en recibir notificaciones sobre fallos que ocurren en equipos de refrigeración. Ellos creen que con dicha funcionalidad podrían hacer un mantenimiento preventivo más eficiente y lograr la satisfacción del cliente.
 
 ---
-![pie_chart-5-segment-2.png]( assets/chapter02/pie_chart-5-segment-2.png)
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter02/pie_chart-5-segment-2.png"
+       alt="Segmento 2 del quinto Gráfico Circular: Fuentes de información preferidas por los usuarios."
+       style="max-width: 75%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 5:</strong> Gráfico Circular 5 - Segmento 2.
+  </figcaption>
+</figure>
+
 - Ni uno de los empresarios ha usado una plataforma digital que se asemeje a la que se muestran interesados. Ellos usaron aplicaciones para mejorar la eficiencia de su trabajo como WhatsApp y Maps o programas como Microsoft Excel. Sin embargo, estos no poseen todas las funcionalidades que necesitan.
 
 ---
-![pie_chart-6-segment-2.png]( assets/chapter02/pie_chart-6-segment-2.png)
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter02/pie_chart-6-segment-2.png"
+       alt="Segmento 2 del sexto Gráfico Circular: Nivel de satisfacción general del producto."
+       style="max-width: 75%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 6:</strong> Gráfico Circular 6 - Segmento 2.
+  </figcaption>
+</figure>
+
 - Cada empresario tiene una meta deseada de mayor prioridad diferente al resto a pesar de que todos ellos comparten los mismos deseos y esperan que una plataforma digital pueda ayudarles a obtenerlos.
 
 ---
@@ -881,10 +929,24 @@ Basándonos en las entrevistas, hemos llevado a cabo un análisis en el que dest
 En esta sección se presentan las fichas de User Personas construidas a partir de los datos recogidos del análisis de entrevistas al segmento #1: "Negocios que utilizan equipos de refrigeración" y al segmento #2: "Empresas proveedoras de servicios y equipos de refrigeración". Estas fichas permiten representar de forma clara y estratégica los perfiles del segmento objetivo, considerando sus metas, habilidades, motivaciones y dificultades. Al integrar tanto la perspectiva del usuario como las tendencias del sector, estas representaciones sirven como una herramienta clave para el diseño de soluciones digitales centradas en el usuario y alineadas con las oportunidades del mercado.
 
 ##### Segmento objetivo #1: Negocios que utilizan equipos de refrigeración
-![UserPersona-Carolina_Garcia.png]( assets/chapter02/UserPersona-Carolina_Garcia.png)
-##### Segmento objetivo #2: Empresas proveedoras de servicios y equipos de refrigeración
-![UserPersona-Luis-Rojas.png]( assets/chapter02/UserPersona-Luis-Rojas.png)
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter02/UserPersona-Carolina_Garcia.png" 
+       alt="User Persona: Carolina García, descripción detallada del perfil de usuario." 
+       style="max-width: 90%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 1:</strong> User Persona - Carolina García.
+  </figcaption>
+</figure>
 
+##### Segmento objetivo #2: Empresas proveedoras de servicios y equipos de refrigeración
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter02/UserPersona-Luis-Rojas.png"
+       alt="User Persona: Luis Rojas, descripción detallada de sus características y necesidades."
+       style="max-width: 90%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 2:</strong> User Persona - Luis Rojas.
+  </figcaption>
+</figure>
 
 #### 2.3.2. User Task Matrix.
 
@@ -997,23 +1059,50 @@ Las tareas fueron identificadas a partir del análisis cualitativo de entrevista
 Este User Journey Map representa el recorrido actual de Carolina García. El mapa ilustra su experiencia completa desde que maneja continuamente los datos registrados de la empresa hasta su seguimiento luego de la realización de la venta o servicio.
 Esta sección refleja la situación actual sin intervención de soluciones tecnológicas, mostrando los puntos de contacto, tareas clave, emociones y posibles fricciones que enfrenta en su día a día. Este recorrido permite entender los desafíos que enfrenta Carolina.
 
-![JourneyMap-segment-1.png]( assets/chapter02/JourneyMap-segment-1.png)
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter02/JourneyMap-segment-1.png"
+       alt="Segmento 1 del Journey Map: Etapa de Descubrimiento de necesidades del usuario."
+       style="max-width: 95%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 1:</strong> Segmento 1 del Journey Map.
+  </figcaption>
+</figure>
 
 **Segmento objetivo #2: EMPRESAS PROVEEDORAS DE SERVICIOS Y EQUIPOS DE REFRIGERACIÓN**
 
 Este User Journey Map representa el recorrido actual de Luis Rojas. El mapa ilustra su experiencia completa desde que maneja continuamente los datos registrados de la empresa hasta su seguimiento luego de la realización de la venta o servicio.
 Esta sección refleja la situación actual sin intervención de soluciones tecnológicas, mostrando los puntos de contacto, tareas clave, emociones y posibles fricciones que enfrenta en su día a día. Este recorrido permite entender los desafíos que enfrenta Luis.
-![JourneyMap-segment-2.png]( assets/chapter02/JourneyMap-segment-2.png)
-
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter02/JourneyMap-segment-2.png"
+       alt="Segmento 2 del Journey Map: Etapa de Consideración y Evaluación."
+       style="max-width: 95%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 2:</strong> Segmento 2 del Journey Map.
+  </figcaption>
+</figure>
 
 #### 2.3.4. Empathy Mapping.
 
 **Segmento objetivo #1: Negocios que utilizan equipos de refrigeración**
-![EmpathyMap-segment-1.png]( assets/chapter02/EmpathyMap-segment-1.png)
-
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter02/EmpathyMap-segment-1.png"
+       alt="Segmento 1 del Mapa de Empatía: Qué piensa y siente el usuario."
+       style="max-width: 95%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 1:</strong> Segmento 1 del Mapa de Empatía.
+  </figcaption>
+</figure>
 
 **Segmento objetivo #2: EMPRESAS PROVEEDORAS DE SERVICIOS Y EQUIPOS DE REFRIGERACIÓN**
-![EmpathyMap-segment-2.png]( assets/chapter02/EmpathyMap-segment-2.png)
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter02/EmpathyMap-segment-2.png"
+       alt="Segmento 2 del Mapa de Empatía: Qué ve y qué oye el usuario."
+       style="max-width: 95%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 2:</strong> Segmento 2 del Mapa de Empatía.
+  </figcaption>
+</figure>
+
 
 #### 2.3.5. As-is Scenario Mapping.
 
@@ -1023,8 +1112,14 @@ Desde la perspectiva del usuario, este mapa nos permite visualizar su situación
 
 
 **Segmento objetivo #2: EMPRESAS PROVEEDORAS DE SERVICIOS Y EQUIPOS DE REFRIGERACIÓN**
-![As-is-Scenario-segment-2.jpg]( assets/chapter02/As-is-Scenario-segment-2.jpg)
-
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter02/As-is-Scenario-segment-2.jpg"
+       alt="Segmento 2 del Escenario As-Is: Fases de interacción actual del usuario con el producto."
+       style="max-width: 95%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 1:</strong> Segmento 2 del Escenario As-Is.
+  </figcaption>
+</figure>
 
 ### 2.4. Ubiquitous Language.
 
@@ -1073,11 +1168,29 @@ Desde la perspectiva del usuario, este mapa nos permite visualizar su situación
 
 ### 3.1. To-Be Scenario Mapping.
 **Segmento objetivo #1: CLIENTES (DUEÑOS DE EQUIPOS DE REFRIGERACIÓN)**
-![To-Be-Scenario-segment-1.png]( assets/chapter03/To-Be-Scenario-segment-1.png)
+
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter03/To-Be-Scenario-segment-1.png"
+       alt="To Be Scenario Mapping Segmento 1: Interacción ideal de Clientes (Dueños de equipos de refrigeración)."
+       style="max-width: 95%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 1:</strong> To Be Scenario Mapping Clientes (Segmento 1).
+  </figcaption>
+</figure>
+
 
 **Segmento objetivo #2: EMPRESAS PROVEEDORAS DE SERVICIOS Y EQUIPOS DE REFRIGERACIÓN**
 
-![To-Be-Scenario-segment-2.png]( assets/chapter03/To-Be-Scenario-segment-2.png)
+
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter03/To-Be-Scenario-segment-2.png"
+       alt="To Be Scenario Mapping Segmento 2: Interacción ideal de Empresas Proveedoras de Servicios y Equipos de Refrigeración."
+       style="max-width: 95%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 2:</strong> To Be Scenario Mapping - Empresas Proveedoras (Segmento 2).
+  </figcaption>
+</figure>
+
 
 ### 3.2. User Stories.
 
@@ -1150,7 +1263,15 @@ El trabajo fue realizado de manera colaborativa, priorizando la comprensión del
 El siguiente Impact Mapping fue desarrollado en UXPressia de manera colaborativa por el equipo de OsitoPolar para alinear los objetivos de negocio con los requerimientos funcionales de la plataforma.
 
 
-![Impact-Mapping.png]( assets/chapter03/Impact-Mapping.png)
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter03/Impact-Mapping.png"
+       alt="Diagrama de Impact Mapping: Objetivo, actores, impactos y entregables clave."
+       style="max-width: 80%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 1:</strong> Impact Mapping.
+  </figcaption>
+</figure>
+
 
 ### 3.4. Product Backlog.
 
@@ -1168,7 +1289,16 @@ Escala de Story Points (Fibonacci):
 
 8: Tareas muy complejas o que afectan a múltiples áreas.
 
-![Product-Backlog.png](assets/chapter03/Product-Backlog.png)
+
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter03/Product-Backlog.png"
+       alt="Diagrama de Product Backlog: Lista priorizada de funcionalidades y requisitos del producto."
+       style="max-width: 95%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 1:</strong> Product Backlog.
+  </figcaption>
+</figure>
+
 
 | Orden | User Story ID | Titulo                                         | Descripcion                                                                                                                                                                | Story Points |
 |-------|---------------|------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
@@ -1231,9 +1361,24 @@ La identidad visual de OsitoPolar busca transmitir seguridad, innovación y cerc
 
 Para mantener la formalidad y accesibilidad de la interfaz de usuario de OsitoPolar se establecerá las tipografías Helvetica y Open Sans por sus características funcionales, estéticas y por su alta compatibilidad en interfaces digitales, siendo Helvetica la primaria.
 
-![Helvetica-typography.png]( assets/chapter04/Helvetica-typography.png)
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/Helvetica-typography.png"
+       alt="Ejemplo de la tipografía Helvetica, mostrando su uso y características."
+       style="max-width: 90%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 1:</strong> Tipografía Helvetica.
+  </figcaption>
+</figure>
 
-![Open-sans-typography.png]( assets/chapter04/Open-sans-typography.png)
+
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/Open-sans-typography.png"
+       alt="Ejemplo de la tipografía Open Sans, mostrando sus características y uso."
+       style="max-width: 90%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 2:</strong> Tipografía Open Sans.
+  </figcaption>
+</figure>
 
 
 **Colors**
@@ -1244,7 +1389,15 @@ El color principal elegido es el celeste, pues es el que más se acopla a las ca
 Se eligieron variantes de color verde, rojo, azul y amarillo para ciertos fondos y estados (alertas, servicio, calificaciones).
 
 
-![Colors-General Style Guidelines.png]( assets/chapter04/Colors-General%20Style%20Guidelines.png)
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/Colors-General%20Style%20Guidelines.png"
+       alt="Guías Generales de Estilo de Colores: Paleta principal y secundaria de la marca."
+       style="max-width: 95%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 3:</strong> Guías Generales de Estilo - Colores.
+  </figcaption>
+</figure>
+
 
 
 **Spacing**
@@ -1277,12 +1430,30 @@ De acuerdo al rubro al que está orientado OsitoPolar, los colores deben refleja
 
 Sin embargo, la variación de botones y fondos que tendrá la plataforma hace que no siempre se elija la misma tonalidad, por lo que optamos por una paleta de celeste.
 
-![Sky_blue-color-Web Style Guidelines.png]( assets/chapter04/Web%20Apps%20Wireframes/Sky_blue-color-Web%20Style%20Guidelines.png)
+
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/Web%20Apps%20Wireframes/Sky_blue-color-Web%20Style%20Guidelines.png"
+       alt="Guías de Estilo Web: Muestra del color Sky Blue con sus códigos hexadecimales y RGB."
+       style="max-width: 80%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 1:</strong> Guías de Estilo Web - Color Sky Blue.
+  </figcaption>
+</figure>
+
+
 
 De la misma forma se opta por una paleta de rojo claro para diferenciar ventanas, fondos o íconos que muestren algún tipo de error en el sistema, alertas o estados.
 
 
-![Red-color-Web Style Guidelines.png]( assets/chapter04/Red-color-Web%20Style%20Guidelines.png)
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/Red-color-Web%20Style%20Guidelines.png"
+       alt="Guías de Estilo Web: Muestra del color Rojo con sus códigos hexadecimales y RGB."
+       style="max-width: 80%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 22:</strong> Guías de Estilo Web - Color Rojo.
+  </figcaption>
+</figure>
+
 
 ### 4.2. Information Architecture
 
@@ -1393,33 +1564,146 @@ La estructura de navegación y las opciones disponibles en **OsitoPolar** están
 
 El wireframe de la página de inicio de OsitoPolar organiza los elementos clave para ofrecer una navegación intuitiva. Incluye un encabezado con el logo y un menú de navegación, seguido de una propuesta de valor clara con botones de acción destacados como "Solicitar Demo" y "¿Cómo Funciona?". La página cuenta con secciones para describir a los usuarios objetivo, las funcionalidades clave del sistema, y los beneficios que ofrece OsitoPolar. Al final, se encuentra un formulario de contacto para que los usuarios soliciten una demo, junto con enlaces legales en el pie de página.
 
-![LandingPageWireframe.png]( assets/chapter04/LandingPageWireframe.png)
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/LandingPageWireframe.png"
+       alt="Wireframe de la Landing Page: Diseño de baja fidelidad de la página principal."
+       style="max-width: 95%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 1:</strong> Wireframe de la Landing Page.
+  </figcaption>
+</figure>
+
 
 #### 4.3.2. Landing Page Mockup
 
 El Landing Page Mock-up de OsitoPolar muestra un diseño limpio y organizado, con una estructura intuitiva que guía a los usuarios a través de la plataforma. Incluye una propuesta de valor destacada en la parte superior, seguida de secciones clave como las funcionalidades del sistema, los beneficios para empresas y proveedores, y una explicación clara de cómo funciona el servicio. También cuenta con testimonios de clientes, detalles sobre la empresa y un formulario para solicitar una demo, todo con un enfoque en facilitar la conversión de visitantes a usuarios activos.
 
-![mockup1.png]( assets/chapter04/Landing%20Page%20Mockups/mockup1.png)
+- Esta es la primera sección, llamada "Inicio". En esta se puede ver la propuesta de valor que ofrece nuestra plataforma junto con un "Call to Action" que se agregará a futuro.
 
-![mockup2.png]( assets/chapter04/Landing%20Page%20Mockups/mockup2.png)
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/Landing%20Page%20Mockups/mockup1.png"
+       alt="Mockup 1 de la Landing Page: Diseño visual de la sección superior."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 1:</strong> Mockup 1 - Inicio - Landing Page.
+  </figcaption>
+</figure>
 
-![mockup3.png]( assets/chapter04/Landing%20Page%20Mockups/mockup3.png)
 
-![mockup4.png]( assets/chapter04/Landing%20Page%20Mockups/mockup4.png)
+- Esta segunda sección hace una breve descripción de a quiénes está dirigido la plataforma.
 
-![mockup5.png]( assets/chapter04/Landing%20Page%20Mockups/mockup5.png)
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/Landing%20Page%20Mockups/mockup2.png"
+       alt="Mockup 2 de la Landing Page: Diseño visual de la sección de características."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 2:</strong> Mockup 2  - ¿Para quién es? - Landing Page.
+  </figcaption>
+</figure>
 
-![mockup6.png]( assets/chapter04/Landing%20Page%20Mockups/mockup6.png)
 
-![mockup7.png]( assets/chapter04/Landing%20Page%20Mockups/mockup7.png)
+- En "Funcionalidades Clave" se presentan las principales funcionalidades que ofrece la plataforma.
 
-![mockup8.png]( assets/chapter04/Landing%20Page%20Mockups/mockup8.png)
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/Landing%20Page%20Mockups/mockup3.png"
+       alt="Mockup 3 de la Landing Page: Diseño visual de la sección de testimonios."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 3:</strong> Mockup 3 - Funcionalidades - Landing Page.
+  </figcaption>
+</figure>
 
-![mockup9.png]( assets/chapter04/Landing%20Page%20Mockups/mockup9.png)
 
-![mockup10.png]( assets/chapter04/Landing%20Page%20Mockups/mockup10.png)
+- En "Beneficios" se presentan los beneficios que ofrece la plataforma para empresas y proveedores.
 
-![mockup11.png]( assets/chapter04/Landing%20Page%20Mockups/mockup11.png)
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/Landing%20Page%20Mockups/mockup4.png"
+       alt="Mockup 4 de la Landing Page: Diseño visual de la sección de precios."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 4:</strong> Mockup 4 - Beneficios para negocios - Landing Page.
+  </figcaption>
+</figure>
+
+
+- En "Beneficios" se presentan los beneficios que ofrece la plataforma para proveedores.
+
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/Landing%20Page%20Mockups/mockup5.png"
+       alt="Mockup 5 de la Landing Page: Diseño visual de la sección de preguntas frecuentes."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 5:</strong> Mockup 5 - Beneficios para proveedores - Landing Page.
+  </figcaption>
+</figure>
+
+
+- En "Como funciona" se describe el flujo del funcionamiento de la plataforma.
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/Landing%20Page%20Mockups/mockup6.png"
+       alt="Mockup 6 de la Landing Page: Diseño visual del pie de página."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 6:</strong> Mockup 6 - ¿Como funciona? - Landing Page.
+  </figcaption>
+</figure>
+
+
+- En "Sobre Nosotros" se presenta nuestra Misión y Visión como startup. 
+
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/Landing%20Page%20Mockups/mockup7.png"
+       alt="Mockup 7 de la Landing Page: Vista detallada de un elemento interactivo."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 7:</strong> Mockup 7 - Sobre Nosotros - Landing Page.
+  </figcaption>
+</figure>
+
+
+- En "Lo que dicen nuestros clientes" se visualizan las reseñas de los usuarios que usaron nuestra plataforma.
+
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/Landing%20Page%20Mockups/mockup8.png"
+       alt="Mockup 8 de la Landing Page: Vista detallada de un formulario de contacto."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 8:</strong> Mockup 8 - Lo que dicen nuestros clientes - Landing Page.
+  </figcaption>
+</figure>
+
+
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/Landing%20Page%20Mockups/mockup9.png"
+       alt="Mockup 9 de la Landing Page: Sección de llamada a la acción."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 9:</strong> Mockup 9 - Lo que dicen nuestros clientes - Landing Page.
+  </figcaption>
+</figure>
+
+
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/Landing%20Page%20Mockups/mockup10.png"
+       alt="Mockup 10 de la Landing Page: Vista de la navegación superior."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 10:</strong> Mockup 10 - Lo que dicen nuestros clientes - Landing Page.
+  </figcaption>
+</figure>
+
+
+- En "Contacto" se presenta un formulario de contacto para que los usuarios puedan solicitar una demo.
+
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/Landing%20Page%20Mockups/mockup11.png"
+       alt="Mockup 11 de la Landing Page: Vista de la sección de beneficios clave."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 11:</strong> Mockup 11 - Contacto - Landing Page.
+  </figcaption>
+</figure>
+
 
 
 ## 4.4. Web Applications UX/UI Design
@@ -1428,31 +1712,232 @@ El Landing Page Mock-up de OsitoPolar muestra un diseño limpio y organizado, co
 
 Los wireframes de las aplicaciones web de OsitoPolar delinean la estructura y organización de las pantallas principales, especificando la ubicación de los elementos de la interfaz de usuario y la navegación. Estos esquemas visuales sirven como una guía precisa para el diseño final, asegurando una experiencia de usuario fluida e intuitiva. Los wireframes están enfocados en la funcionalidad y facilidad de uso, permitiendo que diseñadores y desarrolladores visualicen cómo los usuarios interactúan con la aplicación, optimizando la disposición de los elementos para crear una experiencia eficiente y atractiva.
 
-![AlquilarEquipos-Clientes.png]( assets/chapter04/Web%20Apps%20Wireframes/AlquilarEquipos-Clientes.png)
-![Contacto-Clientes.png]( assets/chapter04/Web%20Apps%20Wireframes/Contacto-Clientes.png)
-![Contacto-Empresa.png]( assets/chapter04/Web%20Apps%20Wireframes/Contacto-Empresa.png)
-![Control-Clientes.png]( assets/chapter04/Web%20Apps%20Wireframes/Control-Clientes.png)
-![EstadoCuenta-Clientes.png]( assets/chapter04/Web%20Apps%20Wireframes/EstadoCuenta-Clientes.png)
-![EstadoCuenta-Empresa.png]( assets/chapter04/Web%20Apps%20Wireframes/EstadoCuenta-Empresa.png)
-![Full Analiticas-Clientes.png]( assets/chapter04/Web%20Apps%20Wireframes/Full%20Analiticas-Clientes.png)
-![Inicio-Clientes.png]( assets/chapter04/Web%20Apps%20Wireframes/Inicio-Clientes.png)
-![Inicio-Empresa.png]( assets/chapter04/Web%20Apps%20Wireframes/Inicio-Empresa.png)
-![Inicio App.png]( assets/chapter04/Web%20Apps%20Wireframes/Inicio%20App.png)
-![Inicio Sesion - Clientes.png]( assets/chapter04/Web%20Apps%20Wireframes/Inicio%20Sesion%20-%20Clientes.png)
-![Inicio Sesion - Empresa.png]( assets/chapter04/Web%20Apps%20Wireframes/Inicio%20Sesion%20-%20Empresa.png)
-![MiCuenta-Clientes.png]( assets/chapter04/Web%20Apps%20Wireframes/MiCuenta-Clientes.png)
-![MiCuenta-Empresa.png]( assets/chapter04/Web%20Apps%20Wireframes/MiCuenta-Empresa.png)
-![MisClientes,Técnicos-Empresa.png]( assets/chapter04/Web%20Apps%20Wireframes/MisClientes%2CT%C3%A9cnicos-Empresa.png)
-![MisEquipos-Clientes.png]( assets/chapter04/Web%20Apps%20Wireframes/MisEquipos-Clientes.png)
-![MisEquipos-Clientes-1.png]( assets/chapter04/Web%20Apps%20Wireframes/MisEquipos-Clientes-1.png)
-![MisEquipos-Clientes-2.png]( assets/chapter04/Web%20Apps%20Wireframes/MisEquipos-Clientes-2.png)
-![MisEquipos-Empresa.png]( assets/chapter04/Web%20Apps%20Wireframes/MisEquipos-Empresa.png)
-![Notificaciones-Clientes.png]( assets/chapter04/Web%20Apps%20Wireframes/Notificaciones-Clientes.png)
-![Notificaciones-Empresa.png]( assets/chapter04/Web%20Apps%20Wireframes/Notificaciones-Empresa.png)
-![Registro-Clientes.png]( assets/chapter04/Web%20Apps%20Wireframes/Registro-Clientes.png)
-![Registro-Empresa.png]( assets/chapter04/Web%20Apps%20Wireframes/Registro-Empresa.png)
-![Solicitudes-Empresa.png]( assets/chapter04/Web%20Apps%20Wireframes/Solicitudes-Empresa.png)
-![ÓrdenesDeTrabajo-Empresa.png]( assets/chapter04/Web%20Apps%20Wireframes/%C3%93rdenesDeTrabajo-Empresa.png)
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/Web%20Apps%20Wireframes/AlquilarEquipos-Clientes.png"
+       alt="Wireframe: Interfaz de alquiler de equipos para clientes."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 1:</strong> Wireframe - Alquilar Equipos (Clientes).
+  </figcaption>
+</figure>
+
+
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/Web%20Apps%20Wireframes/Contacto-Clientes.png"
+       alt="Wireframe: Pantalla de contacto para clientes."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 2:</strong> Wireframe - Contacto (Clientes).
+  </figcaption>
+</figure>
+
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/Web%20Apps%20Wireframes/Contacto-Empresa.png"
+       alt="Wireframe: Pantalla de contacto para la empresa."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 3:</strong> Wireframe - Contacto (Empresa).
+  </figcaption>
+</figure>
+
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/Web%20Apps%20Wireframes/Control-Clientes.png"
+       alt="Wireframe: Panel de control para clientes."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 4:</strong> Wireframe - Control (Clientes).
+  </figcaption>
+</figure>
+
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/Web%20Apps%20Wireframes/EstadoCuenta-Clientes.png"
+       alt="Wireframe: Vista de estado de cuenta para clientes."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 5:</strong> Wireframe - Estado de Cuenta (Clientes).
+  </figcaption>
+</figure>
+
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/Web%20Apps%20Wireframes/EstadoCuenta-Empresa.png"
+       alt="Wireframe: Vista de estado de cuenta para la empresa."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 6:</strong> Wireframe - Estado de Cuenta (Empresa).
+  </figcaption>
+</figure>
+
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/Web%20Apps%20Wireframes/Full%20Analiticas-Clientes.png"
+       alt="Wireframe: Pantalla de analíticas completas para clientes."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 7:</strong> Wireframe - Analíticas Completas (Clientes).
+  </figcaption>
+</figure>
+
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/Web%20Apps%20Wireframes/Inicio-Clientes.png"
+       alt="Wireframe: Pantalla de inicio para clientes."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 8:</strong> Wireframe - Inicio (Clientes).
+  </figcaption>
+</figure>
+
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/Web%20Apps%20Wireframes/Inicio-Empresa.png"
+       alt="Wireframe: Pantalla de inicio para la empresa."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 9:</strong> Wireframe - Inicio (Empresa).
+  </figcaption>
+</figure>
+
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/Web%20Apps%20Wireframes/Inicio%20App.png"
+       alt="Wireframe: Pantalla de inicio de la aplicación."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 10:</strong> Wireframe - Inicio de la Aplicación.
+  </figcaption>
+</figure>
+
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/Web%20Apps%20Wireframes/Inicio%20Sesion%20-%20Clientes.png"
+       alt="Wireframe: Pantalla de inicio de sesión para clientes."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 11:</strong> Wireframe - Inicio de Sesión (Clientes).
+  </figcaption>
+</figure>
+
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/Web%20Apps%20Wireframes/Inicio%20Sesion%20-%20Empresa.png"
+       alt="Wireframe: Pantalla de inicio de sesión para la empresa."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 12:</strong> Wireframe - Inicio de Sesión (Empresa).
+  </figcaption>
+</figure>
+
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/Web%20Apps%20Wireframes/MiCuenta-Clientes.png"
+       alt="Wireframe: Pantalla 'Mi Cuenta' para clientes."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 13:</strong> Wireframe - Mi Cuenta (Clientes).
+  </figcaption>
+</figure>
+
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/Web%20Apps%20Wireframes/MiCuenta-Empresa.png"
+       alt="Wireframe: Pantalla 'Mi Cuenta' para la empresa."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 14:</strong> Wireframe - Mi Cuenta (Empresa).
+  </figcaption>
+</figure>
+
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/Web%20Apps%20Wireframes/MisClientes%2CT%C3%A9cnicos-Empresa.png"
+       alt="Wireframe: Gestión de clientes y técnicos para la empresa."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 15:</strong> Wireframe - Mis Clientes y Técnicos (Empresa).
+  </figcaption>
+</figure>
+
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/Web%20Apps%20Wireframes/MisEquipos-Clientes.png"
+       alt="Wireframe: Vista de 'Mis Equipos' para clientes."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 16:</strong> Wireframe - Mis Equipos (Clientes).
+  </figcaption>
+</figure>
+
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/Web%20Apps%20Wireframes/MisEquipos-Clientes-1.png"
+       alt="Wireframe: Detalle 1 de 'Mis Equipos' para clientes."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 17:</strong> Wireframe - Mis Equipos (Clientes, Detalle 1).
+  </figcaption>
+</figure>
+
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/Web%20Apps%20Wireframes/MisEquipos-Clientes-2.png"
+       alt="Wireframe: Detalle 2 de 'Mis Equipos' para clientes."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 18:</strong> Wireframe - Mis Equipos (Clientes, Detalle 2).
+  </figcaption>
+</figure>
+
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/Web%20Apps%20Wireframes/MisEquipos-Empresa.png"
+       alt="Wireframe: Vista de 'Mis Equipos' para la empresa."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 19:</strong> Wireframe - Mis Equipos (Empresa).
+  </figcaption>
+</figure>
+
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/Web%20Apps%20Wireframes/Notificaciones-Clientes.png"
+       alt="Wireframe: Pantalla de notificaciones para clientes."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 20:</strong> Wireframe - Notificaciones (Clientes).
+  </figcaption>
+</figure>
+
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/Web%20Apps%20Wireframes/Notificaciones-Empresa.png"
+       alt="Wireframe: Pantalla de notificaciones para la empresa."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 21:</strong> Wireframe - Notificaciones (Empresa).
+  </figcaption>
+</figure>
+
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/Web%20Apps%20Wireframes/Registro-Clientes.png"
+       alt="Wireframe: Pantalla de registro para clientes."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 22:</strong> Wireframe - Registro (Clientes).
+  </figcaption>
+</figure>
+
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/Web%20Apps%20Wireframes/Registro-Empresa.png"
+       alt="Wireframe: Pantalla de registro para la empresa."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 23:</strong> Wireframe - Registro (Empresa).
+  </figcaption>
+</figure>
+
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/Web%20Apps%20Wireframes/Solicitudes-Empresa.png"
+       alt="Wireframe: Pantalla de gestión de solicitudes para la empresa."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 24:</strong> Wireframe - Solicitudes (Empresa).
+  </figcaption>
+</figure>
+
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/Web%20Apps%20Wireframes/%C3%93rdenesDeTrabajo-Empresa.png"
+       alt="Wireframe: Pantalla de órdenes de trabajo para la empresa."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 25:</strong> Wireframe - Órdenes de Trabajo (Empresa).
+  </figcaption>
+</figure>
+
 
 #### 4.4.2. Web Applications Wireflow Diagrams
 En esta sección se presentan los Wireflows para cada objetivo del usuario, teniendo en cuenta los User Personas relevantes. Cada diagrama ilustra el flujo de interacción del usuario y cómo las acciones realizadas afectan las pantallas dentro de la aplicación.
@@ -1462,78 +1947,358 @@ En esta sección se presentan los Wireflows para cada objetivo del usuario, teni
 Como dueño de un negocio que utiliza equipos de refrigeración quiero estar pendiente del estado de cada equipo registrado.
 
 **Task Flow**
-![taskflow1.png]( assets/chapter04/wireflows/taskflow1.png)
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/wireflows/taskflow1.png"
+       alt="Diagrama de Taskflow 1: Flujo de tareas para una acción específica del usuario."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 1:</strong> Taskflow 1.
+  </figcaption>
+</figure>
+
 
 **Wireflow**
-![wireflow1.png]( assets/chapter04/wireflows/wireflow1.png)
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/wireflows/wireflow1.png"
+       alt="Diagrama de Wireflow 1: Combinación de wireframes y flujo de interacción del usuario."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 2:</strong> Wireflow 1.
+  </figcaption>
+</figure>
+
 
 ### **User Goal 2**:
 Como dueño de un negocio que utiliza equipos de refrigeración quiero lograr administrar los nuevos equipos que registre.
 
 **Task Flow**
-![taskflow2.png]( assets/chapter04/wireflows/taskflow2.png)
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/wireflows/taskflow2.png"
+       alt="Diagrama de Taskflow 2: Flujo de tareas para un proceso de usuario."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 3:</strong> Taskflow 2.
+  </figcaption>
+</figure>
+
 
 **Wireflow**
-![wireflow2.png]( assets/chapter04/wireflows/wireflow2.png)
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/wireflows/wireflow2.png"
+       alt="Diagrama de Wireflow 2: Representación visual del flujo de usuario entre pantallas."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 4:</strong> Wireflow 2.
+  </figcaption>
+</figure>
+
 
 ### **User Goal 3**:
 Como dueño de un negocio que utiliza equipos de refrigeración quiero revisar las estadísticas completas de mis equipos.
 
 **Task Flow**
-![taskflow3.png]( assets/chapter04/wireflows/taskflow3.png)
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/wireflows/taskflow3.png"
+       alt="Diagrama de Taskflow 3: Secuencia de tareas para una interacción compleja."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 5:</strong> Taskflow 3.
+  </figcaption>
+</figure>
+
 
 **Wireflow**
-![wireflow3.png]( assets/chapter04/wireflows/wireflow3.png)
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/wireflows/wireflow3.png"
+       alt="Diagrama de Wireflow 3: Detalle del flujo de usuario con elementos de la interfaz."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 6:</strong> Wireflow 3.
+  </figcaption>
+</figure>
+
 
 ### **User Goal 4**:
 Como dueño de un negocio que utiliza equipos de refrigeración quiero pedir nuevos equipos a un proveedor de manera sencilla.
 
 **Task Flow**
-![taskflow4.png]( assets/chapter04/wireflows/taskflow4.png)
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/wireflows/taskflow4.png"
+       alt="Diagrama de Taskflow 4: Flujo de tareas para un caso de uso específico."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 7:</strong> Taskflow 4.
+  </figcaption>
+</figure>
+
 
 **Wireflow**
-![wireflow4.png]( assets/chapter04/wireflows/wireflow4.png)
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/wireflows/wireflow4.png"
+       alt="Diagrama de Wireflow 4: Visión general del flujo de navegación y pantallas."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 8:</strong> Wireflow 4.
+  </figcaption>
+</figure>
+
 
 ### **User Goal 5**:
 Como proveedor de equipos de refrigeración quiero estar pendiente de los ordenes de pedios de mis clientes.
 
 **Task Flow**
-![taskflow5.png]( assets/chapter04/wireflows/taskflow5.png)
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/wireflows/taskflow5.png"
+       alt="Diagrama de Taskflow 5: Flujo de tareas para la interacción del usuario con el sistema."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 9:</strong> Taskflow 5.
+  </figcaption>
+</figure>
+
 
 **Wireflow**
-![wireflow5.png]( assets/chapter04/wireflows/wireflow5.png)
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/wireflows/wireflow5.png"
+       alt="Diagrama de Wireflow 5: Resumen visual del flujo de interacción y las pantallas clave."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 10:</strong> Wireflow 5.
+  </figcaption>
+</figure>
 
 
 #### 4.4.3. Web Applications Mock-ups
 En esta sección se presentan y detallan los mock-ups de las aplicaciones de OsitoPolar. Se resalta la aplicación de los principios de diseño, la arquitectura de la información, el diseño inclusivo y el Design System implementado en los productos digitales. Cada mock-up muestra cómo estos conceptos se integran en la interfaz de usuario. A continuación, se mostrarán las maquetas de la aplicación web, que representan visualmente cómo se verá y funcionará la plataforma OsitoPolar. Estas maquetas son fundamentales para comunicar el diseño a los desarrolladores y clientes, asegurando que la experiencia del usuario se alinee con la visión del proyecto.
 
-![Inicio App.png]( assets/chapter04/Web%20Applications%20Mock-ups/Inicio%20App.png)
-![Registro-Clientes.png]( assets/chapter04/Web%20Applications%20Mock-ups/Registro-Clientes.png)
-![Inicio Sesion - Clientes.png]( assets/chapter04/Web%20Applications%20Mock-ups/Inicio%20Sesion%20-%20Clientes.png)
-![Inicio-Clientes.png]( assets/chapter04/Web%20Applications%20Mock-ups/Inicio-Clientes.png)
-![MisEquipos-Clientes.png]( assets/chapter04/Web%20Applications%20Mock-ups/MisEquipos-Clientes.png)
-![MisEquipos-Clientes-1.png]( assets/chapter04/Web%20Applications%20Mock-ups/MisEquipos-Clientes-1.png)
-![MisEquipos-Clientes-2.png]( assets/chapter04/Web%20Applications%20Mock-ups/MisEquipos-Clientes-2.png)
-![AlquilarEquipos-Clientes.png]( assets/chapter04/Web%20Applications%20Mock-ups/AlquilarEquipos-Clientes.png)
-![Contacto-Clientes.png]( assets/chapter04/Web%20Applications%20Mock-ups/Contacto-Clientes.png)
-![Notificaciones-Clientes.png]( assets/chapter04/Web%20Applications%20Mock-ups/Notificaciones-Clientes.png)
-![Control-Clientes.png]( assets/chapter04/Web%20Applications%20Mock-ups/Control-Clientes.png)
-![EstadoCuenta-Clientes.png]( assets/chapter04/Web%20Applications%20Mock-ups/EstadoCuenta-Clientes.png)
-![MiCuenta-Clientes.png]( assets/chapter04/Web%20Applications%20Mock-ups/MiCuenta-Clientes.png)
-![Full Analiticas-Clientes.png]( assets/chapter04/Web%20Applications%20Mock-ups/Full%20Analiticas-Clientes.png)
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/Web%20Applications%20Mock-ups/Inicio%20App.png"
+       alt="Mockup: Pantalla de inicio general de la aplicación web."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 1:</strong> Mockup - Inicio General de la App.
+  </figcaption>
+</figure>
+
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/Web%20Applications%20Mock-ups/Registro-Clientes.png"
+       alt="Mockup: Pantalla de registro para clientes en la aplicación web."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 2:</strong> Mockup - Registro (Clientes).
+  </figcaption>
+</figure>
+
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/Web%20Applications%20Mock-ups/Inicio%20Sesion%20-%20Clientes.png"
+       alt="Mockup: Pantalla de inicio de sesión para clientes en la aplicación web."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 3:</strong> Mockup - Inicio de Sesión (Clientes).
+  </figcaption>
+</figure>
+
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/Web%20Applications%20Mock-ups/Inicio-Clientes.png"
+       alt="Mockup: Pantalla de inicio del panel de clientes en la aplicación web."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 4:</strong> Mockup - Inicio (Clientes).
+  </figcaption>
+</figure>
+
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/Web%20Applications%20Mock-ups/MisEquipos-Clientes.png"
+       alt="Mockup: Vista de 'Mis Equipos' para clientes en la aplicación web."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 5:</strong> Mockup - Mis Equipos (Clientes).
+  </figcaption>
+</figure>
+
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/Web%20Applications%20Mock-ups/MisEquipos-Clientes-1.png"
+       alt="Mockup: Vista detallada 1 de 'Mis Equipos' para clientes en la aplicación web."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 6:</strong> Mockup - Mis Equipos (Clientes, Detalle 1).
+  </figcaption>
+</figure>
+
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/Web%20Applications%20Mock-ups/MisEquipos-Clientes-2.png"
+       alt="Mockup: Vista detallada 2 de 'Mis Equipos' para clientes en la aplicación web."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 7:</strong> Mockup - Mis Equipos (Clientes, Detalle 2).
+  </figcaption>
+</figure>
+
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/Web%20Applications%20Mock-ups/AlquilarEquipos-Clientes.png"
+       alt="Mockup: Proceso de alquiler de equipos para clientes en la aplicación web."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 8:</strong> Mockup - Alquilar Equipos (Clientes).
+  </figcaption>
+</figure>
+
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/Web%20Applications%20Mock-ups/Contacto-Clientes.png"
+       alt="Mockup: Pantalla de contacto y soporte para clientes en la aplicación web."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 9:</strong> Mockup - Contacto (Clientes).
+  </figcaption>
+</figure>
+
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/Web%20Applications%20Mock-ups/Notificaciones-Clientes.png"
+       alt="Mockup: Centro de notificaciones para clientes en la aplicación web."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 10:</strong> Mockup - Notificaciones (Clientes).
+  </figcaption>
+</figure>
+
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/Web%20Applications%20Mock-ups/Control-Clientes.png"
+       alt="Mockup: Panel de control o vista de actividad para clientes en la aplicación web."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 11:</strong> Mockup - Control (Clientes).
+  </figcaption>
+</figure>
+
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/Web%20Applications%20Mock-ups/EstadoCuenta-Clientes.png"
+       alt="Mockup: Vista de estado de cuenta y facturación para clientes en la aplicación web."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 12:</strong> Mockup - Estado de Cuenta (Clientes).
+  </figcaption>
+</figure>
+
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/Web%20Applications%20Mock-ups/MiCuenta-Clientes.png"
+       alt="Mockup: Configuración de perfil y cuenta para clientes en la aplicación web."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 13:</strong> Mockup - Mi Cuenta (Clientes).
+  </figcaption>
+</figure>
+
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/Web%20Applications%20Mock-ups/Full%20Analiticas-Clientes.png"
+       alt="Mockup: Panel de analíticas completas para clientes en la aplicación web."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 14:</strong> Mockup - Analíticas Completas (Clientes).
+  </figcaption>
+</figure>
 
 
-![Inicio Sesion - Empresa.png]( assets/chapter04/Web%20Applications%20Mock-ups/Inicio%20Sesion%20-%20Empresa.png)
-![Registro-Empresa.png]( assets/chapter04/Web%20Applications%20Mock-ups/Registro-Empresa.png)
-![Inicio-Empresa.png]( assets/chapter04/Web%20Applications%20Mock-ups/Inicio-Empresa.png)
-![Contacto-Empresa.png]( assets/chapter04/Web%20Applications%20Mock-ups/Contacto-Empresa.png)
-![EstadoCuenta-Empresa.png]( assets/chapter04/Web%20Applications%20Mock-ups/EstadoCuenta-Empresa.png)
-![MiCuenta-Empresa.png]( assets/chapter04/Web%20Applications%20Mock-ups/MiCuenta-Empresa.png)
-![MisClientes,Técnicos-Empresa.png]( assets/chapter04/Web%20Applications%20Mock-ups/MisClientes%2CT%C3%A9cnicos-Empresa.png)
-![MisEquipos-Empresa.png]( assets/chapter04/Web%20Applications%20Mock-ups/MisEquipos-Empresa.png)
-![Notificaciones-Empresa.png]( assets/chapter04/Web%20Applications%20Mock-ups/Notificaciones-Empresa.png)
-![Solicitudes-Empresa.png]( assets/chapter04/Web%20Applications%20Mock-ups/Solicitudes-Empresa.png)
-![ÓrdenesDeTrabajo-Empresa.png]( assets/chapter04/Web%20Applications%20Mock-ups/%C3%93rdenesDeTrabajo-Empresa.png)
+- **Mockups Empresa:**
+
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/Web%20Applications%20Mock-ups/Inicio%20Sesion%20-%20Empresa.png"
+       alt="Mockup: Pantalla de inicio de sesión para la empresa en la aplicación web."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 15:</strong> Mockup - Inicio de Sesión (Empresa).
+  </figcaption>
+</figure>
+
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/Web%20Applications%20Mock-ups/Registro-Empresa.png"
+       alt="Mockup: Pantalla de registro para la empresa en la aplicación web."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 16:</strong> Mockup - Registro (Empresa).
+  </figcaption>
+</figure>
+
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/Web%20Applications%20Mock-ups/Inicio-Empresa.png"
+       alt="Mockup: Pantalla de inicio del panel de la empresa en la aplicación web."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 17:</strong> Mockup - Inicio (Empresa).
+  </figcaption>
+</figure>
+
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/Web%20Applications%20Mock-ups/Contacto-Empresa.png"
+       alt="Mockup: Pantalla de contacto y soporte para la empresa en la aplicación web."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 18:</strong> Mockup - Contacto (Empresa).
+  </figcaption>
+</figure>
+
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/Web%20Applications%20Mock-ups/EstadoCuenta-Empresa.png"
+       alt="Mockup: Vista de estado de cuenta y facturación para la empresa en la aplicación web."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 19:</strong> Mockup - Estado de Cuenta (Empresa).
+  </figcaption>
+</figure>
+
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/Web%20Applications%20Mock-ups/MiCuenta-Empresa.png"
+       alt="Mockup: Configuración de perfil y cuenta para la empresa en la aplicación web."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 20:</strong> Mockup - Mi Cuenta (Empresa).
+  </figcaption>
+</figure>
+
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/Web%20Applications%20Mock-ups/MisClientes%2CT%C3%A9cnicos-Empresa.png"
+       alt="Mockup: Gestión de clientes y técnicos para la empresa en la aplicación web."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 21:</strong> Mockup - Mis Clientes y Técnicos (Empresa).
+  </figcaption>
+</figure>
+
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/Web%20Applications%20Mock-ups/MisEquipos-Empresa.png"
+       alt="Mockup: Vista de 'Mis Equipos' para la empresa en la aplicación web."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 22:</strong> Mockup - Mis Equipos (Empresa).
+  </figcaption>
+</figure>
+
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/Web%20Applications%20Mock-ups/Notificaciones-Empresa.png"
+       alt="Mockup: Centro de notificaciones para la empresa en la aplicación web."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 23:</strong> Mockup - Notificaciones (Empresa).
+  </figcaption>
+</figure>
+
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/Web%20Applications%20Mock-ups/Solicitudes-Empresa.png"
+       alt="Mockup: Gestión de solicitudes entrantes para la empresa en la aplicación web."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 24:</strong> Mockup - Solicitudes (Empresa).
+  </figcaption>
+</figure>
+
+<figure style="page-break-inside: avoid; text-align: center;">
+  <img src="assets/chapter04/Web%20Applications%20Mock-ups/%C3%93rdenesDeTrabajo-Empresa.png"
+       alt="Mockup: Gestión de órdenes de trabajo para la empresa en la aplicación web."
+       style="max-width: 70%; height: auto; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 25:</strong> Mockup - Órdenes de Trabajo (Empresa).
+  </figcaption>
+</figure>
+
 
 Link de los mockups: https://shorturl.at/jMDBY
 
